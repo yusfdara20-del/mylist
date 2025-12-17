@@ -8,10 +8,8 @@ https://v.redd.it/5eynmp69gj6f1/HLSPlaylist.m3u8
 #EXTINF:0 CUID="8493" tvg-name="زيكرى بەیانیان پێشەوا قادر" tvg-logo="https://i.postimg.cc/Pr4c8rcY/hq720-2.avif" group-title="KURDISH ",زيكرى بەیانیان پێشەوا قادر
 https://dl23.mp4.ir/video/2025/8/321750-455863615/m3u8/1080p/out.m3u8
 #EXTINF:0 CUID="8494" tvg-name="کەناڵی ئامۆژگاری" tvg-logo="https://amozhgary.tv/style/img/logo.png" group-title="KURDISH ",کەناڵی ئامۆژگاری
-https://app-live.org/live/3268334b/index.m3u8
-#EXTINF:0 CUID="8495" tvg-name="ئەکادیمیای ئامۆژگاری" tvg-logo="https://amozhgary.tv/style/img/academy_logo.png" group-title="KURDISH ",ئەکادیمیای ئامۆژگاری
-https://app-live.org/live/a267c1b3/index.m3u8
-#EXTINF:0 CUID="8496" tvg-name="Rawshan hd" tvg-logo="https://i.postimg.cc/pTFSvz3m/96-DA4-F87-FCAE-4-AEB-9-F82-B26663-B06539.png" group-title="KURDISH ",Rawshan hd
+http://151.243.83.50:43913/live/37120273892663/21881493423610/168579.ts?token=bccXUf.HdHHf.X.yXfdd.ydHyzdyaXy.X.y.IQ.ts.c76358f3abc9c735a56fefa6cbcf318f0f3cfb4afe0ae07bed0c6916078b9869...ZGtzaXBpLmNvbQ==#EXTINF:0 CUID="8495" tvg-name="ئەکادیمیای ئامۆژگاری" tvg-logo="https://amozhgary.tv/style/img/academy_logo.png" group-title="KURDISH ",ئەکادیمیای ئامۆژگاری
+http://151.243.83.13:8080/live/37120273892663/21881493423610/14817.ts?token=bccXUf.HaXdb.X.HfyX.ydHyzdyaya.X.y.IQ.ts.76456ffac9bb0a94a91da78a46721a049dfe9d31435fead800552beef69ebadc...ZGtzaXBpLmNvbQ==#EXTINF:0 CUID="8496" tvg-name="Rawshan hd" tvg-logo="https://i.postimg.cc/pTFSvz3m/96-DA4-F87-FCAE-4-AEB-9-F82-B26663-B06539.png" group-title="KURDISH ",Rawshan hd
 http://rawshan.ddns.net:1935/live/rawshantv/playlist.m3u8
 #EXTINF:0 CUID="8497" tvg-name="BARIN QURAN" tvg-logo="https://i.postimg.cc/1P5QSGFY/BARINQ.png" group-title="KURDISH ",BARIN QURAN
 http://baskhd.ddns.net:40/live/QURANHDTV/HawezHD.m3u8
