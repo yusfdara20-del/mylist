@@ -8,9 +8,9 @@ https://v.redd.it/5eynmp69gj6f1/HLSPlaylist.m3u8
 #EXTINF:0 CUID="8493" tvg-name="زيكرى بەیانیان پێشەوا قادر" tvg-logo="https://i.postimg.cc/Pr4c8rcY/hq720-2.avif" group-title="KURDISH ",زيكرى بەیانیان پێشەوا قادر
 https://dl23.mp4.ir/video/2025/8/321750-455863615/m3u8/1080p/out.m3u8
 #EXTINF:0 CUID="8494" tvg-name="کەناڵی ئامۆژگاری" tvg-logo="https://amozhgary.tv/style/img/logo.png" group-title="KURDISH ",کەناڵی ئامۆژگاری
-http://151.243.83.50:43913/live/37120273892663/21881493423610/168579.ts?token=bccXUf.HdHHf.X.yXfdd.ydHyzdyaXy.X.y.IQ.ts.c76358f3abc9c735a56fefa6cbcf318f0f3cfb4afe0ae07bed0c6916078b9869...ZGtzaXBpLmNvbQ==#EXTINF:0 CUID="8495" tvg-name="ئەکادیمیای ئامۆژگاری" tvg-logo="https://amozhgary.tv/style/img/academy_logo.png" group-title="KURDISH ",ئەکادیمیای ئامۆژگاری
-http://151.243.83.13:8080/live/37120273892663/21881493423610/14817.ts?token=bccXUf.HaXdb.X.HfyX.ydHyzdyaya.X.y.IQ.ts.76456ffac9bb0a94a91da78a46721a049dfe9d31435fead800552beef69ebadc...ZGtzaXBpLmNvbQ==#EXTINF:0 CUID="8496" tvg-name="Rawshan hd" tvg-logo="https://i.postimg.cc/pTFSvz3m/96-DA4-F87-FCAE-4-AEB-9-F82-B26663-B06539.png" group-title="KURDISH ",Rawshan hd
-http://rawshan.ddns.net:1935/live/rawshantv/playlist.m3u8
+https://app-live.org/live/3268334b/index.m3u8
+#EXTINF:0 CUID="8495" tvg-name="ئەکادیمیای ئامۆژگاری" tvg-logo="https://amozhgary.tv/style/img/academy_logo.png" group-title="KURDISH ",ئەکادیمیای ئامۆژگاری
+https://app-live.org/live/a267c1b3/index.m3u8
 #EXTINF:0 CUID="8497" tvg-name="BARIN QURAN" tvg-logo="https://i.postimg.cc/1P5QSGFY/BARINQ.png" group-title="KURDISH ",BARIN QURAN
 http://baskhd.ddns.net:40/live/QURANHDTV/HawezHD.m3u8
 #EXTINF:0 CUID="8498" tvg-name="IMK QURAN HD" tvg-logo="https://i.postimg.cc/w6hM1JNc/IMK.png" group-title="KURDISH ",IMK QURAN HD
@@ -401,49 +401,49 @@ http://dksip.com/835335413593/214580890107/461671
 http://dksip.com/835335413593/214580890107/461669
 #EXTINF:0 CUID="22939" tvg-name="ALWAN WWE 4K" group-title="ALWAN  SPORT 4k",ALWAN WWE 4K
 http://dksip.com/835335413593/214580890107/461670
-#EXTINF:0 CUID="22940" tvg-name="ALWAN SPORT 1 4K" group-title="ALWAN  SPORT 4k",ALWAN SPORT 1 4K
+#EXTINF:0 CUID="22940" tvg-name="ALWAN SPORT 1 4K" tvg-logo="http://safiafamily.com/uploads/family/alwan/Alwan_Ryazya_1.png" group-title="ALWAN  SPORT 4k",Alwan Sport 1 4K
 http://dksip.com/835335413593/214580890107/434261
-#EXTINF:0 CUID="22941" tvg-name="ALWAN SPORT 1 HD" group-title="ALWAN  SPORT 4k",ALWAN SPORT 1 HD
+#EXTINF:0 CUID="22941" tvg-name="ALWAN SPORT 1 HD" tvg-logo="http://safiafamily.com/uploads/family/alwan/Alwan_Ryazya_1.png" group-title="ALWAN  SPORT 4k",Alwan Sport 1 4K
 http://dksip.com/835335413593/214580890107/434267
-#EXTINF:0 CUID="22942" tvg-name="ALWAN SPORT 1 SD" group-title="ALWAN  SPORT 4k",ALWAN SPORT 1 SD
+#EXTINF:0 CUID="22942" tvg-name="ALWAN SPORT 1 SD" tvg-logo="http://safiafamily.com/uploads/family/alwan/Alwan_Ryazya_1.png" group-title="ALWAN  SPORT 4k",Alwan Sport 1 4K
 http://dksip.com/835335413593/214580890107/434273
-#EXTINF:0 CUID="22943" tvg-name="ALWAN SPORT 2 4K" group-title="ALWAN  SPORT 4k",ALWAN SPORT 2 4K
+#EXTINF:0 CUID="22943" tvg-name="ALWAN SPORT 2 4K" tvg-logo="http://safiafamily.com/uploads/family/alwan/Alwan_Ryazya_2.png" group-title="ALWAN  SPORT 4k",Alwan Sport 2 4K
 http://dksip.com/835335413593/214580890107/434262
-#EXTINF:0 CUID="22944" tvg-name="ALWAN SPORT 2 HD" group-title="ALWAN  SPORT 4k",ALWAN SPORT 2 HD
+#EXTINF:0 CUID="22944" tvg-name="ALWAN SPORT 2 HD" tvg-logo="http://safiafamily.com/uploads/family/alwan/Alwan_Ryazya_2.png" group-title="ALWAN  SPORT 4k",Alwan Sport 2 4K
 http://dksip.com/835335413593/214580890107/434268
-#EXTINF:0 CUID="22945" tvg-name="ALWAN SPORT 2 SD" group-title="ALWAN  SPORT 4k",ALWAN SPORT 2 SD
+#EXTINF:0 CUID="22945" tvg-name="ALWAN SPORT 2 SD" tvg-logo="http://safiafamily.com/uploads/family/alwan/Alwan_Ryazya_2.png" group-title="ALWAN  SPORT 4k",Alwan Sport 2 4K
 http://dksip.com/835335413593/214580890107/434274
-#EXTINF:0 CUID="22946" tvg-name="ALWAN SPORT 3 4K" group-title="ALWAN  SPORT 4k",ALWAN SPORT 3 4K
+#EXTINF:0 CUID="22946" tvg-name="ALWAN SPORT 3 4K" tvg-logo="http://safiafamily.com/uploads/family/alwan/Alwan_Ryazya_3.png" group-title="ALWAN  SPORT 4k",Alwan Sport 3 4K
 http://dksip.com/835335413593/214580890107/434263
-#EXTINF:0 CUID="22947" tvg-name="ALWAN SPORT 3 HD" group-title="ALWAN  SPORT 4k",ALWAN SPORT 3 HD
+#EXTINF:0 CUID="22947" tvg-name="ALWAN SPORT 3 HD" tvg-logo="http://safiafamily.com/uploads/family/alwan/Alwan_Ryazya_3.png" group-title="ALWAN  SPORT 4k",Alwan Sport 3 4K
 http://dksip.com/835335413593/214580890107/434269
-#EXTINF:0 CUID="22948" tvg-name="ALWAN SPORT 3 SD" group-title="ALWAN  SPORT 4k",ALWAN SPORT 3 SD
+#EXTINF:0 CUID="22948" tvg-name="ALWAN SPORT 3 SD" tvg-logo="http://safiafamily.com/uploads/family/alwan/Alwan_Ryazya_3.png" group-title="ALWAN  SPORT 4k",Alwan Sport 3 4K
 http://dksip.com/835335413593/214580890107/434275
-#EXTINF:0 CUID="22949" tvg-name="ALWAN SPORT 4 4K" group-title="ALWAN  SPORT 4k",ALWAN SPORT 4 4K
+#EXTINF:0 CUID="22949" tvg-name="ALWAN SPORT 4 4K" tvg-logo="http://safiafamily.com/uploads/family/alwan/Alwan_Ryazya_3.png" group-title="ALWAN  SPORT 4k",Alwan Sport 3 4K
 http://dksip.com/835335413593/214580890107/434264
-#EXTINF:0 CUID="22950" tvg-name="ALWAN SPORT 4 HD" group-title="ALWAN  SPORT 4k",ALWAN SPORT 4 HD
+#EXTINF:0 CUID="22950" tvg-name="ALWAN SPORT 4 HD" tvg-logo="http://safiafamily.com/uploads/family/alwan/Alwan_Ryazya_3.png" group-title="ALWAN  SPORT 4k",Alwan Sport 3 4K
 http://dksip.com/835335413593/214580890107/434270
-#EXTINF:0 CUID="22951" tvg-name="ALWAN SPORT 4 SD" group-title="ALWAN  SPORT 4k",ALWAN SPORT 4 SD
+#EXTINF:0 CUID="22951" tvg-name="ALWAN SPORT 4 SD" tvg-logo="http://safiafamily.com/uploads/family/alwan/Alwan_Ryazya_3.png" group-title="ALWAN  SPORT 4k",Alwan Sport 3 4K
 http://dksip.com/835335413593/214580890107/434276
-#EXTINF:0 CUID="22952" tvg-name="ALWAN SPORT 5 4K" group-title="ALWAN  SPORT 4k",ALWAN SPORT 5 4K
+#EXTINF:0 CUID="22952" tvg-name="ALWAN SPORT 5 4K" tvg-logo="http://safiafamily.com/uploads/family/alwan/Alwan_Ryazya_5.png" group-title="ALWAN  SPORT 4k",Alwan Sport 5 4K
 http://dksip.com/835335413593/214580890107/434265
-#EXTINF:0 CUID="22953" tvg-name="ALWAN SPORT 5 HD" group-title="ALWAN  SPORT 4k",ALWAN SPORT 5 HD
+#EXTINF:0 CUID="22953" tvg-name="ALWAN SPORT 5 HD" tvg-logo="http://safiafamily.com/uploads/family/alwan/Alwan_Ryazya_5.png" group-title="ALWAN  SPORT 4k",Alwan Sport 5 4K
 http://dksip.com/835335413593/214580890107/434271
-#EXTINF:0 CUID="22954" tvg-name="ALWAN SPORT 5 SD" group-title="ALWAN  SPORT 4k",ALWAN SPORT 5 SD
+#EXTINF:0 CUID="22954" tvg-name="ALWAN SPORT 5 SD" tvg-logo="http://safiafamily.com/uploads/family/alwan/Alwan_Ryazya_5.png" group-title="ALWAN  SPORT 4k",Alwan Sport 5 4K
 http://dksip.com/835335413593/214580890107/434277
-#EXTINF:0 CUID="22955" tvg-name="ALWAN SPORT 6 4K" group-title="ALWAN  SPORT 4k",ALWAN SPORT 6 4K
+#EXTINF:0 CUID="22955" tvg-name="ALWAN SPORT 6 4K" tvg-logo="http://safiafamily.com/uploads/family/alwan/Alwan_Ryazya_6.png" group-title="ALWAN  SPORT 4k",Alwan Sport 6 4K
 http://dksip.com/835335413593/214580890107/434266
-#EXTINF:0 CUID="22956" tvg-name="ALWAN SPORT 6 HD" group-title="ALWAN  SPORT 4k",ALWAN SPORT 6 HD
+#EXTINF:0 CUID="22956" tvg-name="ALWAN SPORT 6 HD" tvg-logo="http://safiafamily.com/uploads/family/alwan/Alwan_Ryazya_6.png" group-title="ALWAN  SPORT 4k",Alwan Sport 6 4K
 http://dksip.com/835335413593/214580890107/434272
-#EXTINF:0 CUID="22957" tvg-name="ALWAN SPORT 6 SD" group-title="ALWAN  SPORT 4k",ALWAN SPORT 6 SD
+#EXTINF:0 CUID="22957" tvg-name="ALWAN SPORT 6 SD" tvg-logo="http://safiafamily.com/uploads/family/alwan/Alwan_Ryazya_6.png" group-title="ALWAN  SPORT 4k",Alwan Sport 6 4K
 http://dksip.com/835335413593/214580890107/434278
-#EXTINF:0 CUID="22958" tvg-name="ALWAN SPORT 7 4K" group-title="ALWAN  SPORT 4k",ALWAN SPORT 7 4K
+#EXTINF:0 CUID="22958" tvg-name="ALWAN SPORT 7 4K" tvg-logo="http://safiafamily.com/uploads/family/alwan/Alwan_Ryazya_7.png" group-title="ALWAN  SPORT 4k",Alwan Sport 6 4K
 http://dksip.com/835335413593/214580890107/461665
-#EXTINF:0 CUID="22959" tvg-name="ALWAN SPORT 8 4K" group-title="ALWAN  SPORT 4k",ALWAN SPORT 8 4K
+#EXTINF:0 CUID="22959" tvg-name="ALWAN SPORT 8 4K" tvg-logo="http://safiafamily.com/uploads/family/alwan/Alwan_Ryazya_8.png" group-title="ALWAN  SPORT 4k",Alwan Sport 6 4K
 http://dksip.com/835335413593/214580890107/461666
-#EXTINF:0 CUID="22960" tvg-name="ALWAN SPORT 9 4K" group-title="ALWAN  SPORT 4k",ALWAN SPORT 9 4K
+#EXTINF:0 CUID="22960" tvg-name="ALWAN SPORT 9 4K" tvg-logo="http://safiafamily.com/uploads/family/alwan/Alwan_Ryazya_9.png" group-title="ALWAN  SPORT 4k",Alwan Sport 6 4K
 http://dksip.com/835335413593/214580890107/461667
-#EXTINF:0 CUID="22961" tvg-name="ALWAN SPORT 10 4K" group-title="ALWAN  SPORT 4k",ALWAN SPORT 10 4K
+#EXTINF:0 CUID="22961" tvg-name="ALWAN SPORT 10 4K" tvg-logo="http://safiafamily.com/uploads/family/alwan/Alwan_Ryazya_10.png" group-title="ALWAN  SPORT 4k",Alwan Sport 6 4K
 http://dksip.com/835335413593/214580890107/461668
 #EXTINF:0 CUID="10755" tvg-name="Alwan Sport 1 4K" tvg-logo="http://safiafamily.com/uploads/family/alwan/Alwan_Ryazya_1.png" group-title="ALWAN  SPORT 4k",Alwan Sport 1 4K
 https://py.dencreak.com/alwan_4k1.m3u8
