@@ -315,22 +315,10 @@ http://142.132.133.190:1935/live/peshmerge/index.m3u8
 http://duhok.badinan.xyz:1935/live/DuhokTV/chunklist_w1036962996.m3u8
 #EXTINF:0 CUID="8652" tvg-name="اشتراك✅  کڕینی کۆد✅  IPTV VIP" tvg-logo="https://i.postimg.cc/x1Ncddt9/CC2958-B1-8-A37-481-C-9-B14-2-FE57-CAACEC2.png" group-title="Kurdish  سپۆرت  ",اشتراك✅  کڕینی کۆد✅  IPTV VIP
 https://v.redd.it/smx05t0jmjee1/HLS_720.m3u8
-#EXTINF:0 CUID="10754" tvg-name="BEIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/5/52/BeIN_4K_logo.jpg" group-title="Kurdish  سپۆرت  ",BEIN SPORTS
-http://151.243.83.21:8080/live/30702704331140/31580699055695/61644.ts?token=bcXyzz.fdddf.X.Hydf.ydHafyaaXX.X.y.IQ.ts.37000af3e0ad63b0d1169d071535caa5f0e7189f2bdac96b1a1c957164a24c46...ZGtzaXBpLmNvbQ==
-#EXTINF:0 CUID="22848" tvg-name="BEIN SPORTS 1 4K" tvg-logo="https://i.postimg.cc/Cdy3fD4M/YUSF.png" group-title="Kurdish  سپۆرت  ",BEIN SPORTS 1 4K
-http://151.243.83.21:8080/live/30702704331140/31580699055695/61644.ts?token=bcXyzz.fdddf.X.Hydf.ydHafyaaXX.X.y.IQ.ts.37000af3e0ad63b0d1169d071535caa5f0e7189f2bdac96b1a1c957164a24c46...ZGtzaXBpLmNvbQ==
-#EXTINF:0 CUID="22852" tvg-name="BEIN SPORTS 2 4K" tvg-logo="https://i.postimg.cc/L8mHCKz9/YUSF-1.png" group-title="Kurdish  سپۆرت  ",BEIN SPORTS 2 4K
-http://151.243.83.111:8080/live/30702704331140/31580699055695/61645.ts?token=bcXyzz.cafyd.X.yXHcc.ydHafyfyab.X.y.IQ.ts.b8acd540c0f5fede698c1183f6c03bc4c8c5624c9c1195b25429aba199175bdb...ZGtzaXBpLmNvbQ==
-#EXTINF:0 CUID="22856" tvg-name="BEIN SPORTS 3 4K" tvg-logo="https://i.postimg.cc/6ppk49rv/YUSF-2.png" group-title="Kurdish  سپۆرت  ",BEIN SPORTS 3 4K
-http://151.243.83.20:8080/live/30702704331140/31580699055695/17896.ts?token=bcXyzz.bdcXd.X.dXfa.ydHafyfcza.X.y.IQ.ts.fcdd256e4e9dbf7d0aca37decc23e2f6e039670bef5dacbd219e424f864674cf...ZGtzaXBpLmNvbQ==
-#EXTINF:0 CUID="22860" tvg-name="BEIN SPORTS 4 4K" tvg-logo="https://i.postimg.cc/Wb1Vg6jz/YUSF-3.png" group-title="Kurdish  سپۆرت  ",BEIN SPORTS 4 4K
-http://45.93.166.75:8080/live/30702704331140/31580699055695/17897.ts?token=bcXyzz.cUaby.X.czaU.ydHafyfbaz.X.y.IQ.ts.3ec4049618db9a9c27d20db1773247668f62840f1ab04b7322308f3440287398...ZGtzaXBpLmNvbQ==
-#EXTINF:0 CUID="22864" tvg-name="BEIN SPORTS 5 4K" tvg-logo="https://i.postimg.cc/Zn1LbxxH/YUSF-4.png" group-title="Kurdish  سپۆرت  ",BEIN SPORTS 5 4K
-http://151.243.83.21:8080/live/30702704331140/31580699055695/61648.ts?token=bcXyzz.fdddf.X.Hydf.ydHafyaaXX.X.y.IQ.ts.37000af3e0ad63b0d1169d071535caa5f0e7189f2bdac96b1a1c957164a24c46...ZGtzaXBpLmNvbQ==
 #EXTINF:0 CUID="10751" tvg-name="NRT Sport HD" tvg-logo="http://safiafamily.com/uploads/family/kurdish_sport/NRT_SPORT.png" group-title="Kurdish  سپۆرت  ",NRT Sport HD
-https://6476e46b58f91.streamlock.net/liveTrans/avasport1/index.m3u8
+http://151.243.83.50:43913/live/30702704331140/31580699055695/168667.ts?token=bcXyzz.zyby.X.yXfzd.ydHaUybbac.X.y.IQ.ts.0dd824cb619d1d71bc8be3862c04bdb1e195158e005cb50e7ff7319f17715f11...ZGtzaXBpLmNvbQ==
 #EXTINF:0 CUID="10752" tvg-name="AVA Sport 4k" tvg-logo="http://safiafamily.com/uploads/family/kurdish_sport/AVA_Sport.png" group-title="Kurdish  سپۆرت  ",AVA Sport 4k
-https://6476e46b58f91.streamlock.net/liveTrans/avasport/index.m3u8
+http://45.93.166.77:8080/live/30702704331140/31580699055695/330034.ts?token=bcXyzz.yHcyy.X.fUfz.ydHaUybbXd.X.y.IQ.ts.398b2c1586bb39d77c5f87f9e46c7462827e920e934ebd12d1598fc1c4178134...ZGtzaXBpLmNvbQ==
 #EXTINF:0 CUID="10755" tvg-name="Alwan Sport 1 4K" tvg-logo="http://safiafamily.com/uploads/family/alwan/Alwan_Ryazya_1.png" group-title="ALWAN  SPORT 4k",Alwan Sport 1 4K
 https://py.dencreak.com/alwan_4k1.m3u8
 #EXTINF:0 CUID="10756" tvg-name="Alwan Sport 1 HD" tvg-logo="http://safiafamily.com/uploads/family/alwan/Alwan_Ryazya_1.png" group-title="ALWAN  SPORT 4k",Alwan Sport 1 HD
