@@ -319,6 +319,18 @@ https://v.redd.it/smx05t0jmjee1/HLS_720.m3u8
 http://109.123.245.192/bein1/index.m3u8
 #EXTINF:0 CUID="10752" tvg-name="AVA Sport 4k" tvg-logo="http://safiafamily.com/uploads/family/kurdish_sport/AVA_Sport.png" group-title="Kurdish  سپۆرت  ",AVA Sport 4k
 http://109.123.245.192/Avasport/index.m3u8
+#EXTINF:0 CUID="10754" tvg-name="BEIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/5/52/BeIN_4K_logo.jpg" group-title="Kurdish  سپۆرت  ",BEIN SPORTS
+http://koraaa.store/BEIN-SPORT-1/video.m3u8
+#EXTINF:0 CUID="22848" tvg-name="BEIN SPORTS 1 4K" tvg-logo="https://i.postimg.cc/Cdy3fD4M/YUSF.png" group-title="Kurdish  سپۆرت  ",BEIN SPORTS 1 4K
+http://koraaa.store/BEIN-SPORT-1/video.m3u8
+#EXTINF:0 CUID="22852" tvg-name="BEIN SPORTS 2 4K" tvg-logo="https://i.postimg.cc/L8mHCKz9/YUSF-1.png" group-title="Kurdish  سپۆرت  ",BEIN SPORTS 2 4K
+http://koraaa.store/BEIN-SPORT-3/video.m3u8
+#EXTINF:0 CUID="22856" tvg-name="BEIN SPORTS 3 4K" tvg-logo="https://i.postimg.cc/6ppk49rv/YUSF-2.png" group-title="Kurdish  سپۆرت  ",BEIN SPORTS 3 4K
+http://koraaa.store/BEIN-SPORT-3/video.m3u8
+#EXTINF:0 CUID="22860" tvg-name="BEIN SPORTS 4 4K" tvg-logo="https://i.postimg.cc/Wb1Vg6jz/YUSF-3.png" group-title="Kurdish  سپۆرت  ",BEIN SPORTS 4 4K
+http://koraaa.store/BEIN-SPORT-4/video.m3u8
+#EXTINF:0 CUID="22864" tvg-name="BEIN SPORTS 5 4K" tvg-logo="https://i.postimg.cc/Zn1LbxxH/YUSF-4.png" group-title="Kurdish  سپۆرت  ",BEIN SPORTS 5 4K
+http://koraaa.store/BEIN-SPORT-5/video.m3u8
 #EXTINF:0 CUID="10755" tvg-name="Alwan Sport 1 4K" tvg-logo="http://safiafamily.com/uploads/family/alwan/Alwan_Ryazya_1.png" group-title="ALWAN  SPORT 4k",Alwan Sport 1 4K
 https://py.dencreak.com/alwan_4k1.m3u8
 #EXTINF:0 CUID="10756" tvg-name="Alwan Sport 1 HD" tvg-logo="http://safiafamily.com/uploads/family/alwan/Alwan_Ryazya_1.png" group-title="ALWAN  SPORT 4k",Alwan Sport 1 HD
@@ -355,6 +367,36 @@ https://py.dencreak.com/alwan_4k6.m3u8
 https://py.dencreak.com/alwan_hd6.m3u8
 #EXTINF:0 CUID="10772" tvg-name="Alwan Sport 6 SD" tvg-logo="http://safiafamily.com/uploads/family/alwan/Alwan_Ryazya_6.png" group-title="ALWAN  SPORT 4k",Alwan Sport 6 SD
 https://py.dencreak.com/alwan_sd6.m3u8
+#EXTINF:0 CUID="22884" tvg-name="SPO: SHAHID SPORT 1 4K" tvg-logo="https://yinixshop.com/wp-content/uploads/2022/06/%D8%A7%D8%B4%D8%AA%D8%B1%D8%A7%D9%83-%D8%B4%D8%A7%D9%87%D8%AF-VIP-SPORT-%D8%B3%D9%86%D8%A9.jpg" group-title="SHAHID SPORT",SPO: SHAHID SPORT 1 4K
+http://dksip.com/835335413593/214580890107/464294
+#EXTINF:0 CUID="22885" tvg-name="SPO: SHAHID SPORT 1 HD" tvg-logo="https://yinixshop.com/wp-content/uploads/2022/06/%D8%A7%D8%B4%D8%AA%D8%B1%D8%A7%D9%83-%D8%B4%D8%A7%D9%87%D8%AF-VIP-SPORT-%D8%B3%D9%86%D8%A9.jpg" group-title="SHAHID SPORT",SPO: SHAHID SPORT 1 HD
+http://dksip.com/835335413593/214580890107/464295
+#EXTINF:0 CUID="22886" tvg-name="SPO: SHAHID SPORT 2 4K" tvg-logo="https://yinixshop.com/wp-content/uploads/2022/06/%D8%A7%D8%B4%D8%AA%D8%B1%D8%A7%D9%83-%D8%B4%D8%A7%D9%87%D8%AF-VIP-SPORT-%D8%B3%D9%86%D8%A9.jpg" group-title="SHAHID SPORT",SPO: SHAHID SPORT 2 4K
+http://dksip.com/835335413593/214580890107/464296
+#EXTINF:0 CUID="22887" tvg-name="SPO: SHAHID SPORT 2 HD" tvg-logo="https://yinixshop.com/wp-content/uploads/2022/06/%D8%A7%D8%B4%D8%AA%D8%B1%D8%A7%D9%83-%D8%B4%D8%A7%D9%87%D8%AF-VIP-SPORT-%D8%B3%D9%86%D8%A9.jpg" group-title="SHAHID SPORT",SPO: SHAHID SPORT 2 HD
+http://dksip.com/835335413593/214580890107/464297
+#EXTINF:0 CUID="22888" tvg-name="SPO: SHAHID SPORT 3 4K" tvg-logo="https://yinixshop.com/wp-content/uploads/2022/06/%D8%A7%D8%B4%D8%AA%D8%B1%D8%A7%D9%83-%D8%B4%D8%A7%D9%87%D8%AF-VIP-SPORT-%D8%B3%D9%86%D8%A9.jpg" group-title="SHAHID SPORT",SPO: SHAHID SPORT 3 4K
+http://dksip.com/835335413593/214580890107/464925
+#EXTINF:0 CUID="22889" tvg-name="SPO: SHAHID SPORT 3 HD" tvg-logo="https://yinixshop.com/wp-content/uploads/2022/06/%D8%A7%D8%B4%D8%AA%D8%B1%D8%A7%D9%83-%D8%B4%D8%A7%D9%87%D8%AF-VIP-SPORT-%D8%B3%D9%86%D8%A9.jpg" group-title="SHAHID SPORT",SPO: SHAHID SPORT 3 HD
+http://dksip.com/835335413593/214580890107/464926
+#EXTINF:0 CUID="22890" tvg-name="SPO: SHAHID SPORT 4 4K" tvg-logo="https://yinixshop.com/wp-content/uploads/2022/06/%D8%A7%D8%B4%D8%AA%D8%B1%D8%A7%D9%83-%D8%B4%D8%A7%D9%87%D8%AF-VIP-SPORT-%D8%B3%D9%86%D8%A9.jpg" group-title="SHAHID SPORT",SPO: SHAHID SPORT 4 4K
+http://dksip.com/835335413593/214580890107/464927
+#EXTINF:0 CUID="22891" tvg-name="SPO: SHAHID SPORT 4 HD" tvg-logo="https://yinixshop.com/wp-content/uploads/2022/06/%D8%A7%D8%B4%D8%AA%D8%B1%D8%A7%D9%83-%D8%B4%D8%A7%D9%87%D8%AF-VIP-SPORT-%D8%B3%D9%86%D8%A9.jpg" group-title="SHAHID SPORT",SPO: SHAHID SPORT 4 HD
+http://dksip.com/835335413593/214580890107/464928
+#EXTINF:0 CUID="22892" tvg-name="SPO: SHAHID SPORT 5 4K" tvg-logo="https://yinixshop.com/wp-content/uploads/2022/06/%D8%A7%D8%B4%D8%AA%D8%B1%D8%A7%D9%83-%D8%B4%D8%A7%D9%87%D8%AF-VIP-SPORT-%D8%B3%D9%86%D8%A9.jpg" group-title="SHAHID SPORT",SPO: SHAHID SPORT 5 4K
+http://dksip.com/835335413593/214580890107/464929
+#EXTINF:0 CUID="22893" tvg-name="SPO: SHAHID SPORT 5 HD" tvg-logo="https://yinixshop.com/wp-content/uploads/2022/06/%D8%A7%D8%B4%D8%AA%D8%B1%D8%A7%D9%83-%D8%B4%D8%A7%D9%87%D8%AF-VIP-SPORT-%D8%B3%D9%86%D8%A9.jpg" group-title="SHAHID SPORT",SPO: SHAHID SPORT 5 HD
+http://dksip.com/835335413593/214580890107/464930
+#EXTINF:0 CUID="22894" tvg-name="SPO: SHAHID SPORT 6 4K" tvg-logo="https://yinixshop.com/wp-content/uploads/2022/06/%D8%A7%D8%B4%D8%AA%D8%B1%D8%A7%D9%83-%D8%B4%D8%A7%D9%87%D8%AF-VIP-SPORT-%D8%B3%D9%86%D8%A9.jpg" group-title="SHAHID SPORT",SPO: SHAHID SPORT 6 4K
+http://dksip.com/835335413593/214580890107/464931
+#EXTINF:0 CUID="22895" tvg-name="SPO: SHAHID SPORT 6 HD" tvg-logo="https://yinixshop.com/wp-content/uploads/2022/06/%D8%A7%D8%B4%D8%AA%D8%B1%D8%A7%D9%83-%D8%B4%D8%A7%D9%87%D8%AF-VIP-SPORT-%D8%B3%D9%86%D8%A9.jpg" group-title="SHAHID SPORT",SPO: SHAHID SPORT 6 HD
+http://dksip.com/835335413593/214580890107/464932
+#EXTINF:0 CUID="22896" tvg-name="SPO: SHARJAH SPORT 4K" tvg-logo="https://yinixshop.com/wp-content/uploads/2022/06/%D8%A7%D8%B4%D8%AA%D8%B1%D8%A7%D9%83-%D8%B4%D8%A7%D9%87%D8%AF-VIP-SPORT-%D8%B3%D9%86%D8%A9.jpg" group-title="SHAHID SPORT",SPO: SHARJAH SPORT 4K
+http://dksip.com/835335413593/214580890107/15591
+#EXTINF:0 CUID="22897" tvg-name="SPO: SHARJAH SPORT HD" tvg-logo="https://yinixshop.com/wp-content/uploads/2022/06/%D8%A7%D8%B4%D8%AA%D8%B1%D8%A7%D9%83-%D8%B4%D8%A7%D9%87%D8%AF-VIP-SPORT-%D8%B3%D9%86%D8%A9.jpg" group-title="SHAHID SPORT",SPO: SHARJAH SPORT HD
+http://dksip.com/835335413593/214580890107/237359
+#EXTINF:0 CUID="22898" tvg-name="SPO: AL SHABAB SPORT HD" tvg-logo="https://yinixshop.com/wp-content/uploads/2022/06/%D8%A7%D8%B4%D8%AA%D8%B1%D8%A7%D9%83-%D8%B4%D8%A7%D9%87%D8%AF-VIP-SPORT-%D8%B3%D9%86%D8%A9.jpg" group-title="SHAHID SPORT",SPO: AL SHABAB SPORT HD
+http://dksip.com/835335413593/214580890107/45984
 #EXTINF:0 CUID="9252" tvg-name="Alkass Five   1" tvg-id="AlkassFive.qa" tvg-logo="https://i.imgur.com/6RGNGsM.png" group-title="Alkass   الكأس الرياضية",Alkass Five   1
 https://py.dencreak.com/alkass_1.m3u8
 #EXTINF:0 CUID="9253" tvg-name="Alkass Four  2" tvg-id="AlkassFour.qa" tvg-logo="https://i.imgur.com/iDL65Wu.png" group-title="Alkass   الكأس الرياضية",Alkass Four  2
