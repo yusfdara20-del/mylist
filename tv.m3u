@@ -40,7 +40,7 @@ http://bangxwazen.badinan.xyz:1935/live/Bangxwazen-Badinan/playlist.m3u8
 #EXTINF:0 CUID="8510" tvg-name="AVA TV HD" tvg-logo="https://i.postimg.cc/GbX6v0gL/ava-1.png" group-title="KURDISH ",AVA TV HD
 http://hlspackager.akamaized.net/live/DB/AVA_TV/HLS/AVA_TV.m3u8
 #EXTINF:0 CUID="8511" tvg-name="NRT HD" tvg-logo="https://i.postimg.cc/yVVqtpnh/NRT.png" group-title="KURDISH ",NRT HD
-https://media.streambrothers.com:1936/8226/8226/chunklist_w677886039.m3u8
+http://arabitv5.com:8000/baseeeeeeemhh5/8uuMt7qa7eAF/33887
 #EXTINF:0 CUID="8512" tvg-name="NRT 2" tvg-logo="https://i.postimg.cc/JRwv9XjG/nrt2-2.png" group-title="KURDISH ",NRT 2
 http://arabitv5.com:8000/baseeeeeeemhh5/8uuMt7qa7eAF/33888
 #EXTINF:0 CUID="8514" tvg-name="NRT 4" tvg-logo="https://i.postimg.cc/594N5G2W/NRT4.png" group-title="KURDISH ",NRT 4
