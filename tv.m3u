@@ -1,4 +1,760 @@
 #EXTM3U
+#EXTINF:0 CUID="10595" tvg-name="Afarin TV" tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="KURD VIP TEST",Afarin TV
+https://5ab29cc78f681.streamlock.net/afarinTV/livestream/playlist.m3u8
+#EXTINF:0 CUID="10596" tvg-name="Balapan TV" tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="KURD VIP TEST",Balapan TV
+https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
+#EXTINF:0 CUID="10597" tvg-name="Duck tv" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Ducktv.png" group-title="KURD VIP TEST",Duck tv
+http://iptv.prosto.tv:7000/ch209/video.m3u8
+#EXTINF:0 CUID="10598" tvg-name="EBS kids" tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="KURD VIP TEST",EBS kids
+http://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
+#EXTINF:0 CUID="10599" tvg-name="Kids1" tvg-logo="https://bit.ly/48KWzEB" group-title="KURD VIP TEST",Kids1
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=33
+#EXTINF:0 CUID="10600" tvg-name="Kids2" tvg-logo="https://bit.ly/48KWzEB" group-title="KURD VIP TEST",Kids2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=34
+#EXTINF:0 CUID="10601" tvg-name="Kids3" tvg-logo="https://bit.ly/48KWzEB" group-title="KURD VIP TEST",Kids3
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=35
+#EXTINF:0 CUID="10602" tvg-name="Kids4" tvg-logo="https://bit.ly/48KWzEB" group-title="KURD VIP TEST",Kids4
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=36
+#EXTINF:0 CUID="10603" tvg-name="Kids5" tvg-logo="https://bit.ly/48KWzEB" group-title="KURD VIP TEST",Kids5
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=37
+#EXTINF:0 CUID="10604" tvg-name="Kids6" tvg-logo="https://bit.ly/48KWzEB" group-title="KURD VIP TEST",Kids6
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=225
+#EXTINF:0 CUID="10605" tvg-name="Kids7" tvg-logo="https://bit.ly/48KWzEB" group-title="KURD VIP TEST",Kids7
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2613
+#EXTINF:0 CUID="10606" tvg-name="KidsClick" tvg-logo="https://i.imgur.com/yg7MHn9.png" group-title="KURD VIP TEST",KidsClick
+https://usgeowall.sinclairstoryline.com/channel/1698bf57810a48c486b83d542bca298d.m3u8
+#EXTINF:0 CUID="10607" tvg-name="MBC3 HD" tvg-logo="https://i.imgur.com/vONTtdP.png" group-title="KURD VIP TEST",MBC3 HD
+https://mbcbollywood-prod-dub-enc.edgenextcdn.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
+#EXTINF:0 CUID="10608" tvg-name="MBC3 USA HD" tvg-logo="https://i.imgur.com/vONTtdP.png" group-title="KURD VIP TEST",MBC3 USA HD
+https://mbc-3-usa-enc.edgenextcdn.net/out/v1/8bbfec9446d84c9ea0dfa34edede6db9/index.m3u8
+#EXTINF:0 CUID="10609" tvg-name="Moonbug Kids" tvg-logo="https://i.imgur.com/vZHtxQb.png" group-title="KURD VIP TEST",Moonbug Kids
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+#EXTINF:0 CUID="10610" tvg-name="Nickelodeon HD" tvg-logo="https://i.imgur.com/oJuu63l.png" group-title="KURD VIP TEST",Nickelodeon HD
+http://143.244.60.30/NICKELODEON/index.m3u8
+#EXTINF:0 CUID="10611" tvg-name="NickToons" tvg-logo="https://i.imgur.com/zKfH3KI.png" group-title="KURD VIP TEST",NickToons
+http://143.244.60.30/NICKTOONS/index.m3u8
+#EXTINF:0 CUID="10612" tvg-name="PBS KIDS" tvg-logo="https://i.imgur.com/YMdvQBi.png" group-title="KURD VIP TEST",PBS KIDS
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
+#EXTINF:0 CUID="10613" tvg-name="Ryan and Friends" tvg-logo="https://i.imgur.com/jcIprmt.png" group-title="KURD VIP TEST",Ryan and Friends
+https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:0 CUID="10614" tvg-name="Spacetoon" tvg-logo="https://i.imgur.com/6gZB1IC.png" group-title="KURD VIP TEST",Spacetoon
+https://spacetoon-prod-dub-enc.edgenextcdn.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
+#EXTINF:0 CUID="10615" tvg-name="SPACETOON" tvg-logo="https://www.lyngsat.com/logo/tv/ss/space_toon_ae_1.png" group-title="KURD VIP TEST",SPACETOON
+http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8?@amarnettv.live
+#EXTINF:0 CUID="10616" tvg-name="Zoo Moo" tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="KURD VIP TEST",Zoo Moo
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:0 CUID="10617" tvg-name="ZooMoo HD" tvg-logo="https://i.imgur.com/246vm7R.png" group-title="KURD VIP TEST",ZooMoo HD
+https://zoomoo-samsungau.amagi.tv/playlist1080p.m3u8
+#EXTINF:0 CUID="10618" tvg-name="شهاب" tvg-logo="https://bit.ly/40q3Ndz" group-title="KURD VIP TEST",شهاب
+http://95.216.180.111:1935/live/67/index.m3u8
+#EXTINF:0 CUID="10619" tvg-name="🇧🇷  TVE" tvg-logo="http://i.imgur.com/gQ4GDzQ.png" group-title="KURD VIP TEST",🇧🇷  TVE
+http://streaming.procergs.com.br:1935/tve/stve/chunklist.m3u8
+#EXTINF:0 CUID="10620" tvg-name="🇧🇷 Toon Goggles" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Toon_Goggles_logo.png" group-title="KURD VIP TEST",🇧🇷 Toon Goggles
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=514
+#EXTINF:0 CUID="10621" tvg-name="🇧🇷 Tv Escolaᴴᴰ" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/escola.png" group-title="KURD VIP TEST",🇧🇷 Tv Escolaᴴᴰ
+https://5c483b9d1019c.streamlock.net/8054/8054/chunklist.m3u8
+#EXTINF:0 CUID="10622" tvg-name="🇪🇸 Pequeradio TV" tvg-logo="https://graph.facebook.com/Pequeradio/picture?width=200&height=200" group-title="KURD VIP TEST",🇪🇸 Pequeradio TV
+https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+#EXTINF:0 CUID="10623" tvg-name="🇺🇸  ZooMoo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/250px-ZooMoo_logo.svg.png" group-title="KURD VIP TEST",🇺🇸  ZooMoo
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=60
+#EXTINF:0 CUID="10624" tvg-name="🇺🇸 TG Junior Kids" tvg-logo="https://sck.pm/gl9u" group-title="KURD VIP TEST",🇺🇸 TG Junior Kids
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=31
+#EXTINF:0 CUID="10625" tvg-name="🇺🇸 Tortues Ninja [Pluto]" tvg-logo="https://images.pluto.tv/channels/5d0c16d686454ead733d08f8/colorLogoPNG.png" group-title="KURD VIP TEST",🇺🇸 Tortues Ninja [Pluto]
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d0c16d686454ead733d08f8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 CUID="10626" tvg-name="Cartoon Network AR" tvg-logo="﻿https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/640px-Cartoon_Network_Arabic_logo.png" group-title="KURD VIP TEST",Cartoon Network AR
+http://154.58.202.131:8000/play/a0az
+#EXTINF:0 CUID="10627" tvg-name="Os Simpsons 🇧🇷" tvg-logo="﻿https://upload.wikimedia.org/wikipedia/pt/e/e6/The_Simpsons_promo.png" group-title="KURD VIP TEST",Os Simpsons 🇧🇷
+http://24hrs.homelinux.com:8080/24H-ossimpsons/video.m3u8
+#EXTINF:0 CUID="10628" tvg-name="Amou Yazid TV" tvg-logo="﻿https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/amouyazid.png" group-title="KURD VIP TEST",Amou Yazid TV
+http://mkstream.servehttp.com:1940/AmouYazid/ay1/chunklist.m3u8
+#EXTINF:0 CUID="10629" tvg-name="Rakuten Família 🇵🇹" tvg-logo="﻿https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/476faeb2-0128-4709-8a60-67c1b253a55e-width200-quality90.png" group-title="KURD VIP TEST",Rakuten Família 🇵🇹
+https://48faa1daf24549fab34594bc5bdd99f2.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6213/master.m3u8
+#EXTINF:0 CUID="10630" tvg-name="Mr.Bean 🇪🇸🇬🇧 [ʀᴀkυᴛᴇɴ]" tvg-logo="﻿https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Mr%20Bean.webp" group-title="KURD VIP TEST",Mr.Bean 🇪🇸🇬🇧 [ʀᴀkυᴛᴇɴ]
+https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
+#EXTINF:0 CUID="10631" tvg-name="Pocoyo 🇧🇷" tvg-logo="﻿https://media.tvup.cloud/canales/color_lg_61ea6fef709aaf001a5581ae.png" group-title="KURD VIP TEST",Pocoyo 🇧🇷
+https://ani-pocptbr-samsungtvplus-ptbr.otteravision.com/ani/pocptbr_h265/pocptbr_h265.m3u8
+#EXTINF:0 CUID="10632" tvg-name="ROTANA_KIDS" tvg-logo="﻿https://upload.wikimedia.org/wikipedia/commons/1/1f/Rotana_Kids.png" group-title="KURD VIP TEST",ROTANA_KIDS
+https://cdn1.iptvcdn.tv/mcnc/ROTANA_KIDS/playlist.m3u8?&token=demo
+#EXTINF:0 CUID="10633" tvg-name="Léo e Lully 🇧🇷" tvg-logo="﻿https://nxplay-images.comets.com.br/resize/65ba3aa6b33fa_e87fab2ab503a0032691e607098fb9e8.png" group-title="KURD VIP TEST",Léo e Lully 🇧🇷
+https://cdn-3.nxplay.com.br/LEO_E_LULLY/tracks-v1a1/mono.m3u8
+#EXTINF:0 CUID="10634" tvg-name="TVG Xabarin 🇪🇸" tvg-logo="﻿https://crtvg.gal/documents/2915657/2918041/Xabar%C3%ADn+logo+con+G+e+texto+con+sombra.png" group-title="KURD VIP TEST",TVG Xabarin 🇪🇸
+https://crtvg-infantil-schlive.flumotion.cloud/crtvglive/smil:channel5PRG.smil/playlist.m3u8
+#EXTINF:0 CUID="10635" tvg-name="Barbie and Friends 🇺🇸" tvg-logo="﻿https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD490000209_20241104T163538SQUARE.png" group-title="KURD VIP TEST",Barbie and Friends 🇺🇸
+https://d1xqdnwy1bo05f.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jh1ol665g3amg/barb.m3u8
+#EXTINF:0 CUID="10636" tvg-name="Animation+ 🇺🇸" tvg-logo="﻿https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US400002PS_20241112T000926SQUARE.png" group-title="KURD VIP TEST",Animation+ 🇺🇸
+https://d25xml1ag3v99o.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-td10dsmk8ovae/playlist.m3u8
+#EXTINF:0 CUID="10637" tvg-name="BBC Kids 🇺🇸" tvg-logo="﻿https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA800001ZX_20250121T094909SQUARE.png" group-title="KURD VIP TEST",BBC Kids 🇺🇸
+https://d26xbpvvy0tj0m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2ym2cgz6gmgem/playlist.m3u8
+#EXTINF:0 CUID="10638" tvg-name="Sonic the Hedgehog 🇺🇸" tvg-logo="﻿https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300020PM_20240520T214843SQUARE.png" group-title="KURD VIP TEST",Sonic the Hedgehog 🇺🇸
+https://d36joy6bh8xxe2.cloudfront.net/master.m3u8
+#EXTINF:0 CUID="10639" tvg-name="PBS Kids 🇺🇸" tvg-logo="﻿https://github.com/inspirationlinks/m3u/raw/refs/heads/live/LogosTv/PBSKids.webp" group-title="KURD VIP TEST",PBS Kids 🇺🇸
+https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af7894775ba6de8f57482b66a/CMAF_HLS/index.m3u8
+#EXTINF:0 CUID="10640" tvg-name="Duck tv 🇪🇸" tvg-logo="﻿https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3400003HI_20241119T020447SQUARE.png" group-title="KURD VIP TEST",Duck tv 🇪🇸
+https://dlir9brl2ge8j.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9u2v4ro40jww6-ssai-prd/playlist.m3u8
+#EXTINF:0 CUID="10641" tvg-name="Garfield and Friends 🇺🇸" tvg-logo="﻿https://images.pluto.tv/channels/60faf9ddfcc1f200070a5932/colorLogoPNG.png" group-title="KURD VIP TEST",Garfield and Friends 🇺🇸
+https://is.gd/KGxtX7?60faf9ddfcc1f200070a5932.m3u8
+#EXTINF:0 CUID="10642" tvg-name="Lego Kids 🇺🇸" tvg-logo="﻿https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/29/USBA2300001S8_20220330T044603.png" group-title="KURD VIP TEST",Lego Kids 🇺🇸
+https://is.gd/TH0DFt?legKids.m3u8
+#EXTINF:0 CUID="10643" tvg-name="Smurf tv 🇺🇸" tvg-logo="﻿https://github.com/inspirationlinks/m3u/raw/live/LogosTv/pitufotv.webp" group-title="KURD VIP TEST",Smurf tv 🇺🇸
+https://is.gd/V0cHd5?profile=GBBD1300001WA.m3u8
+#EXTINF:0 CUID="10644" tvg-name="ROTANA_KIDS" tvg-logo="﻿https://upload.wikimedia.org/wikipedia/commons/1/1f/Rotana_Kids.png" group-title="KURD VIP TEST",ROTANA_KIDS
+https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids/playlist.m3u8
+#EXTINF:0 CUID="10645" tvg-name="Spacetoon" tvg-logo="﻿https://i.imgur.com/6gZB1IC.png" group-title="KURD VIP TEST",Spacetoon
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8
+#EXTINF:0 CUID="10646" tvg-name="Moranguinho 🇧🇷" tvg-logo="﻿https://images.pluto.tv/channels/63eba189c111bc0008ff59c5/colorLogoPNG.png" group-title="KURD VIP TEST",Moranguinho 🇧🇷
+https://stitcher.pluto.tv/stitch/hls/channel/63eba189c111bc0008ff59c5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=ab3b5982-6948-11ef-ae29-0647e4d345b9
+#EXTINF:0 CUID="10647" tvg-name="Teletubbies 🇧🇷" tvg-logo="﻿https://images.pluto.tv/channels/64e50055286f6b000838c067/colorLogoPNG.png" group-title="KURD VIP TEST",Teletubbies 🇧🇷
+https://stitcher.pluto.tv/stitch/hls/channel/64e50055286f6b000838c067/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=ab3b5982-6948-11ef-ae29-0647e4d345b9
+#EXTINF:0 CUID="10648" tvg-name="Tortues Ninja 🇺🇸" tvg-logo="﻿https://images.pluto.tv/channels/5d0c16d686454ead733d08f8/colorLogoPNG.png" group-title="KURD VIP TEST",Tortues Ninja 🇺🇸
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d0c16d686454ead733d08f8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
+#EXTINF:0 CUID="10649" tvg-name="Inspector Gadget 🇺🇸" tvg-logo="﻿https://images.pluto.tv/channels/5d765786aad587cf4d0e2bf6/colorLogoPNG.png" group-title="KURD VIP TEST",Inspector Gadget 🇺🇸
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d765786aad587cf4d0e2bf6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
+#EXTINF:0 CUID="10650" tvg-name="Nick Jr. Club 🇧🇷" tvg-logo="﻿https://images.pluto.tv/channels/5f121460b73ac6000719fbaf/colorLogoPNG.png" group-title="KURD VIP TEST",Nick Jr. Club 🇧🇷
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=inspirationiptv&deviceDNT=1
+#EXTINF:0 CUID="10651" tvg-name="Nickelodeon Clássico 🇧🇷" tvg-logo="﻿https://images.pluto.tv/channels/5f12151794c1800007a8ae63/colorLogoPNG.png" group-title="KURD VIP TEST",Nickelodeon Clássico 🇧🇷
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12151794c1800007a8ae63/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=inspirationiptv&deviceDNT=1
+#EXTINF:0 CUID="10652" tvg-name="O Reino Infantil 🇧🇷" tvg-logo="﻿https://images.pluto.tv/channels/5f5c216df68f920007888315/colorLogoPNG.png" group-title="KURD VIP TEST",O Reino Infantil 🇧🇷
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5c216df68f920007888315/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=inspirationiptv&deviceDNT=1
+#EXTINF:0 CUID="10653" tvg-name="Turma da Mônica 🇧🇷" tvg-logo="﻿https://images.pluto.tv/channels/5f997e44949bc70007a6941e/colorLogoPNG.png" group-title="KURD VIP TEST",Turma da Mônica 🇧🇷
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f997e44949bc70007a6941e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
+#EXTINF:0 CUID="10654" tvg-name="Nickelodeon iCarly 🇧🇷" tvg-logo="﻿https://images.pluto.tv/channels/620ff0a01f9e8700076c6f9d/colorLogoPNG.png" group-title="KURD VIP TEST",Nickelodeon iCarly 🇧🇷
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620ff0a01f9e8700076c6f9d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
+#EXTINF:0 CUID="10655" tvg-name="Nickelodeon Bob Esponja 🇧🇷" tvg-logo="﻿https://images.pluto.tv/channels/62545c0b002f4b0007688b61/colorLogoPNG.png" group-title="KURD VIP TEST",Nickelodeon Bob Esponja 🇧🇷
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62545c0b002f4b0007688b61/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=inspirationiptv&deviceDNT=1
+#EXTINF:0 CUID="10656" tvg-name="90's Kids 🇺🇸" tvg-logo="﻿https://images.pluto.tv/channels/6452c814939a590008567a3b/colorLogoPNG.png" group-title="KURD VIP TEST",90's Kids 🇺🇸
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6452c814939a590008567a3b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
+#EXTINF:0 CUID="10657" tvg-name="Desenhos Clássicos 🇧🇷" tvg-logo="﻿https://images.pluto.tv/channels/655e5c4d2c46f3000877a54b/colorLogoPNG.png" group-title="KURD VIP TEST",Desenhos Clássicos 🇧🇷
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/655e5c4d2c46f3000877a54b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=inspirationiptv&deviceDNT=1
+#EXTINF:0 CUID="10658" tvg-name="GoGO Gadget 🇺🇸" tvg-logo="﻿https://images.pluto.tv/channels/667f3852efa2a10008e1e514/colorLogoPNG.png" group-title="KURD VIP TEST",GoGO Gadget 🇺🇸
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/667f3852efa2a10008e1e514/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
+#EXTINF:0 CUID="10659" tvg-name="Cineminha 🇧🇷" tvg-logo="﻿https://images.pluto.tv/channels/66c8ca1280a0af00085b5b83/colorLogoPNG.png" group-title="KURD VIP TEST",Cineminha 🇧🇷
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66c8ca1280a0af00085b5b83/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=inspirationiptv&deviceDNT=1
+#EXTINF:0 CUID="10660" tvg-name="Kids Club 🇧🇷" tvg-logo="﻿https://images.pluto.tv/channels/66c8cae7fed35b0008580ec0/colorLogoPNG.png" group-title="KURD VIP TEST",Kids Club 🇧🇷
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66c8cae7fed35b0008580ec0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=inspirationiptv&deviceDNT=1
+#EXTINF:0 CUID="10661" tvg-name="Popeye 🇧🇷" tvg-logo="﻿https://images.pluto.tv/channels/677d93f37bffa600080795e7/colorLogoPNG.png" group-title="KURD VIP TEST",Popeye 🇧🇷
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/677d93f37bffa600080795e7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=inspirationiptv&deviceDNT=1
+#EXTINF:0 CUID="10662" tvg-name="Xtrema Cartoons 🇦🇷" tvg-logo="﻿https://xtrematv.com/wp-content/uploads/2023/05/LOGO-2023-XT-chico.png" group-title="KURD VIP TEST",Xtrema Cartoons 🇦🇷
+https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
+#EXTINF:0 CUID="10663" tvg-name="Camp Spoopy 🇺🇸" tvg-logo="﻿https://i.imgur.com/8PUbPVU.png" group-title="KURD VIP TEST",Camp Spoopy 🇺🇸
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
+#EXTINF:0 CUID="10664" tvg-name="Duck tv 🇧🇷" tvg-logo="﻿https://logo.m3uassets.com/ducktv.png" group-title="KURD VIP TEST",Duck tv 🇧🇷
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=7617
+#EXTINF:0 CUID="10665" tvg-name="Toon Goggles 🇧🇷" tvg-logo="﻿https://upload.wikimedia.org/wikipedia/en/d/da/Toon_Goggles_logo.png" group-title="KURD VIP TEST",Toon Goggles 🇧🇷
+https://tg-tg-br-samsung.otteravision.com/tg/tg_br_h265/tg_br_h265.m3u8
+#EXTINF:0 CUID="10666" tvg-name="Torococo TV 🇻🇪" tvg-logo="﻿https://cdn.m3u.cl/logo/1400_Torococo_TV.png" group-title="KURD VIP TEST",Torococo TV 🇻🇪
+https://us.streaminghd.cl/torococotelevision/video.m3u8
+#EXTINF:0 CUID="10667" tvg-name="Majid" tvg-logo="﻿https://bit.ly/3PFq9Up" group-title="KURD VIP TEST",Majid
+https://vo-live-media.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/index.m3u8
+#EXTINF:0 CUID="10668" tvg-name="kuriakos kids 🇵🇹" tvg-logo="﻿https://kuriakos-kids.com/wp-content/uploads/2023/06/cropped-KuriakosKids_curvas-01-192x192.png" group-title="KURD VIP TEST",kuriakos kids 🇵🇹
+https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
+#EXTINF:0 CUID="10669" tvg-name="Clan 🇪🇸" tvg-logo="﻿https://upload.wikimedia.org/wikipedia/commons/5/5d/Tve_clan.png" group-title="KURD VIP TEST",Clan 🇪🇸
+https://ztnr.rtve.es/ztnr/5466990.m3u8
+#EXTINF:0 CUID="22963" tvg-name="MBC ⓵ 4K HD" tvg-id="إم بي سي.eg" tvg-logo="https://www.gifservice.fr/img/gif-vignette-large/4839c66b9e08438a185b0518a9f06952/369036-mbc-m-south-korea-channels-tv-world-multi-media.gif" group-title="KURD VIP TEST",MBC ⓵ 4K HD
+http://beno4k.live:8080/Tarekmer3i/27959973011767/13316
+#EXTINF:0 CUID="22964" tvg-name="MBC ⓶ 4K HD" tvg-id="إم بي سي 2.eg" tvg-logo="https://www.gifservice.fr/img/gif-vignette-large/3ffbb768d86bc67d1abe7b368b1e3c28/387984-mbc2-united-arab-emirates-channels-tv-world-multi-media.gif" group-title="KURD VIP TEST",MBC ⓶ 4K HD
+http://beno4k.live:8080/Tarekmer3i/27959973011767/13317
+#EXTINF:0 CUID="22965" tvg-name="MBC ⓷ 4K HD" tvg-id="إم بي سي 3.eg" tvg-logo="https://www.gifservice.fr/img/gif-vignette-small/f916de616ad263a0f47633100dc8cdfe/387989-multi-media-channels-tv-world-united-arab-emirates-mbc3.gif" group-title="KURD VIP TEST",MBC ⓷ 4K HD
+http://beno4k.live:8080/Tarekmer3i/27959973011767/13318
+#EXTINF:0 CUID="22966" tvg-name="MBC ⓸ 4K HD" tvg-id="MBC 4 HD.ae" tvg-logo="https://www.gifservice.fr/img/gif-vignette-small/3c347eeb25681c20cf7ab48943b152c2/387996-multi-media-channels-tv-world-united-arab-emirates-mbc4.gif" group-title="KURD VIP TEST",MBC ⓸ 4K HD
+http://beno4k.live:8080/Tarekmer3i/27959973011767/273551
+#EXTINF:0 CUID="22967" tvg-name="MBC ⓹ 4K HD" tvg-id="إم بي سي 5.eg" tvg-logo="https://i.ibb.co/1XBLNRV/photo-output.png" group-title="KURD VIP TEST",MBC ⓹ 4K HD
+http://beno4k.live:8080/Tarekmer3i/27959973011767/13320
+#EXTINF:0 CUID="22968" tvg-name="BEIN 2 Sport 4K HD" tvg-id="beIN SPORTS2 DIGITAL.qa" tvg-logo="https://www.gifservice.fr/img/gif-vignette-small/2faab18bbe1552ff9b92ccb4dd328923/377037-multi-media-channels-tv-world-qatar-bein-sports.gif" group-title="KURD VIP TEST",BEIN 2 Sport 4K HD
+http://beno4k.live:8080/Tarekmer3i/27959973011767/674932
+#EXTINF:0 CUID="22969" tvg-name="BEIN 3 Sport 4K HD" tvg-id="beIN SPORTS 3.qa" tvg-logo="https://www.gifservice.fr/img/gif-vignette-small/2faab18bbe1552ff9b92ccb4dd328923/377037-multi-media-channels-tv-world-qatar-bein-sports.gif" group-title="KURD VIP TEST",BEIN 3 Sport 4K HD
+http://beno4k.live:8080/Tarekmer3i/27959973011767/437427
+#EXTINF:0 CUID="22970" tvg-name="BEIN 4 Sport 4K HD" tvg-id="beIN SPORTS 4.qa" tvg-logo="https://www.gifservice.fr/img/gif-vignette-small/2faab18bbe1552ff9b92ccb4dd328923/377037-multi-media-channels-tv-world-qatar-bein-sports.gif" group-title="KURD VIP TEST",BEIN 4 Sport 4K HD
+http://beno4k.live:8080/Tarekmer3i/27959973011767/437428
+#EXTINF:0 CUID="22971" tvg-name="BEIN 5 Sport 4K HD" tvg-id="beIN SPORTS 4.qa" tvg-logo="https://www.gifservice.fr/img/gif-vignette-small/2faab18bbe1552ff9b92ccb4dd328923/377037-multi-media-channels-tv-world-qatar-bein-sports.gif" group-title="KURD VIP TEST",BEIN 5 Sport 4K HD
+http://beno4k.live:8080/Tarekmer3i/27959973011767/437429
+#EXTINF:0 CUID="22972" tvg-name="BEIN 6 Sport 4K HD" tvg-id="beIN SPORTS 6.qa" tvg-logo="https://www.gifservice.fr/img/gif-vignette-small/2faab18bbe1552ff9b92ccb4dd328923/377037-multi-media-channels-tv-world-qatar-bein-sports.gif" group-title="KURD VIP TEST",BEIN 6 Sport 4K HD
+http://beno4k.live:8080/Tarekmer3i/27959973011767/437430
+#EXTINF:0 CUID="23156" tvg-name="KU : RUDAW  HD" tvg-logo="https://png.pngtree.com/png-clipart/20220511/original/pngtree-round-country-flag-kurdistan-png-image_7712285.png" group-title="KURD VIP TEST",KU : RUDAW  HD
+http://lukatv.net:8880/551632710530/140777688297/287887
+#EXTINF:0 CUID="23157" tvg-name="KU : ROJAVA 4K" tvg-logo="https://png.pngtree.com/png-clipart/20220511/original/pngtree-round-country-flag-kurdistan-png-image_7712285.png" group-title="KURD VIP TEST",KU : ROJAVA 4K
+http://lukatv.net:8880/551632710530/140777688297/287926
+#EXTINF:0 CUID="23158" tvg-name="KU : ROJAVA HD" tvg-logo="https://png.pngtree.com/png-clipart/20220511/original/pngtree-round-country-flag-kurdistan-png-image_7712285.png" group-title="KURD VIP TEST",KU : ROJAVA HD
+http://lukatv.net:8880/551632710530/140777688297/236382
+#EXTINF:0 CUID="23159" tvg-name="KU : RONAHI 4K" tvg-logo="https://png.pngtree.com/png-clipart/20220511/original/pngtree-round-country-flag-kurdistan-png-image_7712285.png" group-title="KURD VIP TEST",KU : RONAHI 4K
+http://lukatv.net:8880/551632710530/140777688297/287923
+#EXTINF:0 CUID="23160" tvg-name="KU : K24 HD" tvg-logo="https://png.pngtree.com/png-clipart/20220511/original/pngtree-round-country-flag-kurdistan-png-image_7712285.png" group-title="KURD VIP TEST",KU : K24 HD
+http://lukatv.net:8880/551632710530/140777688297/346149
+#EXTINF:0 CUID="23161" tvg-name="Ku: NRT 1 4K" tvg-logo="https://png.pngtree.com/png-clipart/20220511/original/pngtree-round-country-flag-kurdistan-png-image_7712285.png" group-title="KURD VIP TEST",Ku: NRT 1 4K
+http://lukatv.net:8880/551632710530/140777688297/287878
+#EXTINF:0 CUID="23162" tvg-name="Ku: NRT2 4K" tvg-logo="https://png.pngtree.com/png-clipart/20220511/original/pngtree-round-country-flag-kurdistan-png-image_7712285.png" group-title="KURD VIP TEST",Ku: NRT2 4K
+http://lukatv.net:8880/551632710530/140777688297/287879
+#EXTINF:0 CUID="23163" tvg-name="Ku: NRT 4 HD" tvg-logo="https://png.pngtree.com/png-clipart/20220511/original/pngtree-round-country-flag-kurdistan-png-image_7712285.png" group-title="KURD VIP TEST",Ku: NRT 4 HD
+http://lukatv.net:8880/551632710530/140777688297/287911
+#EXTINF:0 CUID="23164" tvg-name="Ku: Kurdsat 4K" tvg-logo="https://png.pngtree.com/png-clipart/20220511/original/pngtree-round-country-flag-kurdistan-png-image_7712285.png" group-title="KURD VIP TEST",Ku: Kurdsat 4K
+http://lukatv.net:8880/551632710530/140777688297/287880
+#EXTINF:0 CUID="23165" tvg-name="Ku: KurdMax Sor 4K" tvg-logo="https://png.pngtree.com/png-clipart/20220511/original/pngtree-round-country-flag-kurdistan-png-image_7712285.png" group-title="KURD VIP TEST",Ku: KurdMax Sor 4K
+http://lukatv.net:8880/551632710530/140777688297/287882
+#EXTINF:0 CUID="23166" tvg-name="Ku: KurdMax Show Sor 4K" tvg-logo="https://png.pngtree.com/png-clipart/20220511/original/pngtree-round-country-flag-kurdistan-png-image_7712285.png" group-title="KURD VIP TEST",Ku: KurdMax Show Sor 4K
+http://lukatv.net:8880/551632710530/140777688297/287884
+#EXTINF:0 CUID="23167" tvg-name="Ku: KurdMax Show Kurmanji HD" tvg-logo="https://png.pngtree.com/png-clipart/20220511/original/pngtree-round-country-flag-kurdistan-png-image_7712285.png" group-title="KURD VIP TEST",Ku: KurdMax Show Kurmanji HD
+http://lukatv.net:8880/551632710530/140777688297/287907
+#EXTINF:0 CUID="23168" tvg-name="Ku: Kurd Channel 4k" tvg-logo="https://png.pngtree.com/png-clipart/20220511/original/pngtree-round-country-flag-kurdistan-png-image_7712285.png" group-title="KURD VIP TEST",Ku: Kurd Channel 4k
+http://lukatv.net:8880/551632710530/140777688297/287886
+#EXTINF:0 CUID="23169" tvg-name="Ku: NRT 1 HD" tvg-logo="https://png.pngtree.com/png-clipart/20220511/original/pngtree-round-country-flag-kurdistan-png-image_7712285.png" group-title="KURD VIP TEST",Ku: NRT 1 HD
+http://lukatv.net:8880/551632710530/140777688297/287889
+#EXTINF:0 CUID="23170" tvg-name="Ku: Kurdsat News HD" tvg-logo="https://png.pngtree.com/png-clipart/20220511/original/pngtree-round-country-flag-kurdistan-png-image_7712285.png" group-title="KURD VIP TEST",Ku: Kurdsat News HD
+http://lukatv.net:8880/551632710530/140777688297/287890
+#EXTINF:0 CUID="23171" tvg-name="Ku: Gali Kurdistan TV" tvg-logo="https://png.pngtree.com/png-clipart/20220511/original/pngtree-round-country-flag-kurdistan-png-image_7712285.png" group-title="KURD VIP TEST",Ku: Gali Kurdistan TV
+http://lukatv.net:8880/551632710530/140777688297/287892
+#EXTINF:0 CUID="23172" tvg-name="Ku: Zagros TV HD" tvg-logo="https://png.pngtree.com/png-clipart/20220511/original/pngtree-round-country-flag-kurdistan-png-image_7712285.png" group-title="KURD VIP TEST",Ku: Zagros TV HD
+http://lukatv.net:8880/551632710530/140777688297/287894
+#EXTINF:0 CUID="23173" tvg-name="Ku: Waar TV HD" tvg-logo="https://png.pngtree.com/png-clipart/20220511/original/pngtree-round-country-flag-kurdistan-png-image_7712285.png" group-title="KURD VIP TEST",Ku: Waar TV HD
+http://lukatv.net:8880/551632710530/140777688297/287896
+#EXTINF:0 CUID="23174" tvg-name="Ku: Payam TV" tvg-logo="https://png.pngtree.com/png-clipart/20220511/original/pngtree-round-country-flag-kurdistan-png-image_7712285.png" group-title="KURD VIP TEST",Ku: Payam TV
+http://lukatv.net:8880/551632710530/140777688297/287897
+#EXTINF:0 CUID="23175" tvg-name="Ku: AVA Entertainment" tvg-logo="https://png.pngtree.com/png-clipart/20220511/original/pngtree-round-country-flag-kurdistan-png-image_7712285.png" group-title="KURD VIP TEST",Ku: AVA Entertainment
+http://lukatv.net:8880/551632710530/140777688297/287901
+#EXTINF:0 CUID="23176" tvg-name="Ku: NRT 2 HD Sorani" tvg-logo="https://png.pngtree.com/png-clipart/20220511/original/pngtree-round-country-flag-kurdistan-png-image_7712285.png" group-title="KURD VIP TEST",Ku: NRT 2 HD Sorani
+http://lukatv.net:8880/551632710530/140777688297/287903
+#EXTINF:0 CUID="23177" tvg-name="Ku: Amozhgary TV HD" tvg-logo="https://png.pngtree.com/png-clipart/20220511/original/pngtree-round-country-flag-kurdistan-png-image_7712285.png" group-title="KURD VIP TEST",Ku: Amozhgary TV HD
+http://lukatv.net:8880/551632710530/140777688297/287912
+#EXTINF:0 CUID="23178" tvg-name="Ku: Med Music TV" tvg-logo="https://png.pngtree.com/png-clipart/20220511/original/pngtree-round-country-flag-kurdistan-png-image_7712285.png" group-title="KURD VIP TEST",Ku: Med Music TV
+http://lukatv.net:8880/551632710530/140777688297/287918
+#EXTINF:0 CUID="23179" tvg-name="Ku: Aryen TV" tvg-logo="https://png.pngtree.com/png-clipart/20220511/original/pngtree-round-country-flag-kurdistan-png-image_7712285.png" group-title="KURD VIP TEST",Ku: Aryen TV
+http://lukatv.net:8880/551632710530/140777688297/287922
+#EXTINF:0 CUID="23180" tvg-name="Ku: Jin HD" tvg-logo="https://png.pngtree.com/png-clipart/20220511/original/pngtree-round-country-flag-kurdistan-png-image_7712285.png" group-title="KURD VIP TEST",Ku: Jin HD
+http://lukatv.net:8880/551632710530/140777688297/287927
+#EXTINF:0 CUID="23181" tvg-name="Ku: Neu TV" tvg-logo="https://png.pngtree.com/png-clipart/20220511/original/pngtree-round-country-flag-kurdistan-png-image_7712285.png" group-title="KURD VIP TEST",Ku: Neu TV
+http://lukatv.net:8880/551632710530/140777688297/287928
+#EXTINF:0 CUID="23182" tvg-name="NRT UHD" tvg-logo="https://i.postimg.cc/PTB90Cjs/NRT.png" group-title="KURD VIP TEST",NRT UHD
+http://lukatv.net:8880/551632710530/140777688297/550756
+#EXTINF:0 CUID="23183" tvg-name="Rojava" tvg-logo="https://png.pngtree.com/png-clipart/20220511/original/pngtree-round-country-flag-kurdistan-png-image_7712285.png" group-title="KURD VIP TEST",Rojava
+http://lukatv.net:8880/551632710530/140777688297/531875
+#EXTINF:0 CUID="23184" tvg-name="Channel 8 UHD" tvg-logo="https://i.postimg.cc/Gd1prmrY/c8.png" group-title="KURD VIP TEST",Channel 8 UHD
+http://lukatv.net:8880/551632710530/140777688297/550755
+#EXTINF:0 CUID="23185" tvg-name="TRT KURDI" tvg-logo="https://i.postimg.cc/k7XRYW2S/TRTKURD.png" group-title="KURD VIP TEST",TRT KURDI
+http://lukatv.net:8880/551632710530/140777688297/550760
+#EXTINF:0 CUID="23186" tvg-name="4KURD" tvg-logo="https://i.postimg.cc/5f4VRcyk/forkurd.png" group-title="KURD VIP TEST",4KURD
+http://lukatv.net:8880/551632710530/140777688297/550761
+#EXTINF:0 CUID="23187" tvg-name="PAYAM TV" tvg-logo="https://i.postimg.cc/RSrwNhBj/PAYAM.png" group-title="KURD VIP TEST",PAYAM TV
+http://lukatv.net:8880/551632710530/140777688297/550763
+#EXTINF:0 CUID="23188" tvg-name="AVA TV" tvg-logo="https://i.postimg.cc/GbX6v0gL/ava-1.png" group-title="KURD VIP TEST",AVA TV
+http://lukatv.net:8880/551632710530/140777688297/550764
+#EXTINF:0 CUID="23189" tvg-name="KURDMAX FHD" tvg-logo="https://i.postimg.cc/2zM3CTcM/KURDMAX.png" group-title="KURD VIP TEST",KURDMAX FHD
+http://lukatv.net:8880/551632710530/140777688297/550766
+#EXTINF:0 CUID="23190" tvg-name="A TV" tvg-logo="https://i.postimg.cc/jRF8jWpG/ATV.png" group-title="KURD VIP TEST",A TV
+http://lukatv.net:8880/551632710530/140777688297/550769
+#EXTINF:0 CUID="23191" tvg-name="K24 DOCUMENTARY" tvg-logo="https://i.postimg.cc/dw1zcM8Y/K24DO.png" group-title="KURD VIP TEST",K24 DOCUMENTARY
+http://lukatv.net:8880/551632710530/140777688297/550770
+#EXTINF:0 CUID="23192" tvg-name="SADA TV" tvg-logo="https://i.postimg.cc/Wj8fVSD3/SADA.png" group-title="KURD VIP TEST",SADA TV
+http://lukatv.net:8880/551632710530/140777688297/550771
+#EXTINF:0 CUID="23193" tvg-name="BANGAWAZ ۞" tvg-logo="https://i.postimg.cc/HHw4Qmq7/bang.png" group-title="KURD VIP TEST",BANGAWAZ ۞
+http://lukatv.net:8880/551632710530/140777688297/550772
+#EXTINF:0 CUID="23194" tvg-name="NRT 2" tvg-logo="https://i.postimg.cc/JRwv9XjG/nrt2-2.png" group-title="KURD VIP TEST",NRT 2
+http://lukatv.net:8880/551632710530/140777688297/550773
+#EXTINF:0 CUID="23195" tvg-name="AMOZHGARY ۞" tvg-logo="https://i.postimg.cc/Dvc3yP7n/amojgari.png" group-title="KURD VIP TEST",AMOZHGARY ۞
+http://lukatv.net:8880/551632710530/140777688297/550774
+#EXTINF:0 CUID="23196" tvg-name="JIN TV" tvg-logo="https://i.postimg.cc/81VYJfK5/jintv.png" group-title="KURD VIP TEST",JIN TV
+http://lukatv.net:8880/551632710530/140777688297/550776
+#EXTINF:0 CUID="23197" tvg-name="EURO KURD" tvg-logo="https://i.postimg.cc/TRjwcjng/ekurd.png" group-title="KURD VIP TEST",EURO KURD
+http://lukatv.net:8880/551632710530/140777688297/550777
+#EXTINF:0 CUID="23198" tvg-name="RENG TV FHD" tvg-logo="https://i.postimg.cc/VfVzHhjT/reng.png" group-title="KURD VIP TEST",RENG TV FHD
+http://lukatv.net:8880/551632710530/140777688297/550778
+#EXTINF:0 CUID="23199" tvg-name="SPEDA DRAMA FHD" tvg-logo="https://i.postimg.cc/XncgdVpm/drama-1.png" group-title="KURD VIP TEST",SPEDA DRAMA FHD
+http://lukatv.net:8880/551632710530/140777688297/550780
+#EXTINF:0 CUID="23200" tvg-name="NAQSHI MEDIA" tvg-logo="https://i.postimg.cc/Mxy7yNTk/NAQS.png" group-title="KURD VIP TEST",NAQSHI MEDIA
+http://lukatv.net:8880/551632710530/140777688297/550781
+#EXTINF:0 CUID="23201" tvg-name="RED TV" tvg-logo="https://i.postimg.cc/k9QZ87vq/REDT.jpg" group-title="KURD VIP TEST",RED TV
+http://lukatv.net:8880/551632710530/140777688297/550782
+#EXTINF:0 CUID="23202" tvg-name="SPI TV" tvg-logo="https://i.postimg.cc/KbfqGqcv/SPI.png" group-title="KURD VIP TEST",SPI TV
+http://lukatv.net:8880/551632710530/140777688297/550783
+#EXTINF:0 CUID="23203" tvg-name="WALLA TV" tvg-logo="https://i.postimg.cc/jx3hRN5w/walla-1.png" group-title="KURD VIP TEST",WALLA TV
+http://lukatv.net:8880/551632710530/140777688297/550784
+#EXTINF:0 CUID="23204" tvg-name="KURDMAX SHOW سۆرانی" tvg-logo="https://i.postimg.cc/vQTV2y7W/show.png" group-title="KURD VIP TEST",KURDMAX SHOW سۆرانی
+http://lukatv.net:8880/551632710530/140777688297/550785
+#EXTINF:0 CUID="23205" tvg-name="KURDMAX SHOW" tvg-logo="https://i.postimg.cc/vQTV2y7W/show.png" group-title="KURD VIP TEST",KURDMAX SHOW
+http://lukatv.net:8880/551632710530/140777688297/550786
+#EXTINF:0 CUID="23206" tvg-name="ARO FAMILY FHD" tvg-logo="https://i.postimg.cc/Tdyxz924/aro.png" group-title="KURD VIP TEST",ARO FAMILY FHD
+http://lukatv.net:8880/551632710530/140777688297/550787
+#EXTINF:0 CUID="23207" tvg-name="NIGA FAMILY FHD" tvg-logo="https://i.postimg.cc/2rR9Yw8B/nigaf.png" group-title="KURD VIP TEST",NIGA FAMILY FHD
+http://lukatv.net:8880/551632710530/140777688297/550788
+#EXTINF:0 CUID="23208" tvg-name="MIX KURD" tvg-logo="https://i.postimg.cc/7q0GRFWP/mixkurd.png" group-title="KURD VIP TEST",MIX KURD
+http://lukatv.net:8880/551632710530/140777688297/550789
+#EXTINF:0 CUID="23209" tvg-name="FARMUDA ۞" tvg-logo="https://i.postimg.cc/JrFHTwLq/farmuda.png" group-title="KURD VIP TEST",FARMUDA ۞
+http://lukatv.net:8880/551632710530/140777688297/550790
+#EXTINF:0 CUID="23210" tvg-name="AFRIN TV FHD" tvg-logo="https://i.postimg.cc/mTrjSq4N/baxcha.png" group-title="KURD VIP TEST",AFRIN TV FHD
+http://lukatv.net:8880/551632710530/140777688297/550792
+#EXTINF:0 CUID="23211" tvg-name="REHBER TV" tvg-logo="https://i.postimg.cc/gG4xgB1y/RE.png" group-title="KURD VIP TEST",REHBER TV
+http://lukatv.net:8880/551632710530/140777688297/550793
+#EXTINF:0 CUID="23212" tvg-name="ATV2" tvg-logo="https://i.postimg.cc/6B3H186M/A2.png" group-title="KURD VIP TEST",ATV2
+http://lukatv.net:8880/551632710530/140777688297/550795
+#EXTINF:0 CUID="23213" tvg-name="ATV KURD" tvg-logo="https://i.postimg.cc/jRF8jWpG/ATV.png" group-title="KURD VIP TEST",ATV KURD
+http://lukatv.net:8880/551632710530/140777688297/550796
+#EXTINF:0 CUID="23214" tvg-name="AVAR TV" tvg-logo="https://i.postimg.cc/PHF0gvx8/AVAR.png" group-title="KURD VIP TEST",AVAR TV
+http://lukatv.net:8880/551632710530/140777688297/550797
+#EXTINF:0 CUID="23215" tvg-name="AMED TV" tvg-logo="https://i.postimg.cc/ZTZKPzxF/AMED-1.png" group-title="KURD VIP TEST",AMED TV
+http://lukatv.net:8880/551632710530/140777688297/550798
+#EXTINF:0 CUID="23216" tvg-name="ARYAN TV" tvg-logo="https://i.postimg.cc/Mxxyx7t3/ARYEN.png" group-title="KURD VIP TEST",ARYAN TV
+http://lukatv.net:8880/551632710530/140777688297/550799
+#EXTINF:0 CUID="23217" tvg-name="BEFRIN TV" tvg-logo="https://i.postimg.cc/KmHBFtVw/BEFRIN.png" group-title="KURD VIP TEST",BEFRIN TV
+http://lukatv.net:8880/551632710530/140777688297/550800
+#EXTINF:0 CUID="23218" tvg-name="BANGXWAZ BADINAN" tvg-logo="https://i.postimg.cc/8phZPXcT/bangxwaz.png" group-title="KURD VIP TEST",BANGXWAZ BADINAN
+http://lukatv.net:8880/551632710530/140777688297/550801
+#EXTINF:0 CUID="23219" tvg-name="DUHOK PARWARDA" tvg-logo="https://i.postimg.cc/GdWp2yBf/PD.png" group-title="KURD VIP TEST",DUHOK PARWARDA
+http://lukatv.net:8880/551632710530/140777688297/550802
+#EXTINF:0 CUID="23220" tvg-name="YENI KANAL" group-title="KURD VIP TEST",YENI KANAL
+http://lukatv.net:8880/551632710530/140777688297/550803
+#EXTINF:0 CUID="23221" tvg-name="DEVER TV" tvg-logo="https://i.postimg.cc/5xDB58SL/DEVER.png" group-title="KURD VIP TEST",DEVER TV
+http://lukatv.net:8880/551632710530/140777688297/550804
+#EXTINF:0 CUID="23222" tvg-name="CIRA TV" tvg-logo="https://i.postimg.cc/q4J8BW3Y/CIRA.png" group-title="KURD VIP TEST",CIRA TV
+http://lukatv.net:8880/551632710530/140777688297/550805
+#EXTINF:0 CUID="23223" tvg-name="DENGE ZELAL" tvg-logo="https://i.postimg.cc/PfjkfrFv/DENGE.png" group-title="KURD VIP TEST",DENGE ZELAL
+http://lukatv.net:8880/551632710530/140777688297/550806
+#EXTINF:0 CUID="23224" tvg-name="DUHOK TV FHD" tvg-logo="https://i.postimg.cc/CYNdhrgr/DUHOK-1.png" group-title="KURD VIP TEST",DUHOK TV FHD
+http://lukatv.net:8880/551632710530/140777688297/550807
+#EXTINF:0 CUID="23225" tvg-name="DUHOK TV" tvg-logo="https://i.postimg.cc/CYNdhrgr/DUHOK-1.png" group-title="KURD VIP TEST",DUHOK TV
+http://lukatv.net:8880/551632710530/140777688297/550808
+#EXTINF:0 CUID="23226" tvg-name="DELAL TV" tvg-logo="https://i.postimg.cc/54gDM9mt/delal.png" group-title="KURD VIP TEST",DELAL TV
+http://lukatv.net:8880/551632710530/140777688297/550810
+#EXTINF:0 CUID="23227" tvg-name="DASNYA FHD" tvg-logo="https://i.postimg.cc/XVV50xf7/dasinya.png" group-title="KURD VIP TEST",DASNYA FHD
+http://lukatv.net:8880/551632710530/140777688297/550811
+#EXTINF:0 CUID="23228" tvg-name="UTV DUHOK HD" group-title="KURD VIP TEST",UTV DUHOK HD
+http://lukatv.net:8880/551632710530/140777688297/550812
+#EXTINF:0 CUID="23229" tvg-name="DASNYA MUSIC" tvg-logo="https://i.postimg.cc/XVV50xf7/dasinya.png" group-title="KURD VIP TEST",DASNYA MUSIC
+http://lukatv.net:8880/551632710530/140777688297/550815
+#EXTINF:0 CUID="23230" tvg-name="EZAN TV" tvg-logo="https://i.postimg.cc/r81058qX/EZZAN.png" group-title="KURD VIP TEST",EZAN TV
+http://lukatv.net:8880/551632710530/140777688297/550817
+#EXTINF:0 CUID="23231" tvg-name="EURO-KURD" tvg-logo="https://i.postimg.cc/TRjwcjng/ekurd.png" group-title="KURD VIP TEST",EURO-KURD
+http://lukatv.net:8880/551632710530/140777688297/550818
+#EXTINF:0 CUID="23232" tvg-name="GARYAN FM" tvg-logo="https://i.postimg.cc/tqrWRYqr/GARYAN-1.png" group-title="KURD VIP TEST",GARYAN FM
+http://lukatv.net:8880/551632710530/140777688297/550819
+#EXTINF:0 CUID="23233" tvg-name="GEWHER TV" tvg-logo="https://i.postimg.cc/8DMkkWPB/gawhar.png" group-title="KURD VIP TEST",GEWHER TV
+http://lukatv.net:8880/551632710530/140777688297/550820
+#EXTINF:0 CUID="23234" tvg-name="HORMIZAIR" tvg-logo="https://i.postimg.cc/9crgTJ5g/HORMZIAR-1.png" group-title="KURD VIP TEST",HORMIZAIR
+http://lukatv.net:8880/551632710530/140777688297/550821
+#EXTINF:0 CUID="23235" tvg-name="HELHELOK" tvg-logo="https://i.postimg.cc/RvnYGGQb/helheloka.png" group-title="KURD VIP TEST",HELHELOK
+http://lukatv.net:8880/551632710530/140777688297/550822
+#EXTINF:0 CUID="23236" tvg-name="ISHTAE" tvg-logo="https://i.postimg.cc/kqnVChhL/ISHTAR.png" group-title="KURD VIP TEST",ISHTAE
+http://lukatv.net:8880/551632710530/140777688297/550823
+#EXTINF:0 CUID="23237" tvg-name="KURTCE" tvg-logo="https://i.postimg.cc/Mx4FpdmL/Kürtçe.png" group-title="KURD VIP TEST",KURTCE
+http://lukatv.net:8880/551632710530/140777688297/550824
+#EXTINF:0 CUID="23238" tvg-name="Peshmarga" group-title="KURD VIP TEST",Peshmarga
+http://lukatv.net:8880/551632710530/140777688297/550825
+#EXTINF:0 CUID="23239" tvg-name="KURD 7" tvg-logo="https://i.postimg.cc/wq4bJV87/KURD7.png" group-title="KURD VIP TEST",KURD 7
+http://lukatv.net:8880/551632710530/140777688297/550826
+#EXTINF:0 CUID="23240" tvg-name="KURDMAX PEPULE" tvg-logo="https://i.postimg.cc/hcDqy47L/kp.png" group-title="KURD VIP TEST",KURDMAX PEPULE
+http://lukatv.net:8880/551632710530/140777688297/550827
+#EXTINF:0 CUID="23241" tvg-name="KURDMAX" tvg-logo="https://i.postimg.cc/zz8cPrbM/kurdmax.png" group-title="KURD VIP TEST",KURDMAX
+http://lukatv.net:8880/551632710530/140777688297/550828
+#EXTINF:0 CUID="23242" tvg-name="LD NUJIN" tvg-logo="https://i.postimg.cc/PTytBsHP/LD.png" group-title="KURD VIP TEST",LD NUJIN
+http://lukatv.net:8880/551632710530/140777688297/550830
+#EXTINF:0 CUID="23243" tvg-name="MOVIES HD1" group-title="KURD VIP TEST",MOVIES HD1
+http://lukatv.net:8880/551632710530/140777688297/550831
+#EXTINF:0 CUID="23244" tvg-name="MOVIES HD2" group-title="KURD VIP TEST",MOVIES HD2
+http://lukatv.net:8880/551632710530/140777688297/550832
+#EXTINF:0 CUID="23245" tvg-name="MOVIES HD3" group-title="KURD VIP TEST",MOVIES HD3
+http://lukatv.net:8880/551632710530/140777688297/550833
+#EXTINF:0 CUID="23246" tvg-name="MOVIES HD4" group-title="KURD VIP TEST",MOVIES HD4
+http://lukatv.net:8880/551632710530/140777688297/550834
+#EXTINF:0 CUID="23247" tvg-name="MOVIES HD5" group-title="KURD VIP TEST",MOVIES HD5
+http://lukatv.net:8880/551632710530/140777688297/550835
+#EXTINF:0 CUID="23248" tvg-name="MED MUSIC" tvg-logo="https://i.postimg.cc/TdBcZ9Fv/MED.png" group-title="KURD VIP TEST",MED MUSIC
+http://lukatv.net:8880/551632710530/140777688297/550836
+#EXTINF:0 CUID="23249" tvg-name="NIROJ QURAN" tvg-logo="https://i.postimg.cc/LHtZvs2S/NIROJTV.png" group-title="KURD VIP TEST",NIROJ QURAN
+http://lukatv.net:8880/551632710530/140777688297/550837
+#EXTINF:0 CUID="23250" tvg-name="NIROJ HD" tvg-logo="https://i.postimg.cc/x9d9M9ZC/NIROJ.png" group-title="KURD VIP TEST",NIROJ HD
+http://lukatv.net:8880/551632710530/140777688297/550838
+#EXTINF:0 CUID="23251" tvg-name="NRT2 BADINI" tvg-logo="https://i.postimg.cc/PThjfbYS/NRT2.png" group-title="KURD VIP TEST",NRT2 BADINI
+http://lukatv.net:8880/551632710530/140777688297/550839
+#EXTINF:0 CUID="23252" tvg-name="NEU TV" tvg-logo="https://i.postimg.cc/KGDfWCGs/neu-1.png" group-title="KURD VIP TEST",NEU TV
+http://lukatv.net:8880/551632710530/140777688297/550840
+#EXTINF:0 CUID="23253" tvg-name="NEXT TV" tvg-logo="https://i.postimg.cc/MZGBV0bD/NEXT.png" group-title="KURD VIP TEST",NEXT TV
+http://lukatv.net:8880/551632710530/140777688297/550841
+#EXTINF:0 CUID="23254" tvg-name="PELISTANK" tvg-logo="https://i.postimg.cc/dF5QdtWN/pelistank.png" group-title="KURD VIP TEST",PELISTANK
+http://lukatv.net:8880/551632710530/140777688297/550842
+#EXTINF:0 CUID="23255" tvg-name="RAVAND TV" tvg-logo="https://i.postimg.cc/jRZq84r3/rawand.png" group-title="KURD VIP TEST",RAVAND TV
+http://lukatv.net:8880/551632710530/140777688297/550843
+#EXTINF:0 CUID="23256" tvg-name="STERK" tvg-logo="https://i.postimg.cc/Hpk6H2B2/STERK.png" group-title="KURD VIP TEST",STERK
+http://lukatv.net:8880/551632710530/140777688297/550845
+#EXTINF:0 CUID="23257" tvg-name="UTV" tvg-logo="https://i.postimg.cc/PT7cFfRX/UTV-1.png" group-title="KURD VIP TEST",UTV
+http://lukatv.net:8880/551632710530/140777688297/550846
+#EXTINF:0 CUID="23258" tvg-name="WELAT" tvg-logo="https://i.postimg.cc/HmvS6BRL/WLAT.png" group-title="KURD VIP TEST",WELAT
+http://lukatv.net:8880/551632710530/140777688297/550847
+#EXTINF:0 CUID="23259" tvg-name="XABIR TV" tvg-logo="https://i.postimg.cc/37C5M36C/XABIR.png" group-title="KURD VIP TEST",XABIR TV
+http://lukatv.net:8880/551632710530/140777688297/550848
+#EXTINF:0 CUID="23260" tvg-name="ZAP TV" tvg-logo="https://i.postimg.cc/knz2RSGs/zap.png" group-title="KURD VIP TEST",ZAP TV
+http://lukatv.net:8880/551632710530/140777688297/550849
+#EXTINF:0 CUID="23261" tvg-name="ZEVER" tvg-logo="https://i.postimg.cc/Td0jMV4W/ZEVER.png" group-title="KURD VIP TEST",ZEVER
+http://lukatv.net:8880/551632710530/140777688297/550850
+#EXTINF:0 CUID="23262" tvg-name="ZAXO HD" tvg-logo="https://i.postimg.cc/ryXP0Skm/ZAXO.png" group-title="KURD VIP TEST",ZAXO HD
+http://lukatv.net:8880/551632710530/140777688297/550851
+#EXTINF:0 CUID="23263" tvg-name="ZAROK TV" tvg-logo="https://i.postimg.cc/J8x0qQhq/ZARO.png" group-title="KURD VIP TEST",ZAROK TV
+http://lukatv.net:8880/551632710530/140777688297/550852
+#EXTINF:0 CUID="23264" tvg-name="CHANNEL 8 HD" tvg-logo="https://i.postimg.cc/Gd1prmrY/c8.png" group-title="KURD VIP TEST",CHANNEL 8 HD
+http://lukatv.net:8880/551632710530/140777688297/550859
+#EXTINF:0 CUID="23265" tvg-name="AVA TV UHD" tvg-logo="https://i.postimg.cc/GbX6v0gL/ava-1.png" group-title="KURD VIP TEST",AVA TV UHD
+http://lukatv.net:8880/551632710530/140777688297/550861
+#EXTINF:0 CUID="23266" tvg-name="AVA TV FHD" tvg-logo="https://i.postimg.cc/GbX6v0gL/ava-1.png" group-title="KURD VIP TEST",AVA TV FHD
+http://lukatv.net:8880/551632710530/140777688297/550862
+#EXTINF:0 CUID="23267" tvg-name="CHIAN TV" tvg-logo="https://i.postimg.cc/jtXBN4RL/CHIANN.png" group-title="KURD VIP TEST",CHIAN TV
+http://lukatv.net:8880/551632710530/140777688297/550864
+#EXTINF:0 CUID="23268" tvg-name="ROJHELAT ڕۆژهەڵات" tvg-logo="https://i.postimg.cc/Fh3PNsLN/roj.png" group-title="KURD VIP TEST",ROJHELAT ڕۆژهەڵات
+http://lukatv.net:8880/551632710530/140777688297/550865
+#EXTINF:0 CUID="23269" tvg-name="KHAK TV" tvg-logo="https://i.postimg.cc/44C801bx/khak.png" group-title="KURD VIP TEST",KHAK TV
+http://lukatv.net:8880/551632710530/140777688297/550866
+#EXTINF:0 CUID="23270" tvg-name="ZED TV PLUS" tvg-logo="https://i.postimg.cc/9c7dVy3G/zedplus.png" group-title="KURD VIP TEST",ZED TV PLUS
+http://lukatv.net:8880/551632710530/140777688297/550867
+#EXTINF:0 CUID="23271" tvg-name="ZED TV HD" tvg-logo="https://i.postimg.cc/bz5zzyXF/ZED.png" group-title="KURD VIP TEST",ZED TV HD
+http://lukatv.net:8880/551632710530/140777688297/550868
+#EXTINF:0 CUID="23272" tvg-name="KURDMAX HD" tvg-logo="https://i.postimg.cc/2zM3CTcM/KURDMAX.png" group-title="KURD VIP TEST",KURDMAX HD
+http://lukatv.net:8880/551632710530/140777688297/550869
+#EXTINF:0 CUID="23273" tvg-name="KURDMAX MUSIC ♫" tvg-logo="https://i.postimg.cc/4Jr2ZVHK/kmusic.png" group-title="KURD VIP TEST",KURDMAX MUSIC ♫
+http://lukatv.net:8880/551632710530/140777688297/550870
+#EXTINF:0 CUID="23274" tvg-name="SPEDA DRAMA" tvg-logo="https://i.postimg.cc/XncgdVpm/drama-1.png" group-title="KURD VIP TEST",SPEDA DRAMA
+http://lukatv.net:8880/551632710530/140777688297/550871
+#EXTINF:0 CUID="23275" tvg-name="RASAN HD" tvg-logo="https://i.postimg.cc/M6MLzZMW/Rasan-1.png" group-title="KURD VIP TEST",RASAN HD
+http://lukatv.net:8880/551632710530/140777688297/550872
+#EXTINF:0 CUID="23276" tvg-name="KALAPUR" tvg-logo="https://i.postimg.cc/nFCNPhVK/kalapur.png" group-title="KURD VIP TEST",KALAPUR
+http://lukatv.net:8880/551632710530/140777688297/550873
+#EXTINF:0 CUID="23277" tvg-name="NISHTIMANY MN" tvg-logo="https://i.postimg.cc/c02mRmvB/NISHINMN.png" group-title="KURD VIP TEST",NISHTIMANY MN
+http://lukatv.net:8880/551632710530/140777688297/550874
+#EXTINF:0 CUID="23278" tvg-name="SRUSHT" tvg-logo="https://i.postimg.cc/hgh3tf3r/SRUSHT.png" group-title="KURD VIP TEST",SRUSHT
+http://lukatv.net:8880/551632710530/140777688297/550875
+#EXTINF:0 CUID="23279" tvg-name="NRT 4" tvg-logo="https://i.postimg.cc/594N5G2W/NRT4.png" group-title="KURD VIP TEST",NRT 4
+http://lukatv.net:8880/551632710530/140777688297/550876
+#EXTINF:0 CUID="23280" tvg-name="NRT 3" tvg-logo="https://i.postimg.cc/JmBJYHxy/NRT3.png" group-title="KURD VIP TEST",NRT 3
+http://lukatv.net:8880/551632710530/140777688297/550877
+#EXTINF:0 CUID="23281" tvg-name="ASTERA MOVIE" tvg-logo="https://i.postimg.cc/yV9KrgjP/ASTERAMOVIE.png" group-title="KURD VIP TEST",ASTERA MOVIE
+http://lukatv.net:8880/551632710530/140777688297/550883
+#EXTINF:0 CUID="23282" tvg-name="ASTERA CULTURE" tvg-logo="https://i.postimg.cc/dJgvBm23/CALTURE.png" group-title="KURD VIP TEST",ASTERA CULTURE
+http://lukatv.net:8880/551632710530/140777688297/550884
+#EXTINF:0 CUID="23283" tvg-name="ASTERA SHOW" tvg-logo="https://i.postimg.cc/npRnstMv/show.png" group-title="KURD VIP TEST",ASTERA SHOW
+http://lukatv.net:8880/551632710530/140777688297/550885
+#EXTINF:0 CUID="23284" tvg-name="ASTERA DOCU." tvg-logo="https://i.postimg.cc/9cDCZNqs/ASTERAD.png" group-title="KURD VIP TEST",ASTERA DOCU.
+http://lukatv.net:8880/551632710530/140777688297/550886
+#EXTINF:0 CUID="23285" tvg-name="ASTERA FAMILY" tvg-logo="https://i.postimg.cc/PfX5Y3J2/ASTERA.png" group-title="KURD VIP TEST",ASTERA FAMILY
+http://lukatv.net:8880/551632710530/140777688297/550887
+#EXTINF:0 CUID="23286" tvg-name="NEW LINE 1" tvg-logo="https://i.postimg.cc/RChphrjs/new1.png" group-title="KURD VIP TEST",NEW LINE 1
+http://lukatv.net:8880/551632710530/140777688297/550888
+#EXTINF:0 CUID="23287" tvg-name="NEW LINE 2" tvg-logo="https://i.postimg.cc/pWq1PV15/new2.png" group-title="KURD VIP TEST",NEW LINE 2
+http://lukatv.net:8880/551632710530/140777688297/550889
+#EXTINF:0 CUID="23288" tvg-name="NEWLINE MOVIE" tvg-logo="https://i.postimg.cc/xfcFTVrs/MOVIE.png" group-title="KURD VIP TEST",NEWLINE MOVIE
+http://lukatv.net:8880/551632710530/140777688297/550892
+#EXTINF:0 CUID="23289" tvg-name="NEWLINE BOLLYWOOD" tvg-logo="https://i.postimg.cc/tRTXqFLH/BOLLYWOOD.png" group-title="KURD VIP TEST",NEWLINE BOLLYWOOD
+http://lukatv.net:8880/551632710530/140777688297/550893
+#EXTINF:0 CUID="23290" tvg-name="NEWLINE DRAMA" tvg-logo="https://i.postimg.cc/Jm475Wtd/newdrama.png" group-title="KURD VIP TEST",NEWLINE DRAMA
+http://lukatv.net:8880/551632710530/140777688297/550894
+#EXTINF:0 CUID="23291" tvg-name="BARIN ACTION" tvg-logo="https://i.postimg.cc/1yGh2Bc1/bnarmov.png" group-title="KURD VIP TEST",BARIN ACTION
+http://lukatv.net:8880/551632710530/140777688297/550896
+#EXTINF:0 CUID="23292" tvg-name="AZADI" tvg-logo="https://i.postimg.cc/gG27BZSF/AZADI.png" group-title="KURD VIP TEST",AZADI
+http://lukatv.net:8880/551632710530/140777688297/550897
+#EXTINF:0 CUID="23293" tvg-name="ARO FAMILY" tvg-logo="https://i.postimg.cc/D7Qsq3zZ/aro.png" group-title="KURD VIP TEST",ARO FAMILY
+http://lukatv.net:8880/551632710530/140777688297/550898
+#EXTINF:0 CUID="23294" tvg-name="NIGA MOVIE" tvg-logo="https://i.postimg.cc/qp1ZPDBX/nigaM.png" group-title="KURD VIP TEST",NIGA MOVIE
+http://lukatv.net:8880/551632710530/140777688297/550900
+#EXTINF:0 CUID="23295" tvg-name="NIGA FAMILY" tvg-logo="https://i.postimg.cc/c0yRJR5q/nigafam.png" group-title="KURD VIP TEST",NIGA FAMILY
+http://lukatv.net:8880/551632710530/140777688297/550901
+#EXTINF:0 CUID="23296" tvg-name="RENG DOCUMENTARY" tvg-logo="https://i.postimg.cc/FhcvRkSL/rengdc.png" group-title="KURD VIP TEST",RENG DOCUMENTARY
+http://lukatv.net:8880/551632710530/140777688297/550903
+#EXTINF:0 CUID="23297" tvg-name="RENG HD" tvg-logo="https://i.postimg.cc/QsxjbM22/FAMILY.png" group-title="KURD VIP TEST",RENG HD
+http://lukatv.net:8880/551632710530/140777688297/550904
+#EXTINF:0 CUID="23298" tvg-name="MMN ACTION" tvg-logo="https://i.postimg.cc/s3DfxzHP/MMN.png" group-title="KURD VIP TEST",MMN ACTION
+http://lukatv.net:8880/551632710530/140777688297/550906
+#EXTINF:0 CUID="23299" tvg-name="KURDMAX کرمانجی" tvg-logo="https://i.postimg.cc/2zM3CTcM/KURDMAX.png" group-title="KURD VIP TEST",KURDMAX کرمانجی
+http://lukatv.net:8880/551632710530/140777688297/550907
+#EXTINF:0 CUID="23300" tvg-name="KURDMAX SHOW کرمانجی" tvg-logo="https://i.postimg.cc/vQTV2y7W/show.png" group-title="KURD VIP TEST",KURDMAX SHOW کرمانجی
+http://lukatv.net:8880/551632710530/140777688297/550908
+#EXTINF:0 CUID="23301" tvg-name="LD NUNJUN" tvg-logo="https://i.postimg.cc/JMqjwMsb/nunjun.png" group-title="KURD VIP TEST",LD NUNJUN
+http://lukatv.net:8880/551632710530/140777688297/550910
+#EXTINF:0 CUID="23302" tvg-name="LD PSHDAR" tvg-logo="https://i.postimg.cc/TRvhjgJG/ld.png" group-title="KURD VIP TEST",LD PSHDAR
+http://lukatv.net:8880/551632710530/140777688297/550911
+#EXTINF:0 CUID="23303" tvg-name="LD LIFE" tvg-logo="https://i.postimg.cc/jqtFygLN/life.png" group-title="KURD VIP TEST",LD LIFE
+http://lukatv.net:8880/551632710530/140777688297/550912
+#EXTINF:0 CUID="23304" tvg-name="LD AZHIN TV" tvg-logo="https://i.postimg.cc/HTDBMvRL/azhin.png" group-title="KURD VIP TEST",LD AZHIN TV
+http://lukatv.net:8880/551632710530/140777688297/550913
+#EXTINF:0 CUID="23305" tvg-name="MMN SHOW" tvg-logo="https://i.postimg.cc/k9dpmV2J/MMNSHOW.png" group-title="KURD VIP TEST",MMN SHOW
+http://lukatv.net:8880/551632710530/140777688297/550916
+#EXTINF:0 CUID="23306" tvg-name="MMN MOVIES" tvg-logo="https://i.postimg.cc/7x19m9wp/MMNM.png" group-title="KURD VIP TEST",MMN MOVIES
+http://lukatv.net:8880/551632710530/140777688297/550918
+#EXTINF:0 CUID="23307" tvg-name="MMN CLIP ♫" tvg-logo="https://i.postimg.cc/by0Sfk4T/clip.png" group-title="KURD VIP TEST",MMN CLIP ♫
+http://lukatv.net:8880/551632710530/140777688297/550919
+#EXTINF:0 CUID="23308" tvg-name="MMN PERSIAN" tvg-logo="https://i.postimg.cc/zzYHQ02v/per.png" group-title="KURD VIP TEST",MMN PERSIAN
+http://lukatv.net:8880/551632710530/140777688297/550920
+#EXTINF:0 CUID="23309" tvg-name="MMN QURAN ۞" tvg-logo="https://i.postimg.cc/08wJZLfh/quran.png" group-title="KURD VIP TEST",MMN QURAN ۞
+http://lukatv.net:8880/551632710530/140777688297/550921
+#EXTINF:0 CUID="23310" tvg-name="MMN TURKY" tvg-logo="https://i.postimg.cc/JRCCbp3h/turki.png" group-title="KURD VIP TEST",MMN TURKY
+http://lukatv.net:8880/551632710530/140777688297/550923
+#EXTINF:0 CUID="23311" tvg-name="QALAM AEENI ۞" tvg-logo="https://i.postimg.cc/ZTJ7px4k/qalamain.png" group-title="KURD VIP TEST",QALAM AEENI ۞
+http://lukatv.net:8880/551632710530/140777688297/550924
+#EXTINF:0 CUID="23312" tvg-name="QALAM DOCUMENTARY" tvg-logo="https://i.postimg.cc/fzK88tW3/qalam.png" group-title="KURD VIP TEST",QALAM DOCUMENTARY
+http://lukatv.net:8880/551632710530/140777688297/550925
+#EXTINF:0 CUID="23313" tvg-name="QALAM TV" tvg-logo="https://i.postimg.cc/2mLwqKhb/qalam-1.png" group-title="KURD VIP TEST",QALAM TV
+http://lukatv.net:8880/551632710530/140777688297/550926
+#EXTINF:0 CUID="23314" tvg-name="QALAT HD" tvg-logo="https://i.postimg.cc/J1Q9ph3N/QALAT.png" group-title="KURD VIP TEST",QALAT HD
+http://lukatv.net:8880/551632710530/140777688297/550928
+#EXTINF:0 CUID="23315" tvg-name="BARIN QURAN" tvg-logo="https://i.postimg.cc/1P5QSGFY/BARINQ.png" group-title="KURD VIP TEST",BARIN QURAN
+http://lukatv.net:8880/551632710530/140777688297/550929
+#EXTINF:0 CUID="23316" tvg-name="BARIN FAMILY" tvg-logo="https://i.postimg.cc/byWG7G01/BARINF.png" group-title="KURD VIP TEST",BARIN FAMILY
+http://lukatv.net:8880/551632710530/140777688297/550930
+#EXTINF:0 CUID="23317" tvg-name="BARIN MOVIES" tvg-logo="https://i.postimg.cc/gzZc6gR6/Barinm.png" group-title="KURD VIP TEST",BARIN MOVIES
+http://lukatv.net:8880/551632710530/140777688297/550931
+#EXTINF:0 CUID="23318" tvg-name="BAZ DOCUMENTARY" tvg-logo="https://i.postimg.cc/38YtgZ7M/BAZ.png" group-title="KURD VIP TEST",BAZ DOCUMENTARY
+http://lukatv.net:8880/551632710530/140777688297/550932
+#EXTINF:0 CUID="23319" tvg-name="BNAR QURAN ۞" tvg-logo="https://i.postimg.cc/vbgzxXv4/bnar.png" group-title="KURD VIP TEST",BNAR QURAN ۞
+http://lukatv.net:8880/551632710530/140777688297/550933
+#EXTINF:0 CUID="23320" tvg-name="SPI TV ۞" tvg-logo="https://i.postimg.cc/KbfqGqcv/SPI.png" group-title="KURD VIP TEST",SPI TV ۞
+http://lukatv.net:8880/551632710530/140777688297/550934
+#EXTINF:0 CUID="23321" tvg-name="SPI QURAN" tvg-logo="https://i.postimg.cc/VfgjzVjy/QURAN.png" group-title="KURD VIP TEST",SPI QURAN
+http://lukatv.net:8880/551632710530/140777688297/550935
+#EXTINF:0 CUID="23322" tvg-name="SHNA QURAN" tvg-logo="https://i.postimg.cc/Gc5XVBZ9/SHNAQ.png" group-title="KURD VIP TEST",SHNA QURAN
+http://lukatv.net:8880/551632710530/140777688297/550937
+#EXTINF:0 CUID="23323" tvg-name="DERWAZA" tvg-logo="https://i.postimg.cc/Skz7xSJY/daerwaza.png" group-title="KURD VIP TEST",DERWAZA
+http://lukatv.net:8880/551632710530/140777688297/550938
+#EXTINF:0 CUID="23324" tvg-name="DERWAZA MUSIC" tvg-logo="https://i.postimg.cc/37qFh4JH/music.png" group-title="KURD VIP TEST",DERWAZA MUSIC
+http://lukatv.net:8880/551632710530/140777688297/550939
+#EXTINF:0 CUID="23325" tvg-name="MTV MUSIC ♫" tvg-logo="https://i.postimg.cc/8ksjkgVz/music-1.png" group-title="KURD VIP TEST",MTV MUSIC ♫
+http://lukatv.net:8880/551632710530/140777688297/550942
+#EXTINF:0 CUID="23326" tvg-name="MTV FAMILY" tvg-logo="https://i.postimg.cc/t9dCj4Vz/mfamily.png" group-title="KURD VIP TEST",MTV FAMILY
+http://lukatv.net:8880/551632710530/140777688297/550944
+#EXTINF:0 CUID="23327" tvg-name="AVA ENTERTAINMENT" tvg-logo="https://i.postimg.cc/GbX6v0gL/ava-1.png" group-title="KURD VIP TEST",AVA ENTERTAINMENT
+http://lukatv.net:8880/551632710530/140777688297/550951
+#EXTINF:0 CUID="23328" tvg-name="REVEND" tvg-logo="https://i.postimg.cc/nZR2skKT/REVEND-1.png" group-title="KURD VIP TEST",REVEND
+http://lukatv.net:8880/551632710530/140777688297/550952
+#EXTINF:0 CUID="23329" tvg-name="KURDSAT FHD" tvg-logo="https://i.postimg.cc/RvCQ9KMQ/kurdsat.png" group-title="KURD VIP TEST",KURDSAT FHD
+http://lukatv.net:8880/551632710530/140777688297/550953
+#EXTINF:0 CUID="23330" tvg-name="AFRIN باخچە" tvg-logo="https://i.postimg.cc/yVGD4WJN/BAXCHA.png" group-title="KURD VIP TEST",AFRIN باخچە
+http://lukatv.net:8880/551632710530/140777688297/550954
+#EXTINF:0 CUID="23331" tvg-name="Like Movie" group-title="KURD VIP TEST",Like Movie
+http://lukatv.net:8880/551632710530/140777688297/550956
+#EXTINF:0 CUID="23332" tvg-name="ALA TV FHD" tvg-logo="https://i.postimg.cc/815cf1JC/ALLA.png" group-title="KURD VIP TEST",ALA TV FHD
+http://lukatv.net:8880/551632710530/140777688297/550957
+#EXTINF:0 CUID="23333" tvg-name="ASMAN" tvg-logo="https://i.postimg.cc/TGK7GbBV/ASMAN.png" group-title="KURD VIP TEST",ASMAN
+http://lukatv.net:8880/551632710530/140777688297/550958
+#EXTINF:0 CUID="23334" tvg-name="ANIMAL BOX" tvg-logo="https://i.postimg.cc/QhWP8dGs/ANIMAL.png" group-title="KURD VIP TEST",ANIMAL BOX
+http://lukatv.net:8880/551632710530/140777688297/550959
+#EXTINF:0 CUID="23335" tvg-name="BMC" tvg-logo="https://i.postimg.cc/7H1sG4Hw/BMC.png" group-title="KURD VIP TEST",BMC
+http://lukatv.net:8880/551632710530/140777688297/550960
+#EXTINF:0 CUID="23336" tvg-name="BAHA ENTERTAINMENT" tvg-logo="https://i.postimg.cc/Sqdk22x2/baha.png" group-title="KURD VIP TEST",BAHA ENTERTAINMENT
+http://lukatv.net:8880/551632710530/140777688297/550961
+#EXTINF:0 CUID="23337" tvg-name="BASK" tvg-logo="https://i.postimg.cc/wz0sHvY2/bask.png" group-title="KURD VIP TEST",BASK
+http://lukatv.net:8880/551632710530/140777688297/550962
+#EXTINF:0 CUID="23338" tvg-name="BABOLY" tvg-logo="https://i.postimg.cc/y71HVVHh/baboli.png" group-title="KURD VIP TEST",BABOLY
+http://lukatv.net:8880/551632710530/140777688297/550963
+#EXTINF:0 CUID="23339" tvg-name="BNAR HD" tvg-logo="https://i.postimg.cc/FrDpZwMT/BNAR.jpg" group-title="KURD VIP TEST",BNAR HD
+http://lukatv.net:8880/551632710530/140777688297/550964
+#EXTINF:0 CUID="23340" tvg-name="BNAR MOVIE" tvg-logo="https://i.postimg.cc/1yGh2Bc1/bnarmov.png" group-title="KURD VIP TEST",BNAR MOVIE
+http://lukatv.net:8880/551632710530/140777688297/550965
+#EXTINF:0 CUID="23341" tvg-name="BINAR HD" tvg-logo="https://i.postimg.cc/yBwyhbx5/benar.png" group-title="KURD VIP TEST",BINAR HD
+http://lukatv.net:8880/551632710530/140777688297/550966
+#EXTINF:0 CUID="23342" tvg-name="CHIAN" tvg-logo="https://i.postimg.cc/wxHJPSNT/cian.png" group-title="KURD VIP TEST",CHIAN
+http://lukatv.net:8880/551632710530/140777688297/550967
+#EXTINF:0 CUID="23343" tvg-name="DIMEN HD" tvg-logo="https://i.postimg.cc/Q8jdrsfP/diman.png" group-title="KURD VIP TEST",DIMEN HD
+http://lukatv.net:8880/551632710530/140777688297/550968
+#EXTINF:0 CUID="23344" tvg-name="DASANYA TV" tvg-logo="https://i.postimg.cc/XVV50xf7/dasinya.png" group-title="KURD VIP TEST",DASANYA TV
+http://lukatv.net:8880/551632710530/140777688297/550969
+#EXTINF:0 CUID="23345" tvg-name="Derin TV" tvg-logo="https://i.postimg.cc/vYJBpmwT/DARIN.jpg" group-title="KURD VIP TEST",Derin TV
+http://lukatv.net:8880/551632710530/140777688297/550971
+#EXTINF:0 CUID="23346" tvg-name="KURD MOVIE HD1" group-title="KURD VIP TEST",KURD MOVIE HD1
+http://lukatv.net:8880/551632710530/140777688297/550972
+#EXTINF:0 CUID="23347" tvg-name="EFECT TV" tvg-logo="https://i.postimg.cc/81WxTYNz/EFFECT.png" group-title="KURD VIP TEST",EFECT TV
+http://lukatv.net:8880/551632710530/140777688297/550973
+#EXTINF:0 CUID="23348" tvg-name="ESTA TV" tvg-logo="https://i.postimg.cc/p2dp9KNC/ESTA-1.png" group-title="KURD VIP TEST",ESTA TV
+http://lukatv.net:8880/551632710530/140777688297/550974
+#EXTINF:0 CUID="23349" tvg-name="ESRA TV" tvg-logo="https://i.postimg.cc/6tNVZW4B/ESRA.jpg" group-title="KURD VIP TEST",ESRA TV
+http://lukatv.net:8880/551632710530/140777688297/550975
+#EXTINF:0 CUID="23350" tvg-name="ESRA TV HD2" tvg-logo="https://i.postimg.cc/9VZb67Kp/essra2.png" group-title="KURD VIP TEST",ESRA TV HD2
+http://lukatv.net:8880/551632710530/140777688297/550976
+#EXTINF:0 CUID="23351" tvg-name="ESRA QURAN" tvg-logo="https://i.postimg.cc/HdBJLdQZ/quranes-1.png" group-title="KURD VIP TEST",ESRA QURAN
+http://lukatv.net:8880/551632710530/140777688297/550977
+#EXTINF:0 CUID="23352" tvg-name="EMAN" tvg-logo="https://i.postimg.cc/9CWR36xs/eman.png" group-title="KURD VIP TEST",EMAN
+http://lukatv.net:8880/551632710530/140777688297/550978
+#EXTINF:0 CUID="23353" tvg-name="FOX HD" tvg-logo="https://i.postimg.cc/HdMCWnVN/FOX.png" group-title="KURD VIP TEST",FOX HD
+http://lukatv.net:8880/551632710530/140777688297/550979
+#EXTINF:0 CUID="23354" tvg-name="GARYAN" tvg-logo="https://i.postimg.cc/tqrWRYqr/GARYAN-1.png" group-title="KURD VIP TEST",GARYAN
+http://lukatv.net:8880/551632710530/140777688297/550981
+#EXTINF:0 CUID="23355" tvg-name="HALABJA  TV" tvg-logo="https://i.postimg.cc/ChRybCtn/halabja.png" group-title="KURD VIP TEST",HALABJA  TV
+http://lukatv.net:8880/551632710530/140777688297/550982
+#EXTINF:0 CUID="23356" tvg-name="ASHTI" tvg-logo="https://i.postimg.cc/s3RT25NT/ASHTI-1.png" group-title="KURD VIP TEST",ASHTI
+http://lukatv.net:8880/551632710530/140777688297/550983
+#EXTINF:0 CUID="23357" tvg-name="ISHTAR TV" tvg-logo="https://i.postimg.cc/9C2CX1kn/ISHTAR.png" group-title="KURD VIP TEST",ISHTAR TV
+http://lukatv.net:8880/551632710530/140777688297/550984
+#EXTINF:0 CUID="23358" tvg-name="IMK QURAN ۞" tvg-logo="https://i.postimg.cc/w6hM1JNc/IMK.png" group-title="KURD VIP TEST",IMK QURAN ۞
+http://lukatv.net:8880/551632710530/140777688297/550985
+#EXTINF:0 CUID="23359" tvg-name="IRIB KURDISTAN" tvg-logo="https://i.postimg.cc/mLV5Vc8m/irib.png" group-title="KURD VIP TEST",IRIB KURDISTAN
+http://lukatv.net:8880/551632710530/140777688297/550986
+#EXTINF:0 CUID="23360" tvg-name="IMK  HD" tvg-logo="https://i.postimg.cc/m46qc91r/IMK-1.png" group-title="KURD VIP TEST",IMK  HD
+http://lukatv.net:8880/551632710530/140777688297/550987
+#EXTINF:0 CUID="23361" tvg-name="JAMAWAR" tvg-logo="https://i.postimg.cc/BSgngCrR/jk.png" group-title="KURD VIP TEST",JAMAWAR
+http://lukatv.net:8880/551632710530/140777688297/550988
+#EXTINF:0 CUID="23362" tvg-name="JOJO MAMA" tvg-logo="https://i.postimg.cc/9mtsw86w/jojo.png" group-title="KURD VIP TEST",JOJO MAMA
+http://lukatv.net:8880/551632710530/140777688297/550989
+#EXTINF:0 CUID="23363" tvg-name="KIRKUK TV" tvg-logo="https://i.postimg.cc/VztFGSKz/kirkuk.png" group-title="KURD VIP TEST",KIRKUK TV
+http://lukatv.net:8880/551632710530/140777688297/550990
+#EXTINF:0 CUID="23364" tvg-name="KOMALA TV" tvg-logo="https://i.postimg.cc/rcBmhRBZ/komala.png" group-title="KURD VIP TEST",KOMALA TV
+http://lukatv.net:8880/551632710530/140777688297/550992
+#EXTINF:0 CUID="23365" tvg-name="DEKAN QURAN" group-title="KURD VIP TEST",DEKAN QURAN
+http://lukatv.net:8880/551632710530/140777688297/550993
+#EXTINF:0 CUID="23366" tvg-name="BNAR ACTION DRAMA" group-title="KURD VIP TEST",BNAR ACTION DRAMA
+http://lukatv.net:8880/551632710530/140777688297/550994
+#EXTINF:0 CUID="23367" tvg-name="KANAL 21" tvg-logo="https://i.postimg.cc/MzYDRntH/kanal21.png" group-title="KURD VIP TEST",KANAL 21
+http://lukatv.net:8880/551632710530/140777688297/550995
+#EXTINF:0 CUID="23368" tvg-name="KURDCINEMA" tvg-logo="https://i.postimg.cc/XN0Ld9MZ/ld.png" group-title="KURD VIP TEST",KURDCINEMA
+http://lukatv.net:8880/551632710530/140777688297/550996
+#EXTINF:0 CUID="23369" tvg-name="KURDC" tvg-logo="https://i.postimg.cc/1yYL67vf/kd.png" group-title="KURD VIP TEST",KURDC
+http://lukatv.net:8880/551632710530/140777688297/550997
+#EXTINF:0 CUID="23370" tvg-name="K24 DOC. FHD" tvg-logo="https://i.postimg.cc/dw1zcM8Y/K24DO.png" group-title="KURD VIP TEST",K24 DOC. FHD
+http://lukatv.net:8880/551632710530/140777688297/550998
+#EXTINF:0 CUID="23371" tvg-name="K24 DOC." tvg-logo="https://i.postimg.cc/dw1zcM8Y/K24DO.png" group-title="KURD VIP TEST",K24 DOC.
+http://lukatv.net:8880/551632710530/140777688297/550999
+#EXTINF:0 CUID="23372" tvg-name="KURDANA" tvg-logo="https://i.postimg.cc/wqPcHPQY/ku.png" group-title="KURD VIP TEST",KURDANA
+http://lukatv.net:8880/551632710530/140777688297/551000
+#EXTINF:0 CUID="23373" tvg-name="KURD7" tvg-logo="https://i.postimg.cc/HpYLg5yr/KURD7.png" group-title="KURD VIP TEST",KURD7
+http://lukatv.net:8880/551632710530/140777688297/551001
+#EXTINF:0 CUID="23374" tvg-name="KOMAL HD" tvg-logo="https://i.postimg.cc/C0vSLd4h/KOMAL.png" group-title="KURD VIP TEST",KOMAL HD
+http://lukatv.net:8880/551632710530/140777688297/551002
+#EXTINF:0 CUID="23375" tvg-name="Kurdish TV" tvg-logo="https://i.postimg.cc/hc3gn1Hb/iq.png" group-title="KURD VIP TEST",Kurdish TV
+http://lukatv.net:8880/551632710530/140777688297/551003
+#EXTINF:0 CUID="23376" tvg-name="KOMAL RANYA" tvg-logo="https://i.postimg.cc/C0vSLd4h/KOMAL.png" group-title="KURD VIP TEST",KOMAL RANYA
+http://lukatv.net:8880/551632710530/140777688297/551004
+#EXTINF:0 CUID="23377" tvg-name="MIHRAB RADIO" tvg-logo="https://i.postimg.cc/CFc9tdXR/mihrab.png" group-title="KURD VIP TEST",MIHRAB RADIO
+http://lukatv.net:8880/551632710530/140777688297/551005
+#EXTINF:0 CUID="23378" tvg-name="Minara TV" tvg-logo="https://i.postimg.cc/Qhn3kMt8/minara-1.png" group-title="KURD VIP TEST",Minara TV
+http://lukatv.net:8880/551632710530/140777688297/551006
+#EXTINF:0 CUID="23379" tvg-name="MIHRAB TV" tvg-logo="https://i.postimg.cc/k9M8Fd0W/mihrab.png" group-title="KURD VIP TEST",MIHRAB TV
+http://lukatv.net:8880/551632710530/140777688297/551007
+#EXTINF:0 CUID="23380" tvg-name="NOOR" tvg-logo="https://i.postimg.cc/WVyjVLzC/NOOR-1.png" group-title="KURD VIP TEST",NOOR
+http://lukatv.net:8880/551632710530/140777688297/551008
+#EXTINF:0 CUID="23381" tvg-name="NIROJ QURAN ۞" tvg-logo="https://i.postimg.cc/wHpf14Cj/nroj.png" group-title="KURD VIP TEST",NIROJ QURAN ۞
+http://lukatv.net:8880/551632710530/140777688297/551009
+#EXTINF:0 CUID="23382" tvg-name="Nuber TV" tvg-logo="https://i.postimg.cc/vbqsHJHp/nuber.png" group-title="KURD VIP TEST",Nuber TV
+http://lukatv.net:8880/551632710530/140777688297/551010
+#EXTINF:0 CUID="23383" tvg-name="NOHADRA" tvg-logo="https://i.postimg.cc/JmNcSTHv/nohdarr.png" group-title="KURD VIP TEST",NOHADRA
+http://lukatv.net:8880/551632710530/140777688297/551011
+#EXTINF:0 CUID="23384" tvg-name="NIROJ TV" tvg-logo="https://i.postimg.cc/W2NB0jbN/nroj.png" group-title="KURD VIP TEST",NIROJ TV
+http://lukatv.net:8880/551632710530/140777688297/551012
+#EXTINF:0 CUID="23385" tvg-name="ONE WORLD" tvg-logo="https://i.postimg.cc/cZzvDPds/1wold.png" group-title="KURD VIP TEST",ONE WORLD
+http://lukatv.net:8880/551632710530/140777688297/551013
+#EXTINF:0 CUID="23386" tvg-name="KURD MOVIE HD2" tvg-logo="https://i.postimg.cc/HWW51zFZ/onetv.png" group-title="KURD VIP TEST",KURD MOVIE HD2
+http://lukatv.net:8880/551632710530/140777688297/551014
+#EXTINF:0 CUID="23387" tvg-name="PESHMARGA TV" tvg-logo="https://i.postimg.cc/81wsh67y/pe-1.png" group-title="KURD VIP TEST",PESHMARGA TV
+http://lukatv.net:8880/551632710530/140777688297/551015
+#EXTINF:0 CUID="23388" tvg-name="PARWARDA" tvg-logo="https://i.postimg.cc/w9mhc0zw/par.png" group-title="KURD VIP TEST",PARWARDA
+http://lukatv.net:8880/551632710530/140777688297/551016
+#EXTINF:0 CUID="23389" tvg-name="PARWARDAI HAWLER" tvg-logo="https://i.postimg.cc/w9mhc0zw/par.png" group-title="KURD VIP TEST",PARWARDAI HAWLER
+http://lukatv.net:8880/551632710530/140777688297/551017
+#EXTINF:0 CUID="23390" tvg-name="ROZH" group-title="KURD VIP TEST",ROZH
+http://lukatv.net:8880/551632710530/140777688297/551018
+#EXTINF:0 CUID="23391" tvg-name="KURD CHANNEL" tvg-logo="https://i.postimg.cc/1m7BXnsY/KC.png" group-title="KURD VIP TEST",KURD CHANNEL
+http://lukatv.net:8880/551632710530/140777688297/551019
+#EXTINF:0 CUID="23392" tvg-name="RANYA TV" tvg-logo="https://i.postimg.cc/pRxT1CK0/RANYA.png" group-title="KURD VIP TEST",RANYA TV
+http://lukatv.net:8880/551632710530/140777688297/551020
+#EXTINF:0 CUID="23393" tvg-name="SHAR TV" tvg-logo="https://i.postimg.cc/GLy7cXVK/shar.png" group-title="KURD VIP TEST",SHAR TV
+http://lukatv.net:8880/551632710530/140777688297/551021
+#EXTINF:0 CUID="23394" tvg-name="SHNA HD" tvg-logo="https://i.postimg.cc/5xMj7y1t/shna.png" group-title="KURD VIP TEST",SHNA HD
+http://lukatv.net:8880/551632710530/140777688297/551022
+#EXTINF:0 CUID="23395" tvg-name="SAHAR TV" tvg-logo="https://i.postimg.cc/ZJ00B1k5/SAHARTV.png" group-title="KURD VIP TEST",SAHAR TV
+http://lukatv.net:8880/551632710530/140777688297/551024
+#EXTINF:0 CUID="23396" tvg-name="SHAISTA" tvg-logo="https://i.postimg.cc/gd8T2Chz/shaista.png" group-title="KURD VIP TEST",SHAISTA
+http://lukatv.net:8880/551632710530/140777688297/551025
+#EXTINF:0 CUID="23397" tvg-name="Slemany RT" tvg-logo="https://i.postimg.cc/2mNhr44W/silemani-tv.png" group-title="KURD VIP TEST",Slemany RT
+http://lukatv.net:8880/551632710530/140777688297/551026
+#EXTINF:0 CUID="23398" tvg-name="STERK TV" tvg-logo="https://i.postimg.cc/Dv3YQp1V/STREK-1.png" group-title="KURD VIP TEST",STERK TV
+http://lukatv.net:8880/551632710530/140777688297/551027
+#EXTINF:0 CUID="23399" tvg-name="SADA" tvg-logo="https://i.postimg.cc/Mxs6dwKG/SADA.png" group-title="KURD VIP TEST",SADA
+http://lukatv.net:8880/551632710530/140777688297/551028
+#EXTINF:0 CUID="23400" tvg-name="SOZ TV" tvg-logo="https://i.postimg.cc/xfDMt1tB/SOZ.png" group-title="KURD VIP TEST",SOZ TV
+http://lukatv.net:8880/551632710530/140777688297/551029
+#EXTINF:0 CUID="23401" tvg-name="SORAN ENTERTAINMENT" tvg-logo="https://i.postimg.cc/LRwyzS8T/SORAN.png" group-title="KURD VIP TEST",SORAN ENTERTAINMENT
+http://lukatv.net:8880/551632710530/140777688297/551030
+#EXTINF:0 CUID="23402" tvg-name="TASAWF" tvg-logo="https://i.postimg.cc/hgxF7qzw/tasawf.png" group-title="KURD VIP TEST",TASAWF
+http://lukatv.net:8880/551632710530/140777688297/551031
+#EXTINF:0 CUID="23403" tvg-name="UTV HAWLER" tvg-logo="https://i.postimg.cc/rqpM4PLr/utv.png" group-title="KURD VIP TEST",UTV HAWLER
+http://lukatv.net:8880/551632710530/140777688297/551032
+#EXTINF:0 CUID="23404" tvg-name="U2" tvg-logo="https://i.postimg.cc/nHYjLWKQ/u2.png" group-title="KURD VIP TEST",U2
+http://lukatv.net:8880/551632710530/140777688297/551033
+#EXTINF:0 CUID="23405" tvg-name="Welat  TV" tvg-logo="https://i.postimg.cc/TTxNstSk/HN.png" group-title="KURD VIP TEST",Welat  TV
+http://lukatv.net:8880/551632710530/140777688297/551034
+#EXTINF:0 CUID="23406" tvg-name="YARAN HD" tvg-logo="https://i.postimg.cc/mTWhd2Nr/yaran.png" group-title="KURD VIP TEST",YARAN HD
+http://lukatv.net:8880/551632710530/140777688297/551035
+#EXTINF:0 CUID="23407" tvg-name="ZHYAR TV" tvg-logo="https://i.postimg.cc/9XQXjDdJ/ZHIAR.png" group-title="KURD VIP TEST",ZHYAR TV
+http://lukatv.net:8880/551632710530/140777688297/551036
+#EXTINF:0 CUID="23408" tvg-name="ZNAR TV" tvg-logo="https://i.postimg.cc/2Cg2bBQr/znar.png" group-title="KURD VIP TEST",ZNAR TV
+http://lukatv.net:8880/551632710530/140777688297/551037
+#EXTINF:0 CUID="23409" tvg-name="4 Anime منداڵان" tvg-logo="https://i.postimg.cc/9XCYbTbT/4-anime-1.png" group-title="KURD VIP TEST",4 Anime منداڵان
+http://lukatv.net:8880/551632710530/140777688297/551039
+#EXTINF:0 CUID="23410" tvg-name="4 KURD" tvg-logo="https://i.postimg.cc/5f4VRcyk/forkurd.png" group-title="KURD VIP TEST",4 KURD
+http://lukatv.net:8880/551632710530/140777688297/551040
+#EXTINF:0 CUID="23411" tvg-name="KU :  SHAMS TV" tvg-logo="https://media.licdn.com/dms/image/v2/D4D0BAQE964Szxxht8w/company-logo_200_200/company-logo_200_200/0/1726748292690?e=2147483647&v=beta&t=EG8_soCDzi7zYNDo3BUfIQHevVDWDfH8HnLT98g2Rj4" group-title="KURD VIP TEST",KU :  SHAMS TV
+http://lukatv.net:8880/551632710530/140777688297/541113
+#EXTINF:0 CUID="23412" tvg-name="Ku: Iraqia Kurdish TV" tvg-logo="https://png.pngtree.com/png-clipart/20220511/original/pngtree-round-country-flag-kurdistan-png-image_7712285.png" group-title="KURD VIP TEST",Ku: Iraqia Kurdish TV
+http://lukatv.net:8880/551632710530/140777688297/287908
+#EXTINF:0 CUID="23413" tvg-name="RUDAW UHD" tvg-logo="https://i.postimg.cc/Km6qpwtZ/rudaw.png" group-title="KURD VIP TEST",RUDAW UHD
+http://lukatv.net:8880/551632710530/140777688297/550757
+#EXTINF:0 CUID="23414" tvg-name="K24 HD" tvg-logo="https://i.postimg.cc/09qgm4rP/K24.png" group-title="KURD VIP TEST",K24 HD
+http://lukatv.net:8880/551632710530/140777688297/550758
+#EXTINF:0 CUID="23415" tvg-name="KURDSAT NEWS  HD" tvg-logo="https://i.postimg.cc/Qs6v4tt4/kurdstan.png" group-title="KURD VIP TEST",KURDSAT NEWS  HD
+http://lukatv.net:8880/551632710530/140777688297/550759
+#EXTINF:0 CUID="23416" tvg-name="SPEDA" tvg-logo="https://i.postimg.cc/y6zMxQMH/SPEDA.png" group-title="KURD VIP TEST",SPEDA
+http://lukatv.net:8880/551632710530/140777688297/550762
+#EXTINF:0 CUID="23417" tvg-name="WAAR" tvg-logo="https://i.postimg.cc/jKbDVzn1/WAAR.png" group-title="KURD VIP TEST",WAAR
+http://lukatv.net:8880/551632710530/140777688297/550765
+#EXTINF:0 CUID="23418" tvg-name="Gali Kurdistan" tvg-logo="https://i.postimg.cc/GcG0CW3y/gs.png" group-title="KURD VIP TEST",Gali Kurdistan
+http://lukatv.net:8880/551632710530/140777688297/550767
+#EXTINF:0 CUID="23419" tvg-name="KURDSAT HD" tvg-logo="https://i.postimg.cc/RvCQ9KMQ/kurdsat.png" group-title="KURD VIP TEST",KURDSAT HD
+http://lukatv.net:8880/551632710530/140777688297/550768
+#EXTINF:0 CUID="23420" tvg-name="KURDISTAN TV" tvg-logo="https://i.postimg.cc/Wjcg6dk3/KDTV.png" group-title="KURD VIP TEST",KURDISTAN TV
+http://lukatv.net:8880/551632710530/140777688297/550775
+#EXTINF:0 CUID="23421" tvg-name="KURD SAT HD" tvg-logo="https://i.postimg.cc/RvCQ9KMQ/kurdsat.png" group-title="KURD VIP TEST",KURD SAT HD
+http://lukatv.net:8880/551632710530/140777688297/550791
+#EXTINF:0 CUID="23422" tvg-name="WAAR TV" tvg-logo="https://i.postimg.cc/jKbDVzn1/WAAR.png" group-title="KURD VIP TEST",WAAR TV
+http://lukatv.net:8880/551632710530/140777688297/550794
+#EXTINF:0 CUID="23423" tvg-name="RONAHI" tvg-logo="https://i.postimg.cc/dvgpmBWD/ronahi.png" group-title="KURD VIP TEST",RONAHI
+http://lukatv.net:8880/551632710530/140777688297/550844
+#EXTINF:0 CUID="23424" tvg-name="KURDSAT" tvg-logo="https://i.postimg.cc/wgWn2wWv/kurdsat-1.png" group-title="KURD VIP TEST",KURDSAT
+http://lukatv.net:8880/551632710530/140777688297/550854
+#EXTINF:0 CUID="23425" tvg-name="RUDAW HD" tvg-logo="https://i.postimg.cc/Km6qpwtZ/rudaw.png" group-title="KURD VIP TEST",RUDAW HD
+http://lukatv.net:8880/551632710530/140777688297/550855
+#EXTINF:0 CUID="23426" tvg-name="RUDAW FHD" tvg-logo="https://i.postimg.cc/y7h4fChY/RUDAWFHD-1.png" group-title="KURD VIP TEST",RUDAW FHD
+http://lukatv.net:8880/551632710530/140777688297/550856
+#EXTINF:0 CUID="23427" tvg-name="NRT FHD" tvg-logo="https://i.postimg.cc/PTB90Cjs/NRT.png" group-title="KURD VIP TEST",NRT FHD
+http://lukatv.net:8880/551632710530/140777688297/550857
+#EXTINF:0 CUID="23428" tvg-name="NRT HD" tvg-logo="https://i.postimg.cc/yVVqtpnh/NRT.png" group-title="KURD VIP TEST",NRT HD
+http://lukatv.net:8880/551632710530/140777688297/550858
+#EXTINF:0 CUID="23429" tvg-name="K24 FHD" tvg-logo="https://i.postimg.cc/69hP7zGt/K24.png" group-title="KURD VIP TEST",K24 FHD
+http://lukatv.net:8880/551632710530/140777688297/550860
+#EXTINF:0 CUID="23430" tvg-name="KURDSAT NEWS" tvg-logo="https://i.postimg.cc/Qs6v4tt4/kurdstan.png" group-title="KURD VIP TEST",KURDSAT NEWS
+http://lukatv.net:8880/551632710530/140777688297/550863
+#EXTINF:0 CUID="23431" tvg-name="MMN NEWS" tvg-logo="https://i.postimg.cc/055qJj70/news.png" group-title="KURD VIP TEST",MMN NEWS
+http://lukatv.net:8880/551632710530/140777688297/550922
+#EXTINF:0 CUID="23432" tvg-name="ZAGROS TV" tvg-logo="https://i.postimg.cc/SmXvWqcZ/ZG.png" group-title="KURD VIP TEST",ZAGROS TV
+http://lukatv.net:8880/551632710530/140777688297/551038
+#EXTINF:0 CUID="23433" tvg-name="KU : ZAROK 4K" tvg-logo="https://png.pngtree.com/png-clipart/20220511/original/pngtree-round-country-flag-kurdistan-png-image_7712285.png" group-title="KURD VIP TEST",KU : ZAROK 4K
+http://lukatv.net:8880/551632710530/140777688297/287916
+#EXTINF:0 CUID="23434" tvg-name="Ku: NRT 3 Kids HD" tvg-logo="https://png.pngtree.com/png-clipart/20220511/original/pngtree-round-country-flag-kurdistan-png-image_7712285.png" group-title="KURD VIP TEST",Ku: NRT 3 Kids HD
+http://lukatv.net:8880/551632710530/140777688297/287915
+#EXTINF:0 CUID="23435" tvg-name="Ku: Kirkuk TV" tvg-logo="https://png.pngtree.com/png-clipart/20220511/original/pngtree-round-country-flag-kurdistan-png-image_7712285.png" group-title="KURD VIP TEST",Ku: Kirkuk TV
+http://lukatv.net:8880/551632710530/140777688297/287895
+#EXTINF:0 CUID="23436" tvg-name="ZARO KIDS" tvg-logo="https://i.postimg.cc/gzzfbw7w/ZARO.png" group-title="KURD VIP TEST",ZARO KIDS
+http://lukatv.net:8880/551632710530/140777688297/550779
+#EXTINF:0 CUID="23437" tvg-name="DASNYA KIDS" tvg-logo="https://i.postimg.cc/XVV50xf7/dasinya.png" group-title="KURD VIP TEST",DASNYA KIDS
+http://lukatv.net:8880/551632710530/140777688297/550816
+#EXTINF:0 CUID="23438" tvg-name="KIDCO" tvg-logo="https://i.postimg.cc/37q1knCP/KIDCO.png" group-title="KURD VIP TEST",KIDCO
+http://lukatv.net:8880/551632710530/140777688297/550829
+#EXTINF:0 CUID="23439" tvg-name="NEWLINE KID" tvg-logo="https://i.postimg.cc/RmDDphf2/KIDS-1.png" group-title="KURD VIP TEST",NEWLINE KID
+http://lukatv.net:8880/551632710530/140777688297/550891
+#EXTINF:0 CUID="23440" tvg-name="NIGA KIDS" tvg-logo="https://i.postimg.cc/k9tGDLkG/nigakid.png" group-title="KURD VIP TEST",NIGA KIDS
+http://lukatv.net:8880/551632710530/140777688297/550899
+#EXTINF:0 CUID="23441" tvg-name="RENG KIDS" tvg-logo="https://i.postimg.cc/9CsVCYD2/RENGKID.png" group-title="KURD VIP TEST",RENG KIDS
+http://lukatv.net:8880/551632710530/140777688297/550905
+#EXTINF:0 CUID="23442" tvg-name="MMN KIDS" tvg-logo="https://i.postimg.cc/GdS0dL0X/mmnkid.png" group-title="KURD VIP TEST",MMN KIDS
+http://lukatv.net:8880/551632710530/140777688297/550917
+#EXTINF:0 CUID="23443" tvg-name="SPI KIDS" tvg-logo="https://i.postimg.cc/nFJkFmgm/KIDS.png" group-title="KURD VIP TEST",SPI KIDS
+http://lukatv.net:8880/551632710530/140777688297/550936
+#EXTINF:0 CUID="23444" tvg-name="MTV KIDS" tvg-logo="https://i.postimg.cc/GrbthYjs/kids.png" group-title="KURD VIP TEST",MTV KIDS
+http://lukatv.net:8880/551632710530/140777688297/550943
+#EXTINF:0 CUID="23445" tvg-name="AFRIN KIDS" tvg-logo="https://i.postimg.cc/2zyx7bRj/AKID.png" group-title="KURD VIP TEST",AFRIN KIDS
+http://lukatv.net:8880/551632710530/140777688297/550955
+#EXTINF:0 CUID="23446" tvg-name="DASANYA KID" tvg-logo="https://i.postimg.cc/XVV50xf7/dasinya.png" group-title="KURD VIP TEST",DASANYA KID
+http://lukatv.net:8880/551632710530/140777688297/550970
+#EXTINF:0 CUID="23447" tvg-name="FIRST KIDS منداڵان" tvg-logo="https://i.postimg.cc/p2K5kv6V/kid.png" group-title="KURD VIP TEST",FIRST KIDS منداڵان
+http://lukatv.net:8880/551632710530/140777688297/550980
+#EXTINF:0 CUID="23448" tvg-name="KIDCO KIDS" tvg-logo="https://i.postimg.cc/5bbYdX9x/KIDKO.png" group-title="KURD VIP TEST",KIDCO KIDS
+http://lukatv.net:8880/551632710530/140777688297/550991
 #EXTINF:0 CUID="8490" tvg-name="اشتراك✅  کڕینی کۆد✅  IPTV VIP" tvg-logo="https://i.postimg.cc/x1Ncddt9/CC2958-B1-8-A37-481-C-9-B14-2-FE57-CAACEC2.png" group-title="KURDISH ",اشتراك✅  کڕینی کۆد✅  IPTV VIP
 https://v.redd.it/smx05t0jmjee1/HLSPlaylist.m3u8
 #EXTINF:0 CUID="8491" tvg-name="آية الكرسي" tvg-logo="https://i.ytimg.com/vi/WqzM7yXebNY/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBI8QaqQ_zfDZmqODE9EVUNge8o4A" group-title="KURDISH ",آية الكرسي
@@ -119,6 +875,10 @@ https://ca-rt.onetv.app/Waar/index-0.m3u8
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/kalapurtv/playlist.m3u8
 #EXTINF:0 CUID="8551" tvg-name="IMK HD" tvg-logo="https://i.postimg.cc/JRsFBRdb/IMK.png" group-title="KURDISH ",IMK HD
 http://imkhd.ddns.net:1935/live/imkhd/HawezHD.m3u8
+#EXTINF:0 CUID="8552" tvg-name="SPEDA" tvg-logo="https://i.postimg.cc/9mK37pfk/SP.png" group-title="KURDISH ",SPEDA
+http://109.123.245.192/Spedatv/index.m3u8
+#EXTINF:0 CUID="8553" tvg-name="Speda Drama" tvg-logo="https://i.postimg.cc/XnPv6nwr/spda-drama.png" group-title="KURDISH ",Speda Drama
+http://109.123.245.192/Spedadrama/index.m3u8
 #EXTINF:0 CUID="8554" tvg-name="ZEVER" tvg-logo="https://i.postimg.cc/Td0jMV4W/ZEVER.png" group-title="KURDISH ",ZEVER
 http://zavartv.badinan.xyz:1935/live/ZAVAR-TV/playlist.m3u8
 #EXTINF:0 CUID="8555" tvg-name="Dunya Hd" tvg-logo="https://i.postimg.cc/HYBpLdHr/6F234CA9-2135-40DF-81A6-B6D3531753CE.png?dl=1" group-title="KURDISH ",Dunya Hd
@@ -328,59 +1088,83 @@ http://109.123.245.192/Zaxosport/index.m3u8
 #EXTINF:0 CUID="8664" tvg-name="ASTERA SPORT1" tvg-logo="https://i.postimg.cc/fMcHgm3D/astera-sport.png" group-title="Kurdish  سپۆرت  ",ASTERA SPORT1
 http://109.123.245.192/Asterasport/index.m3u8
 #EXTINF:0 CUID="23009" tvg-name="beIN Sports 1  4K" tvg-logo="https://i.postimg.cc/Cdy3fD4M/YUSF.png" group-title="Kurdish  سپۆرت  ",beIN Sports 1  4K
-http://dksip.com:80/live/Abed@2022/MhgzW908nd/61644.ts
-#EXTINF:0 CUID="23010" tvg-name="beIN Sports 2  4K" tvg-logo="https://i.postimg.cc/L8mHCKz9/YUSF-1.png" group-title="Kurdish  سپۆرت  ",beIN Sports 2  4K
-http://dksip.com:80/live/Abed@2022/MhgzW908nd/61645.ts
-#EXTINF:0 CUID="23011" tvg-name="beIN Sports 3  4K" tvg-logo="https://i.postimg.cc/6ppk49rv/YUSF-2.png" group-title="Kurdish  سپۆرت  ",beIN Sports 3  4K
-http://dksip.com:80/live/Abed@2022/MhgzW908nd/17896.ts
-#EXTINF:0 CUID="23012" tvg-name="beIN Sports 4  4K" tvg-logo="https://i.postimg.cc/Wb1Vg6jz/YUSF-3.png" group-title="Kurdish  سپۆرت  ",beIN Sports 4  4K
-http://dksip.com:80/live/Abed@2022/MhgzW908nd/17897.ts
-#EXTINF:0 CUID="23013" tvg-name="beIN Sports 5  4K" tvg-logo="https://i.postimg.cc/Zn1LbxxH/YUSF-4.png" group-title="Kurdish  سپۆرت  ",beIN Sports 5  4K
-http://dksip.com:80/live/Abed@2022/MhgzW908nd/17898.ts
-#EXTINF:0 CUID="23014" tvg-name="ALWAN SPORT 1 4K" group-title="ALWAN  SPORT 4k",ALWAN SPORT 1 4K
-http://dksip.com/Abed@2022/MhgzW908nd/434261
-#EXTINF:0 CUID="23015" tvg-name="ALWAN SPORT 1 HD" group-title="ALWAN  SPORT 4k",ALWAN SPORT 1 HD
-http://dksip.com/Abed@2022/MhgzW908nd/434267
-#EXTINF:0 CUID="23016" tvg-name="ALWAN SPORT 1 SD" group-title="ALWAN  SPORT 4k",ALWAN SPORT 1 SD
-http://dksip.com/Abed@2022/MhgzW908nd/434273
-#EXTINF:0 CUID="23017" tvg-name="ALWAN SPORT 2 4K" group-title="ALWAN  SPORT 4k",ALWAN SPORT 2 4K
-http://dksip.com/Abed@2022/MhgzW908nd/434262
-#EXTINF:0 CUID="23018" tvg-name="ALWAN SPORT 2 HD" group-title="ALWAN  SPORT 4k",ALWAN SPORT 2 HD
-http://dksip.com/Abed@2022/MhgzW908nd/434268
-#EXTINF:0 CUID="23019" tvg-name="ALWAN SPORT 2 SD" group-title="ALWAN  SPORT 4k",ALWAN SPORT 2 SD
-http://dksip.com/Abed@2022/MhgzW908nd/434274
-#EXTINF:0 CUID="23020" tvg-name="ALWAN SPORT 3 4K" group-title="ALWAN  SPORT 4k",ALWAN SPORT 3 4K
-http://dksip.com/Abed@2022/MhgzW908nd/434263
-#EXTINF:0 CUID="23021" tvg-name="ALWAN SPORT 3 HD" group-title="ALWAN  SPORT 4k",ALWAN SPORT 3 HD
-http://dksip.com/Abed@2022/MhgzW908nd/434269
-#EXTINF:0 CUID="23022" tvg-name="ALWAN SPORT 3 SD" group-title="ALWAN  SPORT 4k",ALWAN SPORT 3 SD
-http://dksip.com/Abed@2022/MhgzW908nd/434275
-#EXTINF:0 CUID="23023" tvg-name="ALWAN SPORT 4 4K" group-title="ALWAN  SPORT 4k",ALWAN SPORT 4 4K
-http://dksip.com/Abed@2022/MhgzW908nd/434264
-#EXTINF:0 CUID="23024" tvg-name="ALWAN SPORT 4 HD" group-title="ALWAN  SPORT 4k",ALWAN SPORT 4 HD
-http://dksip.com/Abed@2022/MhgzW908nd/434270
-#EXTINF:0 CUID="23025" tvg-name="ALWAN SPORT 4 SD" group-title="ALWAN  SPORT 4k",ALWAN SPORT 4 SD
-http://dksip.com/Abed@2022/MhgzW908nd/434276
-#EXTINF:0 CUID="23026" tvg-name="ALWAN SPORT 5 4K" group-title="ALWAN  SPORT 4k",ALWAN SPORT 5 4K
-http://dksip.com/Abed@2022/MhgzW908nd/434265
-#EXTINF:0 CUID="23027" tvg-name="ALWAN SPORT 5 HD" group-title="ALWAN  SPORT 4k",ALWAN SPORT 5 HD
-http://dksip.com/Abed@2022/MhgzW908nd/434271
-#EXTINF:0 CUID="23028" tvg-name="ALWAN SPORT 5 SD" group-title="ALWAN  SPORT 4k",ALWAN SPORT 5 SD
-http://dksip.com/Abed@2022/MhgzW908nd/434277
-#EXTINF:0 CUID="23029" tvg-name="ALWAN SPORT 6 4K" group-title="ALWAN  SPORT 4k",ALWAN SPORT 6 4K
-http://dksip.com/Abed@2022/MhgzW908nd/434266
-#EXTINF:0 CUID="23030" tvg-name="ALWAN SPORT 6 HD" group-title="ALWAN  SPORT 4k",ALWAN SPORT 6 HD
-http://dksip.com/Abed@2022/MhgzW908nd/434272
-#EXTINF:0 CUID="23031" tvg-name="ALWAN SPORT 6 SD" group-title="ALWAN  SPORT 4k",ALWAN SPORT 6 SD
-http://dksip.com/Abed@2022/MhgzW908nd/434278
-#EXTINF:0 CUID="23032" tvg-name="ALWAN SPORT 7 4K" group-title="ALWAN  SPORT 4k",ALWAN SPORT 7 4K
-http://dksip.com/Abed@2022/MhgzW908nd/461665
-#EXTINF:0 CUID="23033" tvg-name="ALWAN SPORT 8 4K" group-title="ALWAN  SPORT 4k",ALWAN SPORT 8 4K
-http://dksip.com/Abed@2022/MhgzW908nd/461666
-#EXTINF:0 CUID="23034" tvg-name="ALWAN SPORT 9 4K" group-title="ALWAN  SPORT 4k",ALWAN SPORT 9 4K
-http://dksip.com/Abed@2022/MhgzW908nd/461667
-#EXTINF:0 CUID="23035" tvg-name="ALWAN SPORT 10 4K" group-title="ALWAN  SPORT 4k",ALWAN SPORT 10 4K
-http://dksip.com/Abed@2022/MhgzW908nd/461668
+https://korahapp.online/BEIN-SPORT-1-1/index.fmp4.m3u8
+#EXTINF:0 CUID="23131" tvg-name="DUHOK SPORT" tvg-logo="https://i.postimg.cc/6w6DfR94/duhok.png" group-title="Kurdish  سپۆرت  ",DUHOK SPORT
+http://lukatv.net:8880/551632710530/140777688297/550809
+#EXTINF:0 CUID="23132" tvg-name="DELAL SPORT" tvg-logo="https://i.postimg.cc/ssgDRk4w/dtvs.png" group-title="Kurdish  سپۆرت  ",DELAL SPORT
+http://lukatv.net:8880/551632710530/140777688297/550813
+#EXTINF:0 CUID="23133" tvg-name="DASINYA SPORT" tvg-logo="https://i.postimg.cc/XVV50xf7/dasinya.png" group-title="Kurdish  سپۆرت  ",DASINYA SPORT
+http://lukatv.net:8880/551632710530/140777688297/550814
+#EXTINF:0 CUID="23134" tvg-name="ZAXO SPORT" tvg-logo="https://i.postimg.cc/4JwMWmKw/ZAXO-1.png" group-title="Kurdish  سپۆرت  ",ZAXO SPORT
+http://lukatv.net:8880/551632710530/140777688297/550853
+#EXTINF:0 CUID="23135" tvg-name="NRT SPORT FHD" tvg-logo="https://i.postimg.cc/NgMdhQGP/NRTSPORT.png" group-title="Kurdish  سپۆرت  ",NRT SPORT FHD
+http://lukatv.net:8880/551632710530/140777688297/550878
+#EXTINF:0 CUID="23136" tvg-name="NRT SPORT SD" tvg-logo="https://i.postimg.cc/NgMdhQGP/NRTSPORT.png" group-title="Kurdish  سپۆرت  ",NRT SPORT SD
+http://lukatv.net:8880/551632710530/140777688297/550879
+#EXTINF:0 CUID="23137" tvg-name="AVA SPORT HD" tvg-logo="https://i.postimg.cc/bqfzRHf3/AVASPORT.png" group-title="Kurdish  سپۆرت  ",AVA SPORT HD
+http://lukatv.net:8880/551632710530/140777688297/550880
+#EXTINF:0 CUID="23138" tvg-name="LD SPORT CHECK" tvg-logo="https://i.postimg.cc/0x1wX31q/LDSPORT.png" group-title="Kurdish  سپۆرت  ",LD SPORT CHECK
+http://lukatv.net:8880/551632710530/140777688297/550881
+#EXTINF:0 CUID="23139" tvg-name="ASTERA SPORT1" tvg-logo="https://i.postimg.cc/NYRPZWy8/ASTERA.png" group-title="Kurdish  سپۆرت  ",ASTERA SPORT1
+http://lukatv.net:8880/551632710530/140777688297/550882
+#EXTINF:0 CUID="23140" tvg-name="NEWLINE SPORT" tvg-logo="https://i.postimg.cc/wqZ414g9/newsport.png" group-title="Kurdish  سپۆرت  ",NEWLINE SPORT
+http://lukatv.net:8880/551632710530/140777688297/550890
+#EXTINF:0 CUID="23141" tvg-name="ARO SPORT" tvg-logo="https://i.postimg.cc/zqCYYkVX/ARO.png" group-title="Kurdish  سپۆرت  ",ARO SPORT
+http://lukatv.net:8880/551632710530/140777688297/550895
+#EXTINF:0 CUID="23142" tvg-name="AVA SPORT SD" tvg-logo="https://i.postimg.cc/qBMdch1p/avasport.png" group-title="Kurdish  سپۆرت  ",AVA SPORT SD
+http://lukatv.net:8880/551632710530/140777688297/550902
+#EXTINF:0 CUID="23143" tvg-name="LD SPORT" tvg-logo="https://i.postimg.cc/WNjy4s7s/LD-SPORT.png" group-title="Kurdish  سپۆرت  ",LD SPORT
+http://lukatv.net:8880/551632710530/140777688297/550909
+#EXTINF:0 CUID="23144" tvg-name="NRT SPORT HD" tvg-logo="https://i.postimg.cc/NgMdhQGP/NRTSPORT.png" group-title="Kurdish  سپۆرت  ",NRT SPORT HD
+http://lukatv.net:8880/551632710530/140777688297/550914
+#EXTINF:0 CUID="23145" tvg-name="MMN SPORT" tvg-logo="https://i.postimg.cc/8NG9hZMg/MMNSPORT.png" group-title="Kurdish  سپۆرت  ",MMN SPORT
+http://lukatv.net:8880/551632710530/140777688297/550915
+#EXTINF:0 CUID="23146" tvg-name="QALAM SPORT" tvg-logo="https://i.postimg.cc/3rxnV8Wt/qalamsp.png" group-title="Kurdish  سپۆرت  ",QALAM SPORT
+http://lukatv.net:8880/551632710530/140777688297/550927
+#EXTINF:0 CUID="23147" tvg-name="DASANYA SPORT" tvg-logo="https://i.postimg.cc/CFTzQ2w3/sport.png" group-title="Kurdish  سپۆرت  ",DASANYA SPORT
+http://lukatv.net:8880/551632710530/140777688297/550940
+#EXTINF:0 CUID="23148" tvg-name="MTV SPORT" tvg-logo="https://i.postimg.cc/xjQz941k/MTV.png" group-title="Kurdish  سپۆرت  ",MTV SPORT
+http://lukatv.net:8880/551632710530/140777688297/550941
+#EXTINF:0 CUID="23149" tvg-name="SEE SPORT1" tvg-logo="https://i.postimg.cc/cs710bq8/see1.png" group-title="Kurdish  سپۆرت  ",SEE SPORT1
+http://lukatv.net:8880/551632710530/140777688297/550945
+#EXTINF:0 CUID="23150" tvg-name="SEE SPORT2" tvg-logo="https://i.postimg.cc/gYbk9P7W/see2.png" group-title="Kurdish  سپۆرت  ",SEE SPORT2
+http://lukatv.net:8880/551632710530/140777688297/550946
+#EXTINF:0 CUID="23151" tvg-name="SIMA SPORT" tvg-logo="https://i.postimg.cc/pxmr3xVm/simas.png" group-title="Kurdish  سپۆرت  ",SIMA SPORT
+http://lukatv.net:8880/551632710530/140777688297/550947
+#EXTINF:0 CUID="23152" tvg-name="4Sport" tvg-logo="https://i.postimg.cc/CSNK9jnT/4SPORT.png" group-title="Kurdish  سپۆرت  ",4Sport
+http://lukatv.net:8880/551632710530/140777688297/550948
+#EXTINF:0 CUID="23153" tvg-name="NUBER SPORT" tvg-logo="https://i.postimg.cc/rMHJGLhH/NSPORT.png" group-title="Kurdish  سپۆرت  ",NUBER SPORT
+http://lukatv.net:8880/551632710530/140777688297/550949
+#EXTINF:0 CUID="23154" tvg-name="ALL SPORT" tvg-logo="https://i.postimg.cc/w98vknC1/all-sport.png" group-title="Kurdish  سپۆرت  ",ALL SPORT
+http://lukatv.net:8880/551632710530/140777688297/550950
+#EXTINF:0 CUID="23155" tvg-name="SEE SPORT3" group-title="Kurdish  سپۆرت  ",SEE SPORT3
+http://lukatv.net:8880/551632710530/140777688297/551023
+#EXTINF:0 CUID="23084" tvg-name="ALWAN F1 4K" tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN  SPORT 4k",ALWAN F1 4K
+http://lukatv.net:8880/551632710530/140777688297/550434
+#EXTINF:0 CUID="23085" tvg-name="ALWAN WWE 4K" tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN  SPORT 4k",ALWAN WWE 4K
+http://lukatv.net:8880/551632710530/140777688297/550435
+#EXTINF:0 CUID="23086" tvg-name="ALWAN UFC 4K" tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN  SPORT 4k",ALWAN UFC 4K
+http://lukatv.net:8880/551632710530/140777688297/550421
+#EXTINF:0 CUID="23087" tvg-name="ALWAN SPORT 1 4K" tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN  SPORT 4k",ALWAN SPORT 1 4K
+http://lukatv.net:8880/551632710530/140777688297/550424
+#EXTINF:0 CUID="23088" tvg-name="ALWAN SPORT 2 4K" tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN  SPORT 4k",ALWAN SPORT 2 4K
+http://lukatv.net:8880/551632710530/140777688297/550425
+#EXTINF:0 CUID="23089" tvg-name="ALWAN SPORT 3 4K" tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN  SPORT 4k",ALWAN SPORT 3 4K
+http://lukatv.net:8880/551632710530/140777688297/550426
+#EXTINF:0 CUID="23090" tvg-name="ALWAN SPORT 4 4K" tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN  SPORT 4k",ALWAN SPORT 4 4K
+http://lukatv.net:8880/551632710530/140777688297/550427
+#EXTINF:0 CUID="23091" tvg-name="ALWAN SPORT 5 4K" tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN  SPORT 4k",ALWAN SPORT 5 4K
+http://lukatv.net:8880/551632710530/140777688297/550428
+#EXTINF:0 CUID="23092" tvg-name="ALWAN SPORT 6 4K" tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN  SPORT 4k",ALWAN SPORT 6 4K
+http://lukatv.net:8880/551632710530/140777688297/550429
+#EXTINF:0 CUID="23093" tvg-name="ALWAN SPORT 7 4K" tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN  SPORT 4k",ALWAN SPORT 7 4K
+http://lukatv.net:8880/551632710530/140777688297/550430
+#EXTINF:0 CUID="23094" tvg-name="ALWAN SPORT 8 4K" tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN  SPORT 4k",ALWAN SPORT 8 4K
+http://lukatv.net:8880/551632710530/140777688297/550431
+#EXTINF:0 CUID="23095" tvg-name="ALWAN SPORT 9 4K" tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN  SPORT 4k",ALWAN SPORT 9 4K
+http://lukatv.net:8880/551632710530/140777688297/550432
+#EXTINF:0 CUID="23096" tvg-name="ALWAN SPORT 10 4K" tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN  SPORT 4k",ALWAN SPORT 10 4K
+http://lukatv.net:8880/551632710530/140777688297/550433
 #EXTINF:0 CUID="10755" tvg-name="Alwan Sport 1 4K" tvg-logo="http://safiafamily.com/uploads/family/alwan/Alwan_Ryazya_1.png" group-title="ALWAN  SPORT 4k",Alwan Sport 1 4K
 https://py.dencreak.com/alwan_4k1.m3u8
 #EXTINF:0 CUID="10756" tvg-name="Alwan Sport 1 HD" tvg-logo="http://safiafamily.com/uploads/family/alwan/Alwan_Ryazya_1.png" group-title="ALWAN  SPORT 4k",Alwan Sport 1 HD
@@ -417,104 +1201,158 @@ https://py.dencreak.com/alwan_4k6.m3u8
 https://py.dencreak.com/alwan_hd6.m3u8
 #EXTINF:0 CUID="10772" tvg-name="Alwan Sport 6 SD" tvg-logo="http://safiafamily.com/uploads/family/alwan/Alwan_Ryazya_6.png" group-title="ALWAN  SPORT 4k",Alwan Sport 6 SD
 https://py.dencreak.com/alwan_sd6.m3u8
-#EXTINF:0 CUID="23068" tvg-name="BEIN MAX 1 HD" group-title="BEIN MAX",BEIN MAX 1 HD
-http://dksip.com/Abed@2022/MhgzW908nd/494995
-#EXTINF:0 CUID="23069" tvg-name="BEIN MAX 1 UHD" group-title="BEIN MAX",BEIN MAX 1 UHD
-http://dksip.com/Abed@2022/MhgzW908nd/494996
-#EXTINF:0 CUID="23070" tvg-name="BEIN MAX 1 4K" group-title="BEIN MAX",BEIN MAX 1 4K
-http://dksip.com/Abed@2022/MhgzW908nd/494997
-#EXTINF:0 CUID="23071" tvg-name="BEIN MAX 1 FHD" group-title="BEIN MAX",BEIN MAX 1 FHD
-http://dksip.com/Abed@2022/MhgzW908nd/494998
-#EXTINF:0 CUID="23072" tvg-name="BEIN MAX 2 HD" group-title="BEIN MAX",BEIN MAX 2 HD
-http://dksip.com/Abed@2022/MhgzW908nd/494999
-#EXTINF:0 CUID="23073" tvg-name="BEIN MAX 2 UHD" group-title="BEIN MAX",BEIN MAX 2 UHD
-http://dksip.com/Abed@2022/MhgzW908nd/495000
-#EXTINF:0 CUID="23074" tvg-name="BEIN MAX 2 4K" group-title="BEIN MAX",BEIN MAX 2 4K
-http://dksip.com/Abed@2022/MhgzW908nd/495001
-#EXTINF:0 CUID="23075" tvg-name="BEIN MAX 2 FHD" group-title="BEIN MAX",BEIN MAX 2 FHD
-http://dksip.com/Abed@2022/MhgzW908nd/495002
-#EXTINF:0 CUID="23076" tvg-name="BEIN MAX 3 HD" group-title="BEIN MAX",BEIN MAX 3 HD
-http://dksip.com/Abed@2022/MhgzW908nd/495003
-#EXTINF:0 CUID="23077" tvg-name="BEIN MAX 3 UHD" group-title="BEIN MAX",BEIN MAX 3 UHD
-http://dksip.com/Abed@2022/MhgzW908nd/495004
-#EXTINF:0 CUID="23078" tvg-name="BEIN MAX 3 4K" group-title="BEIN MAX",BEIN MAX 3 4K
-http://dksip.com/Abed@2022/MhgzW908nd/495005
-#EXTINF:0 CUID="23079" tvg-name="BEIN MAX 3 FHD" group-title="BEIN MAX",BEIN MAX 3 FHD
-http://dksip.com/Abed@2022/MhgzW908nd/495006
-#EXTINF:0 CUID="23080" tvg-name="BEIN MAX 4 HD" group-title="BEIN MAX",BEIN MAX 4 HD
-http://dksip.com/Abed@2022/MhgzW908nd/495007
-#EXTINF:0 CUID="23081" tvg-name="BEIN MAX 4 UHD" group-title="BEIN MAX",BEIN MAX 4 UHD
-http://dksip.com/Abed@2022/MhgzW908nd/495008
-#EXTINF:0 CUID="23082" tvg-name="BEIN MAX 4 4K" group-title="BEIN MAX",BEIN MAX 4 4K
-http://dksip.com/Abed@2022/MhgzW908nd/495009
-#EXTINF:0 CUID="23083" tvg-name="BEIN MAX 4 FHD" group-title="BEIN MAX",BEIN MAX 4 FHD
-http://dksip.com/Abed@2022/MhgzW908nd/495010
+#EXTINF:0 CUID="23097" tvg-name="Alwan Sport 1" group-title="ALWAN  SPORT 4k",Alwan Sport 1
+http://lukatv.net:8880/551632710530/140777688297/550452
+#EXTINF:0 CUID="23098" tvg-name="Alwan Sport 2" group-title="ALWAN  SPORT 4k",Alwan Sport 2
+http://lukatv.net:8880/551632710530/140777688297/550451
+#EXTINF:0 CUID="23099" tvg-name="Alwan sport 3" group-title="ALWAN  SPORT 4k",Alwan sport 3
+http://lukatv.net:8880/551632710530/140777688297/550436
+#EXTINF:0 CUID="23100" tvg-name="Alwan sport 4" group-title="ALWAN  SPORT 4k",Alwan sport 4
+http://lukatv.net:8880/551632710530/140777688297/550450
+#EXTINF:0 CUID="23101" tvg-name="Alwan Sport 5" group-title="ALWAN  SPORT 4k",Alwan Sport 5
+http://lukatv.net:8880/551632710530/140777688297/550422
+#EXTINF:0 CUID="23102" tvg-name="Alwan Sport 6" group-title="ALWAN  SPORT 4k",Alwan Sport 6
+http://lukatv.net:8880/551632710530/140777688297/550423
+#EXTINF:0 CUID="23449" tvg-name="BEIN SPPORT MAX 1 4K" group-title="BEIN MAX",BEIN SPPORT MAX 1 4K
+http://lukatv.net:8880/551632710530/140777688297/558248
+#EXTINF:0 CUID="23450" tvg-name="BEIN SPORT MAX 2 4K" group-title="BEIN MAX",BEIN SPORT MAX 2 4K
+http://lukatv.net:8880/551632710530/140777688297/558249
+#EXTINF:0 CUID="23451" tvg-name="BEIN SPORT MAX 3 4K" group-title="BEIN MAX",BEIN SPORT MAX 3 4K
+http://lukatv.net:8880/551632710530/140777688297/558250
+#EXTINF:0 CUID="23452" tvg-name="BEIN SPORT MAX 1 FHD" group-title="BEIN MAX",BEIN SPORT MAX 1 FHD
+http://lukatv.net:8880/551632710530/140777688297/558251
+#EXTINF:0 CUID="23453" tvg-name="BEIN SPORT MAX 2 FHD" group-title="BEIN MAX",BEIN SPORT MAX 2 FHD
+http://lukatv.net:8880/551632710530/140777688297/558252
+#EXTINF:0 CUID="23454" tvg-name="BEIN SPORT MAX 3 FHD" group-title="BEIN MAX",BEIN SPORT MAX 3 FHD
+http://lukatv.net:8880/551632710530/140777688297/558253
+#EXTINF:0 CUID="23455" tvg-name="BEIN SPORT MAX 1 SD" group-title="BEIN MAX",BEIN SPORT MAX 1 SD
+http://lukatv.net:8880/551632710530/140777688297/558254
+#EXTINF:0 CUID="23456" tvg-name="BEIN SPORT MAX 2 SD" group-title="BEIN MAX",BEIN SPORT MAX 2 SD
+http://lukatv.net:8880/551632710530/140777688297/558255
+#EXTINF:0 CUID="23457" tvg-name="BEIN SPORT MAX 3 SD" group-title="BEIN MAX",BEIN SPORT MAX 3 SD
+http://lukatv.net:8880/551632710530/140777688297/558256
+#EXTINF:0 CUID="23458" tvg-name="[AR] Bein Sport MAX 1 (M)" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/d/d1/%D8%B4%D8%B9%D8%A7%D8%B1_%D8%AA%D8%B5%D9%81%D9%8A%D8%A7%D8%AA_%D9%83%D8%A3%D8%B3_%D8%A7%D9%84%D8%A3%D9%85%D9%85_%D8%A7%D9%84%D8%A5%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A9_2025.png" group-title="BEIN MAX",[AR] Bein Sport MAX 1 (M)
+http://lukatv.net:8880/551632710530/140777688297/558168
+#EXTINF:0 CUID="23459" tvg-name="[AR] Bein Sport MAX 2 (M)" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/d/d1/%D8%B4%D8%B9%D8%A7%D8%B1_%D8%AA%D8%B5%D9%81%D9%8A%D8%A7%D8%AA_%D9%83%D8%A3%D8%B3_%D8%A7%D9%84%D8%A3%D9%85%D9%85_%D8%A7%D9%84%D8%A5%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A9_2025.png" group-title="BEIN MAX",[AR] Bein Sport MAX 2 (M)
+http://lukatv.net:8880/551632710530/140777688297/558169
+#EXTINF:0 CUID="23460" tvg-name="[AR] Bein Sport MAX 3 (M)" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/d/d1/%D8%B4%D8%B9%D8%A7%D8%B1_%D8%AA%D8%B5%D9%81%D9%8A%D8%A7%D8%AA_%D9%83%D8%A3%D8%B3_%D8%A7%D9%84%D8%A3%D9%85%D9%85_%D8%A7%D9%84%D8%A5%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A9_2025.png" group-title="BEIN MAX",[AR] Bein Sport MAX 3 (M)
+http://lukatv.net:8880/551632710530/140777688297/558170
+#EXTINF:0 CUID="23461" tvg-name="[AR] Bein Sport MAX 4 (M)" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/d/d1/%D8%B4%D8%B9%D8%A7%D8%B1_%D8%AA%D8%B5%D9%81%D9%8A%D8%A7%D8%AA_%D9%83%D8%A3%D8%B3_%D8%A7%D9%84%D8%A3%D9%85%D9%85_%D8%A7%D9%84%D8%A5%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A9_2025.png" group-title="BEIN MAX",[AR] Bein Sport MAX 4 (M)
+http://lukatv.net:8880/551632710530/140777688297/558171
+#EXTINF:0 CUID="23462" tvg-name="[AR] Bein Sport MAX 1 (Z)" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/d/d1/%D8%B4%D8%B9%D8%A7%D8%B1_%D8%AA%D8%B5%D9%81%D9%8A%D8%A7%D8%AA_%D9%83%D8%A3%D8%B3_%D8%A7%D9%84%D8%A3%D9%85%D9%85_%D8%A7%D9%84%D8%A5%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A9_2025.png" group-title="BEIN MAX",[AR] Bein Sport MAX 1 (Z)
+http://lukatv.net:8880/551632710530/140777688297/558172
+#EXTINF:0 CUID="23463" tvg-name="[AR] Bein Sport MAX 2 (Z)" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/d/d1/%D8%B4%D8%B9%D8%A7%D8%B1_%D8%AA%D8%B5%D9%81%D9%8A%D8%A7%D8%AA_%D9%83%D8%A3%D8%B3_%D8%A7%D9%84%D8%A3%D9%85%D9%85_%D8%A7%D9%84%D8%A5%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A9_2025.png" group-title="BEIN MAX",[AR] Bein Sport MAX 2 (Z)
+http://lukatv.net:8880/551632710530/140777688297/558173
+#EXTINF:0 CUID="23464" tvg-name="[AR] Bein Sport MAX 1 (U)" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/d/d1/%D8%B4%D8%B9%D8%A7%D8%B1_%D8%AA%D8%B5%D9%81%D9%8A%D8%A7%D8%AA_%D9%83%D8%A3%D8%B3_%D8%A7%D9%84%D8%A3%D9%85%D9%85_%D8%A7%D9%84%D8%A5%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A9_2025.png" group-title="BEIN MAX",[AR] Bein Sport MAX 1 (U)
+http://lukatv.net:8880/551632710530/140777688297/558174
+#EXTINF:0 CUID="23465" tvg-name="[AR] Bein Sport MAX 2 (U)" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/d/d1/%D8%B4%D8%B9%D8%A7%D8%B1_%D8%AA%D8%B5%D9%81%D9%8A%D8%A7%D8%AA_%D9%83%D8%A3%D8%B3_%D8%A7%D9%84%D8%A3%D9%85%D9%85_%D8%A7%D9%84%D8%A5%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A9_2025.png" group-title="BEIN MAX",[AR] Bein Sport MAX 2 (U)
+http://lukatv.net:8880/551632710530/140777688297/558175
+#EXTINF:0 CUID="23466" tvg-name="[AR] Bein Sport MAX 1 (YW)" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/d/d1/%D8%B4%D8%B9%D8%A7%D8%B1_%D8%AA%D8%B5%D9%81%D9%8A%D8%A7%D8%AA_%D9%83%D8%A3%D8%B3_%D8%A7%D9%84%D8%A3%D9%85%D9%85_%D8%A7%D9%84%D8%A5%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A9_2025.png" group-title="BEIN MAX",[AR] Bein Sport MAX 1 (YW)
+http://lukatv.net:8880/551632710530/140777688297/558176
+#EXTINF:0 CUID="23467" tvg-name="[AR] Bein Sport MAX 2 (YW)" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/d/d1/%D8%B4%D8%B9%D8%A7%D8%B1_%D8%AA%D8%B5%D9%81%D9%8A%D8%A7%D8%AA_%D9%83%D8%A3%D8%B3_%D8%A7%D9%84%D8%A3%D9%85%D9%85_%D8%A7%D9%84%D8%A5%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A9_2025.png" group-title="BEIN MAX",[AR] Bein Sport MAX 2 (YW)
+http://lukatv.net:8880/551632710530/140777688297/558177
+#EXTINF:0 CUID="23468" tvg-name="[BG] Diema Sport 3 HD" group-title="BEIN MAX",[BG] Diema Sport 3 HD
+http://lukatv.net:8880/551632710530/140777688297/558200
+#EXTINF:0 CUID="23469" tvg-name="|NL| ZIGGO SPORT HD" group-title="BEIN MAX",|NL| ZIGGO SPORT HD
+http://lukatv.net:8880/551632710530/140777688297/558201
+#EXTINF:0 CUID="23470" tvg-name="[BG] MAX Sport 1" group-title="BEIN MAX",[BG] MAX Sport 1
+http://lukatv.net:8880/551632710530/140777688297/558230
+#EXTINF:0 CUID="23471" tvg-name="[BG] MAX Sport 2" group-title="BEIN MAX",[BG] MAX Sport 2
+http://lukatv.net:8880/551632710530/140777688297/558231
+#EXTINF:0 CUID="23472" tvg-name="[BG] MAX Sport 3" group-title="BEIN MAX",[BG] MAX Sport 3
+http://lukatv.net:8880/551632710530/140777688297/558232
+#EXTINF:0 CUID="23473" tvg-name="[BG] MAX Sport 4" group-title="BEIN MAX",[BG] MAX Sport 4
+http://lukatv.net:8880/551632710530/140777688297/558233
+#EXTINF:0 CUID="23474" tvg-name="[FR] BEIN SPORT FR 1" group-title="BEIN MAX",[FR] BEIN SPORT FR 1
+http://lukatv.net:8880/551632710530/140777688297/558202
+#EXTINF:0 CUID="23475" tvg-name="[AF]  AZAM SPORT 1" group-title="BEIN MAX",[AF]  AZAM SPORT 1
+http://lukatv.net:8880/551632710530/140777688297/558203
+#EXTINF:0 CUID="23476" tvg-name="[BG] DSTV" group-title="BEIN MAX",[BG] DSTV
+http://lukatv.net:8880/551632710530/140777688297/558204
+#EXTINF:0 CUID="23477" tvg-name="[UK] 4SEVEN" group-title="BEIN MAX",[UK] 4SEVEN
+http://lukatv.net:8880/551632710530/140777688297/558205
+#EXTINF:0 CUID="23478" tvg-name="[AF] SUPERSPORT GRANDSTAND 4K" group-title="BEIN MAX",[AF] SUPERSPORT GRANDSTAND 4K
+http://lukatv.net:8880/551632710530/140777688297/558206
+#EXTINF:0 CUID="23479" tvg-name="[AF] SUPERSPORT GRANDSTAND" group-title="BEIN MAX",[AF] SUPERSPORT GRANDSTAND
+http://lukatv.net:8880/551632710530/140777688297/558207
+#EXTINF:0 CUID="23480" tvg-name="[AF] SUPERSPORT PSL" group-title="BEIN MAX",[AF] SUPERSPORT PSL
+http://lukatv.net:8880/551632710530/140777688297/558208
+#EXTINF:0 CUID="23481" tvg-name="[BG] Eurosport 2" group-title="BEIN MAX",[BG] Eurosport 2
+http://lukatv.net:8880/551632710530/140777688297/558209
+#EXTINF:0 CUID="23482" tvg-name="[BG] Evrokom" group-title="BEIN MAX",[BG] Evrokom
+http://lukatv.net:8880/551632710530/140777688297/558210
+#EXTINF:0 CUID="23483" tvg-name="[AR] ARRYADIA 1 4K" group-title="BEIN MAX",[AR] ARRYADIA 1 4K
+http://lukatv.net:8880/551632710530/140777688297/558211
+#EXTINF:0 CUID="23484" tvg-name="[AR] ON SPORT 1" group-title="BEIN MAX",[AR] ON SPORT 1
+http://lukatv.net:8880/551632710530/140777688297/558212
+#EXTINF:0 CUID="23485" tvg-name="[AR] ON SPORT 2" group-title="BEIN MAX",[AR] ON SPORT 2
+http://lukatv.net:8880/551632710530/140777688297/558213
+#EXTINF:0 CUID="23486" tvg-name="[BG] Food Network" group-title="BEIN MAX",[BG] Food Network
+http://lukatv.net:8880/551632710530/140777688297/558215
+#EXTINF:0 CUID="23487" tvg-name="[BG] Fox" group-title="BEIN MAX",[BG] Fox
+http://lukatv.net:8880/551632710530/140777688297/558216
+#EXTINF:0 CUID="23488" tvg-name="[BG] Magic TV" group-title="BEIN MAX",[BG] Magic TV
+http://lukatv.net:8880/551632710530/140777688297/558229
+#EXTINF:0 CUID="23489" tvg-name="[BG] Nova Sport" group-title="BEIN MAX",[BG] Nova Sport
+http://lukatv.net:8880/551632710530/140777688297/558240
 #EXTINF:0 CUID="8683" tvg-name="اشتراك✅  کڕینی کۆد✅  IPTV VIP" tvg-logo="https://i.postimg.cc/x1Ncddt9/CC2958-B1-8-A37-481-C-9-B14-2-FE57-CAACEC2.png" group-title="BEIN SPORT 4k",اشتراك✅  کڕینی کۆد✅  IPTV VIP
 https://v.redd.it/smx05t0jmjee1/HLSPlaylist.m3u8
-#EXTINF:0 CUID="23036" tvg-name="BEIN4K SPORT 4K/3840" tvg-logo="http://p.apkdt.co/pic/other/bein4k.png" group-title="BEIN SPORT 4k",BEIN4K SPORT 4K/3840
-http://dksip.com/Abed@2022/MhgzW908nd/18953
-#EXTINF:0 CUID="23037" tvg-name="BEIN SPORTS 1 HD" tvg-logo="http://p.apkdt.co/pic/other/bein1.png" group-title="BEIN SPORT 4k",BEIN SPORTS 1 HD
-http://dksip.com/Abed@2022/MhgzW908nd/68307
-#EXTINF:0 CUID="23038" tvg-name="BEIN SPORTS 1 4K" tvg-logo="http://p.apkdt.co/pic/other/bein1.png" group-title="BEIN SPORT 4k",BEIN SPORTS 1 4K
-http://dksip.com/Abed@2022/MhgzW908nd/12687
-#EXTINF:0 CUID="23039" tvg-name="BEIN SPORTS 1 FHD" tvg-logo="http://p.apkdt.co/pic/other/bein1.png" group-title="BEIN SPORT 4k",BEIN SPORTS 1 FHD
-http://dksip.com/Abed@2022/MhgzW908nd/12703
-#EXTINF:0 CUID="23040" tvg-name="BEIN SPORTS 2 HD" tvg-logo="http://p.apkdt.co/pic/other/bein2.png" group-title="BEIN SPORT 4k",BEIN SPORTS 2 HD
-http://dksip.com/Abed@2022/MhgzW908nd/68308
-#EXTINF:0 CUID="23041" tvg-name="BEIN SPORTS 2 4K" tvg-logo="http://p.apkdt.co/pic/other/bein2.png" group-title="BEIN SPORT 4k",BEIN SPORTS 2 4K
-http://dksip.com/Abed@2022/MhgzW908nd/221580
-#EXTINF:0 CUID="23042" tvg-name="BEIN SPORTS 2 FHD" tvg-logo="http://p.apkdt.co/pic/other/bein2.png" group-title="BEIN SPORT 4k",BEIN SPORTS 2 FHD
-http://dksip.com/Abed@2022/MhgzW908nd/12704
-#EXTINF:0 CUID="23043" tvg-name="BEIN SPORTS 3 HD" tvg-logo="http://p.apkdt.co/pic/other/bein3.png" group-title="BEIN SPORT 4k",BEIN SPORTS 3 HD
-http://dksip.com/Abed@2022/MhgzW908nd/68310
-#EXTINF:0 CUID="23044" tvg-name="BEIN SPORTS 3 4K" tvg-logo="http://p.apkdt.co/pic/other/bein3.png" group-title="BEIN SPORT 4k",BEIN SPORTS 3 4K
-http://dksip.com/Abed@2022/MhgzW908nd/61591
-#EXTINF:0 CUID="23045" tvg-name="BEIN SPORTS 3 FHD" tvg-logo="http://p.apkdt.co/pic/other/bein3.png" group-title="BEIN SPORT 4k",BEIN SPORTS 3 FHD
-http://dksip.com/Abed@2022/MhgzW908nd/61635
-#EXTINF:0 CUID="23046" tvg-name="BEIN SPORTS 4 HD" tvg-logo="http://p.apkdt.co/pic/other/bein4.png" group-title="BEIN SPORT 4k",BEIN SPORTS 4 HD
-http://dksip.com/Abed@2022/MhgzW908nd/68311
-#EXTINF:0 CUID="23047" tvg-name="BEIN SPORTS 4 4K" tvg-logo="http://p.apkdt.co/pic/other/bein4.png" group-title="BEIN SPORT 4k",BEIN SPORTS 4 4K
-http://dksip.com/Abed@2022/MhgzW908nd/61592
-#EXTINF:0 CUID="23048" tvg-name="BEIN SPORTS 4 FHD" tvg-logo="http://p.apkdt.co/pic/other/bein4.png" group-title="BEIN SPORT 4k",BEIN SPORTS 4 FHD
-http://dksip.com/Abed@2022/MhgzW908nd/61636
-#EXTINF:0 CUID="23049" tvg-name="BEIN SPORTS 5 HD" tvg-logo="http://p.apkdt.co/pic/other/bein5.png" group-title="BEIN SPORT 4k",BEIN SPORTS 5 HD
-http://dksip.com/Abed@2022/MhgzW908nd/68312
-#EXTINF:0 CUID="23050" tvg-name="BEIN SPORTS 5 4K" tvg-logo="http://p.apkdt.co/pic/other/bein5.png" group-title="BEIN SPORT 4k",BEIN SPORTS 5 4K
-http://dksip.com/Abed@2022/MhgzW908nd/61593
-#EXTINF:0 CUID="23051" tvg-name="BEIN SPORTS 5 FHD" tvg-logo="http://p.apkdt.co/pic/other/bein5.png" group-title="BEIN SPORT 4k",BEIN SPORTS 5 FHD
-http://dksip.com/Abed@2022/MhgzW908nd/61637
-#EXTINF:0 CUID="23052" tvg-name="BEIN SPORTS 6 HD" tvg-logo="http://p.apkdt.co/pic/other/bein6.png" group-title="BEIN SPORT 4k",BEIN SPORTS 6 HD
-http://dksip.com/Abed@2022/MhgzW908nd/68313
-#EXTINF:0 CUID="23053" tvg-name="BEIN SPORTS 6 UHD" tvg-logo="http://p.apkdt.co/pic/other/bein6.png" group-title="BEIN SPORT 4k",BEIN SPORTS 6 UHD
-http://dksip.com/Abed@2022/MhgzW908nd/17899
-#EXTINF:0 CUID="23054" tvg-name="BEIN SPORTS 6 4K" tvg-logo="http://p.apkdt.co/pic/other/bein6.png" group-title="BEIN SPORT 4k",BEIN SPORTS 6 4K
-http://dksip.com/Abed@2022/MhgzW908nd/12690
-#EXTINF:0 CUID="23055" tvg-name="BEIN SPORTS 6 FHD" tvg-logo="http://p.apkdt.co/pic/other/bein6.png" group-title="BEIN SPORT 4k",BEIN SPORTS 6 FHD
-http://dksip.com/Abed@2022/MhgzW908nd/12706
-#EXTINF:0 CUID="23056" tvg-name="BEIN SPORTS 7 HD" tvg-logo="http://p.apkdt.co/pic/other/bein7.png" group-title="BEIN SPORT 4k",BEIN SPORTS 7 HD
-http://dksip.com/Abed@2022/MhgzW908nd/68314
-#EXTINF:0 CUID="23057" tvg-name="BEIN SPORTS 7 UHD" tvg-logo="http://p.apkdt.co/pic/other/bein7.png" group-title="BEIN SPORT 4k",BEIN SPORTS 7 UHD
-http://dksip.com/Abed@2022/MhgzW908nd/17900
-#EXTINF:0 CUID="23058" tvg-name="BEIN SPORTS 7 4K" tvg-logo="http://p.apkdt.co/pic/other/bein7.png" group-title="BEIN SPORT 4k",BEIN SPORTS 7 4K
-http://dksip.com/Abed@2022/MhgzW908nd/12691
-#EXTINF:0 CUID="23059" tvg-name="BEIN SPORTS 7 FHD" tvg-logo="http://p.apkdt.co/pic/other/bein7.png" group-title="BEIN SPORT 4k",BEIN SPORTS 7 FHD
-http://dksip.com/Abed@2022/MhgzW908nd/12707
-#EXTINF:0 CUID="23060" tvg-name="BEIN SPORTS 8 HD" group-title="BEIN SPORT 4k",BEIN SPORTS 8 HD
-http://dksip.com/Abed@2022/MhgzW908nd/68315
-#EXTINF:0 CUID="23061" tvg-name="BEIN SPORTS 8 UHD" group-title="BEIN SPORT 4k",BEIN SPORTS 8 UHD
-http://dksip.com/Abed@2022/MhgzW908nd/17901
-#EXTINF:0 CUID="23062" tvg-name="BEIN SPORTS 8 4K" group-title="BEIN SPORT 4k",BEIN SPORTS 8 4K
-http://dksip.com/Abed@2022/MhgzW908nd/12692
-#EXTINF:0 CUID="23063" tvg-name="BEIN SPORTS 8 FHD" group-title="BEIN SPORT 4k",BEIN SPORTS 8 FHD
-http://dksip.com/Abed@2022/MhgzW908nd/12708
-#EXTINF:0 CUID="23064" tvg-name="BEIN SPORTS 9 HD" group-title="BEIN SPORT 4k",BEIN SPORTS 9 HD
-http://dksip.com/Abed@2022/MhgzW908nd/68316
-#EXTINF:0 CUID="23065" tvg-name="BEIN SPORTS 9 UHD" group-title="BEIN SPORT 4k",BEIN SPORTS 9 UHD
-http://dksip.com/Abed@2022/MhgzW908nd/17902
-#EXTINF:0 CUID="23066" tvg-name="BEIN SPORTS 9 4K" group-title="BEIN SPORT 4k",BEIN SPORTS 9 4K
-http://dksip.com/Abed@2022/MhgzW908nd/12693
-#EXTINF:0 CUID="23067" tvg-name="BEIN SPORTS 9 FHD" group-title="BEIN SPORT 4k",BEIN SPORTS 9 FHD
-http://dksip.com/Abed@2022/MhgzW908nd/12709
+#EXTINF:0 CUID="23103" tvg-name="BEIN SPORT ①  4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",BEIN SPORT ①  4K
+http://lukatv.net:8880/551632710530/140777688297/96394
+#EXTINF:0 CUID="23104" tvg-name="BEIN SPORT ⓵   FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",BEIN SPORT ⓵   FHD
+http://lukatv.net:8880/551632710530/140777688297/66
+#EXTINF:0 CUID="23105" tvg-name="BEIN SPORT ➊ HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",BEIN SPORT ➊ HD
+http://lukatv.net:8880/551632710530/140777688297/287734
+#EXTINF:0 CUID="23106" tvg-name="BEIN SPORTS 1 /720P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",BEIN SPORTS 1 /720P
+http://lukatv.net:8880/551632710530/140777688297/546682
+#EXTINF:0 CUID="23107" tvg-name="BEIN SPORT 2  4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",BEIN SPORT 2  4k
+http://lukatv.net:8880/551632710530/140777688297/350213
+#EXTINF:0 CUID="23108" tvg-name="BEIN SPORT 2  FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",BEIN SPORT 2  FHD
+http://lukatv.net:8880/551632710530/140777688297/65
+#EXTINF:0 CUID="23109" tvg-name="BEIN SPORTS 2 /720P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",BEIN SPORTS 2 /720P
+http://lukatv.net:8880/551632710530/140777688297/546683
+#EXTINF:0 CUID="23110" tvg-name="BEIN SPORT 3  4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",BEIN SPORT 3  4k
+http://lukatv.net:8880/551632710530/140777688297/96396
+#EXTINF:0 CUID="23111" tvg-name="BEIN SPORT 3 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",BEIN SPORT 3 FHD
+http://lukatv.net:8880/551632710530/140777688297/64
+#EXTINF:0 CUID="23112" tvg-name="BEIN SPORTS 3 /720P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",BEIN SPORTS 3 /720P
+http://lukatv.net:8880/551632710530/140777688297/546684
+#EXTINF:0 CUID="23113" tvg-name="BEIN SPORTS 4 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",BEIN SPORTS 4 FHD
+http://lukatv.net:8880/551632710530/140777688297/73
+#EXTINF:0 CUID="23114" tvg-name="BEIN SPORTS 4 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",BEIN SPORTS 4 4K
+http://lukatv.net:8880/551632710530/140777688297/12347
+#EXTINF:0 CUID="23115" tvg-name="BEIN SPORTS 4 /720P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",BEIN SPORTS 4 /720P
+http://lukatv.net:8880/551632710530/140777688297/546685
+#EXTINF:0 CUID="23116" tvg-name="BEIN SPORTS 5 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",BEIN SPORTS 5 4K
+http://lukatv.net:8880/551632710530/140777688297/12348
+#EXTINF:0 CUID="23117" tvg-name="BEIN SPORTS 5 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",BEIN SPORTS 5 FHD
+http://lukatv.net:8880/551632710530/140777688297/72
+#EXTINF:0 CUID="23118" tvg-name="BEIN SPORTS 5 /720P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",BEIN SPORTS 5 /720P
+http://lukatv.net:8880/551632710530/140777688297/546686
+#EXTINF:0 CUID="23119" tvg-name="BEIN SPORTS 6 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",BEIN SPORTS 6 FHD
+http://lukatv.net:8880/551632710530/140777688297/71
+#EXTINF:0 CUID="23120" tvg-name="BEIN SPORTS 6 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",BEIN SPORTS 6 4K
+http://lukatv.net:8880/551632710530/140777688297/12349
+#EXTINF:0 CUID="23121" tvg-name="BEIN SPORTS 6 /720P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",BEIN SPORTS 6 /720P
+http://lukatv.net:8880/551632710530/140777688297/546687
+#EXTINF:0 CUID="23122" tvg-name="BEIN SPORTS 7 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",BEIN SPORTS 7 FHD
+http://lukatv.net:8880/551632710530/140777688297/70
+#EXTINF:0 CUID="23123" tvg-name="BEIN SPORTS 7 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",BEIN SPORTS 7 4K
+http://lukatv.net:8880/551632710530/140777688297/12350
+#EXTINF:0 CUID="23124" tvg-name="BEIN SPORTS 7 /720P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",BEIN SPORTS 7 /720P
+http://lukatv.net:8880/551632710530/140777688297/546688
+#EXTINF:0 CUID="23125" tvg-name="BEIN SPORTS 8 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",BEIN SPORTS 8 FHD
+http://lukatv.net:8880/551632710530/140777688297/69
+#EXTINF:0 CUID="23126" tvg-name="BEIN SPORTS 8 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",BEIN SPORTS 8 4K
+http://lukatv.net:8880/551632710530/140777688297/12351
+#EXTINF:0 CUID="23127" tvg-name="BEIN SPORTS 8 /720P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",BEIN SPORTS 8 /720P
+http://lukatv.net:8880/551632710530/140777688297/546689
+#EXTINF:0 CUID="23128" tvg-name="BEIN SPORTS 9 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",BEIN SPORTS 9 FHD
+http://lukatv.net:8880/551632710530/140777688297/68
+#EXTINF:0 CUID="23129" tvg-name="BEIN SPORTS 9 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",BEIN SPORTS 9 4K
+http://lukatv.net:8880/551632710530/140777688297/12352
+#EXTINF:0 CUID="23130" tvg-name="BEIN SPORTS 9 /720P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",BEIN SPORTS 9 /720P
+http://lukatv.net:8880/551632710530/140777688297/546690
 #EXTINF:0 CUID="8684" tvg-name="BEIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/5/52/BeIN_4K_logo.jpg" group-title="BEIN SPORT 4k",BEIN SPORTS
 https://py.dencreak.com/bn_g_4k1.m3u8
 #EXTINF:0 CUID="8685" tvg-name="BEIN SPORTS NEWS" tvg-logo="https://i.postimg.cc/jK5M06Hr/New-Project.png" group-title="BEIN SPORT 4k",BEIN SPORTS NEWS
@@ -4179,176 +5017,6 @@ https://iko-live.akamaized.net/ZarokTV/master.m3u8
 https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
 #EXTINF:0 CUID="10594" tvg-name="ZAROK SORANÎ" tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png" group-title="turkish",ZAROK SORANÎ
 https://zindisorani.zaroktv.com.tr/hls/stream.m3u8
-#EXTINF:0 CUID="10595" tvg-name="Afarin TV" tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="kids hd",Afarin TV
-https://5ab29cc78f681.streamlock.net/afarinTV/livestream/playlist.m3u8
-#EXTINF:0 CUID="10596" tvg-name="Balapan TV" tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="kids hd",Balapan TV
-https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
-#EXTINF:0 CUID="10597" tvg-name="Duck tv" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Ducktv.png" group-title="kids hd",Duck tv
-http://iptv.prosto.tv:7000/ch209/video.m3u8
-#EXTINF:0 CUID="10598" tvg-name="EBS kids" tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="kids hd",EBS kids
-http://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
-#EXTINF:0 CUID="10599" tvg-name="Kids1" tvg-logo="https://bit.ly/48KWzEB" group-title="kids hd",Kids1
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=33
-#EXTINF:0 CUID="10600" tvg-name="Kids2" tvg-logo="https://bit.ly/48KWzEB" group-title="kids hd",Kids2
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=34
-#EXTINF:0 CUID="10601" tvg-name="Kids3" tvg-logo="https://bit.ly/48KWzEB" group-title="kids hd",Kids3
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=35
-#EXTINF:0 CUID="10602" tvg-name="Kids4" tvg-logo="https://bit.ly/48KWzEB" group-title="kids hd",Kids4
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=36
-#EXTINF:0 CUID="10603" tvg-name="Kids5" tvg-logo="https://bit.ly/48KWzEB" group-title="kids hd",Kids5
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=37
-#EXTINF:0 CUID="10604" tvg-name="Kids6" tvg-logo="https://bit.ly/48KWzEB" group-title="kids hd",Kids6
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=225
-#EXTINF:0 CUID="10605" tvg-name="Kids7" tvg-logo="https://bit.ly/48KWzEB" group-title="kids hd",Kids7
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2613
-#EXTINF:0 CUID="10606" tvg-name="KidsClick" tvg-logo="https://i.imgur.com/yg7MHn9.png" group-title="kids hd",KidsClick
-https://usgeowall.sinclairstoryline.com/channel/1698bf57810a48c486b83d542bca298d.m3u8
-#EXTINF:0 CUID="10607" tvg-name="MBC3 HD" tvg-logo="https://i.imgur.com/vONTtdP.png" group-title="kids hd",MBC3 HD
-https://mbcbollywood-prod-dub-enc.edgenextcdn.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
-#EXTINF:0 CUID="10608" tvg-name="MBC3 USA HD" tvg-logo="https://i.imgur.com/vONTtdP.png" group-title="kids hd",MBC3 USA HD
-https://mbc-3-usa-enc.edgenextcdn.net/out/v1/8bbfec9446d84c9ea0dfa34edede6db9/index.m3u8
-#EXTINF:0 CUID="10609" tvg-name="Moonbug Kids" tvg-logo="https://i.imgur.com/vZHtxQb.png" group-title="kids hd",Moonbug Kids
-https://moonbug-rokuus.amagi.tv/playlist.m3u8
-#EXTINF:0 CUID="10610" tvg-name="Nickelodeon HD" tvg-logo="https://i.imgur.com/oJuu63l.png" group-title="kids hd",Nickelodeon HD
-http://143.244.60.30/NICKELODEON/index.m3u8
-#EXTINF:0 CUID="10611" tvg-name="NickToons" tvg-logo="https://i.imgur.com/zKfH3KI.png" group-title="kids hd",NickToons
-http://143.244.60.30/NICKTOONS/index.m3u8
-#EXTINF:0 CUID="10612" tvg-name="PBS KIDS" tvg-logo="https://i.imgur.com/YMdvQBi.png" group-title="kids hd",PBS KIDS
-https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
-#EXTINF:0 CUID="10613" tvg-name="Ryan and Friends" tvg-logo="https://i.imgur.com/jcIprmt.png" group-title="kids hd",Ryan and Friends
-https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:0 CUID="10614" tvg-name="Spacetoon" tvg-logo="https://i.imgur.com/6gZB1IC.png" group-title="kids hd",Spacetoon
-https://spacetoon-prod-dub-enc.edgenextcdn.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
-#EXTINF:0 CUID="10615" tvg-name="SPACETOON" tvg-logo="https://www.lyngsat.com/logo/tv/ss/space_toon_ae_1.png" group-title="kids hd",SPACETOON
-http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8?@amarnettv.live
-#EXTINF:0 CUID="10616" tvg-name="Zoo Moo" tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="kids hd",Zoo Moo
-https://zoomoo-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:0 CUID="10617" tvg-name="ZooMoo HD" tvg-logo="https://i.imgur.com/246vm7R.png" group-title="kids hd",ZooMoo HD
-https://zoomoo-samsungau.amagi.tv/playlist1080p.m3u8
-#EXTINF:0 CUID="10618" tvg-name="شهاب" tvg-logo="https://bit.ly/40q3Ndz" group-title="kids hd",شهاب
-http://95.216.180.111:1935/live/67/index.m3u8
-#EXTINF:0 CUID="10619" tvg-name="🇧🇷  TVE" tvg-logo="http://i.imgur.com/gQ4GDzQ.png" group-title="kids hd",🇧🇷  TVE
-http://streaming.procergs.com.br:1935/tve/stve/chunklist.m3u8
-#EXTINF:0 CUID="10620" tvg-name="🇧🇷 Toon Goggles" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Toon_Goggles_logo.png" group-title="kids hd",🇧🇷 Toon Goggles
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=514
-#EXTINF:0 CUID="10621" tvg-name="🇧🇷 Tv Escolaᴴᴰ" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/escola.png" group-title="kids hd",🇧🇷 Tv Escolaᴴᴰ
-https://5c483b9d1019c.streamlock.net/8054/8054/chunklist.m3u8
-#EXTINF:0 CUID="10622" tvg-name="🇪🇸 Pequeradio TV" tvg-logo="https://graph.facebook.com/Pequeradio/picture?width=200&height=200" group-title="kids hd",🇪🇸 Pequeradio TV
-https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
-#EXTINF:0 CUID="10623" tvg-name="🇺🇸  ZooMoo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/250px-ZooMoo_logo.svg.png" group-title="kids hd",🇺🇸  ZooMoo
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=60
-#EXTINF:0 CUID="10624" tvg-name="🇺🇸 TG Junior Kids" tvg-logo="https://sck.pm/gl9u" group-title="kids hd",🇺🇸 TG Junior Kids
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=31
-#EXTINF:0 CUID="10625" tvg-name="🇺🇸 Tortues Ninja [Pluto]" tvg-logo="https://images.pluto.tv/channels/5d0c16d686454ead733d08f8/colorLogoPNG.png" group-title="kids hd",🇺🇸 Tortues Ninja [Pluto]
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d0c16d686454ead733d08f8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:0 CUID="10626" tvg-name="Cartoon Network AR" tvg-logo="﻿https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/640px-Cartoon_Network_Arabic_logo.png" group-title="kids hd",Cartoon Network AR
-http://154.58.202.131:8000/play/a0az
-#EXTINF:0 CUID="10627" tvg-name="Os Simpsons 🇧🇷" tvg-logo="﻿https://upload.wikimedia.org/wikipedia/pt/e/e6/The_Simpsons_promo.png" group-title="kids hd",Os Simpsons 🇧🇷
-http://24hrs.homelinux.com:8080/24H-ossimpsons/video.m3u8
-#EXTINF:0 CUID="10628" tvg-name="Amou Yazid TV" tvg-logo="﻿https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/amouyazid.png" group-title="kids hd",Amou Yazid TV
-http://mkstream.servehttp.com:1940/AmouYazid/ay1/chunklist.m3u8
-#EXTINF:0 CUID="10629" tvg-name="Rakuten Família 🇵🇹" tvg-logo="﻿https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/476faeb2-0128-4709-8a60-67c1b253a55e-width200-quality90.png" group-title="kids hd",Rakuten Família 🇵🇹
-https://48faa1daf24549fab34594bc5bdd99f2.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6213/master.m3u8
-#EXTINF:0 CUID="10630" tvg-name="Mr.Bean 🇪🇸🇬🇧 [ʀᴀkυᴛᴇɴ]" tvg-logo="﻿https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Mr%20Bean.webp" group-title="kids hd",Mr.Bean 🇪🇸🇬🇧 [ʀᴀkυᴛᴇɴ]
-https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
-#EXTINF:0 CUID="10631" tvg-name="Pocoyo 🇧🇷" tvg-logo="﻿https://media.tvup.cloud/canales/color_lg_61ea6fef709aaf001a5581ae.png" group-title="kids hd",Pocoyo 🇧🇷
-https://ani-pocptbr-samsungtvplus-ptbr.otteravision.com/ani/pocptbr_h265/pocptbr_h265.m3u8
-#EXTINF:0 CUID="10632" tvg-name="ROTANA_KIDS" tvg-logo="﻿https://upload.wikimedia.org/wikipedia/commons/1/1f/Rotana_Kids.png" group-title="kids hd",ROTANA_KIDS
-https://cdn1.iptvcdn.tv/mcnc/ROTANA_KIDS/playlist.m3u8?&token=demo
-#EXTINF:0 CUID="10633" tvg-name="Léo e Lully 🇧🇷" tvg-logo="﻿https://nxplay-images.comets.com.br/resize/65ba3aa6b33fa_e87fab2ab503a0032691e607098fb9e8.png" group-title="kids hd",Léo e Lully 🇧🇷
-https://cdn-3.nxplay.com.br/LEO_E_LULLY/tracks-v1a1/mono.m3u8
-#EXTINF:0 CUID="10634" tvg-name="TVG Xabarin 🇪🇸" tvg-logo="﻿https://crtvg.gal/documents/2915657/2918041/Xabar%C3%ADn+logo+con+G+e+texto+con+sombra.png" group-title="kids hd",TVG Xabarin 🇪🇸
-https://crtvg-infantil-schlive.flumotion.cloud/crtvglive/smil:channel5PRG.smil/playlist.m3u8
-#EXTINF:0 CUID="10635" tvg-name="Barbie and Friends 🇺🇸" tvg-logo="﻿https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD490000209_20241104T163538SQUARE.png" group-title="kids hd",Barbie and Friends 🇺🇸
-https://d1xqdnwy1bo05f.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jh1ol665g3amg/barb.m3u8
-#EXTINF:0 CUID="10636" tvg-name="Animation+ 🇺🇸" tvg-logo="﻿https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US400002PS_20241112T000926SQUARE.png" group-title="kids hd",Animation+ 🇺🇸
-https://d25xml1ag3v99o.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-td10dsmk8ovae/playlist.m3u8
-#EXTINF:0 CUID="10637" tvg-name="BBC Kids 🇺🇸" tvg-logo="﻿https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA800001ZX_20250121T094909SQUARE.png" group-title="kids hd",BBC Kids 🇺🇸
-https://d26xbpvvy0tj0m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2ym2cgz6gmgem/playlist.m3u8
-#EXTINF:0 CUID="10638" tvg-name="Sonic the Hedgehog 🇺🇸" tvg-logo="﻿https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300020PM_20240520T214843SQUARE.png" group-title="kids hd",Sonic the Hedgehog 🇺🇸
-https://d36joy6bh8xxe2.cloudfront.net/master.m3u8
-#EXTINF:0 CUID="10639" tvg-name="PBS Kids 🇺🇸" tvg-logo="﻿https://github.com/inspirationlinks/m3u/raw/refs/heads/live/LogosTv/PBSKids.webp" group-title="kids hd",PBS Kids 🇺🇸
-https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af7894775ba6de8f57482b66a/CMAF_HLS/index.m3u8
-#EXTINF:0 CUID="10640" tvg-name="Duck tv 🇪🇸" tvg-logo="﻿https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3400003HI_20241119T020447SQUARE.png" group-title="kids hd",Duck tv 🇪🇸
-https://dlir9brl2ge8j.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9u2v4ro40jww6-ssai-prd/playlist.m3u8
-#EXTINF:0 CUID="10641" tvg-name="Garfield and Friends 🇺🇸" tvg-logo="﻿https://images.pluto.tv/channels/60faf9ddfcc1f200070a5932/colorLogoPNG.png" group-title="kids hd",Garfield and Friends 🇺🇸
-https://is.gd/KGxtX7?60faf9ddfcc1f200070a5932.m3u8
-#EXTINF:0 CUID="10642" tvg-name="Lego Kids 🇺🇸" tvg-logo="﻿https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/29/USBA2300001S8_20220330T044603.png" group-title="kids hd",Lego Kids 🇺🇸
-https://is.gd/TH0DFt?legKids.m3u8
-#EXTINF:0 CUID="10643" tvg-name="Smurf tv 🇺🇸" tvg-logo="﻿https://github.com/inspirationlinks/m3u/raw/live/LogosTv/pitufotv.webp" group-title="kids hd",Smurf tv 🇺🇸
-https://is.gd/V0cHd5?profile=GBBD1300001WA.m3u8
-#EXTINF:0 CUID="10644" tvg-name="ROTANA_KIDS" tvg-logo="﻿https://upload.wikimedia.org/wikipedia/commons/1/1f/Rotana_Kids.png" group-title="kids hd",ROTANA_KIDS
-https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids/playlist.m3u8
-#EXTINF:0 CUID="10645" tvg-name="Spacetoon" tvg-logo="﻿https://i.imgur.com/6gZB1IC.png" group-title="kids hd",Spacetoon
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8
-#EXTINF:0 CUID="10646" tvg-name="Moranguinho 🇧🇷" tvg-logo="﻿https://images.pluto.tv/channels/63eba189c111bc0008ff59c5/colorLogoPNG.png" group-title="kids hd",Moranguinho 🇧🇷
-https://stitcher.pluto.tv/stitch/hls/channel/63eba189c111bc0008ff59c5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=ab3b5982-6948-11ef-ae29-0647e4d345b9
-#EXTINF:0 CUID="10647" tvg-name="Teletubbies 🇧🇷" tvg-logo="﻿https://images.pluto.tv/channels/64e50055286f6b000838c067/colorLogoPNG.png" group-title="kids hd",Teletubbies 🇧🇷
-https://stitcher.pluto.tv/stitch/hls/channel/64e50055286f6b000838c067/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=ab3b5982-6948-11ef-ae29-0647e4d345b9
-#EXTINF:0 CUID="10648" tvg-name="Tortues Ninja 🇺🇸" tvg-logo="﻿https://images.pluto.tv/channels/5d0c16d686454ead733d08f8/colorLogoPNG.png" group-title="kids hd",Tortues Ninja 🇺🇸
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d0c16d686454ead733d08f8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
-#EXTINF:0 CUID="10649" tvg-name="Inspector Gadget 🇺🇸" tvg-logo="﻿https://images.pluto.tv/channels/5d765786aad587cf4d0e2bf6/colorLogoPNG.png" group-title="kids hd",Inspector Gadget 🇺🇸
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d765786aad587cf4d0e2bf6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
-#EXTINF:0 CUID="10650" tvg-name="Nick Jr. Club 🇧🇷" tvg-logo="﻿https://images.pluto.tv/channels/5f121460b73ac6000719fbaf/colorLogoPNG.png" group-title="kids hd",Nick Jr. Club 🇧🇷
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=inspirationiptv&deviceDNT=1
-#EXTINF:0 CUID="10651" tvg-name="Nickelodeon Clássico 🇧🇷" tvg-logo="﻿https://images.pluto.tv/channels/5f12151794c1800007a8ae63/colorLogoPNG.png" group-title="kids hd",Nickelodeon Clássico 🇧🇷
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12151794c1800007a8ae63/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=inspirationiptv&deviceDNT=1
-#EXTINF:0 CUID="10652" tvg-name="O Reino Infantil 🇧🇷" tvg-logo="﻿https://images.pluto.tv/channels/5f5c216df68f920007888315/colorLogoPNG.png" group-title="kids hd",O Reino Infantil 🇧🇷
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5c216df68f920007888315/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=inspirationiptv&deviceDNT=1
-#EXTINF:0 CUID="10653" tvg-name="Turma da Mônica 🇧🇷" tvg-logo="﻿https://images.pluto.tv/channels/5f997e44949bc70007a6941e/colorLogoPNG.png" group-title="kids hd",Turma da Mônica 🇧🇷
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f997e44949bc70007a6941e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
-#EXTINF:0 CUID="10654" tvg-name="Nickelodeon iCarly 🇧🇷" tvg-logo="﻿https://images.pluto.tv/channels/620ff0a01f9e8700076c6f9d/colorLogoPNG.png" group-title="kids hd",Nickelodeon iCarly 🇧🇷
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620ff0a01f9e8700076c6f9d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
-#EXTINF:0 CUID="10655" tvg-name="Nickelodeon Bob Esponja 🇧🇷" tvg-logo="﻿https://images.pluto.tv/channels/62545c0b002f4b0007688b61/colorLogoPNG.png" group-title="kids hd",Nickelodeon Bob Esponja 🇧🇷
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62545c0b002f4b0007688b61/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=inspirationiptv&deviceDNT=1
-#EXTINF:0 CUID="10656" tvg-name="90's Kids 🇺🇸" tvg-logo="﻿https://images.pluto.tv/channels/6452c814939a590008567a3b/colorLogoPNG.png" group-title="kids hd",90's Kids 🇺🇸
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6452c814939a590008567a3b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
-#EXTINF:0 CUID="10657" tvg-name="Desenhos Clássicos 🇧🇷" tvg-logo="﻿https://images.pluto.tv/channels/655e5c4d2c46f3000877a54b/colorLogoPNG.png" group-title="kids hd",Desenhos Clássicos 🇧🇷
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/655e5c4d2c46f3000877a54b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=inspirationiptv&deviceDNT=1
-#EXTINF:0 CUID="10658" tvg-name="GoGO Gadget 🇺🇸" tvg-logo="﻿https://images.pluto.tv/channels/667f3852efa2a10008e1e514/colorLogoPNG.png" group-title="kids hd",GoGO Gadget 🇺🇸
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/667f3852efa2a10008e1e514/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
-#EXTINF:0 CUID="10659" tvg-name="Cineminha 🇧🇷" tvg-logo="﻿https://images.pluto.tv/channels/66c8ca1280a0af00085b5b83/colorLogoPNG.png" group-title="kids hd",Cineminha 🇧🇷
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66c8ca1280a0af00085b5b83/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=inspirationiptv&deviceDNT=1
-#EXTINF:0 CUID="10660" tvg-name="Kids Club 🇧🇷" tvg-logo="﻿https://images.pluto.tv/channels/66c8cae7fed35b0008580ec0/colorLogoPNG.png" group-title="kids hd",Kids Club 🇧🇷
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66c8cae7fed35b0008580ec0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=inspirationiptv&deviceDNT=1
-#EXTINF:0 CUID="10661" tvg-name="Popeye 🇧🇷" tvg-logo="﻿https://images.pluto.tv/channels/677d93f37bffa600080795e7/colorLogoPNG.png" group-title="kids hd",Popeye 🇧🇷
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/677d93f37bffa600080795e7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=inspirationiptv&deviceDNT=1
-#EXTINF:0 CUID="10662" tvg-name="Xtrema Cartoons 🇦🇷" tvg-logo="﻿https://xtrematv.com/wp-content/uploads/2023/05/LOGO-2023-XT-chico.png" group-title="kids hd",Xtrema Cartoons 🇦🇷
-https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
-#EXTINF:0 CUID="10663" tvg-name="Camp Spoopy 🇺🇸" tvg-logo="﻿https://i.imgur.com/8PUbPVU.png" group-title="kids hd",Camp Spoopy 🇺🇸
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
-#EXTINF:0 CUID="10664" tvg-name="Duck tv 🇧🇷" tvg-logo="﻿https://logo.m3uassets.com/ducktv.png" group-title="kids hd",Duck tv 🇧🇷
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=7617
-#EXTINF:0 CUID="10665" tvg-name="Toon Goggles 🇧🇷" tvg-logo="﻿https://upload.wikimedia.org/wikipedia/en/d/da/Toon_Goggles_logo.png" group-title="kids hd",Toon Goggles 🇧🇷
-https://tg-tg-br-samsung.otteravision.com/tg/tg_br_h265/tg_br_h265.m3u8
-#EXTINF:0 CUID="10666" tvg-name="Torococo TV 🇻🇪" tvg-logo="﻿https://cdn.m3u.cl/logo/1400_Torococo_TV.png" group-title="kids hd",Torococo TV 🇻🇪
-https://us.streaminghd.cl/torococotelevision/video.m3u8
-#EXTINF:0 CUID="10667" tvg-name="Majid" tvg-logo="﻿https://bit.ly/3PFq9Up" group-title="kids hd",Majid
-https://vo-live-media.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/index.m3u8
-#EXTINF:0 CUID="10668" tvg-name="kuriakos kids 🇵🇹" tvg-logo="﻿https://kuriakos-kids.com/wp-content/uploads/2023/06/cropped-KuriakosKids_curvas-01-192x192.png" group-title="kids hd",kuriakos kids 🇵🇹
-https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
-#EXTINF:0 CUID="10669" tvg-name="Clan 🇪🇸" tvg-logo="﻿https://upload.wikimedia.org/wikipedia/commons/5/5d/Tve_clan.png" group-title="kids hd",Clan 🇪🇸
-https://ztnr.rtve.es/ztnr/5466990.m3u8
-#EXTINF:0 CUID="22963" tvg-name="MBC ⓵ 4K HD" tvg-id="إم بي سي.eg" tvg-logo="https://www.gifservice.fr/img/gif-vignette-large/4839c66b9e08438a185b0518a9f06952/369036-mbc-m-south-korea-channels-tv-world-multi-media.gif" group-title="kids hd",MBC ⓵ 4K HD
-http://beno4k.live:8080/Tarekmer3i/27959973011767/13316
-#EXTINF:0 CUID="22964" tvg-name="MBC ⓶ 4K HD" tvg-id="إم بي سي 2.eg" tvg-logo="https://www.gifservice.fr/img/gif-vignette-large/3ffbb768d86bc67d1abe7b368b1e3c28/387984-mbc2-united-arab-emirates-channels-tv-world-multi-media.gif" group-title="kids hd",MBC ⓶ 4K HD
-http://beno4k.live:8080/Tarekmer3i/27959973011767/13317
-#EXTINF:0 CUID="22965" tvg-name="MBC ⓷ 4K HD" tvg-id="إم بي سي 3.eg" tvg-logo="https://www.gifservice.fr/img/gif-vignette-small/f916de616ad263a0f47633100dc8cdfe/387989-multi-media-channels-tv-world-united-arab-emirates-mbc3.gif" group-title="kids hd",MBC ⓷ 4K HD
-http://beno4k.live:8080/Tarekmer3i/27959973011767/13318
-#EXTINF:0 CUID="22966" tvg-name="MBC ⓸ 4K HD" tvg-id="MBC 4 HD.ae" tvg-logo="https://www.gifservice.fr/img/gif-vignette-small/3c347eeb25681c20cf7ab48943b152c2/387996-multi-media-channels-tv-world-united-arab-emirates-mbc4.gif" group-title="kids hd",MBC ⓸ 4K HD
-http://beno4k.live:8080/Tarekmer3i/27959973011767/273551
-#EXTINF:0 CUID="22967" tvg-name="MBC ⓹ 4K HD" tvg-id="إم بي سي 5.eg" tvg-logo="https://i.ibb.co/1XBLNRV/photo-output.png" group-title="kids hd",MBC ⓹ 4K HD
-http://beno4k.live:8080/Tarekmer3i/27959973011767/13320
-#EXTINF:0 CUID="22968" tvg-name="BEIN 2 Sport 4K HD" tvg-id="beIN SPORTS2 DIGITAL.qa" tvg-logo="https://www.gifservice.fr/img/gif-vignette-small/2faab18bbe1552ff9b92ccb4dd328923/377037-multi-media-channels-tv-world-qatar-bein-sports.gif" group-title="kids hd",BEIN 2 Sport 4K HD
-http://beno4k.live:8080/Tarekmer3i/27959973011767/674932
-#EXTINF:0 CUID="22969" tvg-name="BEIN 3 Sport 4K HD" tvg-id="beIN SPORTS 3.qa" tvg-logo="https://www.gifservice.fr/img/gif-vignette-small/2faab18bbe1552ff9b92ccb4dd328923/377037-multi-media-channels-tv-world-qatar-bein-sports.gif" group-title="kids hd",BEIN 3 Sport 4K HD
-http://beno4k.live:8080/Tarekmer3i/27959973011767/437427
-#EXTINF:0 CUID="22970" tvg-name="BEIN 4 Sport 4K HD" tvg-id="beIN SPORTS 4.qa" tvg-logo="https://www.gifservice.fr/img/gif-vignette-small/2faab18bbe1552ff9b92ccb4dd328923/377037-multi-media-channels-tv-world-qatar-bein-sports.gif" group-title="kids hd",BEIN 4 Sport 4K HD
-http://beno4k.live:8080/Tarekmer3i/27959973011767/437428
-#EXTINF:0 CUID="22971" tvg-name="BEIN 5 Sport 4K HD" tvg-id="beIN SPORTS 4.qa" tvg-logo="https://www.gifservice.fr/img/gif-vignette-small/2faab18bbe1552ff9b92ccb4dd328923/377037-multi-media-channels-tv-world-qatar-bein-sports.gif" group-title="kids hd",BEIN 5 Sport 4K HD
-http://beno4k.live:8080/Tarekmer3i/27959973011767/437429
-#EXTINF:0 CUID="22972" tvg-name="BEIN 6 Sport 4K HD" tvg-id="beIN SPORTS 6.qa" tvg-logo="https://www.gifservice.fr/img/gif-vignette-small/2faab18bbe1552ff9b92ccb4dd328923/377037-multi-media-channels-tv-world-qatar-bein-sports.gif" group-title="kids hd",BEIN 6 Sport 4K HD
-http://beno4k.live:8080/Tarekmer3i/27959973011767/437430
 #EXTINF:0 CUID="10670" tvg-name="THMANAYH 1 4K H265" tvg-logo="https://play-lh.googleusercontent.com/ypuM96a7NhvRqadsfqZYsLKEdJfMi6Wz2lQL2xk2DbUVjuaF8ggtRwpQyiI36va_LQ--4MdOhPgSsJQUso_xTw=w600-h300-pc0xffffff-pd" group-title="THMANAYH ",THMANAYH 1 4K H265
 http://sa.savpn.xyz/live/78965415869/780928/710135.m3u8
 #EXTINF:0 CUID="10671" tvg-name="THMANAYH 2 4K H265" tvg-logo="https://play-lh.googleusercontent.com/ypuM96a7NhvRqadsfqZYsLKEdJfMi6Wz2lQL2xk2DbUVjuaF8ggtRwpQyiI36va_LQ--4MdOhPgSsJQUso_xTw=w600-h300-pc0xffffff-pd" group-title="THMANAYH ",THMANAYH 2 4K H265
