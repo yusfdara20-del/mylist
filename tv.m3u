@@ -332,53 +332,17 @@ http://109.123.245.192/Zaxosport/index.m3u8
 #EXTINF:0 CUID="8664" tvg-name="ASTERA SPORT1" tvg-logo="https://i.postimg.cc/fMcHgm3D/astera-sport.png" group-title="Kurdish  سپۆرت  ",ASTERA SPORT1
 http://109.123.245.192/Asterasport/index.m3u8
 #EXTINF:0 CUID="10755" tvg-name="Alwan Sport 1 4K" tvg-logo="http://safiafamily.com/uploads/family/alwan/Alwan_Ryazya_1.png" group-title="ALWAN  SPORT 4k",Alwan Sport 1 4K
-https://py.dencreak.com/alwan_4k1.m3u8
-#EXTINF:0 CUID="10756" tvg-name="Alwan Sport 1 HD" tvg-logo="http://safiafamily.com/uploads/family/alwan/Alwan_Ryazya_1.png" group-title="ALWAN  SPORT 4k",Alwan Sport 1 HD
-https://py.dencreak.com/alwan_hd1.m3u8
-#EXTINF:0 CUID="10757" tvg-name="Alwan Sport 1 SD" tvg-logo="http://safiafamily.com/uploads/family/alwan/Alwan_Ryazya_1.png" group-title="ALWAN  SPORT 4k",Alwan Sport 1 SD
-https://py.dencreak.com/alwan_sd1.m3u8
+http://109.123.245.192/Alwan1/index.m3u8
 #EXTINF:0 CUID="10758" tvg-name="Alwan Sport 2 4K" tvg-logo="http://safiafamily.com/uploads/family/alwan/Alwan_Ryazya_2.png" group-title="ALWAN  SPORT 4k",Alwan Sport 2 4K
-https://py.dencreak.com/alwan_4k2.m3u8
-#EXTINF:0 CUID="10759" tvg-name="Alwan Sport 2 HD" tvg-logo="http://safiafamily.com/uploads/family/alwan/Alwan_Ryazya_2.png" group-title="ALWAN  SPORT 4k",Alwan Sport 2 HD
-https://py.dencreak.com/alwan_hd2.m3u8
-#EXTINF:0 CUID="10760" tvg-name="Alwan Sport 2 SD" tvg-logo="http://safiafamily.com/uploads/family/alwan/Alwan_Ryazya_2.png" group-title="ALWAN  SPORT 4k",Alwan Sport 2 SD
-https://py.dencreak.com/alwan_sd2.m3u8
+http://109.123.245.192/Alwan2/index.m3u8
 #EXTINF:0 CUID="10761" tvg-name="Alwan Sport 3 4K" tvg-logo="http://safiafamily.com/uploads/family/alwan/Alwan_Ryazya_3.png" group-title="ALWAN  SPORT 4k",Alwan Sport 3 4K
-https://py.dencreak.com/alwan_4k3.m3u8
-#EXTINF:0 CUID="10762" tvg-name="Alwan Sport 3 HD" tvg-logo="http://safiafamily.com/uploads/family/alwan/Alwan_Ryazya_3.png" group-title="ALWAN  SPORT 4k",Alwan Sport 3 HD
-https://py.dencreak.com/alwan_hd3.m3u8
-#EXTINF:0 CUID="10763" tvg-name="Alwan Sport 3 SD" tvg-logo="http://safiafamily.com/uploads/family/alwan/Alwan_Ryazya_3.png" group-title="ALWAN  SPORT 4k",Alwan Sport 3 SD
-https://py.dencreak.com/alwan_sd3.m3u8
+http://109.123.245.192/Alwan3/index.m3u8
 #EXTINF:0 CUID="10764" tvg-name="Alwan Sport 4 4K" tvg-logo="http://safiafamily.com/uploads/family/alwan/Alwan_Ryazya_4.png" group-title="ALWAN  SPORT 4k",Alwan Sport 4 4K
-https://py.dencreak.com/alwan_4k4.m3u8
-#EXTINF:0 CUID="10765" tvg-name="Alwan Sport 4 HD" tvg-logo="http://safiafamily.com/uploads/family/alwan/Alwan_Ryazya_4.png" group-title="ALWAN  SPORT 4k",Alwan Sport 4 HD
-https://py.dencreak.com/alwan_hd4.m3u8
-#EXTINF:0 CUID="10766" tvg-name="Alwan Sport 4 SD" tvg-logo="http://safiafamily.com/uploads/family/alwan/Alwan_Ryazya_4.png" group-title="ALWAN  SPORT 4k",Alwan Sport 4 SD
-https://py.dencreak.com/alwan_sd4.m3u8
+http://109.123.245.192/Alwan4/index.m3u8
 #EXTINF:0 CUID="10767" tvg-name="Alwan Sport 5 4K" tvg-logo="http://safiafamily.com/uploads/family/alwan/Alwan_Ryazya_5.png" group-title="ALWAN  SPORT 4k",Alwan Sport 5 4K
-https://py.dencreak.com/alwan_4k5.m3u8
-#EXTINF:0 CUID="10768" tvg-name="Alwan Sport 5 HD" tvg-logo="http://safiafamily.com/uploads/family/alwan/Alwan_Ryazya_5.png" group-title="ALWAN  SPORT 4k",Alwan Sport 5 HD
-https://py.dencreak.com/alwan_hd5.m3u8
-#EXTINF:0 CUID="10769" tvg-name="Alwan Sport 5 SD" tvg-logo="http://safiafamily.com/uploads/family/alwan/Alwan_Ryazya_5.png" group-title="ALWAN  SPORT 4k",Alwan Sport 5 SD
-https://py.dencreak.com/alwan_sd5.m3u8
+http://109.123.245.192/Alwan5/index.m3u8
 #EXTINF:0 CUID="10770" tvg-name="Alwan Sport 6 4K" tvg-logo="http://safiafamily.com/uploads/family/alwan/Alwan_Ryazya_6.png" group-title="ALWAN  SPORT 4k",Alwan Sport 6 4K
-https://py.dencreak.com/alwan_4k6.m3u8
-#EXTINF:0 CUID="10771" tvg-name="Alwan Sport 6 HD" tvg-logo="http://safiafamily.com/uploads/family/alwan/Alwan_Ryazya_6.png" group-title="ALWAN  SPORT 4k",Alwan Sport 6 HD
-https://py.dencreak.com/alwan_hd6.m3u8
-#EXTINF:0 CUID="10772" tvg-name="Alwan Sport 6 SD" tvg-logo="http://safiafamily.com/uploads/family/alwan/Alwan_Ryazya_6.png" group-title="ALWAN  SPORT 4k",Alwan Sport 6 SD
-https://py.dencreak.com/alwan_sd6.m3u8
-#EXTINF:0 CUID="23097" tvg-name="Alwan Sport 1" group-title="ALWAN  SPORT 4k",Alwan Sport 1
-http://lukatv.net:8880/551632710530/140777688297/550452
-#EXTINF:0 CUID="23098" tvg-name="Alwan Sport 2" group-title="ALWAN  SPORT 4k",Alwan Sport 2
-http://lukatv.net:8880/551632710530/140777688297/550451
-#EXTINF:0 CUID="23099" tvg-name="Alwan sport 3" group-title="ALWAN  SPORT 4k",Alwan sport 3
-http://lukatv.net:8880/551632710530/140777688297/550436
-#EXTINF:0 CUID="23100" tvg-name="Alwan sport 4" group-title="ALWAN  SPORT 4k",Alwan sport 4
-http://lukatv.net:8880/551632710530/140777688297/550450
-#EXTINF:0 CUID="23101" tvg-name="Alwan Sport 5" group-title="ALWAN  SPORT 4k",Alwan Sport 5
-http://lukatv.net:8880/551632710530/140777688297/550422
-#EXTINF:0 CUID="23102" tvg-name="Alwan Sport 6" group-title="ALWAN  SPORT 4k",Alwan Sport 6
-http://lukatv.net:8880/551632710530/140777688297/550423
+http://109.123.245.192/Alwan6/index.m3u8
 #EXTINF:0 CUID="8683" tvg-name="اشتراك✅  کڕینی کۆد✅  IPTV VIP" tvg-logo="https://i.postimg.cc/x1Ncddt9/CC2958-B1-8-A37-481-C-9-B14-2-FE57-CAACEC2.png" group-title="BEIN SPORT 4k",اشتراك✅  کڕینی کۆد✅  IPTV VIP
 https://v.redd.it/smx05t0jmjee1/HLSPlaylist.m3u8
 #EXTINF:0 CUID="8684" tvg-name="BEIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/5/52/BeIN_4K_logo.jpg" group-title="BEIN SPORT 4k",BEIN SPORTS
