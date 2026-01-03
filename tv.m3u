@@ -426,8 +426,8 @@ http://lukatv.net:8880/22149615339883/46385825577139/157654
 http://lukatv.net:8880/22149615339883/46385825577139/157653
 #EXTINF:0 CUID="23929" tvg-name="4K BEIN SPORTS 3 FR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",4K BEIN SPORTS 3 FR
 http://lukatv.net:8880/22149615339883/46385825577139/157648
-#EXTINF:0 CUID="35157" tvg-name="beIN  UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",beIN  UHD
-http://lukatv.net:8880/22149615339883/46385825577139/506104
+#EXTINF:0 CUID="35157" tvg-name="YUSF D" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",beIN  UHD
+http://familyvip.me:8080/live/62451775468685/fnZbEqjocS/829083.ts
 #EXTINF:0 CUID="35364" tvg-name="BEIN SPORTS USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",BEIN SPORTS USA
 http://lukatv.net:8880/22149615339883/46385825577139/546141
 #EXTINF:0 CUID="35365" tvg-name="8K BEIN SPORTS NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",8K BEIN SPORTS NEWS
@@ -7488,6 +7488,7 @@ http://199.115.193.116:8080/series/90337864331136/90337864331136/409150.mkv
 http://199.115.193.116:8080/series/90337864331136/90337864331136/409556.mkv
 #EXTINF:0 CUID="121339" tvg-name="|4K| MobLand S01 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/abeH7n5pcuQcwYcTxG6DTZvXLP1.jpg" group-title="SERIES 4K MULTi",|4K| MobLand S01 E03
 http://199.115.193.116:8080/series/90337864331136/90337864331136/409557.mkv
+
 
 
 
