@@ -322,308 +322,127 @@ http://duhok.badinan.xyz:1935/live/DuhokTV/chunklist_w1036962996.m3u8
 #EXTINF:0 CUID="8652" tvg-name="اشتراك✅  کڕینی کۆد✅  IPTV VIP" tvg-logo="https://i.postimg.cc/x1Ncddt9/CC2958-B1-8-A37-481-C-9-B14-2-FE57-CAACEC2.png" group-title="Kurdish  سپۆرت  ",اشتراك✅  کڕینی کۆد✅  IPTV VIP
 https://v.redd.it/smx05t0jmjee1/HLS_720.m3u8
 #EXTINF:0 CUID="10754" tvg-name="BEIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/5/52/BeIN_4K_logo.jpg" group-title="Kurdish  سپۆرت  ",BEIN SPORTS
-http://lukatv.net:8880/22149615339883/46385825577139/506104
+http://lukatv.net:8880/fabronyaxsaka/ar791059/506104
 #EXTINF:0 CUID="10751" tvg-name="NRT Sport HD" tvg-logo="https://i.postimg.cc/bypd9X7q/nrt-sport.png" group-title="Kurdish  سپۆرت  ",NRT Sport HD
+http://109.123.245.192/bein111/index.m3u8
+#EXTINF:0 CUID="23136" tvg-name="NRT SPORT SD" tvg-logo="https://i.postimg.cc/NgMdhQGP/NRTSPORT.png" group-title="Kurdish  سپۆرت  ",NRT SPORT SD
 http://2.57.214.72:2095/Arjc0WCSzNRt_180488/KILxRwQfON9tBs/358220?token=yHXUHH.X.y.X.ydHyzzfzHy.X.y.IQ.ts.21ad7b2f58ad4c016dbbdbbe596adbc69e11cce4b0546199b4bfd6d87b4716b5...sh
-#EXTINF:0 CUID="10751" tvg-name="NRT Sport HD" tvg-logo="https://i.postimg.cc/bypd9X7q/nrt-sport.png" group-title="Kurdish  سپۆرت  ",NRT Sport HD
-http://109.123.245.192/bein1/index.m3u8
 #EXTINF:0 CUID="10752" tvg-name="AVA Sport 4k" tvg-logo="https://i.postimg.cc/dJbQQMnJ/AVA.png" group-title="Kurdish  سپۆرت  ",AVA Sport 4k
+http://109.123.245.192/Avasport11/index.m3u8
+#EXTINF:0 CUID="23137" tvg-name="AVA SPORT HD" tvg-logo="https://i.postimg.cc/bqfzRHf3/AVASPORT.png" group-title="Kurdish  سپۆرت  ",AVA SPORT HD
 http://2.57.214.72:2095/Arjc0WCSzNRt_180488/KILxRwQfON9tBs/358221?token=yHXUHH.X.y.X.ydHyzzfzHy.X.y.IQ.ts.21ad7b2f58ad4c016dbbdbbe596adbc69e11cce4b0546199b4bfd6d87b4716b5...sh
-http://109.123.245.192/bein1/index.m3u8
-#EXTINF:0 CUID="10752" tvg-name="AVA Sport 4k" tvg-logo="https://i.postimg.cc/dJbQQMnJ/AVA.png" group-title="Kurdish  سپۆرت  ",AVA Sport 4k
-http://109.123.245.192/Avasport/index.m3u8
 #EXTINF:0 CUID="22883" tvg-name="LD SPORT 4K" tvg-logo="https://i.postimg.cc/0x1wX31q/LDSPORT.png" group-title="Kurdish  سپۆرت  ",LD SPORT 4K
 http://109.123.245.192/Ldsport/index.m3u8
-#EXTINF:0 CUID="22883" tvg-name="LD SPORT 4K" tvg-logo="https://i.postimg.cc/0x1wX31q/LDSPORT.png" group-title="Kurdish  سپۆرت  ",LD SPORT 4K
-http://2.57.214.72:2095/Arjc0WCSzNRt_180488/KILxRwQfON9tBs/358229?token=yHXUHH.X.y.X.ydHyzzfzHy.X.y.IQ.ts.21ad7b2f58ad4c016dbbdbbe596adbc69e11cce4b0546199b4bfd6d87b4716b5...sh
 #EXTINF:0 CUID="8663" tvg-name="ZAXO SPORT" tvg-logo="https://i.postimg.cc/4JwMWmKw/ZAXO-(1).png?dl=1" group-title="Kurdish  سپۆرت  ",ZAXO SPORT
 http://109.123.245.192/Zaxosport/index.m3u8
 #EXTINF:0 CUID="8664" tvg-name="ASTERA SPORT1" tvg-logo="https://i.postimg.cc/fMcHgm3D/astera-sport.png" group-title="Kurdish  سپۆرت  ",ASTERA SPORT1
+http://109.123.245.192/Asterasport/index.m3u8
+#EXTINF:0 CUID="23131" tvg-name="DUHOK SPORT" tvg-logo="https://i.postimg.cc/6w6DfR94/duhok.png" group-title="Kurdish  سپۆرت  ",DUHOK SPORT
+http://2.57.214.72:2095/Arjc0WCSzNRt_180488/KILxRwQfON9tBs/358226?token=yHXUHH.X.y.X.ydHyzzfzHy.X.y.IQ.ts.21ad7b2f58ad4c016dbbdbbe596adbc69e11cce4b0546199b4bfd6d87b4716b5...sh
+#EXTINF:0 CUID="23133" tvg-name="DASINYA SPORT" tvg-logo="https://i.postimg.cc/XVV50xf7/dasinya.png" group-title="Kurdish  سپۆرت  ",DASINYA SPORT
+http://2.57.214.72:2095/Arjc0WCSzNRt_180488/KILxRwQfON9tBs/358230?token=yHXUHH.X.y.X.ydHyzzfzHy.X.y.IQ.ts.21ad7b2f58ad4c016dbbdbbe596adbc69e11cce4b0546199b4bfd6d87b4716b5...sh
+#EXTINF:0 CUID="23139" tvg-name="ASTERA SPORT1" tvg-logo="https://i.postimg.cc/NYRPZWy8/ASTERA.png" group-title="Kurdish  سپۆرت  ",ASTERA SPORT1
 http://2.57.214.72:2095/Arjc0WCSzNRt_180488/KILxRwQfON9tBs/358228?token=yHXUHH.X.y.X.ydHyzzfzHy.X.y.IQ.ts.21ad7b2f58ad4c016dbbdbbe596adbc69e11cce4b0546199b4bfd6d87b4716b5...sh
-#EXTINF:0 CUID="46872" tvg-name="ALWAN SPORT 1 4K" tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN  SPORT 4k",ALWAN SPORT 1 4K
-http://151.243.83.21:8080/live/30702704331140/31580699055695/434261.ts?token=bcXyzz.dbbzd.X.yfaaH.ydHfUcaUaf.X.y.IQ.ts.7165d4c1f16fa4a551b4560b7153f3fa6494d2b91b4f7927a35ad29716b9e13b...ZGtzaXBpLmNvbQ==
-#EXTINF:0 CUID="46873" tvg-name="ALWAN SPORT 2 4K" tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN  SPORT 4k",ALWAN SPORT 2 4K
-http://151.243.83.21:8080/live/30702704331140/31580699055695/434262.ts?token=bcXyzz.dbbzd.X.yfaaH.ydHfUcaUaf.X.y.IQ.ts.7165d4c1f16fa4a551b4560b7153f3fa6494d2b91b4f7927a35ad29716b9e13b...ZGtzaXBpLmNvbQ==
-#EXTINF:0 CUID="46874" tvg-name="ALWAN SPORT 3 4K" tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN  SPORT 4k",ALWAN SPORT 3 4K
-http://151.243.83.21:8080/live/30702704331140/31580699055695/434263.ts?token=bcXyzz.dbbzd.X.yfaaH.ydHfUcaUaf.X.y.IQ.ts.7165d4c1f16fa4a551b4560b7153f3fa6494d2b91b4f7927a35ad29716b9e13b...ZGtzaXBpLmNvbQ==
-#EXTINF:0 CUID="46875" tvg-name="ALWAN SPORT 4 4K" tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN  SPORT 4k",ALWAN SPORT 4 4K
-http://151.243.83.21:8080/live/30702704331140/31580699055695/434264.ts?token=bcXyzz.dbbzd.X.yfaaH.ydHfUcaUaf.X.y.IQ.ts.7165d4c1f16fa4a551b4560b7153f3fa6494d2b91b4f7927a35ad29716b9e13b...ZGtzaXBpLmNvbQ==
-#EXTINF:0 CUID="46876" tvg-name="ALWAN SPORT 5 4K" tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN  SPORT 4k",ALWAN SPORT 5 4K
-http://151.243.83.21:8080/live/30702704331140/31580699055695/434265.ts?token=bcXyzz.dbbzd.X.yfaaH.ydHfUcaUaf.X.y.IQ.ts.7165d4c1f16fa4a551b4560b7153f3fa6494d2b91b4f7927a35ad29716b9e13b...ZGtzaXBpLmNvbQ==
-#EXTINF:0 CUID="46877" tvg-name="ALWAN SPORT 6 4K" tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN  SPORT 4k",ALWAN SPORT 6 4K
-http://151.243.83.21:8080/live/30702704331140/31580699055695/434266.ts?token=bcXyzz.dbbzd.X.yfaaH.ydHfUcaUaf.X.y.IQ.ts.7165d4c1f16fa4a551b4560b7153f3fa6494d2b91b4f7927a35ad29716b9e13b...ZGtzaXBpLmNvbQ==
+#EXTINF:0 CUID="23140" tvg-name="NEWLINE SPORT" tvg-logo="https://i.postimg.cc/wqZ414g9/newsport.png" group-title="Kurdish  سپۆرت  ",NEWLINE SPORT
+http://2.57.214.72:2095/Arjc0WCSzNRt_180488/KILxRwQfON9tBs/358233?token=yHXUHH.X.y.X.ydHyzzfzHy.X.y.IQ.ts.21ad7b2f58ad4c016dbbdbbe596adbc69e11cce4b0546199b4bfd6d87b4716b5...sh
+#EXTINF:0 CUID="23141" tvg-name="ARO SPORT" tvg-logo="https://i.postimg.cc/zqCYYkVX/ARO.png" group-title="Kurdish  سپۆرت  ",ARO SPORT
+http://2.57.214.72:2095/Arjc0WCSzNRt_180488/KILxRwQfON9tBs/358232?token=yHXUHH.X.y.X.ydHyzzfzHy.X.y.IQ.ts.21ad7b2f58ad4c016dbbdbbe596adbc69e11cce4b0546199b4bfd6d87b4716b5...sh
+#EXTINF:0 CUID="23143" tvg-name="LD SPORT" tvg-logo="https://i.postimg.cc/WNjy4s7s/LD-SPORT.png" group-title="Kurdish  سپۆرت  ",LD SPORT
+http://2.57.214.72:2095/Arjc0WCSzNRt_180488/KILxRwQfON9tBs/358229?token=yHXUHH.X.y.X.ydHyzzfzHy.X.y.IQ.ts.21ad7b2f58ad4c016dbbdbbe596adbc69e11cce4b0546199b4bfd6d87b4716b5...sh
+#EXTINF:0 CUID="23149" tvg-name="SEE SPORT1" tvg-logo="https://i.postimg.cc/cs710bq8/see1.png" group-title="Kurdish  سپۆرت  ",SEE SPORT1
+http://2.57.214.72:2095/Arjc0WCSzNRt_180488/KILxRwQfON9tBs/358222?token=yHXUHH.X.y.X.ydHyzzfzHy.X.y.IQ.ts.21ad7b2f58ad4c016dbbdbbe596adbc69e11cce4b0546199b4bfd6d87b4716b5...sh
+#EXTINF:0 CUID="23150" tvg-name="SEE SPORT2" tvg-logo="https://i.postimg.cc/gYbk9P7W/see2.png" group-title="Kurdish  سپۆرت  ",SEE SPORT2
+http://2.57.214.72:2095/Arjc0WCSzNRt_180488/KILxRwQfON9tBs/358223?token=yHXUHH.X.y.X.ydHyzzfzHy.X.y.IQ.ts.21ad7b2f58ad4c016dbbdbbe596adbc69e11cce4b0546199b4bfd6d87b4716b5...sh
+#EXTINF:0 CUID="46925" tvg-name="SEE SPORT3" tvg-logo="https://i.postimg.cc/gYbk9P7W/see2.png" group-title="Kurdish  سپۆرت  ",SEE SPORT3
+http://2.57.214.72:2095/Arjc0WCSzNRt_180488/KILxRwQfON9tBs/358224?token=yHXUHH.X.y.X.ydHyzzfzHy.X.y.IQ.ts.21ad7b2f58ad4c016dbbdbbe596adbc69e11cce4b0546199b4bfd6d87b4716b5...sh
+#EXTINF:0 CUID="46921" tvg-name="beIN  UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="Kurdish  سپۆرت  ",beIN  UHD
+http://lukatv.net:8880/fabronyaxsaka/ar791059/506104
+#EXTINF:0 CUID="46882" tvg-name="ALWAN UFC 4K" tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN  SPORT 4k",ALWAN UFC 4K
+http://lukatv.net:8880/fabronyaxsaka/ar791059/550421
+#EXTINF:0 CUID="46883" tvg-name="ALWAN SPORT 1 4K" tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN  SPORT 4k",ALWAN SPORT 1 4K
+http://lukatv.net:8880/fabronyaxsaka/ar791059/550424
+#EXTINF:0 CUID="46884" tvg-name="ALWAN SPORT 2 4K" tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN  SPORT 4k",ALWAN SPORT 2 4K
+http://lukatv.net:8880/fabronyaxsaka/ar791059/550425
+#EXTINF:0 CUID="46885" tvg-name="ALWAN SPORT 3 4K" tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN  SPORT 4k",ALWAN SPORT 3 4K
+http://lukatv.net:8880/fabronyaxsaka/ar791059/550426
+#EXTINF:0 CUID="46886" tvg-name="ALWAN SPORT 4 4K" tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN  SPORT 4k",ALWAN SPORT 4 4K
+http://lukatv.net:8880/fabronyaxsaka/ar791059/550427
+#EXTINF:0 CUID="46887" tvg-name="ALWAN SPORT 5 4K" tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN  SPORT 4k",ALWAN SPORT 5 4K
+http://lukatv.net:8880/fabronyaxsaka/ar791059/550428
+#EXTINF:0 CUID="46888" tvg-name="ALWAN SPORT 6 4K" tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN  SPORT 4k",ALWAN SPORT 6 4K
+http://lukatv.net:8880/fabronyaxsaka/ar791059/550429
+#EXTINF:0 CUID="46889" tvg-name="ALWAN SPORT 7 4K" tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN  SPORT 4k",ALWAN SPORT 7 4K
+http://lukatv.net:8880/fabronyaxsaka/ar791059/550430
+#EXTINF:0 CUID="46890" tvg-name="ALWAN SPORT 8 4K" tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN  SPORT 4k",ALWAN SPORT 8 4K
+http://lukatv.net:8880/fabronyaxsaka/ar791059/550431
+#EXTINF:0 CUID="46891" tvg-name="ALWAN SPORT 9 4K" tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN  SPORT 4k",ALWAN SPORT 9 4K
+http://lukatv.net:8880/fabronyaxsaka/ar791059/550432
+#EXTINF:0 CUID="46892" tvg-name="ALWAN SPORT 10 4K" tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN  SPORT 4k",ALWAN SPORT 10 4K
+http://lukatv.net:8880/fabronyaxsaka/ar791059/550433
 #EXTINF:0 CUID="8683" tvg-name="اشتراك✅  کڕینی کۆد✅  IPTV VIP" tvg-logo="https://i.postimg.cc/x1Ncddt9/CC2958-B1-8-A37-481-C-9-B14-2-FE57-CAACEC2.png" group-title="BEIN SPORT 4k",اشتراك✅  کڕینی کۆد✅  IPTV VIP
 https://v.redd.it/smx05t0jmjee1/HLSPlaylist.m3u8
-#EXTINF:0 CUID="8684" tvg-name="BEIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/5/52/BeIN_4K_logo.jpg" group-title="BEIN SPORT 4k",BEIN SPORTS
-http://151.243.83.21:8080/live/30702704331140/31580699055695/61644.ts?token=bcXyzz.dbbzd.X.yfaaH.ydHfUcaUaf.X.y.IQ.ts.7165d4c1f16fa4a551b4560b7153f3fa6494d2b91b4f7927a35ad29716b9e13b...ZGtzaXBpLmNvbQ==
-#EXTINF:0 CUID="23895" tvg-name="UH BEIN SPORTS 1 UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",UH BEIN SPORTS 1 UHD
-http://151.243.83.21:8080/live/30702704331140/31580699055695/61644.ts?token=bcXyzz.dbbzd.X.yfaaH.ydHfUcaUaf.X.y.IQ.ts.7165d4c1f16fa4a551b4560b7153f3fa6494d2b91b4f7927a35ad29716b9e13b...ZGtzaXBpLmNvbQ==
-#EXTINF:0 CUID="23896" tvg-name="8K BEIN SPORTS  1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",8K BEIN SPORTS  1
-http://151.243.83.21:8080/live/30702704331140/31580699055695/61644.ts?token=bcXyzz.dbbzd.X.yfaaH.ydHfUcaUaf.X.y.IQ.ts.7165d4c1f16fa4a551b4560b7153f3fa6494d2b91b4f7927a35ad29716b9e13b...ZGtzaXBpLmNvbQ==
-#EXTINF:0 CUID="23897" tvg-name="4K BEIN SPORTS  1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",4K BEIN SPORTS  1
-http://151.243.83.21:8080/live/30702704331140/31580699055695/61644.ts?http://151.243.83.21:8080/live/30702704331140/31580699055695/61644.ts?token=bcXyzz.dbbzd.X.yfaaH.ydHfUcaUaf.X.y.IQ.ts.7165d4c1f16fa4a551b4560b7153f3fa6494d2b91b4f7927a35ad29716b9e13b...ZGtzaXBpLmNvbQ==
-#EXTINF:0 CUID="23898" tvg-name="6K BEIN SPORTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",6K BEIN SPORTS 1
-http://151.243.83.21:8080/live/30702704331140/31580699055695/61644.ts?token=bcXyzz.dbbzd.X.yfaaH.ydHfUcaUaf.X.y.IQ.ts.7165d4c1f16fa4a551b4560b7153f3fa6494d2b91b4f7927a35ad29716b9e13b...ZGtzaXBpLmNvbQ==
-#EXTINF:0 CUID="23899" tvg-name="8K BEIN SPORTS  2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",8K BEIN SPORTS  2
-http://lukatv.net:8880/22149615339883/46385825577139/320199
-#EXTINF:0 CUID="23900" tvg-name="4K BEIN SPORTS  2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",4K BEIN SPORTS  2
-http://lukatv.net:8880/22149615339883/46385825577139/358250
-#EXTINF:0 CUID="23901" tvg-name="6K BEIN SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",6K BEIN SPORTS 2
-http://lukatv.net:8880/22149615339883/46385825577139/546605
-#EXTINF:0 CUID="23902" tvg-name="4K BEIN SPORTS  3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",4K BEIN SPORTS  3
-http://lukatv.net:8880/22149615339883/46385825577139/157664
-#EXTINF:0 CUID="23903" tvg-name="8K BEIN SPORTS  3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",8K BEIN SPORTS  3
-http://lukatv.net:8880/22149615339883/46385825577139/343026
-#EXTINF:0 CUID="23904" tvg-name="6K BEIN SPORTS 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",6K BEIN SPORTS 3
-http://lukatv.net:8880/22149615339883/46385825577139/546606
-#EXTINF:0 CUID="23905" tvg-name="4K BEIN SPORTS 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",4K BEIN SPORTS 4
-http://lukatv.net:8880/22149615339883/46385825577139/157662
-#EXTINF:0 CUID="23906" tvg-name="8K BEIN SPORTS 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",8K BEIN SPORTS 4
-http://lukatv.net:8880/22149615339883/46385825577139/325178
-#EXTINF:0 CUID="23907" tvg-name="6K BEIN SPORTS 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",6K BEIN SPORTS 4
-http://lukatv.net:8880/22149615339883/46385825577139/546607
-#EXTINF:0 CUID="23908" tvg-name="4K BEIN SPORTS 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",4K BEIN SPORTS 5
-http://lukatv.net:8880/22149615339883/46385825577139/157663
-#EXTINF:0 CUID="23909" tvg-name="8K BEIN SPORT 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",8K BEIN SPORT 5
-http://lukatv.net:8880/22149615339883/46385825577139/353661
-#EXTINF:0 CUID="23910" tvg-name="6K BEIN SPORTS 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",6K BEIN SPORTS 5
-http://lukatv.net:8880/22149615339883/46385825577139/546608
-#EXTINF:0 CUID="23911" tvg-name="8K BEIN SPORTS 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",8K BEIN SPORTS 6
-http://lukatv.net:8880/22149615339883/46385825577139/325179
-#EXTINF:0 CUID="23912" tvg-name="4K BEIN SPORTS 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",4K BEIN SPORTS 6
-http://lukatv.net:8880/22149615339883/46385825577139/157661
-#EXTINF:0 CUID="23913" tvg-name="6K BEIN SPORTS 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",6K BEIN SPORTS 6
-http://lukatv.net:8880/22149615339883/46385825577139/546609
-#EXTINF:0 CUID="23914" tvg-name="8K BEIN SPORTS  7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",8K BEIN SPORTS  7
-http://lukatv.net:8880/22149615339883/46385825577139/378579
-#EXTINF:0 CUID="23915" tvg-name="4K BEIN SPORTS 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",4K BEIN SPORTS 7
-http://lukatv.net:8880/22149615339883/46385825577139/157660
-#EXTINF:0 CUID="23916" tvg-name="6K BEIN SPORTS 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",6K BEIN SPORTS 7
-http://lukatv.net:8880/22149615339883/46385825577139/546610
-#EXTINF:0 CUID="23917" tvg-name="4K BEIN SPORTS 8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",4K BEIN SPORTS 8
-http://lukatv.net:8880/22149615339883/46385825577139/157659
-#EXTINF:0 CUID="23918" tvg-name="8K BEIN SPORTS 8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",8K BEIN SPORTS 8
-http://lukatv.net:8880/22149615339883/46385825577139/157658
-#EXTINF:0 CUID="23919" tvg-name="6K BEIN SPORTS 8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",6K BEIN SPORTS 8
-http://lukatv.net:8880/22149615339883/46385825577139/546611
-#EXTINF:0 CUID="23920" tvg-name="4K BEIN SPORTS 9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",4K BEIN SPORTS 9
-http://lukatv.net:8880/22149615339883/46385825577139/157657
-#EXTINF:0 CUID="23921" tvg-name="8K BEIN SPORTS 9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",8K BEIN SPORTS 9
-http://lukatv.net:8880/22149615339883/46385825577139/347673
-#EXTINF:0 CUID="23922" tvg-name="6K BEIN SPORTS 9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",6K BEIN SPORTS 9
-http://lukatv.net:8880/22149615339883/46385825577139/546612
-#EXTINF:0 CUID="23923" tvg-name="4K BEIN SPORTS NBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",4K BEIN SPORTS NBA
-http://lukatv.net:8880/22149615339883/46385825577139/157651
-#EXTINF:0 CUID="23924" tvg-name="4K BEIN.SPORT.GLOBAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",4K BEIN.SPORT.GLOBAL
-http://lukatv.net:8880/22149615339883/46385825577139/208080
-#EXTINF:0 CUID="23925" tvg-name="4K BEIN SPORTS 1 EN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",4K BEIN SPORTS 1 EN
-http://lukatv.net:8880/22149615339883/46385825577139/157650
-#EXTINF:0 CUID="23926" tvg-name="4K BEIN SPORTS 2 EN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",4K BEIN SPORTS 2 EN
-http://lukatv.net:8880/22149615339883/46385825577139/157649
-#EXTINF:0 CUID="23927" tvg-name="4K BEIN SPORTS 1 FR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",4K BEIN SPORTS 1 FR
-http://lukatv.net:8880/22149615339883/46385825577139/157654
-#EXTINF:0 CUID="23928" tvg-name="4K BEIN SPORTS 2 FR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",4K BEIN SPORTS 2 FR
-http://lukatv.net:8880/22149615339883/46385825577139/157653
-#EXTINF:0 CUID="23929" tvg-name="4K BEIN SPORTS 3 FR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",4K BEIN SPORTS 3 FR
-http://lukatv.net:8880/22149615339883/46385825577139/157648
-#EXTINF:0 CUID="35157" tvg-name="YUSF D" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",beIN  UHD
-http://familyvip.me:8080/live/62451775468685/fnZbEqjocS/829083.ts
-#EXTINF:0 CUID="35364" tvg-name="BEIN SPORTS USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",BEIN SPORTS USA
-http://lukatv.net:8880/22149615339883/46385825577139/546141
-#EXTINF:0 CUID="35365" tvg-name="8K BEIN SPORTS NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",8K BEIN SPORTS NEWS
-http://lukatv.net:8880/22149615339883/46385825577139/125564
-#EXTINF:0 CUID="35366" tvg-name="6K BEIN SPORTS NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",6K BEIN SPORTS NEWS
-http://lukatv.net:8880/22149615339883/46385825577139/546613
-#EXTINF:0 CUID="35367" tvg-name="4K BEIN SPORTS 1 + 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",4K BEIN SPORTS 1 + 4K
-http://lukatv.net:8880/22149615339883/46385825577139/157652
-#EXTINF:0 CUID="35368" tvg-name="UH BEIN SPORTS 1 UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",UH BEIN SPORTS 1 UHD
-http://lukatv.net:8880/22149615339883/46385825577139/329100
-#EXTINF:0 CUID="35369" tvg-name="8K BEIN SPORTS  1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",8K BEIN SPORTS  1
-http://lukatv.net:8880/22149615339883/46385825577139/287736
-#EXTINF:0 CUID="35370" tvg-name="4K BEIN SPORTS  1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",4K BEIN SPORTS  1
-http://lukatv.net:8880/22149615339883/46385825577139/247704
-#EXTINF:0 CUID="35371" tvg-name="6K BEIN SPORTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",6K BEIN SPORTS 1
-http://lukatv.net:8880/22149615339883/46385825577139/546604
-#EXTINF:0 CUID="35372" tvg-name="8K BEIN SPORTS  2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",8K BEIN SPORTS  2
-http://lukatv.net:8880/22149615339883/46385825577139/320199
-#EXTINF:0 CUID="35373" tvg-name="4K BEIN SPORTS  2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",4K BEIN SPORTS  2
-http://lukatv.net:8880/22149615339883/46385825577139/358250
-#EXTINF:0 CUID="35374" tvg-name="6K BEIN SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",6K BEIN SPORTS 2
-http://lukatv.net:8880/22149615339883/46385825577139/546605
-#EXTINF:0 CUID="35375" tvg-name="4K BEIN SPORTS  3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",4K BEIN SPORTS  3
-http://lukatv.net:8880/22149615339883/46385825577139/157664
-#EXTINF:0 CUID="35376" tvg-name="8K BEIN SPORTS  3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",8K BEIN SPORTS  3
-http://lukatv.net:8880/22149615339883/46385825577139/343026
-#EXTINF:0 CUID="35377" tvg-name="6K BEIN SPORTS 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",6K BEIN SPORTS 3
-http://lukatv.net:8880/22149615339883/46385825577139/546606
-#EXTINF:0 CUID="35378" tvg-name="4K BEIN SPORTS 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",4K BEIN SPORTS 4
-http://lukatv.net:8880/22149615339883/46385825577139/157662
-#EXTINF:0 CUID="35379" tvg-name="8K BEIN SPORTS 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",8K BEIN SPORTS 4
-http://lukatv.net:8880/22149615339883/46385825577139/325178
-#EXTINF:0 CUID="35380" tvg-name="6K BEIN SPORTS 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",6K BEIN SPORTS 4
-http://lukatv.net:8880/22149615339883/46385825577139/546607
-#EXTINF:0 CUID="35381" tvg-name="4K BEIN SPORTS 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",4K BEIN SPORTS 5
-http://lukatv.net:8880/22149615339883/46385825577139/157663
-#EXTINF:0 CUID="35382" tvg-name="8K BEIN SPORT 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",8K BEIN SPORT 5
-http://lukatv.net:8880/22149615339883/46385825577139/353661
-#EXTINF:0 CUID="35383" tvg-name="6K BEIN SPORTS 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",6K BEIN SPORTS 5
-http://lukatv.net:8880/22149615339883/46385825577139/546608
-#EXTINF:0 CUID="35384" tvg-name="8K BEIN SPORTS 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",8K BEIN SPORTS 6
-http://lukatv.net:8880/22149615339883/46385825577139/325179
-#EXTINF:0 CUID="35385" tvg-name="4K BEIN SPORTS 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",4K BEIN SPORTS 6
-http://lukatv.net:8880/22149615339883/46385825577139/157661
-#EXTINF:0 CUID="35386" tvg-name="6K BEIN SPORTS 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",6K BEIN SPORTS 6
-http://lukatv.net:8880/22149615339883/46385825577139/546609
-#EXTINF:0 CUID="35387" tvg-name="8K BEIN SPORTS  7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",8K BEIN SPORTS  7
-http://lukatv.net:8880/22149615339883/46385825577139/378579
-#EXTINF:0 CUID="35388" tvg-name="4K BEIN SPORTS 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",4K BEIN SPORTS 7
-http://lukatv.net:8880/22149615339883/46385825577139/157660
-#EXTINF:0 CUID="35389" tvg-name="6K BEIN SPORTS 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",6K BEIN SPORTS 7
-http://lukatv.net:8880/22149615339883/46385825577139/546610
-#EXTINF:0 CUID="35390" tvg-name="4K BEIN SPORTS 8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",4K BEIN SPORTS 8
-http://lukatv.net:8880/22149615339883/46385825577139/157659
-#EXTINF:0 CUID="35391" tvg-name="8K BEIN SPORTS 8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",8K BEIN SPORTS 8
-http://lukatv.net:8880/22149615339883/46385825577139/157658
-#EXTINF:0 CUID="35392" tvg-name="6K BEIN SPORTS 8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",6K BEIN SPORTS 8
-http://lukatv.net:8880/22149615339883/46385825577139/546611
-#EXTINF:0 CUID="35393" tvg-name="4K BEIN SPORTS 9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",4K BEIN SPORTS 9
-http://lukatv.net:8880/22149615339883/46385825577139/157657
-#EXTINF:0 CUID="35394" tvg-name="8K BEIN SPORTS 9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",8K BEIN SPORTS 9
-http://lukatv.net:8880/22149615339883/46385825577139/347673
-#EXTINF:0 CUID="35395" tvg-name="6K BEIN SPORTS 9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",6K BEIN SPORTS 9
-http://lukatv.net:8880/22149615339883/46385825577139/546612
-#EXTINF:0 CUID="35396" tvg-name="4K BEIN SPORTS NBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",4K BEIN SPORTS NBA
-http://lukatv.net:8880/22149615339883/46385825577139/157651
-#EXTINF:0 CUID="35397" tvg-name="4K BEIN.SPORT.GLOBAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",4K BEIN.SPORT.GLOBAL
-http://lukatv.net:8880/22149615339883/46385825577139/208080
-#EXTINF:0 CUID="35398" tvg-name="4K BEIN SPORTS 1 EN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",4K BEIN SPORTS 1 EN
-http://lukatv.net:8880/22149615339883/46385825577139/157650
-#EXTINF:0 CUID="35399" tvg-name="4K BEIN SPORTS 2 EN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",4K BEIN SPORTS 2 EN
-http://lukatv.net:8880/22149615339883/46385825577139/157649
-#EXTINF:0 CUID="35400" tvg-name="4K BEIN SPORTS 1 FR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",4K BEIN SPORTS 1 FR
-http://lukatv.net:8880/22149615339883/46385825577139/157654
-#EXTINF:0 CUID="35401" tvg-name="4K BEIN SPORTS 2 FR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",4K BEIN SPORTS 2 FR
-http://lukatv.net:8880/22149615339883/46385825577139/157653
-#EXTINF:0 CUID="35402" tvg-name="4K BEIN SPORTS 3 FR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",4K BEIN SPORTS 3 FR
-http://lukatv.net:8880/22149615339883/46385825577139/157648
-#EXTINF:0 CUID="46829" tvg-name="beIN  UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",beIN  UHD
-http://lukatv.net:8880/22149615339883/46385825577139/506104
-#EXTINF:0 CUID="46830" tvg-name="BEIN SPORTS USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",BEIN SPORTS USA
-http://lukatv.net:8880/22149615339883/46385825577139/546141
-#EXTINF:0 CUID="46831" tvg-name="8K BEIN SPORTS NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",8K BEIN SPORTS NEWS
-http://lukatv.net:8880/22149615339883/46385825577139/125564
-#EXTINF:0 CUID="46832" tvg-name="6K BEIN SPORTS NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",6K BEIN SPORTS NEWS
-http://lukatv.net:8880/22149615339883/46385825577139/546613
-#EXTINF:0 CUID="46833" tvg-name="4K BEIN SPORTS 1 + 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",4K BEIN SPORTS 1 + 4K
-http://lukatv.net:8880/22149615339883/46385825577139/157652
-#EXTINF:0 CUID="46834" tvg-name="UH BEIN SPORTS 1 UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",UH BEIN SPORTS 1 UHD
-http://lukatv.net:8880/22149615339883/46385825577139/329100
-#EXTINF:0 CUID="46835" tvg-name="8K BEIN SPORTS  1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",8K BEIN SPORTS  1
-http://lukatv.net:8880/22149615339883/46385825577139/287736
-#EXTINF:0 CUID="46836" tvg-name="4K BEIN SPORTS  1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",4K BEIN SPORTS  1
-http://lukatv.net:8880/22149615339883/46385825577139/247704
-#EXTINF:0 CUID="46837" tvg-name="6K BEIN SPORTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",6K BEIN SPORTS 1
-http://lukatv.net:8880/22149615339883/46385825577139/546604
-#EXTINF:0 CUID="46838" tvg-name="8K BEIN SPORTS  2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",8K BEIN SPORTS  2
-http://lukatv.net:8880/22149615339883/46385825577139/320199
-#EXTINF:0 CUID="46839" tvg-name="4K BEIN SPORTS  2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",4K BEIN SPORTS  2
-http://lukatv.net:8880/22149615339883/46385825577139/358250
-#EXTINF:0 CUID="46840" tvg-name="6K BEIN SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",6K BEIN SPORTS 2
-http://lukatv.net:8880/22149615339883/46385825577139/546605
-#EXTINF:0 CUID="46841" tvg-name="4K BEIN SPORTS  3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",4K BEIN SPORTS  3
-http://lukatv.net:8880/22149615339883/46385825577139/157664
-#EXTINF:0 CUID="46842" tvg-name="8K BEIN SPORTS  3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",8K BEIN SPORTS  3
-http://lukatv.net:8880/22149615339883/46385825577139/343026
-#EXTINF:0 CUID="46843" tvg-name="6K BEIN SPORTS 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",6K BEIN SPORTS 3
-http://lukatv.net:8880/22149615339883/46385825577139/546606
-#EXTINF:0 CUID="46844" tvg-name="4K BEIN SPORTS 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",4K BEIN SPORTS 4
-http://lukatv.net:8880/22149615339883/46385825577139/157662
-#EXTINF:0 CUID="46845" tvg-name="8K BEIN SPORTS 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",8K BEIN SPORTS 4
-http://lukatv.net:8880/22149615339883/46385825577139/325178
-#EXTINF:0 CUID="46846" tvg-name="6K BEIN SPORTS 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",6K BEIN SPORTS 4
-http://lukatv.net:8880/22149615339883/46385825577139/546607
-#EXTINF:0 CUID="46847" tvg-name="4K BEIN SPORTS 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",4K BEIN SPORTS 5
-http://lukatv.net:8880/22149615339883/46385825577139/157663
-#EXTINF:0 CUID="46848" tvg-name="8K BEIN SPORT 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",8K BEIN SPORT 5
-http://lukatv.net:8880/22149615339883/46385825577139/353661
-#EXTINF:0 CUID="46849" tvg-name="6K BEIN SPORTS 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",6K BEIN SPORTS 5
-http://lukatv.net:8880/22149615339883/46385825577139/546608
-#EXTINF:0 CUID="46850" tvg-name="8K BEIN SPORTS 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",8K BEIN SPORTS 6
-http://lukatv.net:8880/22149615339883/46385825577139/325179
-#EXTINF:0 CUID="46851" tvg-name="4K BEIN SPORTS 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",4K BEIN SPORTS 6
-http://lukatv.net:8880/22149615339883/46385825577139/157661
-#EXTINF:0 CUID="46852" tvg-name="6K BEIN SPORTS 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",6K BEIN SPORTS 6
-http://lukatv.net:8880/22149615339883/46385825577139/546609
-#EXTINF:0 CUID="46853" tvg-name="8K BEIN SPORTS  7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",8K BEIN SPORTS  7
-http://lukatv.net:8880/22149615339883/46385825577139/378579
-#EXTINF:0 CUID="46854" tvg-name="4K BEIN SPORTS 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",4K BEIN SPORTS 7
-http://lukatv.net:8880/22149615339883/46385825577139/157660
-#EXTINF:0 CUID="46855" tvg-name="6K BEIN SPORTS 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",6K BEIN SPORTS 7
-http://lukatv.net:8880/22149615339883/46385825577139/546610
-#EXTINF:0 CUID="46856" tvg-name="4K BEIN SPORTS 8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",4K BEIN SPORTS 8
-http://lukatv.net:8880/22149615339883/46385825577139/157659
-#EXTINF:0 CUID="46857" tvg-name="8K BEIN SPORTS 8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",8K BEIN SPORTS 8
-http://lukatv.net:8880/22149615339883/46385825577139/157658
-#EXTINF:0 CUID="46858" tvg-name="6K BEIN SPORTS 8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",6K BEIN SPORTS 8
-http://lukatv.net:8880/22149615339883/46385825577139/546611
-#EXTINF:0 CUID="46859" tvg-name="4K BEIN SPORTS 9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",4K BEIN SPORTS 9
-http://lukatv.net:8880/22149615339883/46385825577139/157657
-#EXTINF:0 CUID="46860" tvg-name="8K BEIN SPORTS 9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",8K BEIN SPORTS 9
-http://lukatv.net:8880/22149615339883/46385825577139/347673
-#EXTINF:0 CUID="46861" tvg-name="6K BEIN SPORTS 9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",6K BEIN SPORTS 9
-http://lukatv.net:8880/22149615339883/46385825577139/546612
-#EXTINF:0 CUID="46862" tvg-name="4K BEIN SPORTS NBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",4K BEIN SPORTS NBA
-http://lukatv.net:8880/22149615339883/46385825577139/157651
-#EXTINF:0 CUID="46863" tvg-name="4K BEIN.SPORT.GLOBAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",4K BEIN.SPORT.GLOBAL
-http://lukatv.net:8880/22149615339883/46385825577139/208080
-#EXTINF:0 CUID="46864" tvg-name="4K BEIN SPORTS 1 EN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",4K BEIN SPORTS 1 EN
-http://lukatv.net:8880/22149615339883/46385825577139/157650
-#EXTINF:0 CUID="46865" tvg-name="4K BEIN SPORTS 2 EN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",4K BEIN SPORTS 2 EN
-http://lukatv.net:8880/22149615339883/46385825577139/157649
-#EXTINF:0 CUID="46866" tvg-name="4K BEIN SPORTS 1 FR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",4K BEIN SPORTS 1 FR
-http://lukatv.net:8880/22149615339883/46385825577139/157654
-#EXTINF:0 CUID="46867" tvg-name="4K BEIN SPORTS 2 FR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",4K BEIN SPORTS 2 FR
-http://lukatv.net:8880/22149615339883/46385825577139/157653
-#EXTINF:0 CUID="46868" tvg-name="4K BEIN SPORTS 3 FR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",4K BEIN SPORTS 3 FR
-http://lukatv.net:8880/22149615339883/46385825577139/157648
-#EXTINF:0 CUID="8685" tvg-name="BEIN SPORTS NEWS" tvg-logo="https://i.postimg.cc/jK5M06Hr/New-Project.png" group-title="BEIN SPORT 4k",BEIN SPORTS NEWS
-https://py.dencreak.com/bn_7_news.m3u8
-#EXTINF:0 CUID="8686" tvg-name="BEIN SPORT 1" tvg-logo="https://i.postimg.cc/542wqczy/B1.png" group-title="BEIN SPORT 4k",BEIN SPORT 1
-https://sportina.cc/BEIN-1/video.m3u8
-#EXTINF:0 CUID="8687" tvg-name="beIN Sports 1  (A)" tvg-logo="https://i.postimg.cc/542wqczy/B1.png" group-title="BEIN SPORT 4k",beIN Sports 1  (A)
-http://135.125.109.73:9000/beinsport1_.m3u8
-#EXTINF:0 CUID="8689" tvg-name="BEIN SPORT 2" tvg-logo="https://i.postimg.cc/5x3BC96D/B2.jpg" group-title="BEIN SPORT 4k",BEIN SPORT 2
-https://sportina.cc/BEIN-2/video.m3u8
-#EXTINF:0 CUID="8690" tvg-name="beIN Sports 2  (A)" tvg-logo="https://i.postimg.cc/5x3BC96D/B2.jpg" group-title="BEIN SPORT 4k",beIN Sports 2  (A)
-http://135.125.109.73:9000/beinsport2_.m3u8
-#EXTINF:0 CUID="8692" tvg-name="BEIN SPORT 3" tvg-logo="https://i.postimg.cc/k7WF7v9J/B3.jpg" group-title="BEIN SPORT 4k",BEIN SPORT 3
-https://sportina.cc/BEIN-3/rewind-21600.m3u8
-#EXTINF:0 CUID="8693" tvg-name="beIN Sports 3  (A)" tvg-logo="https://i.postimg.cc/k7WF7v9J/B3.jpg" group-title="BEIN SPORT 4k",beIN Sports 3  (A)
-http://135.125.109.73:9000/beinsport3_.m3u8
-#EXTINF:0 CUID="8695" tvg-name="BEIN SPORT 4" tvg-logo="https://i.postimg.cc/PthbJvrm/B4.png" group-title="BEIN SPORT 4k",BEIN SPORT 4
-https://sportina.cc/BEIN-4/rewind-21600.m3u8
-#EXTINF:0 CUID="8696" tvg-name="beIN Sports 4  (A)" tvg-logo="https://i.postimg.cc/PthbJvrm/B4.png" group-title="BEIN SPORT 4k",beIN Sports 4  (A)
-http://135.125.109.73:9000/beinsport4_.m3u8
-#EXTINF:0 CUID="8698" tvg-name="BEIN SPORT 5" tvg-logo="https://i.postimg.cc/Kx6DXs6p/F5.png" group-title="BEIN SPORT 4k",BEIN SPORT 5
-https://sportina.cc/BEIN-5/rewind-21600.m3u8
-#EXTINF:0 CUID="8699" tvg-name="beIN Sports 5  (A)" tvg-logo="https://i.postimg.cc/Kx6DXs6p/F5.png" group-title="BEIN SPORT 4k",beIN Sports 5  (A)
-http://135.125.109.73:9000/beinsport5_.m3u8
-#EXTINF:0 CUID="8701" tvg-name="BEIN SPORT 6" tvg-logo="https://i.postimg.cc/sy0Jm2wr/B6.png" group-title="BEIN SPORT 4k",BEIN SPORT 6
-https://sportina.cc/BEIN-6/rewind-21600.m3u8
-#EXTINF:0 CUID="8702" tvg-name="beIN Sports 6  (A)" tvg-logo="https://i.postimg.cc/sy0Jm2wr/B6.png" group-title="BEIN SPORT 4k",beIN Sports 6  (A)
-http://135.125.109.73:9000/beinsport6_.m3u8
-#EXTINF:0 CUID="8704" tvg-name="BEIN SPORT 7" tvg-logo="https://i.postimg.cc/xnJ34S4b/B7.png" group-title="BEIN SPORT 4k",BEIN SPORT 7
-https://sportina.cc/BEIN-7/rewind-21600.m3u8
-#EXTINF:0 CUID="8705" tvg-name="beIN Sports 7  (A)" tvg-logo="https://i.postimg.cc/xnJ34S4b/B7.png" group-title="BEIN SPORT 4k",beIN Sports 7  (A)
-http://135.125.109.73:9000/beinsport7_.m3u8
-#EXTINF:0 CUID="8707" tvg-name="BEIN SPORT 8" tvg-logo="https://i.postimg.cc/z5fjThw7/B8.png" group-title="BEIN SPORT 4k",BEIN SPORT 8
-https://sportina.cc/BEIN-8/rewind-21600.m3u8
-#EXTINF:0 CUID="8708" tvg-name="beIN Sports 8  (A)" tvg-logo="https://i.postimg.cc/z5fjThw7/B8.png" group-title="BEIN SPORT 4k",beIN Sports 8  (A)
-http://135.125.109.73:9000/beinsport8_.m3u8
-#EXTINF:0 CUID="8710" tvg-name="BEIN SPORT 9" tvg-logo="https://i.postimg.cc/qrwwtwKg/B9.png" group-title="BEIN SPORT 4k",BEIN SPORT 9
-https://sportina.cc/BEIN-9/rewind-21600.m3u8
-#EXTINF:0 CUID="8711" tvg-name="beIN Sports 9  (A)" tvg-logo="https://i.postimg.cc/qrwwtwKg/B9.png" group-title="BEIN SPORT 4k",beIN Sports 9  (A)
-http://135.125.109.73:9000/beinsport9_.m3u8
+#EXTINF:0 CUID="46922" tvg-name="BEIN 4K" tvg-id="beIN 4K.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",BEIN 4K
+http://lukatv.net:8880/fabronyaxsaka/ar791059/393121
+#EXTINF:0 CUID="46923" tvg-name="beIN  UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",beIN  UHD
+http://lukatv.net:8880/fabronyaxsaka/ar791059/506104
+#EXTINF:0 CUID="46893" tvg-name="BEIN SPORT ①  4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",BEIN SPORT ①  4K
+http://lukatv.net:8880/fabronyaxsaka/ar791059/96394
+#EXTINF:0 CUID="46894" tvg-name="BEIN SPORT ⓵   FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",BEIN SPORT ⓵   FHD
+http://lukatv.net:8880/fabronyaxsaka/ar791059/66
+#EXTINF:0 CUID="46895" tvg-name="BEIN SPORT ➊ HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",BEIN SPORT ➊ HD
+http://lukatv.net:8880/fabronyaxsaka/ar791059/287734
+#EXTINF:0 CUID="46896" tvg-name="BEIN SPORTS 1 /720P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",BEIN SPORTS 1 /720P
+http://lukatv.net:8880/fabronyaxsaka/ar791059/546682
+#EXTINF:0 CUID="46897" tvg-name="BEIN SPORT 2  4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",BEIN SPORT 2  4k
+http://lukatv.net:8880/fabronyaxsaka/ar791059/350213
+#EXTINF:0 CUID="46898" tvg-name="BEIN SPORT 2  FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",BEIN SPORT 2  FHD
+http://lukatv.net:8880/fabronyaxsaka/ar791059/65
+#EXTINF:0 CUID="46899" tvg-name="BEIN SPORTS 2 /720P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",BEIN SPORTS 2 /720P
+http://lukatv.net:8880/fabronyaxsaka/ar791059/546683
+#EXTINF:0 CUID="46900" tvg-name="BEIN SPORT 3  4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",BEIN SPORT 3  4k
+http://lukatv.net:8880/fabronyaxsaka/ar791059/96396
+#EXTINF:0 CUID="46901" tvg-name="BEIN SPORT 3 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",BEIN SPORT 3 FHD
+http://lukatv.net:8880/fabronyaxsaka/ar791059/64
+#EXTINF:0 CUID="46902" tvg-name="BEIN SPORTS 3 /720P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",BEIN SPORTS 3 /720P
+http://lukatv.net:8880/fabronyaxsaka/ar791059/546684
+#EXTINF:0 CUID="46903" tvg-name="BEIN SPORTS 4 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",BEIN SPORTS 4 FHD
+http://lukatv.net:8880/fabronyaxsaka/ar791059/73
+#EXTINF:0 CUID="46904" tvg-name="BEIN SPORTS 4 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",BEIN SPORTS 4 4K
+http://lukatv.net:8880/fabronyaxsaka/ar791059/12347
+#EXTINF:0 CUID="46905" tvg-name="BEIN SPORTS 4 /720P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",BEIN SPORTS 4 /720P
+http://lukatv.net:8880/fabronyaxsaka/ar791059/546685
+#EXTINF:0 CUID="46906" tvg-name="BEIN SPORTS 5 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",BEIN SPORTS 5 4K
+http://lukatv.net:8880/fabronyaxsaka/ar791059/12348
+#EXTINF:0 CUID="46907" tvg-name="BEIN SPORTS 5 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",BEIN SPORTS 5 FHD
+http://lukatv.net:8880/fabronyaxsaka/ar791059/72
+#EXTINF:0 CUID="46908" tvg-name="BEIN SPORTS 5 /720P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",BEIN SPORTS 5 /720P
+http://lukatv.net:8880/fabronyaxsaka/ar791059/546686
+#EXTINF:0 CUID="46909" tvg-name="BEIN SPORTS 6 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",BEIN SPORTS 6 FHD
+http://lukatv.net:8880/fabronyaxsaka/ar791059/71
+#EXTINF:0 CUID="46910" tvg-name="BEIN SPORTS 6 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",BEIN SPORTS 6 4K
+http://lukatv.net:8880/fabronyaxsaka/ar791059/12349
+#EXTINF:0 CUID="46911" tvg-name="BEIN SPORTS 6 /720P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",BEIN SPORTS 6 /720P
+http://lukatv.net:8880/fabronyaxsaka/ar791059/546687
+#EXTINF:0 CUID="46912" tvg-name="BEIN SPORTS 7 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",BEIN SPORTS 7 FHD
+http://lukatv.net:8880/fabronyaxsaka/ar791059/70
+#EXTINF:0 CUID="46913" tvg-name="BEIN SPORTS 7 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",BEIN SPORTS 7 4K
+http://lukatv.net:8880/fabronyaxsaka/ar791059/12350
+#EXTINF:0 CUID="46914" tvg-name="BEIN SPORTS 7 /720P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",BEIN SPORTS 7 /720P
+http://lukatv.net:8880/fabronyaxsaka/ar791059/546688
+#EXTINF:0 CUID="46915" tvg-name="BEIN SPORTS 8 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",BEIN SPORTS 8 FHD
+http://lukatv.net:8880/fabronyaxsaka/ar791059/69
+#EXTINF:0 CUID="46916" tvg-name="BEIN SPORTS 8 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",BEIN SPORTS 8 4K
+http://lukatv.net:8880/fabronyaxsaka/ar791059/12351
+#EXTINF:0 CUID="46917" tvg-name="BEIN SPORTS 8 /720P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",BEIN SPORTS 8 /720P
+http://lukatv.net:8880/fabronyaxsaka/ar791059/546689
+#EXTINF:0 CUID="46918" tvg-name="BEIN SPORTS 9 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",BEIN SPORTS 9 FHD
+http://lukatv.net:8880/fabronyaxsaka/ar791059/68
+#EXTINF:0 CUID="46919" tvg-name="BEIN SPORTS 9 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",BEIN SPORTS 9 4K
+http://lukatv.net:8880/fabronyaxsaka/ar791059/12352
+#EXTINF:0 CUID="46920" tvg-name="BEIN SPORTS 9 /720P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORT 4k",BEIN SPORTS 9 /720P
+http://lukatv.net:8880/fabronyaxsaka/ar791059/546690
+#EXTINF:0 CUID="46924" tvg-name="SEE SPORT2" tvg-logo="https://i.postimg.cc/gYbk9P7W/see2.png" group-title="BEIN SPORT 4k",SEE SPORT2
+http://2.57.214.72:2095/Arjc0WCSzNRt_180488/KILxRwQfON9tBs/358223?token=yHXUHH.X.y.X.ydHyzzfzHy.X.y.IQ.ts.21ad7b2f58ad4c016dbbdbbe596adbc69e11cce4b0546199b4bfd6d87b4716b5...sh
 #EXTINF:0 CUID="9252" tvg-name="Alkass Five   1" tvg-id="AlkassFive.qa" tvg-logo="https://i.imgur.com/6RGNGsM.png" group-title="Alkass   الكأس الرياضية",Alkass Five   1
 https://py.dencreak.com/alkass_1.m3u8
 #EXTINF:0 CUID="9253" tvg-name="Alkass Four  2" tvg-id="AlkassFour.qa" tvg-logo="https://i.imgur.com/iDL65Wu.png" group-title="Alkass   الكأس الرياضية",Alkass Four  2
@@ -649,7 +468,7 @@ http://dksip.com/835335413593/214580890107/310073
 #EXTINF:0 CUID="22902" tvg-name="FR: CANAL+ UHD 4K" group-title="TV 4K HDR",FR: CANAL+ UHD 4K
 http://dksip.com/835335413593/214580890107/310062
 #EXTINF:0 CUID="22903" tvg-name="DE: SKY SPORT UHD 4K" group-title="TV 4K HDR",DE: SKY SPORT UHD 4K
-http://familyvip.me:8080/live/62451775468685/fnZbEqjocS/829083.ts
+http://dksip.com/835335413593/214580890107/310051
 #EXTINF:0 CUID="22904" tvg-name="SE: V SPORT UHD 4K" group-title="TV 4K HDR",SE: V SPORT UHD 4K
 http://dksip.com/835335413593/214580890107/310054
 #EXTINF:0 CUID="22905" tvg-name="SE: V SPORT UHD 4K." group-title="TV 4K HDR",SE: V SPORT UHD 4K.
@@ -4771,87 +4590,87 @@ http://sa.savpn.xyz/live/78965415869/780928/769078.m3u8
 #EXTINF:0 CUID="10672" tvg-name="THMANAYH 3 4K H265" tvg-logo="https://play-lh.googleusercontent.com/ypuM96a7NhvRqadsfqZYsLKEdJfMi6Wz2lQL2xk2DbUVjuaF8ggtRwpQyiI36va_LQ--4MdOhPgSsJQUso_xTw=w600-h300-pc0xffffff-pd" group-title="THMANAYH ",THMANAYH 3 4K H265
 http://sa.savpn.xyz/live/78965415869/780928/841733.meu8
 #EXTINF:0 CUID="35443" tvg-name="BEIN SPPORT MAX 1 4K" group-title="|SP| ⚽CUP AFRICA   بطولة امم افريقيا",BEIN SPPORT MAX 1 4K
-http://lukatv.net:8880/22149615339883/46385825577139/558248
+http://lukatv.net:8880/312912056052/152738717920/558248
 #EXTINF:0 CUID="35444" tvg-name="BEIN SPORT MAX 2 4K" group-title="|SP| ⚽CUP AFRICA   بطولة امم افريقيا",BEIN SPORT MAX 2 4K
-http://lukatv.net:8880/22149615339883/46385825577139/558249
+http://lukatv.net:8880/312912056052/152738717920/558249
 #EXTINF:0 CUID="35445" tvg-name="BEIN SPORT MAX 3 4K" group-title="|SP| ⚽CUP AFRICA   بطولة امم افريقيا",BEIN SPORT MAX 3 4K
-http://lukatv.net:8880/22149615339883/46385825577139/558250
+http://lukatv.net:8880/312912056052/152738717920/558250
 #EXTINF:0 CUID="35446" tvg-name="BEIN SPORT MAX 1 FHD" group-title="|SP| ⚽CUP AFRICA   بطولة امم افريقيا",BEIN SPORT MAX 1 FHD
-http://lukatv.net:8880/22149615339883/46385825577139/558251
+http://lukatv.net:8880/312912056052/152738717920/558251
 #EXTINF:0 CUID="35447" tvg-name="BEIN SPORT MAX 2 FHD" group-title="|SP| ⚽CUP AFRICA   بطولة امم افريقيا",BEIN SPORT MAX 2 FHD
-http://lukatv.net:8880/22149615339883/46385825577139/558252
+http://lukatv.net:8880/312912056052/152738717920/558252
 #EXTINF:0 CUID="35448" tvg-name="BEIN SPORT MAX 3 FHD" group-title="|SP| ⚽CUP AFRICA   بطولة امم افريقيا",BEIN SPORT MAX 3 FHD
-http://lukatv.net:8880/22149615339883/46385825577139/558253
+http://lukatv.net:8880/312912056052/152738717920/558253
 #EXTINF:0 CUID="35449" tvg-name="BEIN SPORT MAX 1 SD" group-title="|SP| ⚽CUP AFRICA   بطولة امم افريقيا",BEIN SPORT MAX 1 SD
-http://lukatv.net:8880/22149615339883/46385825577139/558254
+http://lukatv.net:8880/312912056052/152738717920/558254
 #EXTINF:0 CUID="35450" tvg-name="BEIN SPORT MAX 2 SD" group-title="|SP| ⚽CUP AFRICA   بطولة امم افريقيا",BEIN SPORT MAX 2 SD
-http://lukatv.net:8880/22149615339883/46385825577139/558255
+http://lukatv.net:8880/312912056052/152738717920/558255
 #EXTINF:0 CUID="35451" tvg-name="BEIN SPORT MAX 3 SD" group-title="|SP| ⚽CUP AFRICA   بطولة امم افريقيا",BEIN SPORT MAX 3 SD
-http://lukatv.net:8880/22149615339883/46385825577139/558256
+http://lukatv.net:8880/312912056052/152738717920/558256
 #EXTINF:0 CUID="35452" tvg-name="[AR] Bein Sport MAX 1 (M)" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/d/d1/%D8%B4%D8%B9%D8%A7%D8%B1_%D8%AA%D8%B5%D9%81%D9%8A%D8%A7%D8%AA_%D9%83%D8%A3%D8%B3_%D8%A7%D9%84%D8%A3%D9%85%D9%85_%D8%A7%D9%84%D8%A5%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A9_2025.png" group-title="|SP| ⚽CUP AFRICA   بطولة امم افريقيا",[AR] Bein Sport MAX 1 (M)
-http://lukatv.net:8880/22149615339883/46385825577139/558168
+http://lukatv.net:8880/312912056052/152738717920/558168
 #EXTINF:0 CUID="35453" tvg-name="[AR] Bein Sport MAX 2 (M)" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/d/d1/%D8%B4%D8%B9%D8%A7%D8%B1_%D8%AA%D8%B5%D9%81%D9%8A%D8%A7%D8%AA_%D9%83%D8%A3%D8%B3_%D8%A7%D9%84%D8%A3%D9%85%D9%85_%D8%A7%D9%84%D8%A5%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A9_2025.png" group-title="|SP| ⚽CUP AFRICA   بطولة امم افريقيا",[AR] Bein Sport MAX 2 (M)
-http://lukatv.net:8880/22149615339883/46385825577139/558169
+http://lukatv.net:8880/312912056052/152738717920/558169
 #EXTINF:0 CUID="35454" tvg-name="[AR] Bein Sport MAX 3 (M)" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/d/d1/%D8%B4%D8%B9%D8%A7%D8%B1_%D8%AA%D8%B5%D9%81%D9%8A%D8%A7%D8%AA_%D9%83%D8%A3%D8%B3_%D8%A7%D9%84%D8%A3%D9%85%D9%85_%D8%A7%D9%84%D8%A5%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A9_2025.png" group-title="|SP| ⚽CUP AFRICA   بطولة امم افريقيا",[AR] Bein Sport MAX 3 (M)
-http://lukatv.net:8880/22149615339883/46385825577139/558170
+http://lukatv.net:8880/312912056052/152738717920/558170
 #EXTINF:0 CUID="35455" tvg-name="[AR] Bein Sport MAX 4 (M)" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/d/d1/%D8%B4%D8%B9%D8%A7%D8%B1_%D8%AA%D8%B5%D9%81%D9%8A%D8%A7%D8%AA_%D9%83%D8%A3%D8%B3_%D8%A7%D9%84%D8%A3%D9%85%D9%85_%D8%A7%D9%84%D8%A5%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A9_2025.png" group-title="|SP| ⚽CUP AFRICA   بطولة امم افريقيا",[AR] Bein Sport MAX 4 (M)
-http://lukatv.net:8880/22149615339883/46385825577139/558171
+http://lukatv.net:8880/312912056052/152738717920/558171
 #EXTINF:0 CUID="35456" tvg-name="[AR] Bein Sport MAX 1 (Z)" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/d/d1/%D8%B4%D8%B9%D8%A7%D8%B1_%D8%AA%D8%B5%D9%81%D9%8A%D8%A7%D8%AA_%D9%83%D8%A3%D8%B3_%D8%A7%D9%84%D8%A3%D9%85%D9%85_%D8%A7%D9%84%D8%A5%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A9_2025.png" group-title="|SP| ⚽CUP AFRICA   بطولة امم افريقيا",[AR] Bein Sport MAX 1 (Z)
-http://lukatv.net:8880/22149615339883/46385825577139/558172
+http://lukatv.net:8880/312912056052/152738717920/558172
 #EXTINF:0 CUID="35457" tvg-name="[AR] Bein Sport MAX 2 (Z)" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/d/d1/%D8%B4%D8%B9%D8%A7%D8%B1_%D8%AA%D8%B5%D9%81%D9%8A%D8%A7%D8%AA_%D9%83%D8%A3%D8%B3_%D8%A7%D9%84%D8%A3%D9%85%D9%85_%D8%A7%D9%84%D8%A5%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A9_2025.png" group-title="|SP| ⚽CUP AFRICA   بطولة امم افريقيا",[AR] Bein Sport MAX 2 (Z)
-http://lukatv.net:8880/22149615339883/46385825577139/558173
+http://lukatv.net:8880/312912056052/152738717920/558173
 #EXTINF:0 CUID="35458" tvg-name="[AR] Bein Sport MAX 1 (U)" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/d/d1/%D8%B4%D8%B9%D8%A7%D8%B1_%D8%AA%D8%B5%D9%81%D9%8A%D8%A7%D8%AA_%D9%83%D8%A3%D8%B3_%D8%A7%D9%84%D8%A3%D9%85%D9%85_%D8%A7%D9%84%D8%A5%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A9_2025.png" group-title="|SP| ⚽CUP AFRICA   بطولة امم افريقيا",[AR] Bein Sport MAX 1 (U)
-http://lukatv.net:8880/22149615339883/46385825577139/558174
+http://lukatv.net:8880/312912056052/152738717920/558174
 #EXTINF:0 CUID="35459" tvg-name="[AR] Bein Sport MAX 2 (U)" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/d/d1/%D8%B4%D8%B9%D8%A7%D8%B1_%D8%AA%D8%B5%D9%81%D9%8A%D8%A7%D8%AA_%D9%83%D8%A3%D8%B3_%D8%A7%D9%84%D8%A3%D9%85%D9%85_%D8%A7%D9%84%D8%A5%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A9_2025.png" group-title="|SP| ⚽CUP AFRICA   بطولة امم افريقيا",[AR] Bein Sport MAX 2 (U)
-http://lukatv.net:8880/22149615339883/46385825577139/558175
+http://lukatv.net:8880/312912056052/152738717920/558175
 #EXTINF:0 CUID="35460" tvg-name="[AR] Bein Sport MAX 1 (YW)" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/d/d1/%D8%B4%D8%B9%D8%A7%D8%B1_%D8%AA%D8%B5%D9%81%D9%8A%D8%A7%D8%AA_%D9%83%D8%A3%D8%B3_%D8%A7%D9%84%D8%A3%D9%85%D9%85_%D8%A7%D9%84%D8%A5%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A9_2025.png" group-title="|SP| ⚽CUP AFRICA   بطولة امم افريقيا",[AR] Bein Sport MAX 1 (YW)
-http://lukatv.net:8880/22149615339883/46385825577139/558176
+http://lukatv.net:8880/312912056052/152738717920/558176
 #EXTINF:0 CUID="35461" tvg-name="[AR] Bein Sport MAX 2 (YW)" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/d/d1/%D8%B4%D8%B9%D8%A7%D8%B1_%D8%AA%D8%B5%D9%81%D9%8A%D8%A7%D8%AA_%D9%83%D8%A3%D8%B3_%D8%A7%D9%84%D8%A3%D9%85%D9%85_%D8%A7%D9%84%D8%A5%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A9_2025.png" group-title="|SP| ⚽CUP AFRICA   بطولة امم افريقيا",[AR] Bein Sport MAX 2 (YW)
-http://lukatv.net:8880/22149615339883/46385825577139/558177
+http://lukatv.net:8880/312912056052/152738717920/558177
 #EXTINF:0 CUID="35462" tvg-name="[BG] Diema Sport 3 HD" group-title="|SP| ⚽CUP AFRICA   بطولة امم افريقيا",[BG] Diema Sport 3 HD
-http://lukatv.net:8880/22149615339883/46385825577139/558200
+http://lukatv.net:8880/312912056052/152738717920/558200
 #EXTINF:0 CUID="35463" tvg-name="|NL| ZIGGO SPORT HD" group-title="|SP| ⚽CUP AFRICA   بطولة امم افريقيا",|NL| ZIGGO SPORT HD
-http://lukatv.net:8880/22149615339883/46385825577139/558201
+http://lukatv.net:8880/312912056052/152738717920/558201
 #EXTINF:0 CUID="35464" tvg-name="[BG] MAX Sport 1" group-title="|SP| ⚽CUP AFRICA   بطولة امم افريقيا",[BG] MAX Sport 1
-http://lukatv.net:8880/22149615339883/46385825577139/558230
+http://lukatv.net:8880/312912056052/152738717920/558230
 #EXTINF:0 CUID="35465" tvg-name="[BG] MAX Sport 2" group-title="|SP| ⚽CUP AFRICA   بطولة امم افريقيا",[BG] MAX Sport 2
-http://lukatv.net:8880/22149615339883/46385825577139/558231
+http://lukatv.net:8880/312912056052/152738717920/558231
 #EXTINF:0 CUID="35466" tvg-name="[BG] MAX Sport 3" group-title="|SP| ⚽CUP AFRICA   بطولة امم افريقيا",[BG] MAX Sport 3
-http://lukatv.net:8880/22149615339883/46385825577139/558232
+http://lukatv.net:8880/312912056052/152738717920/558232
 #EXTINF:0 CUID="35467" tvg-name="[BG] MAX Sport 4" group-title="|SP| ⚽CUP AFRICA   بطولة امم افريقيا",[BG] MAX Sport 4
-http://lukatv.net:8880/22149615339883/46385825577139/558233
+http://lukatv.net:8880/312912056052/152738717920/558233
 #EXTINF:0 CUID="35468" tvg-name="[FR] BEIN SPORT FR 1" group-title="|SP| ⚽CUP AFRICA   بطولة امم افريقيا",[FR] BEIN SPORT FR 1
-http://lukatv.net:8880/22149615339883/46385825577139/558202
+http://lukatv.net:8880/312912056052/152738717920/558202
 #EXTINF:0 CUID="35469" tvg-name="[AF]  AZAM SPORT 1" group-title="|SP| ⚽CUP AFRICA   بطولة امم افريقيا",[AF]  AZAM SPORT 1
-http://lukatv.net:8880/22149615339883/46385825577139/558203
+http://lukatv.net:8880/312912056052/152738717920/558203
 #EXTINF:0 CUID="35470" tvg-name="[BG] DSTV" group-title="|SP| ⚽CUP AFRICA   بطولة امم افريقيا",[BG] DSTV
-http://lukatv.net:8880/22149615339883/46385825577139/558204
+http://lukatv.net:8880/312912056052/152738717920/558204
 #EXTINF:0 CUID="35471" tvg-name="[UK] 4SEVEN" group-title="|SP| ⚽CUP AFRICA   بطولة امم افريقيا",[UK] 4SEVEN
-http://lukatv.net:8880/22149615339883/46385825577139/558205
+http://lukatv.net:8880/312912056052/152738717920/558205
 #EXTINF:0 CUID="35472" tvg-name="[AF] SUPERSPORT GRANDSTAND 4K" group-title="|SP| ⚽CUP AFRICA   بطولة امم افريقيا",[AF] SUPERSPORT GRANDSTAND 4K
-http://lukatv.net:8880/22149615339883/46385825577139/558206
+http://lukatv.net:8880/312912056052/152738717920/558206
 #EXTINF:0 CUID="35473" tvg-name="[AF] SUPERSPORT GRANDSTAND" group-title="|SP| ⚽CUP AFRICA   بطولة امم افريقيا",[AF] SUPERSPORT GRANDSTAND
-http://lukatv.net:8880/22149615339883/46385825577139/558207
+http://lukatv.net:8880/312912056052/152738717920/558207
 #EXTINF:0 CUID="35474" tvg-name="[AF] SUPERSPORT PSL" group-title="|SP| ⚽CUP AFRICA   بطولة امم افريقيا",[AF] SUPERSPORT PSL
-http://lukatv.net:8880/22149615339883/46385825577139/558208
+http://lukatv.net:8880/312912056052/152738717920/558208
 #EXTINF:0 CUID="35475" tvg-name="[BG] Eurosport 2" group-title="|SP| ⚽CUP AFRICA   بطولة امم افريقيا",[BG] Eurosport 2
-http://lukatv.net:8880/22149615339883/46385825577139/558209
+http://lukatv.net:8880/312912056052/152738717920/558209
 #EXTINF:0 CUID="35476" tvg-name="[BG] Evrokom" group-title="|SP| ⚽CUP AFRICA   بطولة امم افريقيا",[BG] Evrokom
-http://lukatv.net:8880/22149615339883/46385825577139/558210
+http://lukatv.net:8880/312912056052/152738717920/558210
 #EXTINF:0 CUID="35477" tvg-name="[AR] ARRYADIA 1 4K" group-title="|SP| ⚽CUP AFRICA   بطولة امم افريقيا",[AR] ARRYADIA 1 4K
-http://lukatv.net:8880/22149615339883/46385825577139/558211
+http://lukatv.net:8880/312912056052/152738717920/558211
 #EXTINF:0 CUID="35478" tvg-name="[AR] ON SPORT 1" group-title="|SP| ⚽CUP AFRICA   بطولة امم افريقيا",[AR] ON SPORT 1
-http://lukatv.net:8880/22149615339883/46385825577139/558212
+http://lukatv.net:8880/312912056052/152738717920/558212
 #EXTINF:0 CUID="35479" tvg-name="[AR] ON SPORT 2" group-title="|SP| ⚽CUP AFRICA   بطولة امم افريقيا",[AR] ON SPORT 2
-http://lukatv.net:8880/22149615339883/46385825577139/558213
+http://lukatv.net:8880/312912056052/152738717920/558213
 #EXTINF:0 CUID="35480" tvg-name="[BG] Food Network" group-title="|SP| ⚽CUP AFRICA   بطولة امم افريقيا",[BG] Food Network
-http://lukatv.net:8880/22149615339883/46385825577139/558215
+http://lukatv.net:8880/312912056052/152738717920/558215
 #EXTINF:0 CUID="35481" tvg-name="[BG] Fox" group-title="|SP| ⚽CUP AFRICA   بطولة امم افريقيا",[BG] Fox
-http://lukatv.net:8880/22149615339883/46385825577139/558216
+http://lukatv.net:8880/312912056052/152738717920/558216
 #EXTINF:0 CUID="35482" tvg-name="[BG] Magic TV" group-title="|SP| ⚽CUP AFRICA   بطولة امم افريقيا",[BG] Magic TV
-http://lukatv.net:8880/22149615339883/46385825577139/558229
+http://lukatv.net:8880/312912056052/152738717920/558229
 #EXTINF:0 CUID="35483" tvg-name="[BG] Nova Sport" group-title="|SP| ⚽CUP AFRICA   بطولة امم افريقيا",[BG] Nova Sport
-http://lukatv.net:8880/22149615339883/46385825577139/558240
+http://lukatv.net:8880/312912056052/152738717920/558240
 #EXTINF:0 CUID="13" tvg-name="|4K HDR DV VM|  Nobody 2 (2025)" tvg-logo="https://i.imgur.com/bjG59YL.png" group-title="FILMS 4K UHD MULTi",|4K HDR DV VM|  Nobody 2 (2025)
 http://199.115.193.116/movie/90337864331136/90337864331136/419721.mkv
 #EXTINF:0 CUID="33" tvg-name="|4K UHD HDR DV VM| Conjuring : L'Heure du jugement (2025)" tvg-logo="https://i.imgur.com/cBG1fpx.png" group-title="FILMS 4K UHD MULTi",|4K UHD HDR DV VM| Conjuring : L'Heure du jugement (2025)
@@ -7488,8 +7307,3 @@ http://199.115.193.116:8080/series/90337864331136/90337864331136/409150.mkv
 http://199.115.193.116:8080/series/90337864331136/90337864331136/409556.mkv
 #EXTINF:0 CUID="121339" tvg-name="|4K| MobLand S01 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/abeH7n5pcuQcwYcTxG6DTZvXLP1.jpg" group-title="SERIES 4K MULTi",|4K| MobLand S01 E03
 http://199.115.193.116:8080/series/90337864331136/90337864331136/409557.mkv
-
-
-
-
-
