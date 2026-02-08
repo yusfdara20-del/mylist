@@ -911,34 +911,40 @@ http://142.132.133.190:1935/live/peshmerge/index.m3u8
 http://duhok.badinan.xyz:1935/live/DuhokTV/chunklist_w1036962996.m3u8
 #EXTINF:0 CUID="8652" tvg-name="اشتراك✅  کڕینی کۆد✅  IPTV VIP" tvg-logo="https://i.postimg.cc/x1Ncddt9/CC2958-B1-8-A37-481-C-9-B14-2-FE57-CAACEC2.png" group-title="Kurdish  سپۆرت  ",اشتراك✅  کڕینی کۆد✅  IPTV VIP
 https://v.redd.it/smx05t0jmjee1/HLS_720.m3u8
-#EXTINF:0 CUID="10754" tvg-name="BEIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/5/52/BeIN_4K_logo.jpg" group-title="Kurdish  سپۆرت  ",BEIN SPORTS
+#EXTINF:0 CUID="10754" tvg-name="BEIN UHD TOD LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/5/52/BeIN_4K_logo.jpg" group-title="Kurdish  سپۆرت  ",BEIN UHD TOD LIVE
 http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/506104
 #EXTINF:0 CUID="23136" tvg-name="NRT SPORT SD" tvg-logo="https://i.postimg.cc/NgMdhQGP/NRTSPORT.png" group-title="Kurdish  سپۆرت  ",NRT SPORT SD
-http://forevertv.me:2095/6q3xCwsf95ipTO/IqWIDpyBlwabAu/29348
+http://151.243.83.50:43913/live/70491626521140/84931804211198/168667.ts?token=dzdcdd.Haczf.X.yXfdd.ydHbcUHHaf.X.y.IQ.ts.37d06e88560d71f780df1e322d186c0863c98ed0f7bbcfecd5263e80dab42814...ZDRraXAuY29t
 #EXTINF:0 CUID="23137" tvg-name="AVA SPORT HD" tvg-logo="https://i.postimg.cc/bqfzRHf3/AVASPORT.png" group-title="Kurdish  سپۆرت  ",AVA SPORT HD
-http://forevertv.me:2095/6q3xCwsf95ipTO/IqWIDpyBlwabAu/438124
-#EXTINF:0 CUID="46921" tvg-name="beIN  UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="Kurdish  سپۆرت  ",beIN  UHD
-http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/506104
-#EXTINF:0 CUID="58806" tvg-name="DUHOK SPORT" tvg-logo="https://i.postimg.cc/6w6DfR94/duhok.png" group-title="Kurdish  سپۆرت  ",DUHOK SPORT
-http://forevertv.me:2095/6q3xCwsf95ipTO/IqWIDpyBlwabAu/199335
-#EXTINF:0 CUID="58807" tvg-name="DELAL SPORT" tvg-logo="https://i.postimg.cc/ssgDRk4w/dtvs.png" group-title="Kurdish  سپۆرت  ",DELAL SPORT
-http://forevertv.me:2095/6q3xCwsf95ipTO/IqWIDpyBlwabAu/368857
-#EXTINF:0 CUID="58808" tvg-name="DASINYA SPORT" tvg-logo="https://i.postimg.cc/XVV50xf7/dasinya.png" group-title="Kurdish  سپۆرت  ",DASINYA SPORT
-http://forevertv.me:2095/6q3xCwsf95ipTO/IqWIDpyBlwabAu/33385
-#EXTINF:0 CUID="58809" tvg-name="ZAXO SPORT" tvg-logo="https://i.postimg.cc/4JwMWmKw/ZAXO-1.png" group-title="Kurdish  سپۆرت  ",ZAXO SPORT
-http://forevertv.me:2095/6q3xCwsf95ipTO/IqWIDpyBlwabAu/162750
-#EXTINF:0 CUID="58813" tvg-name="LD SPORT CHECK" tvg-logo="https://i.postimg.cc/0x1wX31q/LDSPORT.png" group-title="Kurdish  سپۆرت  ",LD SPORT CHECK
-http://forevertv.me:2095/6q3xCwsf95ipTO/IqWIDpyBlwabAu/356831
-#EXTINF:0 CUID="58814" tvg-name="ASTERA SPORT1" tvg-logo="https://i.postimg.cc/NYRPZWy8/ASTERA.png" group-title="Kurdish  سپۆرت  ",ASTERA SPORT1
-http://forevertv.me:2095/6q3xCwsf95ipTO/IqWIDpyBlwabAu/33546
-#EXTINF:0 CUID="58815" tvg-name="NEWLINE SPORT" tvg-logo="https://i.postimg.cc/wqZ414g9/newsport.png" group-title="Kurdish  سپۆرت  ",NEWLINE SPORT
-http://forevertv.me:2095/6q3xCwsf95ipTO/IqWIDpyBlwabAu/293134
-#EXTINF:0 CUID="58816" tvg-name="ARO SPORT" tvg-logo="https://i.postimg.cc/zqCYYkVX/ARO.png" group-title="Kurdish  سپۆرت  ",ARO SPORT
-http://forevertv.me:2095/6q3xCwsf95ipTO/IqWIDpyBlwabAu/159594
+http://45.93.166.76:8080/live/70491626521140/84931804211198/330034.ts?token=dzdcdd.cXybf.X.cUyf.ydHbcUHdbd.X.y.IQ.ts.77cc7f1ab1ccdaa36617523a1dce91b6d59fc9f252ec113efd875e1e6fd77c99...ZDRraXAuY29t
 #EXTINF:0 CUID="58818" tvg-name="LD SPORT" tvg-logo="https://i.postimg.cc/WNjy4s7s/LD-SPORT.png" group-title="Kurdish  سپۆرت  ",LD SPORT
-http://forevertv.me:2095/6q3xCwsf95ipTO/IqWIDpyBlwabAu/149062
-#EXTINF:0 CUID="58819" tvg-name="Kurdistan Sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKSrY9HpXVD5nlpGOrmunyqRLZHFKkv0zseg&s" group-title="Kurdish  سپۆرت  ",Kurdistan Sport
-http://forevertv.me:2095/6q3xCwsf95ipTO/IqWIDpyBlwabAu/33706
+http://151.243.83.50:43913/live/70491626521140/84931804211198/168666.ts?token=dzdcdd.UyXdH.X.yXfbU.ydHbcUHHUU.X.y.IQ.ts.c94a39a4b2ee608abd869f32d80dee03ab0043f3a105bad20c6ae8e427b809a9...ZDRraXAuY29t
+#EXTINF:0 CUID="58806" tvg-name="DUHOK SPORT" tvg-logo="https://i.postimg.cc/6w6DfR94/duhok.png" group-title="Kurdish  سپۆرت  ",DUHOK SPORT
+http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/550809
+#EXTINF:0 CUID="58807" tvg-name="DELAL SPORT" tvg-logo="https://i.postimg.cc/ssgDRk4w/dtvs.png" group-title="Kurdish  سپۆرت  ",DELAL SPORT
+http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/550813
+#EXTINF:0 CUID="58808" tvg-name="DASINYA SPORT" tvg-logo="https://i.postimg.cc/XVV50xf7/dasinya.png" group-title="Kurdish  سپۆرت  ",DASINYA SPORT
+http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/550814
+#EXTINF:0 CUID="58809" tvg-name="ZAXO SPORT" tvg-logo="https://i.postimg.cc/4JwMWmKw/ZAXO-1.png" group-title="Kurdish  سپۆرت  ",ZAXO SPORT
+http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/550853
+#EXTINF:0 CUID="58810" tvg-name="NRT SPORT FHD" tvg-logo="https://i.postimg.cc/NgMdhQGP/NRTSPORT.png" group-title="Kurdish  سپۆرت  ",NRT SPORT FHD
+http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/550878
+#EXTINF:0 CUID="58811" tvg-name="NRT SPORT SD" tvg-logo="https://i.postimg.cc/NgMdhQGP/NRTSPORT.png" group-title="Kurdish  سپۆرت  ",NRT SPORT SD
+http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/550879
+#EXTINF:0 CUID="58812" tvg-name="AVA SPORT HD" tvg-logo="https://i.postimg.cc/bqfzRHf3/AVASPORT.png" group-title="Kurdish  سپۆرت  ",AVA SPORT HD
+http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/550880
+#EXTINF:0 CUID="58813" tvg-name="LD SPORT CHECK" tvg-logo="https://i.postimg.cc/0x1wX31q/LDSPORT.png" group-title="Kurdish  سپۆرت  ",LD SPORT CHECK
+http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/550881
+#EXTINF:0 CUID="58814" tvg-name="ASTERA SPORT1" tvg-logo="https://i.postimg.cc/NYRPZWy8/ASTERA.png" group-title="Kurdish  سپۆرت  ",ASTERA SPORT1
+http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/550882
+#EXTINF:0 CUID="58815" tvg-name="NEWLINE SPORT" tvg-logo="https://i.postimg.cc/wqZ414g9/newsport.png" group-title="Kurdish  سپۆرت  ",NEWLINE SPORT
+http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/550890
+#EXTINF:0 CUID="58816" tvg-name="ARO SPORT" tvg-logo="https://i.postimg.cc/zqCYYkVX/ARO.png" group-title="Kurdish  سپۆرت  ",ARO SPORT
+http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/550895
+#EXTINF:0 CUID="58817" tvg-name="AVA SPORT SD" tvg-logo="https://i.postimg.cc/qBMdch1p/avasport.png" group-title="Kurdish  سپۆرت  ",AVA SPORT SD
+http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/550902
+#EXTINF:0 CUID="58819" tvg-name="NRT SPORT HD" tvg-logo="https://i.postimg.cc/NgMdhQGP/NRTSPORT.png" group-title="Kurdish  سپۆرت  ",NRT SPORT HD
+http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/550914
 #EXTINF:0 CUID="58820" tvg-name="MMN SPORT" tvg-logo="https://i.postimg.cc/8NG9hZMg/MMNSPORT.png" group-title="Kurdish  سپۆرت  ",MMN SPORT
 http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/550915
 #EXTINF:0 CUID="58821" tvg-name="QALAM SPORT" tvg-logo="https://i.postimg.cc/3rxnV8Wt/qalamsp.png" group-title="Kurdish  سپۆرت  ",QALAM SPORT
@@ -946,13 +952,13 @@ http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/550927
 #EXTINF:0 CUID="58822" tvg-name="DASANYA SPORT" tvg-logo="https://i.postimg.cc/CFTzQ2w3/sport.png" group-title="Kurdish  سپۆرت  ",DASANYA SPORT
 http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/550940
 #EXTINF:0 CUID="58823" tvg-name="MTV SPORT" tvg-logo="https://i.postimg.cc/xjQz941k/MTV.png" group-title="Kurdish  سپۆرت  ",MTV SPORT
-http://forevertv.me:2095/6q3xCwsf95ipTO/IqWIDpyBlwabAu/290928
+http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/550941
 #EXTINF:0 CUID="58824" tvg-name="SEE SPORT1" tvg-logo="https://i.postimg.cc/cs710bq8/see1.png" group-title="Kurdish  سپۆرت  ",SEE SPORT1
-http://forevertv.me:2095/6q3xCwsf95ipTO/IqWIDpyBlwabAu/164380
+http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/550945
 #EXTINF:0 CUID="58825" tvg-name="SEE SPORT2" tvg-logo="https://i.postimg.cc/gYbk9P7W/see2.png" group-title="Kurdish  سپۆرت  ",SEE SPORT2
-http://forevertv.me:2095/6q3xCwsf95ipTO/IqWIDpyBlwabAu/240831
+http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/550946
 #EXTINF:0 CUID="58826" tvg-name="SIMA SPORT" tvg-logo="https://i.postimg.cc/pxmr3xVm/simas.png" group-title="Kurdish  سپۆرت  ",SIMA SPORT
-http://forevertv.me:2095/6q3xCwsf95ipTO/IqWIDpyBlwabAu/199935
+http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/550947
 #EXTINF:0 CUID="58827" tvg-name="4Sport" tvg-logo="https://i.postimg.cc/CSNK9jnT/4SPORT.png" group-title="Kurdish  سپۆرت  ",4Sport
 http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/550948
 #EXTINF:0 CUID="58828" tvg-name="NUBER SPORT" tvg-logo="https://i.postimg.cc/rMHJGLhH/NSPORT.png" group-title="Kurdish  سپۆرت  ",NUBER SPORT
@@ -960,7 +966,7 @@ http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/550949
 #EXTINF:0 CUID="58829" tvg-name="ALL SPORT" tvg-logo="https://i.postimg.cc/w98vknC1/all-sport.png" group-title="Kurdish  سپۆرت  ",ALL SPORT
 http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/550950
 #EXTINF:0 CUID="58830" tvg-name="SEE SPORT3" group-title="Kurdish  سپۆرت  ",SEE SPORT3
-http://forevertv.me:2095/6q3xCwsf95ipTO/IqWIDpyBlwabAu/29346
+http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/551023
 #EXTINF:0 CUID="58870" tvg-name="ROJAVA" tvg-logo="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHV2ZXl4bWprbjhpMjRwMm9zdTIya3JjaDV5OXByd2FpZTczYmIxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6zOa92AFoytUGJpgAa/giphy.gif" group-title="ALWAN  SPORT 4k",ROJAVA
 https://rashaba.com/upload2/videos/2026/01/qeUNPMmCvrYcqe6/qeUNPMmCvrYcqe6_av1.m3u8
 #EXTINF:0 CUID="58871" tvg-name="ALWAN WWE 4K" tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN  SPORT 4k",ALWAN WWE 4K
@@ -8163,7 +8169,6 @@ http://199.115.193.116:8080/series/90337864331136/90337864331136/409150.mkv
 http://199.115.193.116:8080/series/90337864331136/90337864331136/409556.mkv
 #EXTINF:0 CUID="121339" tvg-name="|4K| MobLand S01 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/abeH7n5pcuQcwYcTxG6DTZvXLP1.jpg" group-title="SERIES 4K MULTi",|4K| MobLand S01 E03
 http://199.115.193.116:8080/series/90337864331136/90337864331136/409557.mkv
-
 
 
 
