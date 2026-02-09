@@ -80,7 +80,7 @@ https://6476e46b58f91.streamlock.net/liveTrans/SHOWB234/playlist.m3u8
 #EXTINF:0 CUID="8528" tvg-name="RAVAND-HD" tvg-logo="https://i.postimg.cc/Pq9pCfJk/4989-FD6-C-D31-F-45-F2-AF55-FCAB88896-B19.png" group-title="KURDISH ",RAVAND-HD
 http://ravandtv.badinan.xyz:1935/live/RAVAND-HD/HawezHD.m3u8
 #EXTINF:0 CUID="8529" tvg-name="LIKE MOVIES HD" tvg-logo="https://i.postimg.cc/L4N2GGFG/Pics-Art-02-11-02-22-19.png" group-title="KURDISH ",LIKE MOVIES HD
-https://live9.karwan.tv/LINKEMOVES2/index.m3u8
+https://live20.bozztv.com/giatv/giatv-likemovies+/likemovies+/chunks.m3u8
 #EXTINF:0 CUID="8530" tvg-name="NEW LINE 1" tvg-logo="https://i.postimg.cc/RChphrjs/new1.png" group-title="KURDISH ",NEW LINE 1
 http://109.123.245.192/Newline1/index.m3u8
 #EXTINF:0 CUID="8531" tvg-name="NEW LINE 2" tvg-logo="https://i.postimg.cc/pWq1PV15/new2.png" group-title="KURDISH ",NEW LINE 2
@@ -7583,6 +7583,7 @@ http://199.115.193.116:8080/series/90337864331136/90337864331136/409150.mkv
 http://199.115.193.116:8080/series/90337864331136/90337864331136/409556.mkv
 #EXTINF:0 CUID="121339" tvg-name="|4K| MobLand S01 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/abeH7n5pcuQcwYcTxG6DTZvXLP1.jpg" group-title="SERIES 4K MULTi",|4K| MobLand S01 E03
 http://199.115.193.116:8080/series/90337864331136/90337864331136/409557.mkv
+
 
 
 
