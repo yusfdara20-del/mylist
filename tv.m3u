@@ -11,7 +11,7 @@ https://dl23.mp4.ir/video/2025/8/321750-455863615/m3u8/1080p/out.m3u8
 https://app-live.org/live/3268334b/index.m3u8
 #EXTINF:0 CUID="8495" tvg-name="ئەکادیمیای ئامۆژگاری" tvg-logo="https://amozhgary.tv/style/img/academy_logo.png" group-title="KURDISH ",ئەکادیمیای ئامۆژگاری
 https://app-live.org/live/a267c1b3/index.m3u8
-#EXTINF:0 CUID="8617" tvg-name="baskhd" group-title="KURDISH ",baskhd
+#EXTINF:0 CUID="8495" tvg-name="BASK" tvg-logo="https://i.postimg.cc/3NCcKWTb/file-000000005f04720a90675ea172373758.png" group-title="KURDISH ",BASK
 http://baskhd.ddns.net:40/live/baskhd/HawezHD.m3u8
 #EXTINF:0 CUID="8496" tvg-name="Rawshan hd" tvg-logo="https://i.postimg.cc/pTFSvz3m/96-DA4-F87-FCAE-4-AEB-9-F82-B26663-B06539.png" group-title="KURDISH ",Rawshan hd
 http://rawshan.ddns.net:1935/live/rawshantv/playlist.m3u8
