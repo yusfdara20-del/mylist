@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 CUID="8490" tvg-name="اشتراك✅  کڕینی کۆد✅  IPTV VIP" tvg-logo="https://raw.githubusercontent.com/yusfdara20-del/mylist/refs/heads/main/video.gif" group-title="KURDISH ",اشتراك✅  کڕینی کۆد✅  IPTV VIP
+#EXTINF:0 CUID="8490" tvg-name="اشتراك✅  کڕینی کۆد✅  IPTV VIP" tvg-logo="https://i.postimg.cc/x1Ncddt9/CC2958-B1-8-A37-481-C-9-B14-2-FE57-CAACEC2.png" group-title="KURDISH ",اشتراك✅  کڕینی کۆد✅  IPTV VIP
 https://v.redd.it/smx05t0jmjee1/HLSPlaylist.m3u8
 #EXTINF:0 CUID="8491" tvg-name="آية الكرسي" tvg-logo="https://i.ytimg.com/vi/WqzM7yXebNY/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBI8QaqQ_zfDZmqODE9EVUNge8o4A" group-title="KURDISH ",آية الكرسي
 https://v.redd.it/5svby2yfhj6f1/HLSPlaylist.m3u8
@@ -11,7 +11,7 @@ https://dl23.mp4.ir/video/2025/8/321750-455863615/m3u8/1080p/out.m3u8
 https://app-live.org/live/3268334b/index.m3u8
 #EXTINF:0 CUID="8495" tvg-name="ئەکادیمیای ئامۆژگاری" tvg-logo="https://amozhgary.tv/style/img/academy_logo.png" group-title="KURDISH ",ئەکادیمیای ئامۆژگاری
 https://app-live.org/live/a267c1b3/index.m3u8
-#EXTINF:0 CUID="8495" tvg-name="BASK" tvg-logo="https://i.postimg.cc/3NCcKWTb/file-000000005f04720a90675ea172373758.png" group-title="KURDISH ",BASK
+#EXTINF:0 CUID="8617" tvg-name="baskhd" group-title="KURDISH ",baskhd
 http://baskhd.ddns.net:40/live/baskhd/HawezHD.m3u8
 #EXTINF:0 CUID="8496" tvg-name="Rawshan hd" tvg-logo="https://i.postimg.cc/pTFSvz3m/96-DA4-F87-FCAE-4-AEB-9-F82-B26663-B06539.png" group-title="KURDISH ",Rawshan hd
 http://rawshan.ddns.net:1935/live/rawshantv/playlist.m3u8
@@ -320,6 +320,54 @@ http://51.89.152.180/live/BahraHD/chunks.m3u8
 #EXTINF:0 CUID="8650" tvg-name="PESHMARGA TV" tvg-logo="https://i.postimg.cc/81wsh67y/pe-1.png" group-title="KURDISH ",PESHMARGA TV
 http://142.132.133.190:1935/live/peshmerge/index.m3u8
 #EXTINF:0 CUID="8651" tvg-name="DUHOK-TV" tvg-logo="https://i.postimg.cc/CYNdhrgr/DUHOK-1.png" group-title="KURDISH ",DUHOK-TV
+#EXTINF:0 CUID="58806" tvg-name="DUHOK SPORT" tvg-logo="https://i.postimg.cc/6w6DfR94/duhok.png" group-title="Kurdish  سپۆرت  ",DUHOK SPORT
+http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/550809
+#EXTINF:0 CUID="58807" tvg-name="DELAL SPORT" tvg-logo="https://i.postimg.cc/ssgDRk4w/dtvs.png" group-title="Kurdish  سپۆرت  ",DELAL SPORT
+http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/550813
+#EXTINF:0 CUID="58808" tvg-name="DASINYA SPORT" tvg-logo="https://i.postimg.cc/XVV50xf7/dasinya.png" group-title="Kurdish  سپۆرت  ",DASINYA SPORT
+http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/550814
+#EXTINF:0 CUID="58809" tvg-name="ZAXO SPORT" tvg-logo="https://i.postimg.cc/4JwMWmKw/ZAXO-1.png" group-title="Kurdish  سپۆرت  ",ZAXO SPORT
+http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/550853
+#EXTINF:0 CUID="58810" tvg-name="NRT SPORT FHD" tvg-logo="https://i.postimg.cc/NgMdhQGP/NRTSPORT.png" group-title="Kurdish  سپۆرت  ",NRT SPORT FHD
+http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/550878
+#EXTINF:0 CUID="58811" tvg-name="NRT SPORT SD" tvg-logo="https://i.postimg.cc/NgMdhQGP/NRTSPORT.png" group-title="Kurdish  سپۆرت  ",NRT SPORT SD
+http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/550879
+#EXTINF:0 CUID="58812" tvg-name="AVA SPORT HD" tvg-logo="https://i.postimg.cc/bqfzRHf3/AVASPORT.png" group-title="Kurdish  سپۆرت  ",AVA SPORT HD
+http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/550880
+#EXTINF:0 CUID="58813" tvg-name="LD SPORT CHECK" tvg-logo="https://i.postimg.cc/0x1wX31q/LDSPORT.png" group-title="Kurdish  سپۆرت  ",LD SPORT CHECK
+http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/550881
+#EXTINF:0 CUID="58814" tvg-name="ASTERA SPORT1" tvg-logo="https://i.postimg.cc/NYRPZWy8/ASTERA.png" group-title="Kurdish  سپۆرت  ",ASTERA SPORT1
+http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/550882
+#EXTINF:0 CUID="58815" tvg-name="NEWLINE SPORT" tvg-logo="https://i.postimg.cc/wqZ414g9/newsport.png" group-title="Kurdish  سپۆرت  ",NEWLINE SPORT
+http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/550890
+#EXTINF:0 CUID="58816" tvg-name="ARO SPORT" tvg-logo="https://i.postimg.cc/zqCYYkVX/ARO.png" group-title="Kurdish  سپۆرت  ",ARO SPORT
+http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/550895
+#EXTINF:0 CUID="58817" tvg-name="AVA SPORT SD" tvg-logo="https://i.postimg.cc/qBMdch1p/avasport.png" group-title="Kurdish  سپۆرت  ",AVA SPORT SD
+http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/550902
+#EXTINF:0 CUID="58819" tvg-name="NRT SPORT HD" tvg-logo="https://i.postimg.cc/NgMdhQGP/NRTSPORT.png" group-title="Kurdish  سپۆرت  ",NRT SPORT HD
+http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/550914
+#EXTINF:0 CUID="58820" tvg-name="MMN SPORT" tvg-logo="https://i.postimg.cc/8NG9hZMg/MMNSPORT.png" group-title="Kurdish  سپۆرت  ",MMN SPORT
+http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/550915
+#EXTINF:0 CUID="58821" tvg-name="QALAM SPORT" tvg-logo="https://i.postimg.cc/3rxnV8Wt/qalamsp.png" group-title="Kurdish  سپۆرت  ",QALAM SPORT
+http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/550927
+#EXTINF:0 CUID="58822" tvg-name="DASANYA SPORT" tvg-logo="https://i.postimg.cc/CFTzQ2w3/sport.png" group-title="Kurdish  سپۆرت  ",DASANYA SPORT
+http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/550940
+#EXTINF:0 CUID="58823" tvg-name="MTV SPORT" tvg-logo="https://i.postimg.cc/xjQz941k/MTV.png" group-title="Kurdish  سپۆرت  ",MTV SPORT
+http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/550941
+#EXTINF:0 CUID="58824" tvg-name="SEE SPORT1" tvg-logo="https://i.postimg.cc/cs710bq8/see1.png" group-title="Kurdish  سپۆرت  ",SEE SPORT1
+http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/550945
+#EXTINF:0 CUID="58825" tvg-name="SEE SPORT2" tvg-logo="https://i.postimg.cc/gYbk9P7W/see2.png" group-title="Kurdish  سپۆرت  ",SEE SPORT2
+http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/550946
+#EXTINF:0 CUID="58826" tvg-name="SIMA SPORT" tvg-logo="https://i.postimg.cc/pxmr3xVm/simas.png" group-title="Kurdish  سپۆرت  ",SIMA SPORT
+http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/550947
+#EXTINF:0 CUID="58827" tvg-name="4Sport" tvg-logo="https://i.postimg.cc/CSNK9jnT/4SPORT.png" group-title="Kurdish  سپۆرت  ",4Sport
+http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/550948
+#EXTINF:0 CUID="58828" tvg-name="NUBER SPORT" tvg-logo="https://i.postimg.cc/rMHJGLhH/NSPORT.png" group-title="Kurdish  سپۆرت  ",NUBER SPORT
+http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/550949
+#EXTINF:0 CUID="58829" tvg-name="ALL SPORT" tvg-logo="https://i.postimg.cc/w98vknC1/all-sport.png" group-title="Kurdish  سپۆرت  ",ALL SPORT
+http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/550950
+#EXTINF:0 CUID="58830" tvg-name="SEE SPORT3" group-title="Kurdish  سپۆرت  ",SEE SPORT3
+http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/551023
 #EXTINF:0 CUID="58870" tvg-name="ROJAVA" tvg-logo="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHV2ZXl4bWprbjhpMjRwMm9zdTIya3JjaDV5OXByd2FpZTczYmIxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6zOa92AFoytUGJpgAa/giphy.gif" group-title="ALWAN  SPORT 4k",ROJAVA
 https://rashaba.com/upload2/videos/2026/01/qeUNPMmCvrYcqe6/qeUNPMmCvrYcqe6_av1.m3u8
 #EXTINF:0 CUID="58871" tvg-name="ALWAN WWE 4K" tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN  SPORT 4k",ALWAN WWE 4K
@@ -487,7 +535,7 @@ https://plus.shafilm.vip/videos/ec2c99ee-4a47-afad-3b6a-6f9d77cde4d6/main.m3u8?D
 https://plus.shafilm.vip/videos/ee2b7391-ac44-6f27-95ca-b9fde5889431/main.m3u8?DeviceId=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEzOC4wLjAuMCBTYWZhcmkvNTM3LjM2fDE3NTM4ODU2NzEwNTk1&MediaSourceId=ee2b7391ac446f2795cab9fde5889431&VideoCodec=av1,hevc,h264,vp9&AudioCodec=copy&AudioStreamIndex=1&VideoBitrate=1108359&AudioBitrate=317374&MaxFramerate=24&PlaySessionId=5672c667737d4b83b9cd50c19132f5cd&api_key=ef955bd6ea484f2f81c4e6d5d12e5556&SubtitleMethod=Encode&TranscodingMaxAudioChannels=2&RequireAvc=false&EnableAudioVbrEncoding=true&Tag=eb3c0e30e6796955b33b302927e6c125&SegmentContainer=mp4&MinSegments=1&BreakOnNonKeyFrames=True&hevc-level=153&hevc-videobitdepth=8&hevc-profile=main&av1-profile=main&av1-rangetype=SDR,HDR10,HLG&av1-level=19&vp9-rangetype=SDR,HDR10,HLG&hevc-rangetype=SDR,HDR10,HLG&hevc-deinterlace=true&h264-profile=high,main,baseline,constrainedbaseline,high10&h264-rangetype=SDR&h264-level=52&h264-deinterlace=true&Transcod...
 #EXTINF:0 CUID="8733" tvg-name="Fida (2004)" tvg-logo="https://i.postimg.cc/ZnQfg05G/Untitled-design-20.png" group-title="فیلمی دۆبلاژکراوی کوردی",Fida (2004)
 https://plus.shafilm.vip/videos/82898dec-e891-fac3-12ab-833b0b2e9e2c/main.m3u8?DeviceId=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEzOC4wLjAuMCBTYWZhcmkvNTM3LjM2fDE3NTM4ODU2NzEwNTk1&MediaSourceId=82898dece891fac312ab833b0b2e9e2c&VideoCodec=av1,hevc,h264,vp9&AudioCodec=copy&AudioStreamIndex=0&VideoBitrate=1318232&AudioBitrate=107501&MaxFramerate=30&PlaySessionId=89dd7eb909304cf3927438c8ad960bd4&api_key=ef955bd6ea484f2f81c4e6d5d12e5556&SubtitleMethod=Encode&TranscodingMaxAudioChannels=2&RequireAvc=false&EnableAudioVbrEncoding=true&Tag=0f10938cf4110989cae5766f14b46825&SegmentContainer=mp4&MinSegments=1&BreakOnNonKeyFrames=True&h264-level=10&h264-videobitdepth=8&h264-profile=high&av1-profile=main&av1-rangetype=SDR,HDR10,HLG&av1-level=19&vp9-rangetype=SDR,HDR10,HLG&hevc-profile=main,main10&hevc-rangetype=SDR,HDR10,HLG&hevc-level=183&hevc-deinterlace=true&h264-rangetype=SDR&h264-deinterlace=true&TranscodeReasons=ContainerBitrateExceedsLimit
-#EXTINF:0 CUID="17212" tvg-name="اشتراك✅  کڕینی کۆد✅  IPTV VIP" tvg-logo="https://i.postimg.cc/x1Ncddt9/CC2958-B1-8-A37-481-C-9-B14-2-FE57-CAACEC2.png" group-title="BEIN SPORTS VIP",اشتراك✅  کڕینی کۆد✅  IPTV VIP
+#EXTINF:0 CUID="17212" tvg-name="اشتراك✅  کڕینی کۆد✅  IPTV VIP" tvg-logo="https://i.postimg.cc/x1Ncddt9/CC2958-B1-8-A37-481-C-9-B14-2-FE57-CAACEC2.png" group-title="BEIN SPORTS VIP",beIN  UHD
 https://v.redd.it/smx05t0jmjee1/HLS_720.m3u8
 #EXTINF:0 CUID="17212" tvg-name="beIN  UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORTS VIP",beIN  UHD
 http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/506104
@@ -11643,7 +11691,7 @@ http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/560128
 http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/560129
 #EXTINF:0 CUID="22838" tvg-name="PT| TVI FHD" tvg-logo="https://static.mytuner.mobi/media/countries/pt.png" group-title="|PT| PORTUGAL VIP",PT| TVI FHD
 http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/560130
-#EXTINF:0 CUID="22839" tvg-name="PT| TVI V+ FHD" tvg-logo="https://static.mytuner.mobi/media/countries/pt.png" group-title="|PT| PORTUGAL VIP",PT| TVI V+ FHD
+#EXTINF:0 CUID="22839" tvg-name="PT| TVI V+ FHD" tvg-logo="https://static.mytuner.mobi/media/countries/pt.png" group-title="|PT| PORTUGAL VIP",PT| TVI V+ FHD
 http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/560131
 #EXTINF:0 CUID="22840" tvg-name="PT| TVI REALITY-BIG BROTHER FHD" tvg-logo="https://static.mytuner.mobi/media/countries/pt.png" group-title="|PT| PORTUGAL VIP",PT| TVI REALITY-BIG BROTHER FHD
 http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/560132
@@ -11837,7 +11885,7 @@ http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/560242
 http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/560243
 #EXTINF:0 CUID="22952" tvg-name="PT| TVI HD" tvg-logo="https://static.mytuner.mobi/media/countries/pt.png" group-title="|PT| PORTUGAL VIP",PT| TVI HD
 http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/560244
-#EXTINF:0 CUID="22953" tvg-name="PT| TVI V+ HD" tvg-logo="https://static.mytuner.mobi/media/countries/pt.png" group-title="|PT| PORTUGAL VIP",PT| TVI V+ HD
+#EXTINF:0 CUID="22953" tvg-name="PT| TVI V+ HD" tvg-logo="https://static.mytuner.mobi/media/countries/pt.png" group-title="|PT| PORTUGAL VIP",PT| TVI V+ HD
 http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/560245
 #EXTINF:0 CUID="22954" tvg-name="PT| SIC NOVELAS HD" tvg-logo="https://static.mytuner.mobi/media/countries/pt.png" group-title="|PT| PORTUGAL VIP",PT| SIC NOVELAS HD
 http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/560246
@@ -27638,7 +27686,7 @@ http://199.115.193.116/movie/90337864331136/90337864331136/412321.mkv
 http://199.115.193.116/movie/90337864331136/90337864331136/412320.mkv
 #EXTINF:0 CUID="118" tvg-name="|4K UHD HDR VM| Jurassic World : Renaissance (2025)" tvg-logo="https://i.imgur.com/4kCtxmZ.png" group-title="FILMS 4K UHD MULTi",|4K UHD HDR VM| Jurassic World : Renaissance (2025)
 http://199.115.193.116/movie/90337864331136/90337864331136/412094.mkv
-#EXTINF:0 CUID="142" tvg-name="|4K UHD HDR10+ VM| Captain America : Brave New World (2025)" tvg-logo="https://i.imgur.com/dsUVwIx.png" group-title="FILMS 4K UHD MULTi",|4K UHD HDR10+ VM| Captain America : Brave New World (2025)
+#EXTINF:0 CUID="142" tvg-name="|4K UHD HDR10+ VM| Captain America : Brave New World (2025)" tvg-logo="https://i.imgur.com/dsUVwIx.png" group-title="FILMS 4K UHD MULTi",|4K UHD HDR10+ VM| Captain America : Brave New World (2025)
 http://199.115.193.116/movie/90337864331136/90337864331136/407731.mkv
 #EXTINF:0 CUID="249" tvg-name="|4K HDR10+ VM| Thunderbolts* (2025)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zctISSBEZRgVQPG178HqRJMnc4x.jpg" group-title="FILMS 4K UHD MULTi",|4K HDR10+ VM| Thunderbolts* (2025)
 http://199.115.193.116/movie/90337864331136/90337864331136/409773.mkv
@@ -27806,15 +27854,15 @@ http://199.115.193.116/movie/90337864331136/90337864331136/338566.mkv
 http://199.115.193.116/movie/90337864331136/90337864331136/338572.mkv
 #EXTINF:0 CUID="1899" tvg-name="|4K| Resident Evil (2002)" tvg-logo="https://www.themoviedb.org/t/p/original/iGsweyVIY2jximPppSCUG4EKME2.jpg" group-title="FILMS 4K UHD MULTi",|4K| Resident Evil (2002)
 http://199.115.193.116/movie/90337864331136/90337864331136/338573.mkv
-#EXTINF:0 CUID="1900" tvg-name="|4K| Resident Evil : Afterlife (2010)" tvg-logo="https://www.themoviedb.org/t/p/original/sUQjueLtUx9OknaRoR9TsmcpLag.jpg" group-title="FILMS 4K UHD MULTi",|4K| Resident Evil : Afterlife (2010)
+#EXTINF:0 CUID="1900" tvg-name="|4K| Resident Evil : Afterlife (2010)" tvg-logo="https://www.themoviedb.org/t/p/original/sUQjueLtUx9OknaRoR9TsmcpLag.jpg" group-title="FILMS 4K UHD MULTi",|4K| Resident Evil : Afterlife (2010)
 http://199.115.193.116/movie/90337864331136/90337864331136/338574.mkv
-#EXTINF:0 CUID="1901" tvg-name="|4K| Resident Evil : Apocalypse (2004)" tvg-logo="https://www.themoviedb.org/t/p/original/6g72t524vaHTtVQUO3pfUJrz8e7.jpg" group-title="FILMS 4K UHD MULTi",|4K| Resident Evil : Apocalypse (2004)
+#EXTINF:0 CUID="1901" tvg-name="|4K| Resident Evil : Apocalypse (2004)" tvg-logo="https://www.themoviedb.org/t/p/original/6g72t524vaHTtVQUO3pfUJrz8e7.jpg" group-title="FILMS 4K UHD MULTi",|4K| Resident Evil : Apocalypse (2004)
 http://199.115.193.116/movie/90337864331136/90337864331136/338575.mkv
-#EXTINF:0 CUID="1902" tvg-name="|4K| Resident Evil : Extinction (2007)" tvg-logo="https://www.themoviedb.org/t/p/original/gXIVQFoxQiGwjcfUeLU7TqnjZAy.jpg" group-title="FILMS 4K UHD MULTi",|4K| Resident Evil : Extinction (2007)
+#EXTINF:0 CUID="1902" tvg-name="|4K| Resident Evil : Extinction (2007)" tvg-logo="https://www.themoviedb.org/t/p/original/gXIVQFoxQiGwjcfUeLU7TqnjZAy.jpg" group-title="FILMS 4K UHD MULTi",|4K| Resident Evil : Extinction (2007)
 http://199.115.193.116/movie/90337864331136/90337864331136/338576.mkv
-#EXTINF:0 CUID="1903" tvg-name="|4K| Resident Evil : Retribution (2012)" tvg-logo="https://www.themoviedb.org/t/p/original/h33iSpB4JNVczjt2jWc5f2VCUu8.jpg" group-title="FILMS 4K UHD MULTi",|4K| Resident Evil : Retribution (2012)
+#EXTINF:0 CUID="1903" tvg-name="|4K| Resident Evil : Retribution (2012)" tvg-logo="https://www.themoviedb.org/t/p/original/h33iSpB4JNVczjt2jWc5f2VCUu8.jpg" group-title="FILMS 4K UHD MULTi",|4K| Resident Evil : Retribution (2012)
 http://199.115.193.116/movie/90337864331136/90337864331136/338577.mkv
-#EXTINF:0 CUID="1904" tvg-name="|4K| Resident Evil : Chapitre Final (2016)" tvg-logo="https://www.themoviedb.org/t/p/original/tR0aaK20bQvgj7A7umJKeF5AQn2.jpg" group-title="FILMS 4K UHD MULTi",|4K| Resident Evil : Chapitre Final (2016)
+#EXTINF:0 CUID="1904" tvg-name="|4K| Resident Evil : Chapitre Final (2016)" tvg-logo="https://www.themoviedb.org/t/p/original/tR0aaK20bQvgj7A7umJKeF5AQn2.jpg" group-title="FILMS 4K UHD MULTi",|4K| Resident Evil : Chapitre Final (2016)
 http://199.115.193.116/movie/90337864331136/90337864331136/338578.mkv
 #EXTINF:0 CUID="1905" tvg-name="|4K| Spider-Man 2 (2004)" tvg-logo="https://www.themoviedb.org/t/p/original/mhkd9UGs6CJRItCggDCIlgOADzt.jpg" group-title="FILMS 4K UHD MULTi",|4K| Spider-Man 2 (2004)
 http://199.115.193.116/movie/90337864331136/90337864331136/338580.mkv
@@ -27916,9 +27964,9 @@ http://199.115.193.116/movie/90337864331136/90337864331136/303961.mkv
 http://199.115.193.116/movie/90337864331136/90337864331136/303962.mkv
 #EXTINF:0 CUID="2458" tvg-name="|4K| Pirates des Caraïbes : Jusqu'au bout du monde (2007)" tvg-logo="https://www.themoviedb.org/t/p/original/vIYib1mTIB17DunzZPWir4bvHbR.jpg" group-title="FILMS 4K UHD MULTi",|4K| Pirates des Caraïbes : Jusqu'au bout du monde (2007)
 http://199.115.193.116/movie/90337864331136/90337864331136/303963.mkv
-#EXTINF:0 CUID="2459" tvg-name="|4K| Pirates des Caraïbes : Le Secret du coffre maudit (2006)" tvg-logo="https://www.themoviedb.org/t/p/original/3HSfKpr3KPP484Li3BQR2OlvdhG.jpg" group-title="FILMS 4K UHD MULTi",|4K| Pirates des Caraïbes : Le Secret du coffre maudit (2006)
+#EXTINF:0 CUID="2459" tvg-name="|4K| Pirates des Caraïbes : Le Secret du coffre maudit (2006)" tvg-logo="https://www.themoviedb.org/t/p/original/3HSfKpr3KPP484Li3BQR2OlvdhG.jpg" group-title="FILMS 4K UHD MULTi",|4K| Pirates des Caraïbes : Le Secret du coffre maudit (2006)
 http://199.115.193.116/movie/90337864331136/90337864331136/303964.mkv
-#EXTINF:0 CUID="2460" tvg-name="|4K| Pirates des Caraïbes : La Malédiction du Black Pearl (2003)" tvg-logo="https://www.themoviedb.org/t/p/original/4FZAaFB5jiy4tSXAIjltXGbH1NW.jpg" group-title="FILMS 4K UHD MULTi",|4K| Pirates des Caraïbes : La Malédiction du Black Pearl (2003)
+#EXTINF:0 CUID="2460" tvg-name="|4K| Pirates des Caraïbes : La Malédiction du Black Pearl (2003)" tvg-logo="https://www.themoviedb.org/t/p/original/4FZAaFB5jiy4tSXAIjltXGbH1NW.jpg" group-title="FILMS 4K UHD MULTi",|4K| Pirates des Caraïbes : La Malédiction du Black Pearl (2003)
 http://199.115.193.116/movie/90337864331136/90337864331136/303965.mkv
 #EXTINF:0 CUID="2461" tvg-name="|4K| Retour à Zombieland (2019)" tvg-logo="https://www.themoviedb.org/t/p/original/4L5xI4MBZYk68aM57jTTBWpDUqY.jpg" group-title="FILMS 4K UHD MULTi",|4K| Retour à Zombieland (2019)
 http://199.115.193.116/movie/90337864331136/90337864331136/303966.mkv
@@ -28114,7 +28162,7 @@ http://199.115.193.116/movie/90337864331136/90337864331136/227209.mkv
 http://199.115.193.116/movie/90337864331136/90337864331136/227003.mkv
 #EXTINF:0 CUID="4191" tvg-name="|4K| Jolt (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gYZAHan5CHPFXORpQMvOjCTug4E.jpg" group-title="FILMS 4K UHD MULTi",|4K| Jolt (2021)
 http://199.115.193.116/movie/90337864331136/90337864331136/227006.mkv
-#EXTINF:0 CUID="4200" tvg-name="|4K| Spirale : L'Héritage de Saw (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/15v3RABhP2FeeZIE0vRMW8WZ49a.jpg" group-title="FILMS 4K UHD MULTi",|4K| Spirale : L'Héritage de Saw (2021)
+#EXTINF:0 CUID="4200" tvg-name="|4K| Spirale : L'Héritage de Saw (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/15v3RABhP2FeeZIE0vRMW8WZ49a.jpg" group-title="FILMS 4K UHD MULTi",|4K| Spirale : L'Héritage de Saw (2021)
 http://199.115.193.116/movie/90337864331136/90337864331136/225815.mkv
 #EXTINF:0 CUID="4214" tvg-name="|4K| Space Jam - Nouvelle ère (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/orB1nlhFujHxTgW0MkvP5DAJDnE.jpg" group-title="FILMS 4K UHD MULTi",|4K| Space Jam - Nouvelle ère (2021)
 http://199.115.193.116/movie/90337864331136/90337864331136/226841.mkv
@@ -28318,7 +28366,7 @@ http://199.115.193.116/movie/90337864331136/90337864331136/176102.mkv
 http://199.115.193.116/movie/90337864331136/90337864331136/176103.mkv
 #EXTINF:0 CUID="20589" tvg-name="|FR| Alien, le huitième passager (1979)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/l8CES84JndFlNfBNMxdLRYaLvI6.jpg" group-title="FILMS 4K UHD MULTi",|FR| Alien, le huitième passager (1979)
 http://199.115.193.116/movie/90337864331136/90337864331136/176104.mkv
-#EXTINF:0 CUID="20590" tvg-name="|FR| Alien : Covenant (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gJL4noFkpXHkNBX2MgzEo6PbYUy.jpg" group-title="FILMS 4K UHD MULTi",|FR| Alien : Covenant (2017)
+#EXTINF:0 CUID="20590" tvg-name="|FR| Alien : Covenant (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gJL4noFkpXHkNBX2MgzEo6PbYUy.jpg" group-title="FILMS 4K UHD MULTi",|FR| Alien : Covenant (2017)
 http://199.115.193.116/movie/90337864331136/90337864331136/176105.mkv
 #EXTINF:0 CUID="20591" tvg-name="|FR| Alita : Battle Angel (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rV3itKLEALozktTGOCd1EE9vjG6.jpg" group-title="FILMS 4K UHD MULTi",|FR| Alita : Battle Angel (2019)
 http://199.115.193.116/movie/90337864331136/90337864331136/176106.mkv
@@ -28330,7 +28378,7 @@ http://199.115.193.116/movie/90337864331136/90337864331136/176108.mkv
 http://199.115.193.116/movie/90337864331136/90337864331136/176109.mkv
 #EXTINF:0 CUID="20595" tvg-name="|FR| American Nightmare 3: Élections (2016)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gU5zL8kSF0lgVZHo0ppP3NGoUza.jpg" group-title="FILMS 4K UHD MULTi",|FR| American Nightmare 3: Élections (2016)
 http://199.115.193.116/movie/90337864331136/90337864331136/176110.mkv
-#EXTINF:0 CUID="20596" tvg-name="|FR| American Nightmare 4 : Les origines (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/er8aMOEndXZ9MoPmVRHeZ63wPPb.jpg" group-title="FILMS 4K UHD MULTi",|FR| American Nightmare 4 : Les origines (2018)
+#EXTINF:0 CUID="20596" tvg-name="|FR| American Nightmare 4 : Les origines (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/er8aMOEndXZ9MoPmVRHeZ63wPPb.jpg" group-title="FILMS 4K UHD MULTi",|FR| American Nightmare 4 : Les origines (2018)
 http://199.115.193.116/movie/90337864331136/90337864331136/176111.mkv
 #EXTINF:0 CUID="20597" tvg-name="|FR| Angel Heart (1987)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jjkVGqs680lyDSo5B6KUoLn3hpG.jpg" group-title="FILMS 4K UHD MULTi",|FR| Angel Heart (1987)
 http://199.115.193.116/movie/90337864331136/90337864331136/176112.mkv
@@ -28508,7 +28556,7 @@ http://199.115.193.116/movie/90337864331136/90337864331136/176198.mkv
 http://199.115.193.116/movie/90337864331136/90337864331136/176199.mkv
 #EXTINF:0 CUID="20684" tvg-name="|FR| City of Dragons 2 (2015)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kwV6Ud9MQ1kkaL5lOht4DIQpfhE.jpg" group-title="FILMS 4K UHD MULTi",|FR| City of Dragons 2 (2015)
 http://199.115.193.116/movie/90337864331136/90337864331136/176200.mkv
-#EXTINF:0 CUID="20685" tvg-name="|FR| Dragons 3 : Le monde caché (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lsifceBTpDx1KsdVtC2Xh1XQAgc.jpg" group-title="FILMS 4K UHD MULTi",|FR| Dragons 3 : Le monde caché (2019)
+#EXTINF:0 CUID="20685" tvg-name="|FR| Dragons 3 : Le monde caché (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lsifceBTpDx1KsdVtC2Xh1XQAgc.jpg" group-title="FILMS 4K UHD MULTi",|FR| Dragons 3 : Le monde caché (2019)
 http://199.115.193.116/movie/90337864331136/90337864331136/176201.mkv
 #EXTINF:0 CUID="20686" tvg-name="|FR| Dr Folamour (1964)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4UcpNxF3acSfNa1mJzWTmZpcu53.jpg" group-title="FILMS 4K UHD MULTi",|FR| Dr Folamour (1964)
 http://199.115.193.116/movie/90337864331136/90337864331136/176202.mkv
@@ -30258,6 +30306,7 @@ http://199.115.193.116:8080/series/90337864331136/90337864331136/409150.mkv
 http://199.115.193.116:8080/series/90337864331136/90337864331136/409556.mkv
 #EXTINF:0 CUID="121339" tvg-name="|4K| MobLand S01 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/abeH7n5pcuQcwYcTxG6DTZvXLP1.jpg" group-title="SERIES 4K MULTi",|4K| MobLand S01 E03
 http://199.115.193.116:8080/series/90337864331136/90337864331136/409557.mkv
+
 
 
 
