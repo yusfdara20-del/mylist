@@ -319,6 +319,12 @@ https://zindikurmanci.zaroktv.com.tr/hls/0/stream.m3u8
 http://51.89.152.180/live/BahraHD/chunks.m3u8
 #EXTINF:0 CUID="8650" tvg-name="PESHMARGA TV" tvg-logo="https://i.postimg.cc/81wsh67y/pe-1.png" group-title="KURDISH ",PESHMARGA TV
 http://142.132.133.190:1935/live/peshmerge/index.m3u8
+#EXTINF:0 CUID="58810" tvg-name="NRT SPORT FHD" tvg-logo="https://i.postimg.cc/NgMdhQGP/NRTSPORT.png" group-title="Kurdish  سپۆرت  ",NRT SPORT FHD
+http://109.123.245.192/nrtsport/index.m3u8
+#EXTINF:0 CUID="58811" tvg-name="NRT SPORT SD" tvg-logo="https://i.postimg.cc/NgMdhQGP/NRTSPORT.png" group-title="Kurdish  سپۆرت  ",NRT SPORT SD
+http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/550879
+#EXTINF:0 CUID="58812" tvg-name="AVA SPORT HD" tvg-logo="https://i.postimg.cc/bqfzRHf3/AVASPORT.png" group-title="Kurdish  سپۆرت  ",AVA SPORT HD
+http://109.123.245.192/Avasport11/index.m3u8
 #EXTINF:0 CUID="8651" tvg-name="DUHOK-TV" tvg-logo="https://i.postimg.cc/CYNdhrgr/DUHOK-1.png" group-title="KURDISH ",DUHOK-TV
 #EXTINF:0 CUID="58806" tvg-name="DUHOK SPORT" tvg-logo="https://i.postimg.cc/6w6DfR94/duhok.png" group-title="Kurdish  سپۆرت  ",DUHOK SPORT
 http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/550809
@@ -328,12 +334,6 @@ http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/550813
 http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/550814
 #EXTINF:0 CUID="58809" tvg-name="ZAXO SPORT" tvg-logo="https://i.postimg.cc/4JwMWmKw/ZAXO-1.png" group-title="Kurdish  سپۆرت  ",ZAXO SPORT
 http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/550853
-#EXTINF:0 CUID="58810" tvg-name="NRT SPORT FHD" tvg-logo="https://i.postimg.cc/NgMdhQGP/NRTSPORT.png" group-title="Kurdish  سپۆرت  ",NRT SPORT FHD
-http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/550878
-#EXTINF:0 CUID="58811" tvg-name="NRT SPORT SD" tvg-logo="https://i.postimg.cc/NgMdhQGP/NRTSPORT.png" group-title="Kurdish  سپۆرت  ",NRT SPORT SD
-http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/550879
-#EXTINF:0 CUID="58812" tvg-name="AVA SPORT HD" tvg-logo="https://i.postimg.cc/bqfzRHf3/AVASPORT.png" group-title="Kurdish  سپۆرت  ",AVA SPORT HD
-http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/550880
 #EXTINF:0 CUID="58813" tvg-name="LD SPORT CHECK" tvg-logo="https://i.postimg.cc/0x1wX31q/LDSPORT.png" group-title="Kurdish  سپۆرت  ",LD SPORT CHECK
 http://yusfiptv.ddns.net:8880/+9647754787695/697b02f628340.16012/550881
 #EXTINF:0 CUID="58814" tvg-name="ASTERA SPORT1" tvg-logo="https://i.postimg.cc/NYRPZWy8/ASTERA.png" group-title="Kurdish  سپۆرت  ",ASTERA SPORT1
