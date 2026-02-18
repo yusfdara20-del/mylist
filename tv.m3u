@@ -91,8 +91,10 @@ http://109.123.245.192/Zedplus/index.m3u8
 http://109.71.252.138/Acemovies/video.m3u8?token=s4W6Cb8N4syaI1
 #EXTINF:0 CUID="8532" tvg-name="ACE GAMING" tvg-logo="https://mixmedia.tv/wp-content/uploads/2022/08/ace-gaming.png" group-title="KURDISH ",ACE GAMING
 http://109.71.252.138/Acegaming/video.m3u8?token=s4W6Cb8N4syaI1
-#EXTINF:0 CUID="8532" tvg-name="ACE FAMLEY" tvg-logo="https://mixmedia.tv/wp-content/uploads/2022/08/ace-family.png" group-title="KURDISH ", ACE Kids
-http://109.71.252.138/Acegaming/index.m3u8
+#EXTINF:0 CUID="8532" tvg-name="ACE Kids" tvg-logo="https://mixmedia.tv/wp-content/uploads/2022/08/ace-kids.png" group-title="KURDISH ", ACE Kids
+http://109.71.252.138/Acekods/video.m3u8?token=s4W6Cb8N4syaI1
+#EXTINF:0 CUID="8532" tvg-name="Ace Quean" tvg-logo="https://mixmedia.tv/wp-content/uploads/2023/03/acequean.png" group-title="KURDISH ", Ace Quean
+http://109.71.252.138/Acequran/video.m3u8?token=s4W6Cb8N4syaI1
 #EXTINF:0 CUID="8534" tvg-name="shnatv" tvg-logo="https://i.postimg.cc/5xMj7y1t/shna.png" group-title="KURDISH ",shnatv
 http://shnatv.ddns.net:1935/live/shnatv/playlist.m3u8
 #EXTINF:0 CUID="8535" tvg-name="SHNA TV QURAN" tvg-logo="https://i.postimg.cc/Gc5XVBZ9/SHNAQ.png" group-title="KURDISH ",SHNA TV QURAN
