@@ -385,6 +385,8 @@ http://109.123.245.192/nrtsport/index.m3u8
 https://live20.bozztv.com/giatv/giatv-NRT-SPORT/NRT-SPORT/playlist.m3u8
 #EXTINF:0 CUID="58812" tvg-name="AVA SPORT HD" tvg-logo="https://i.postimg.cc/bqfzRHf3/AVASPORT.png" group-title="Kurdish  سپۆرت  ",AVA SPORT HD
 http://154.6.189.162:8085/local/ku/ava-sport-h265/mono.m3u8?md5=OQVDArg-WVWz2DS82-QeRA&expires=1771766907&type=a1&info=12d8121f0000688d
+#EXTINF:0 CUID="58812" tvg-name="AVA SPORT HD" tvg-logo="https://i.postimg.cc/bqfzRHf3/AVASPORT.png" group-title="Kurdish  سپۆرت  ",AVA SPORT 4K
+http://185.191.127.174:2095/mag00:1A:79:A1:BA:ED/PMkyMiVv9n/752032?play_token=Ys0JpxmCX4&token=yUHdbXy.ayabH.X.yUbbc.ydHdbbHdUy.X.y.IQ.ts.6063c061ddce83cfed0e51e687bd91a5fc675492b60ea142264bdadd18f618a5...bXltYWcudHY6ODA4MA==
 #EXTINF:0 CUID="58812" tvg-name="AVA SPORT HD" tvg-logo="https://i.postimg.cc/bqfzRHf3/AVASPORT.png" group-title="Kurdish  سپۆرت  ",AVA SPORT HD
 http://109.123.245.192/Avasport11/index.m3u8
 #EXTINF:0 CUID="8651" tvg-name="DUHOK-TV" tvg-logo="https://i.postimg.cc/CYNdhrgr/DUHOK-1.png" group-title="KURDISH ",DUHOK-TV
