@@ -159,8 +159,8 @@ http://bblserver.ddns.net:1935/stream/khakhd/hawezhd.m3u8
 http://duhok.badinan.xyz:1935/live/DuhokTV/chunklist_w1036962996.m3u8
 #EXTINF:0 CUID="8539" tvg-name="zaroktv" tvg-logo="https://i.postimg.cc/J8x0qQhq/ZARO.png" group-title="KURDISH ",zaroktv
 https://zindikurmanci.zaroktv.com.tr/hls/0/stream.m3u8
-#EXTINF:0 CUID="8539" tvg-name="Rasan tv" tvg-logo="https://mixmedia.tv/wp-content/uploads/2022/08/rasan.png" group-title="KURDISH ",Rasan tv
-http://109.123.245.192/Rasantv/index.m3u8
+#EXTINF:0 CUID="8539" tvg-name=" Bask Plus" tvg-logo="https://i.postimg.cc/6pgykLgw/photo-2026-02-23-11-25-56.jpg" group-title="KURDISH ", Bask Plus
+http://baskhd2.ddns.net:1935/live/basktv/playlist.m3u8
 #EXTINF:0 CUID="8541" tvg-name="Sahar Kurdi" tvg-logo="https://i.postimg.cc/9XL22QVG/4bk1a355c172782htx-800-C450.jpg" group-title="KURDISH ",Sahar Kurdi
 https://fn1-cdn.sepehrtv.org/securelive3/saharkurdsd/saharkurdsd.m3u8?s=EKz3sMXXhoIfleGOKKHKUw&t=1746899563
 #EXTINF:0 CUID="8542" tvg-name="ISHTAR TV" tvg-logo="https://i.postimg.cc/gzCxv2tk/ISHTAR.png" group-title="KURDISH ",ISHTAR TV
