@@ -63,7 +63,7 @@ https://dl23.mp4.ir/video/2025/8/321750-455863615/m3u8/1080p/out.m3u8
 https://app-live.org/live/3268334b/index.m3u8
 #EXTINF:0 CUID="8495" tvg-name="ئەکادیمیای ئامۆژگاری  ۞" tvg-logo="https://i.postimg.cc/Dvc3yP7n/amojgari.png" group-title="KURDISH ",۞ئەکادیمیای ئامۆژگاری
 https://app-live.org/live/a267c1b3/index.m3u8
-#EXTINF:0 CUID="8495" tvg-name="UTV  ۞" tvg-logo="https://i.postimg.cc/PT7cFfRX/UTV-1.png" group-title="KURDISH "UTV۞
+#EXTINF:0 CUID="8495" tvg-name="UTV۞" tvg-logo="https://i.postimg.cc/PT7cFfRX/UTV-1.png" group-title="KURDISH ",UTV  ۞
 http://yusfiptv.ddns.net:8880/yusfstorevip/148173696307/567184
 #EXTINF:0 CUID="8495" tvg-name="BASK ۞" tvg-logo="https://i.postimg.cc/CxFf6zdt/photo-2026-02-16-06-41-54.jpg" group-title="KURDISH ",baskhd۞
 http://baskhd.ddns.net:40/live/baskhd/playlist.m3u8
