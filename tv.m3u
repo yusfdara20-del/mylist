@@ -710,15 +710,15 @@ http://142.132.133.190:1935/live/peshmerge/index.m3u8
 #EXTINF:0 CUID="58810" tvg-name="NRT SPORT FHD" tvg-logo="https://i.postimg.cc/NgMdhQGP/NRTSPORT.png" group-title="Kurdish  سپۆرت  ",NRT SPORT FHD
 http://yusfiptv.ddns.net:8880/yusfstorevip/148173696307/567229
 #EXTINF:0 CUID="58810" tvg-name="NRT SPORT FHD" tvg-logo="https://i.postimg.cc/NgMdhQGP/NRTSPORT.png" group-title="Kurdish  سپۆرت  ",NRT SPORT HD
-http://109.71.252.138/nrtsport/index.m3u8
+http://109.71.252.138/nrtsport/index.m3u8?token=hnaKCXHetrygerteL5cys1
 #EXTINF:0 CUID="58810" tvg-name="NRT SPORT FHD" tvg-logo="https://i.postimg.cc/NgMdhQGP/NRTSPORT.png" group-title="Kurdish  سپۆرت  ",NRT SPORT SD
 https://live20.bozztv.com/giatv/giatv-NRT-SPORT/NRT-SPORT/playlist.m3u8
 #EXTINF:0 CUID="58812" tvg-name="AVA SPORT" tvg-logo="https://i.postimg.cc/bqfzRHf3/AVASPORT.png" group-title="Kurdish  سپۆرت  ",AVA SPORT HD
 http://yusfiptv.ddns.net:8880/yusfstorevip/148173696307/567232
-#EXTINF:0 CUID="58812" tvg-name="AVA SPORT (ته نها له كوردستان  ئیش دە  کات)" tvg-logo="https://i.postimg.cc/bqfzRHf3/AVASPORT.png" group-title="Kurdish  سپۆرت  ",AVA SPORT (ته نها له كوردستان  ئیش دە  کات)
+#EXTINF:0 CUID="58812" tvg-name="AVA SPORT (ته نها له كوردستان)" tvg-logo="https://i.postimg.cc/bqfzRHf3/AVASPORT.png" group-title="Kurdish  سپۆرت  ",AVA SPORT (ته نها له كوردستان)
 http://154.6.189.163:8085/local/ku/ava-sport-h265/mono.m3u8?md5=LQ60E3dvZ9md7sSzaFmF8w&expires=1772039410&type=a1&info=12d8121f0000688d
-#EXTINF:0 CUID="58812" tvg-name="AVA SPORT (ته نها له كوردستان ئە وروپا  کات)" tvg-logo="https://i.postimg.cc/bqfzRHf3/AVASPORT.png" group-title="Kurdish  سپۆرت  ",AVA SPORT (ته نها له كوردستان ئە وروپا  کات)
-http://109.71.252.138/avasportyusfiptv/index.m3u8
+#EXTINF:0 CUID="58812" tvg-name="AVA SPORT (ته نها ئە وروپا )" tvg-logo="https://i.postimg.cc/bqfzRHf3/AVASPORT.png" group-title="Kurdish  سپۆرت  ",AVA SPORT (ته نها ئە وروپا)
+http://109.71.252.138/avasportyusfiptv/index.m3u8?token=hnaKCXHetrygerteL5cys1
 #EXTINF:0 CUID="58812" tvg-name="BEIN UHD " tvg-logo="https://cablevision.com.lb/Content/uploads/Channel/1731607129.png" group-title="Kurdish  سپۆرت  ",BEIN UHD
 http://yusfiptv.ddns.net:8880/yusfstorevip/148173696307/506104
 #EXTINF:0 CUID="8651" tvg-name="DUHOK-TV" tvg-logo="https://i.postimg.cc/CYNdhrgr/DUHOK-1.png" group-title="KURDISH ",DUHOK-TV
