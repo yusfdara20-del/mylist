@@ -77,6 +77,8 @@ http://avrstream.com:1935/live/IMKQURANHD/HawezHD.m3u8
 http://avrstream.com:1935/live/emantv/playlist.m3u8
 #EXTINF:0 CUID="8499" tvg-name="SRUSHT ۞" tvg-logo="https://i.postimg.cc/hgh3tf3r/SRUSHT.png" group-title="KURDISH ",SRUSHT۞
 http://109.71.252.138/Sroshtyusfstore/index.m3u8?token=hnaKCXHetrygerteL5cys1
+#EXTINF:0 CUID="8499" tvg-name="KOMAL HD ۞" tvg-logo="https://i.postimg.cc/C0vSLd4h/KOMAL.png" group-title="KURDISH ",KOMAL HD۞
+http://iptvtree.net:8080/osec/c5176e377c82/152475
 #EXTINF:0 CUID="8499" tvg-name="RASAN HD ۞" tvg-logo="https://i.postimg.cc/M6MLzZMW/Rasan-1.png" group-title="KURDISH ",RASAN HD
 http://109.71.252.138/Rasantvyusfstore/index.m3u8?token=hnaKCXHetrygerteL5cys1
 #EXTINF:0 CUID="8501" tvg-name="ESRA TV 1 ۞" tvg-logo="https://i.postimg.cc/6tNVZW4B/ESRA.jpg" group-title="KURDISH ",ESRA TV 1۞
@@ -155,13 +157,13 @@ http://iptvtree.net:8080/osec/c5176e377c82/14899
 http://iptvtree.net:8080/osec/c5176e377c82/300772
 #EXTINF:0 CUID="8533" tvg-name="ASTERA FAMILY" tvg-logo="https://i.postimg.cc/PfX5Y3J2/ASTERA.png" group-title="KURDISH ",ASTERA FAMILY
 http://iptvtree.net:8080/osec/c5176e377c82/147455
-#EXTINF:0 CUID="8533" tvg-name="Astera Baby" tvg-logo="https://i.postimg.cc/PfX5Y3J2/ASTERA.png" group-title="KURDISH ",ASTERA FAMILY
+#EXTINF:0 CUID="8533" tvg-name="Astera Baby" tvg-logo="https://i.postimg.cc/PfX5Y3J2/ASTERA.png" group-title="KURDISH ",Astera Sport
 http://iptvtree.net:8080/osec/c5176e377c82/24482
-#EXTINF:0 CUID="8533" tvg-name="Astera Movies" tvg-logo="https://i.postimg.cc/yV9KrgjP/ASTERAMOVIE.png" group-title="KURDISH ",ASTERA FAMILY
+#EXTINF:0 CUID="8533" tvg-name="Astera Movies" tvg-logo="https://i.postimg.cc/yV9KrgjP/ASTERAMOVIE.png" group-title="KURDISH ",Astera Sport
 http://iptvtree.net:8080/osec/c5176e377c82/193421
-#EXTINF:0 CUID="8533" tvg-name="Astera Show" tvg-logo="https://i.postimg.cc/npRnstMv/show.png" group-title="KURDISH ",ASTERA FAMILY
+#EXTINF:0 CUID="8533" tvg-name="Astera Show" tvg-logo="https://i.postimg.cc/npRnstMv/show.png" group-title="KURDISH ",Astera Sport
 http://iptvtree.net:8080/osec/c5176e377c82/193422
-#EXTINF:0 CUID="8533" tvg-name="Astera Sport" tvg-logo="https://i.postimg.cc/PfX5Y3J2/ASTERA.png" group-title="KURDISH ",ASTERA FAMILY
+#EXTINF:0 CUID="8533" tvg-name="Astera Sport" tvg-logo="https://i.postimg.cc/PfX5Y3J2/ASTERA.png" group-title="KURDISH ",Astera Sport
 http://iptvtree.net:8080/osec/c5176e377c82/147456
 #EXTINF:0 CUID="8534" tvg-name="shnatv" tvg-logo="https://i.postimg.cc/5xMj7y1t/shna.png" group-title="KURDISH ",shnatv
 http://shnatv.ddns.net:1935/live/shnatv/playlist.m3u8
@@ -174,7 +176,7 @@ http://iptvtree.net:8080/osec/c5176e377c82/301676
 #EXTINF:0 CUID="8534" tvg-name="Qalam kids" tvg-logo="QALAM TV" group-title="KURDISH ",Qalam kids
 http://iptvtree.net:8080/osec/c5176e377c82/301677
 #EXTINF:0 CUID="8533" tvg-name="ACE MOVIES" tvg-logo="https://mixmedia.tv/wp-content/uploads/2022/08/ace-movie.png" group-title="KURDISH ",ACE MOVIES
-http://bluedk.xyz:8880/FADSFWERGWSRWRG/Nlyhb5rXb6/567102
+http://109.71.252.138/Acemovies/index.m3u8?token=hnaKCXHetrygerteL5cys1
 #EXTINF:0 CUID="8532" tvg-name="RENG TV" tvg-logo="https://i.postimg.cc/VfVzHhjT/reng.png" group-title="KURDISH ",RENG TV
 http://yusfiptv.ddns.net:8880/FADSFWERGWSRWRG/Nlyhb5rXb6/567099
 #EXTINF:0 CUID="8532" tvg-name="RENG DOCUMENTARY" tvg-logo="https://i.postimg.cc/FhcvRkSL/rengdc.png" group-title="KURDISH ", RENG DOCUMENTARY
