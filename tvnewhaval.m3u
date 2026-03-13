@@ -101,6 +101,8 @@ http://naqshi-media.com:1935/live/NaqshiMedia/playlist.m3u8
 http://bangxwazen.badinan.xyz:1935/live/Bangxwazen-Badinan/playlist.m3u8
 #EXTINF:0 CUID="8510" tvg-name="AVA TV HD" tvg-logo="https://i.postimg.cc/GbX6v0gL/ava-1.png" group-title="KURDISH ",AVA TV HD
 http://hlspackager.akamaized.net/live/DB/AVA_TV/HLS/AVA_TV.m3u8
+#EXTINF:0 CUID="8510" tvg-name="AVA TV HD" tvg-logo="https://images.cdn-files-a.com/uploads/278563/400_filter_nobg_65eefd572ffe1.png" group-title="KURDISH ",AVA TV HD
+http://hlspackager.akamaized.net/live/DB/AVA_TV/HLS/AVA_TV.m3u8
 #EXTINF:0 CUID="8511" tvg-name="NRT HD" tvg-logo="https://i.postimg.cc/yVVqtpnh/NRT.png" group-title="KURDISH ",NRT HD
 http://blue4k.net:8880//795845378594/685781328372/287878
 #EXTINF:0 CUID="8512" tvg-name="NRT 2" tvg-logo="https://i.postimg.cc/JRwv9XjG/nrt2-2.png" group-title="KURDISH ",NRT 2
