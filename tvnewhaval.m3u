@@ -141,14 +141,42 @@ http://blue4k.net:8880//795845378594/685781328372/567207
 http://109.71.252.138/newline1/index.m3u8?token=hnaKCXHetrygerteL5cys1
 #EXTINF:0 CUID="8531" tvg-name="NEW LINE 2" tvg-logo="https://i.postimg.cc/pWq1PV15/new2.png" group-title="KURDISH ",NEW LINE 2
 http://109.71.252.138/Newline2/index.m3u8?token=hnaKCXHetrygerteL5cys1
+#EXTINF:0 CUID="8530" tvg-name="Newline Movies" tvg-logo="https://i.postimg.cc/xfcFTVrs/MOVIE.png" group-title="KURDISH ",Newline Movies
+http://109.71.252.138/newline1/index.m3u8?token=hnaKCXHetrygerteL5cys1
+#EXTINF:0 CUID="8531" tvg-name="Newline Drama" tvg-logo="https://i.postimg.cc/Jm475Wtd/newdrama.png" group-title="KURDISH ",Newline Drama
+http://109.71.252.138//Newlinedrama/index.m3u8?token=hnaKCXHetrygerteL5cys1
+#EXTINF:0 CUID="8530" tvg-name="Newline Bollywood" tvg-logo="https://i.postimg.cc/tRTXqFLH/BOLLYWOOD.png" group-title="KURDISH ",Newline Bollywood
+http://109.71.252.138/Newlineblodey/index.m3u8?token=hnaKCXHetrygerteL5cys1
+#EXTINF:0 CUID="8531" tvg-name="Newline Kids" tvg-logo="https://i.postimg.cc/pWq1PV15/new2.png" group-title="KURDISH ",Newline Kids
+http://109.71.252.138/Newlinekids/index.m3u8?token=hnaKCXHetrygerteL5cys1
+#EXTINF:0 CUID="8531" tvg-name="Newline sport" tvg-logo="https://i.postimg.cc/pWq1PV15/new2.png" group-title="KURDISH ",newline sport
+http://109.71.252.138/Nwinesport/index.m3u8?token=hnaKCXHetrygerteL5cys1
 #EXTINF:0 CUID="8532" tvg-name="ZED TV" tvg-logo="https://i.postimg.cc/bz5zzyXF/ZED.png" group-title="KURDISH ",ZED TV
 http://109.71.252.138/Zed/index.m3u8?token=hnaKCXHetrygerteL5cys1
 #EXTINF:0 CUID="8533" tvg-name="ZED TV PLUS" tvg-logo="https://i.postimg.cc/9c7dVy3G/zedplus.png" group-title="KURDISH ",ZED TV PLUS
 http://109.71.252.138/Zedpluss/index.m3u8?token=hnaKCXHetrygerteL5cys1
+#EXTINF:0 CUID="8533" tvg-name="ASTERA FAMILY" tvg-logo="https://i.postimg.cc/PfX5Y3J2/ASTERA.png" group-title="KURDISH ",ASTERA FAMILY
+http://109.71.252.138/Asterafaey/index.m3u8?token=hnaKCXHetrygerteL5cys1
+#EXTINF:0 CUID="8533" tvg-name="Astera Baby" tvg-logo="https://i.postimg.cc/PfX5Y3J2/ASTERA.png" group-title="KURDISH ",Astera Sport
+http://109.71.252.138/newline1/index.m3u8?token=hnaKCXHetrygerteL5cys1
+#EXTINF:0 CUID="8533" tvg-name="Astera Movies" tvg-logo="https://i.postimg.cc/yV9KrgjP/ASTERAMOVIE.png" group-title="KURDISH ",Astera Sport
+http://109.71.252.138/Astersmoviess/index.m3u8?token=hnaKCXHetrygerteL5cys1
+#EXTINF:0 CUID="8533" tvg-name="Astera Show" tvg-logo="https://i.postimg.cc/npRnstMv/show.png" group-title="KURDISH ",Astera Sport
+http://109.71.252.138/newline1/index.m3u8?token=hnaKCXHetrygerteL5cys1
+#EXTINF:0 CUID="8533" tvg-name="Astera Sport" tvg-logo="https://i.postimg.cc/PfX5Y3J2/ASTERA.png" group-title="KURDISH ",Astera Sport
+http://109.71.252.138/newline1/index.m3u8?token=hnaKCXHetrygerteL5cys1
 #EXTINF:0 CUID="8534" tvg-name="shnatv" tvg-logo="https://i.postimg.cc/5xMj7y1t/shna.png" group-title="KURDISH ",shnatv
 http://shnatv.ddns.net:1935/live/shnatv/playlist.m3u8
-#EXTINF:0 CUID="8533" tvg-name="ACE MOVIES" tvg-logo="https://mixmedia.tv/wp-content/uploads/2022/08/ace-movie.png" group-title="KURDISH ",ACE MOVIES
-http://109.71.252.138/Acemovies/index.m3u8?token=hnaKCXHetrygerteL5cys1
+#EXTINF:0 CUID="8534" tvg-name="Qalam" tvg-logo="QALAM TV" group-title="KURDISH ",Qalam
+http://109.71.252.138/Qalamtv/index.m3u8?token=hnaKCXHetrygerteL5cys1
+#EXTINF:0 CUID="8534" tvg-name="Qalam Ayni" tvg-logo="https://i.postimg.cc/ZTJ7px4k/qalamain.png" group-title="KURDISH ",Qalam Ayni
+http://109.71.252.138/qalamaney/index.m3u8?token=hnaKCXHetrygerteL5cys1
+#EXTINF:0 CUID="8534" tvg-name="Qalam geoghraphic" tvg-logo="https://i.postimg.cc/fzK88tW3/qalam.png" group-title="KURDISH ",Qalam geoghraphic
+http://109.71.252.138/Qalamgracoey/index.m3u8?token=hnaKCXHetrygerteL5cys1
+#EXTINF:0 CUID="8534" tvg-name="Qalam kids" tvg-logo="QALAM TV" group-title="KURDISH ",Qalam kids
+http://109.71.252.138/Qalamkids/index.m3u8?token=hnaKCXHetrygerteL5cys1
+#EXTINF:0 CUID="8534" tvg-name="shnatv" tvg-logo="https://i.postimg.cc/5xMj7y1t/shna.png" group-title="KURDISH ",shnatv
+http://shnatv.ddns.net:1935/live/shnatv/playlist.m3u8
 #EXTINF:0 CUID="8532" tvg-name="RENG TV" tvg-logo="https://i.postimg.cc/VfVzHhjT/reng.png" group-title="KURDISH ",RENG TV
 http://blue4k.net:8880//795845378594/685781328372/567099
 #EXTINF:0 CUID="8532" tvg-name="RENG DOCUMENTARY" tvg-logo="https://i.postimg.cc/FhcvRkSL/rengdc.png" group-title="KURDISH ", RENG DOCUMENTARY
