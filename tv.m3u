@@ -13,6 +13,8 @@ https://app-live.org/live/3268334b/index.m3u8
 https://app-live.org/live/a267c1b3/index.m3u8
 #EXTINF:0 CUID="8495" tvg-name="UTV۞" tvg-logo="https://i.postimg.cc/PT7cFfRX/UTV-1.png" group-title="KURDISH ",UTV  ۞
 http://blue4k.net:8880//884647623798/254192480919/567184
+#EXTINF:0 CUID="8495" tvg-name="مەدینه۞" tvg-logo="https://i.postimg.cc/kM8dYM1y/madinaa.png" group-title="KURDISH ",مەدینه  ۞
+http://x3m.li/live/YUSFstore077518599083/YUSFstore077518599083/1013.m3u8
 #EXTINF:0 CUID="8495" tvg-name="BASK ۞" tvg-logo="https://i.postimg.cc/CxFf6zdt/photo-2026-02-16-06-41-54.jpg" group-title="KURDISH ",baskhd۞
 http://baskhd.ddns.net:40/live/baskhd/playlist.m3u8
 #EXTINF:0 CUID="8496" tvg-name="Rawshan hd ۞" tvg-logo="https://i.postimg.cc/pTFSvz3m/96-DA4-F87-FCAE-4-AEB-9-F82-B26663-B06539.png" group-title="KURDISH ",Rawshan hd۞
@@ -367,12 +369,14 @@ http://blue4k.net:8880//884647623798/254192480919/567229
 http://109.71.252.138/nrtsport/index.m3u8?token=hnaKCXHetrygerteL5cys1
 #EXTINF:0 CUID="58810" tvg-name="NRT SPORT FHD" tvg-logo="https://i.postimg.cc/NgMdhQGP/NRTSPORT.png" group-title="Kurdish  سپۆرت  ",NRT SPORT SD
 http://x3m.li/live/YUSFstore077518599083/YUSFstore077518599083/1012.m3u8
-#EXTINF:0 CUID="58812" tvg-name="AVA SPORT" tvg-logo="https://i.postimg.cc/bqfzRHf3/AVASPORT.png" group-title="Kurdish  سپۆرت  ",AVA SPORT HD
-http://x3m.li/live/YUSFstore077518599083/YUSFstore077518599083/1010.m3u8
-#EXTINF:0 CUID="58812" tvg-name="HUB Premier 1 TV" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png" group-title="Kurdish  سپۆرت  ",HUB Premier 1 TV
-http://109.71.252.138/Hubsport/index.m3u8
+#EXTINF:0 CUID="58812" tvg-name="FALCON EYE 1" tvg-logo="https://mixmedia.tv/wp-content/uploads/2022/08/falcon-1-1.png" group-title="Kurdish  سپۆرت  ",FALCON EYE 1
+http://109.71.252.138/Falcon1test/index.m3u8
+#EXTINF:0 CUID="58812" tvg-name="FALCON EYE 2" tvg-logo="https://mixmedia.tv/wp-content/uploads/2022/08/falcon-2.png" group-title="Kurdish  سپۆرت  ",FALCON EYE 2
+http://109.71.252.138/Falcon2test/index.m3u8
 #EXTINF:0 CUID="58812" tvg-name="AVA SPORT" tvg-logo="https://i.postimg.cc/bqfzRHf3/AVASPORT.png" group-title="Kurdish  سپۆرت  ",AVA SPORT
 http://109.71.252.138/Ava8kyusf/index.m3u8?token=hnaKCXHetrygerteL5cys1
+#EXTINF:0 CUID="58812" tvg-name="AVA SPORT" tvg-logo="https://i.postimg.cc/bqfzRHf3/AVASPORT.png" group-title="Kurdish  سپۆرت  ",AVA SPORT
+http://x3m.li/live/YUSFstore077518599083/YUSFstore077518599083/1011.m3u8
 #EXTINF:0 CUID="58812" tvg-name="BEIN UHD " tvg-logo="https://cablevision.com.lb/Content/uploads/Channel/1731607129.png" group-title="Kurdish  سپۆرت  ",BEIN UHD
 http://blue4k.net:8880//884647623798/254192480919/506104
 #EXTINF:0 CUID="58806" tvg-name="DUHOK SPORT" tvg-logo="https://i.postimg.cc/6w6DfR94/duhok.png" group-title="Kurdish  سپۆرت  ",DUHOK SPORT
