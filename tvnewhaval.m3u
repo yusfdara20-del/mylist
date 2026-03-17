@@ -383,11 +383,19 @@ http://109.71.252.138/Hubsport/index.m3u8
 http://109.71.252.138/asterasportyusfiptv/index.m3u8?token=hnaKCXHetrygerteL5cys1
 #EXTINF:0 CUID="58873" tvg-name="ALWAN SPORT 1 4K" tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN  SPORT 4k",ALWAN SPORT 1 4K
 http://185.217.39.12:8080/live/11603091662305/yACPFfd68h/434261.ts?token=dabXdy.fHyUf.X.cXfcb.ydHzdUfycU.X.y.IQ.ts.ba2e01203b5021e234fd72e77a01f867638d3512de0760187a7b0fa104de0690...ZGtzaXBpLmNvbQ==
+#EXTINF:0 CUID="58873" tvg-name="ALWAN SPORT 1 HD" tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN  SPORT 4k",ALWAN SPORT 1 HD
+http://185.217.39.12:8080/live/11603091662305/yACPFfd68h/434261.ts?token=dabXdy.fHyUf.X.cXfcb.ydHzdUfycU.X.y.IQ.ts.ba2e01203b5021e234fd72e77a01f867638d3512de0760187a7b0fa104de0690...ZGtzaXBpLmNvbQ==
 #EXTINF:0 CUID="58874" tvg-name="ALWAN SPORT 2 4K" tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN  SPORT 4k",ALWAN SPORT 2 4K
+http://151.243.83.21:8080/live/11603091662305/yACPFfd68h/434262.ts?token=dabXdy.cdydz.X.dyXc.ydHzdUfaUb.X.y.IQ.ts.afcb43c7a63f3be0b2b668e0224fdfae278a0ed60925556fe48b835e63df61eb...ZGtzaXBpLmNvbQ==
+#EXTINF:0 CUID="58874" tvg-name="ALWAN SPORT 2 HD" tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN  SPORT 4k",ALWAN SPORT 2 HD
 http://151.243.83.21:8080/live/11603091662305/yACPFfd68h/434262.ts?token=dabXdy.cdydz.X.dyXc.ydHzdUfaUb.X.y.IQ.ts.afcb43c7a63f3be0b2b668e0224fdfae278a0ed60925556fe48b835e63df61eb...ZGtzaXBpLmNvbQ==
 #EXTINF:0 CUID="58875" tvg-name="ALWAN SPORT 3 4K" tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN  SPORT 4k",ALWAN SPORT 3 4K
 http://151.243.83.21:8080/live/11603091662305/yACPFfd68h/434263.ts?token=dabXdy.cHXHU.X.UaXbf.ydHzdUfadf.X.y.IQ.ts.757c42219a32bae12831841a5aa1633d61ea866fa1295647442f8ad814f3becf...ZGtzaXBpLmNvbQ==
+#EXTINF:0 CUID="58875" tvg-name="ALWAN SPORT 3 HD " tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN  SPORT 4k",ALWAN SPORT 3 HD
+http://151.243.83.21:8080/live/11603091662305/yACPFfd68h/434263.ts?token=dabXdy.cHXHU.X.UaXbf.ydHzdUfadf.X.y.IQ.ts.757c42219a32bae12831841a5aa1633d61ea866fa1295647442f8ad814f3becf...ZGtzaXBpLmNvbQ==
 #EXTINF:0 CUID="58876" tvg-name="ALWAN SPORT 4 4K" tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN  SPORT 4k",ALWAN SPORT 4 4K
+http://151.243.83.21:8080/live/11603091662305/yACPFfd68h/434264.ts?token=dabXdy.cbzUb.X.dyXH.ydHzdUfazf.X.y.IQ.ts.a93158b6f102f97dd575979f4b7bf708fe69a49082eb813a29f266fb8362b339...ZGtzaXBpLmNvbQ==
+#EXTINF:0 CUID="58876" tvg-name="ALWAN SPORT 4 HD" tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN  SPORT 4k",ALWAN SPORT 4 HD
 http://151.243.83.21:8080/live/11603091662305/yACPFfd68h/434264.ts?token=dabXdy.cbzUb.X.dyXH.ydHzdUfazf.X.y.IQ.ts.a93158b6f102f97dd575979f4b7bf708fe69a49082eb813a29f266fb8362b339...ZGtzaXBpLmNvbQ==
 #EXTINF:0 CUID="58877" tvg-name="ALWAN SPORT 5 4K" tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN  SPORT 4k",ALWAN SPORT 5 4K
 http://151.243.83.21:8080/live/11603091662305/yACPFfd68h/434265.ts?token=dabXdy.cbdUy.X.dyyf.ydHzdUfUXb.X.y.IQ.ts.c161140f095bce060b0519beedae5195d18e21693dd9a7e5604e11dc448102cd...ZGtzaXBpLmNvbQ==
