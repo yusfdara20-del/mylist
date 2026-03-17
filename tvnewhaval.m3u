@@ -366,17 +366,17 @@ http://142.132.133.190:1935/live/peshmerge/index.m3u8
 #EXTINF:0 CUID="58810" tvg-name="NRT SPORT FHD" tvg-logo="https://i.postimg.cc/NgMdhQGP/NRTSPORT.png" group-title="Kurdish  سپۆرت  ",NRT SPORT FHD
 http://109.71.252.138/nrtsport/index.m3u8?token=hnaKCXHetrygerteL5cys1
 #EXTINF:0 CUID="58810" tvg-name="NRT SPORT FHD" tvg-logo="https://i.postimg.cc/NgMdhQGP/NRTSPORT.png" group-title="Kurdish  سپۆرت  ",NRT SPORT HD
-http://109.71.252.138/nrtsport/index.m3u8?token=hnaKCXHetrygerteL5cys1
+http://x3m.li/live/YUSFstore077518599083/YUSFstore077518599083/1012.m3u8
 #EXTINF:0 CUID="58812" tvg-name="AVA SPORT" tvg-logo="https://i.postimg.cc/bqfzRHf3/AVASPORT.png" group-title="Kurdish  سپۆرت  ",AVA SPORT
 http://109.71.252.138/AVASPORT2/index.m3u8
+#EXTINF:0 CUID="58812" tvg-name="AVA SPORT" tvg-logo="https://i.postimg.cc/bqfzRHf3/AVASPORT.png" group-title="Kurdish  سپۆرت  ",AVA SPORT
+http://x3m.li/live/YUSFstore077518599083/YUSFstore077518599083/1011.m3u8
 #EXTINF:0 CUID="58812" tvg-name="FALCON EYE 1" tvg-logo="https://mixmedia.tv/wp-content/uploads/2022/08/falcon-1-1.png" group-title="Kurdish  سپۆرت  ",FALCON EYE 1
 http://109.71.252.138/Falcon1test/index.m3u8
 #EXTINF:0 CUID="58812" tvg-name="FALCON EYE 2" tvg-logo="https://mixmedia.tv/wp-content/uploads/2022/08/falcon-2.png" group-title="Kurdish  سپۆرت  ",FALCON EYE 2
 http://109.71.252.138/Falcon2test/index.m3u8
 #EXTINF:0 CUID="58812" tvg-name="FALCON EYE 3" tvg-logo="https://mixmedia.tv/wp-content/uploads/2022/08/falcon-3.png" group-title="Kurdish  سپۆرت  ",FALCON EYE 3
 http://109.71.252.138/Falcon3test/index.m3u8
-#EXTINF:0 CUID="58812" tvg-name="AVA SPORT" tvg-logo="https://i.postimg.cc/bqfzRHf3/AVASPORT.png" group-title="Kurdish  سپۆرت  ",AVA SPORT
-http://x3m.li/live/YUSFstore077518599083/YUSFstore077518599083/1011.m3u8
 #EXTINF:0 CUID="58812" tvg-name="HUB Premier 1 TV" tvg-logo="https://cablevision.com.lb/Content/uploads/Channel/1731607129.png" group-title="Kurdish  سپۆرت  ",HUB Premier 1 TV
 http://109.71.252.138/Hubsport/index.m3u8
 #EXTINF:0 CUID="58814" tvg-name="ASTERA SPORT1" tvg-logo="https://i.postimg.cc/NYRPZWy8/ASTERA.png" group-title="Kurdish  سپۆرت  ",ASTERA SPORT1
