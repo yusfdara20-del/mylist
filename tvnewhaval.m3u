@@ -364,13 +364,19 @@ http://51.89.152.180/live/BahraHD/chunks.m3u8
 #EXTINF:0 CUID="8650" tvg-name="PESHMARGA TV" tvg-logo="https://i.postimg.cc/81wsh67y/pe-1.png" group-title="KURDISH ",PESHMARGA TV
 http://142.132.133.190:1935/live/peshmerge/index.m3u8
 #EXTINF:0 CUID="58810" tvg-name="Newcastle vs Barcelona FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3CH5HyLCoxjgH2pR7aXx2ePCcxbfZP2BizA&s" group-title="Kurdish  سپۆرت  ",Newcastle vs Barcelona
-http://45.155.226.147:8085/local/ku/KURD-NRT-Sport/mono.m3u8?md5=XwnxYb1eF5kQKDHpKZJECQ&expires=1773917837&type=a1&info=12d8121f0000688d
+https://80.251.153.90:2095/live/711476461499/698e25708075b/829083.ts?token=ybzdUXy.zbaH.X.fbXc.ydHzHUybzU.X.y.IQ.ts.0564fcadf5204e604b541879cc604b4ad2814f82f33e0e2e93f784f841c2a49b...bmV3LXByby50dg==
 #EXTINF:0 CUID="58810" tvg-name="Newcastle vs Barcelona" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3CH5HyLCoxjgH2pR7aXx2ePCcxbfZP2BizA&s" group-title="Kurdish  سپۆرت  ",Newcastle vs Barcelona
 http://45.155.226.147:8085/local/ku/KURD-NRT-Sport/mono.m3u8?md5=XwnxYb1eF5kQKDHpKZJECQ&expires=1773917837&type=a1&info=12d8121f0000688d
 #EXTINF:0 CUID="58810" tvg-name="Newcastle vs Barcelona" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3CH5HyLCoxjgH2pR7aXx2ePCcxbfZP2BizA&s" group-title="Kurdish  سپۆرت  ",Newcastle vs Barcelona
-http://45.155.226.147:8085/local/ku/KURD-NRT-Sport/mono.m3u8?md5=XwnxYb1eF5kQKDHpKZJECQ&expires=1773917837&type=a1&info=12d8121f0000688d
+https://185.191.127.174:2095/live/711476461499/698e25708075b/752032.ts?token=ybzdUXy.cbccf.X.fcbUU.ydHzHUydyc.X.y.IQ.ts.4c4641c0eb8a247354f773af531360e8dc6a0f6fab3c679cc0a2b9bdbe613631...bmV3LXByby50dg==
 #EXTINF:0 CUID="58810" tvg-name="NRT SPORT FHD" tvg-logo="https://i.postimg.cc/NgMdhQGP/NRTSPORT.png" group-title="Kurdish  سپۆرت  ",NRT SPORT HD
-http://45.155.226.147:8085/local/ku/KURD-NRT-Sport/mono.m3u8?md5=XwnxYb1eF5kQKDHpKZJECQ&expires=1773917837&type=a1&info=12d8121f0000688d
+http://sportook.online/BEIN-S2/video.m3u8
+#EXTINF:0 CUID="58810" tvg-name="Bayern vs Atalanta" tvg-logo="https://i.postimg.cc/NgMdhQGP/NRTSPORT.png" group-title="Kurdish  سپۆرت  ",Bayern vs Atalanta
+http://sportook.online/BEIN-S4/video.m3u8
+#EXTINF:0 CUID="58810" tvg-name="NRT SPORT FHD" tvg-logo="https://i.postimg.cc/NgMdhQGP/NRTSPORT.png" group-title="Kurdish  سپۆرت  ",NRT SPORT HD
+http://sportook.online/BEIN-S3/video.m3u8
+#EXTINF:0 CUID="58810" tvg-name="NRT SPORT FHD" tvg-logo="https://i.postimg.cc/NgMdhQGP/NRTSPORT.png" group-title="Kurdish  سپۆرت  ",NRT SPORT HD
+http://sportook.online/BEIN-S1/video.m3u8
 #EXTINF:0 CUID="58810" tvg-name="NRT SPORT FHD" tvg-logo="https://i.postimg.cc/NgMdhQGP/NRTSPORT.png" group-title="Kurdish  سپۆرت  ",NRT SPORT HD
 http://45.155.226.147:8085/local/ku/KURD-NRT-Sport/mono.m3u8?md5=XwnxYb1eF5kQKDHpKZJECQ&expires=1773917837&type=a1&info=12d8121f0000688d
 #EXTINF:0 CUID="58810" tvg-name="NRT SPORT FHD" tvg-logo="https://i.postimg.cc/NgMdhQGP/NRTSPORT.png" group-title="Kurdish  سپۆرت  ",NRT SPORT FHD
