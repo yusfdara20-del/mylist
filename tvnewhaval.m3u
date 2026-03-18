@@ -363,34 +363,30 @@ https://zindikurmanci.zaroktv.com.tr/hls/0/stream.m3u8
 http://51.89.152.180/live/BahraHD/chunks.m3u8
 #EXTINF:0 CUID="8650" tvg-name="PESHMARGA TV" tvg-logo="https://i.postimg.cc/81wsh67y/pe-1.png" group-title="KURDISH ",PESHMARGA TV
 http://142.132.133.190:1935/live/peshmerge/index.m3u8
+#EXTINF:0 CUID="58810" tvg-name="NRT SPORT FHD" tvg-logo="https://i.postimg.cc/NgMdhQGP/NRTSPORT.png" group-title="Kurdish  سپۆرت  ",NRT SPORT HD
+http://45.155.226.147:8085/local/ku/KURD-NRT-Sport/mono.m3u8?md5=XwnxYb1eF5kQKDHpKZJECQ&expires=1773917837&type=a1&info=12d8121f0000688d
 #EXTINF:0 CUID="58810" tvg-name="NRT SPORT FHD" tvg-logo="https://i.postimg.cc/NgMdhQGP/NRTSPORT.png" group-title="Kurdish  سپۆرت  ",NRT SPORT FHD
 http://109.71.252.138/nrtsport/index.m3u8?token=hnaKCXHetrygerteL5cys1
 #EXTINF:0 CUID="58810" tvg-name="NRT SPORT FHD" tvg-logo="https://i.postimg.cc/NgMdhQGP/NRTSPORT.png" group-title="Kurdish  سپۆرت  ",NRT SPORT HD
-http://dksipi.com:80/live/11603091662305/yACPFfd68h/168667.ts
+http://45.155.226.147:8085/local/ku/KURD-NRT-Sport/mono.m3u8?md5=XwnxYb1eF5kQKDHpKZJECQ&expires=1773917837&type=a1&info=12d8121f0000688d
 #EXTINF:0 CUID="58812" tvg-name="AVA SPORT" tvg-logo="https://i.postimg.cc/bqfzRHf3/AVASPORT.png" group-title="Kurdish  سپۆرت  ",AVA SPORT
 http://109.71.252.138/AVASPORT2/index.m3u8
 #EXTINF:0 CUID="58812" tvg-name="AVA SPORT" tvg-logo="https://i.postimg.cc/bqfzRHf3/AVASPORT.png" group-title="Kurdish  سپۆرت  ",AVA SPORT
-http://2.57.214.161/live/711476461499/698e25708075b/829083.ts?token=ybzdUXy.adfdaHX.X.UzbH.ydHzdbafXH.X.y.IQ.ts.c0166c71d2f95c8eaa5ee4c49c1793b7b79c95991c636e59a293c88ef2e7b576...bmV3LXByby50dg==
+http://103.163.132.13:8085/local/ku/ava-sport-h265/mono.m3u8?md5=HTNH5lYN6sxCpE99Hi7KDw&expires=1773917822&type=a1&info=12d8121f0000688d
 #EXTINF:0 CUID="58812" tvg-name="AVA SPORT" tvg-logo="https://i.postimg.cc/bqfzRHf3/AVASPORT.png" group-title="Kurdish  سپۆرت  ",AVA SPORT
 http://109.71.252.138/AVASPORT2/index.m3u8
 #EXTINF:0 CUID="58812" tvg-name="AVA SPORT" tvg-logo="https://i.postimg.cc/bqfzRHf3/AVASPORT.png" group-title="Kurdish  سپۆرت  ",AVA SPORT
 http://dksipi.com:80/live/11603091662305/yACPFfd68h/330034.ts
-#EXTINF:0 CUID="58812" tvg-name="FALCON EYE 1" tvg-logo="https://mixmedia.tv/wp-content/uploads/2022/08/falcon-1-1.png" group-title="Kurdish  سپۆرت  ",FALCON EYE 1
-http://109.71.252.138/Falcon1test/index.m3u8
-#EXTINF:0 CUID="58812" tvg-name="FALCON EYE 2" tvg-logo="https://mixmedia.tv/wp-content/uploads/2022/08/falcon-2.png" group-title="Kurdish  سپۆرت  ",FALCON EYE 2
-http://109.71.252.138/Falcon2test/index.m3u8
-#EXTINF:0 CUID="58812" tvg-name="FALCON EYE 3" tvg-logo="https://mixmedia.tv/wp-content/uploads/2022/08/falcon-3.png" group-title="Kurdish  سپۆرت  ",FALCON EYE 3
-http://109.71.252.138/Falcon3test/index.m3u8
 #EXTINF:0 CUID="58812" tvg-name="HUB Premier 1 TV" tvg-logo="https://cablevision.com.lb/Content/uploads/Channel/1731607129.png" group-title="Kurdish  سپۆرت  ",HUB Premier 1 TV
 http://109.71.252.138/Hubsport/index.m3u8
 #EXTINF:0 CUID="58814" tvg-name="ASTERA SPORT1" tvg-logo="https://i.postimg.cc/NYRPZWy8/ASTERA.png" group-title="Kurdish  سپۆرت  ",ASTERA SPORT1
 http://109.71.252.138/asterasportyusfiptv/index.m3u8?token=hnaKCXHetrygerteL5cys1
 #EXTINF:0 CUID="58873" tvg-name="ALWAN SPORT 1 4K" tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN  SPORT 4k",ALWAN SPORT 1 4K
-http://dksipi.com:80/live/11603091662305/yACPFfd68h/434261.ts
+http://2.57.214.161/live/711476461499/698e25708075b/829083.ts?token=ybzdUXy.fUbdUyf.X.UzbH.ydHzdzddUd.X.y.IQ.ts.9b45dd4ce63daeb19aa16293adb4bcc29582222add08eecc32e446a20cbbc032...bmV3LXByby50dg==
 #EXTINF:0 CUID="58874" tvg-name="ALWAN SPORT 2 4K" tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN  SPORT 4k",ALWAN SPORT 2 4K
-http://dksipi.com:80/live/11603091662305/yACPFfd68h/434262.ts
+http://148.224.24.59/live/711476461499/698e25708075b/829084.ts?token=ybzdUXy.yXyaf.X.aUUcc.ydHzdzddHa.X.y.IQ.ts.0d1aab764a10692a0cc57ef6cc746b45a0ed7d9a733e4b7cc86f26d450c76d5b...bmV3LXByby50dg==
 #EXTINF:0 CUID="58875" tvg-name="ALWAN SPORT 3 4K" tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN  SPORT 4k",ALWAN SPORT 3 4K
-http://dksipi.com:80/live/11603091662305/yACPFfd68h/434263.ts
+http://148.224.24.59/live/711476461499/698e25708075b/829085.ts?token=ybzdUXy.zHcz.X.aUUda.ydHzdzdHXf.X.y.IQ.ts.f34392497befe97341f300d59c295007775bec9cf8bec935300ea7de6a6c571f...bmV3LXByby50dg==
 #EXTINF:0 CUID="58876" tvg-name="ALWAN SPORT 4 4K" tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN  SPORT 4k",ALWAN SPORT 4 4K
 http://dksipi.com:80/live/11603091662305/yACPFfd68h/434264.ts
 #EXTINF:0 CUID="58877" tvg-name="ALWAN SPORT 5 4K" tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN  SPORT 4k",ALWAN SPORT 5 4K
@@ -405,30 +401,6 @@ http://blue4k.net:8880//884647623798/WaxzPSSzyY/550431
 http://blue4k.net:8880//884647623798/WaxzPSSzyY/550432
 #EXTINF:0 CUID="58882" tvg-name="ALWAN SPORT 10 4K" tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN  SPORT 4k",ALWAN SPORT 10 4K
 http://blue4k.net:8880//884647623798/WaxzPSSzyY/550433
-#EXTINF:0 CUID="58883" tvg-name="[KSA] KSA Alwan Sport 1" tvg-logo="http://pic.apkdt.co/pic/mix2/EuroSport1.png" group-title="ALWAN  SPORT 4k",[KSA] KSA Alwan Sport 1
-http://blue4k.net:8880//884647623798/WaxzPSSzyY/542659
-#EXTINF:0 CUID="58884" tvg-name="[KSA] KSA Alwan Sport 2" group-title="ALWAN  SPORT 4k",[KSA] KSA Alwan Sport 2
-http://blue4k.net:8880//884647623798/WaxzPSSzyY/542660
-#EXTINF:0 CUID="58885" tvg-name="[KSA] KSA Alwan sport 3" group-title="ALWAN  SPORT 4k",[KSA] KSA Alwan sport 3
-http://blue4k.net:8880//884647623798/WaxzPSSzyY/542661
-#EXTINF:0 CUID="58886" tvg-name="[KSA] KSA Alwan sport 4" group-title="ALWAN  SPORT 4k",[KSA] KSA Alwan sport 4
-http://blue4k.net:8880//884647623798/WaxzPSSzyY/542662
-#EXTINF:0 CUID="58887" tvg-name="[KSA] KSA Alwan Sport 5" group-title="ALWAN  SPORT 4k",[KSA] KSA Alwan Sport 5
-http://blue4k.net:8880//884647623798/WaxzPSSzyY/542663
-#EXTINF:0 CUID="58888" tvg-name="[KSA] KSA Alwan Sport 6" group-title="ALWAN  SPORT 4k",[KSA] KSA Alwan Sport 6
-http://blue4k.net:8880//884647623798/WaxzPSSzyY/542664
-#EXTINF:0 CUID="58889" tvg-name="Alwan Sport 1" group-title="ALWAN  SPORT 4k",Alwan Sport 1
-http://blue4k.net:8880//884647623798/WaxzPSSzyY/550452
-#EXTINF:0 CUID="58890" tvg-name="Alwan Sport 2" group-title="ALWAN  SPORT 4k",Alwan Sport 2
-http://blue4k.net:8880//884647623798/WaxzPSSzyY/550451
-#EXTINF:0 CUID="58891" tvg-name="Alwan sport 3" group-title="ALWAN  SPORT 4k",Alwan sport 3
-http://blue4k.net:8880//884647623798/WaxzPSSzyY/550436
-#EXTINF:0 CUID="58892" tvg-name="Alwan sport 4" group-title="ALWAN  SPORT 4k",Alwan sport 4
-http://blue4k.net:8880//884647623798/WaxzPSSzyY/550450
-#EXTINF:0 CUID="58893" tvg-name="Alwan Sport 5" group-title="ALWAN  SPORT 4k",Alwan Sport 5
-http://blue4k.net:8880//884647623798/WaxzPSSzyY/550422
-#EXTINF:0 CUID="58894" tvg-name="Alwan Sport 6" group-title="ALWAN  SPORT 4k",Alwan Sport 6
-http://blue4k.net:8880//884647623798/WaxzPSSzyY/550423
 http://duhok.badinan.xyz:1935/live/DuhokTV/chunklist_w1036962996.m3u8
 #EXTINF:0 CUID="10703" tvg-chno="null" tvg-name="مەملەكەتی شەیتان بەشیی یەكەم" tvg-logo="https://kurdipedia.org/files/photos/2022/405286.JPG?ver=20220216023244" group-title="ktebakan mamosta makwan",مەملەكەتی شەیتان بەشیی یەكەم
 https://rashaba.com/upload/videos/2025/12/Z8BpYNUvzXCrGFJ/Z8BpYNUvzXCrGFJ_av1.m3u8
@@ -561,8 +533,8 @@ https://plus.shafilm.vip/videos/ee2b7391-ac44-6f27-95ca-b9fde5889431/main.m3u8?D
 #EXTINF:0 CUID="8733" tvg-name="Fida (2004)" tvg-logo="https://i.postimg.cc/ZnQfg05G/Untitled-design-20.png" group-title="فیلمی دۆبلاژکراوی کوردی",Fida (2004)
 https://plus.shafilm.vip/videos/82898dec-e891-fac3-12ab-833b0b2e9e2c/main.m3u8?DeviceId=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEzOC4wLjAuMCBTYWZhcmkvNTM3LjM2fDE3NTM4ODU2NzEwNTk1&MediaSourceId=82898dece891fac312ab833b0b2e9e2c&VideoCodec=av1,hevc,h264,vp9&AudioCodec=copy&AudioStreamIndex=0&VideoBitrate=1318232&AudioBitrate=107501&MaxFramerate=30&PlaySessionId=89dd7eb909304cf3927438c8ad960bd4&api_key=ef955bd6ea484f2f81c4e6d5d12e5556&SubtitleMethod=Encode&TranscodingMaxAudioChannels=2&RequireAvc=false&EnableAudioVbrEncoding=true&Tag=0f10938cf4110989cae5766f14b46825&SegmentContainer=mp4&MinSegments=1&BreakOnNonKeyFrames=True&h264-level=10&h264-videobitdepth=8&h264-profile=high&av1-profile=main&av1-rangetype=SDR,HDR10,HLG&av1-level=19&vp9-rangetype=SDR,HDR10,HLG&hevc-profile=main,main10&hevc-rangetype=SDR,HDR10,HLG&hevc-level=183&hevc-deinterlace=true&h264-rangetype=SDR&h264-deinterlace=true&TranscodeReasons=ContainerBitrateExceedsLimit
 #EXTINF:0 CUID="17463" tvg-name="BEIN SPORTS 1 4K" tvg-logo="https://i.postimg.cc/0PTxG4FZ/BH1.png" group-title="BEIN SPORTS FHD 4K ",BEIN SPORTS 1 /720P
-http://dksipi.com:80/live/11603091662305/yACPFfd68h/12687.ts
+http://xmrcars.org:8080/bn1hd/mono.m3u8
 #EXTINF:0 CUID="17464" tvg-name="BEIN SPORT 2  4k" tvg-logo="https://i.postimg.cc/HdqH0NRt/BH2.png" group-title="BEIN SPORTS FHD 4K ",BEIN SPORT 2  4k
-http://dksipi.com:80/live/11603091662305/yACPFfd68h/221580.ts
+http://xmrcars.org:8080/bn2hd/mono.m3u8
 #EXTINF:0 CUID="17467" tvg-name="BEIN SPORT 3  4k" tvg-logo="https://i.postimg.cc/c0pZ7z2M/BH3.png" group-title="BEIN SPORTS FHD 4K ",BEIN SPORT 3  4k
-http://dksipi.com:80/live/11603091662305/yACPFfd68h/61591.ts
+http://xmrcars.org:8080/bn3hd/mono.m3u8
