@@ -363,6 +363,14 @@ https://zindikurmanci.zaroktv.com.tr/hls/0/stream.m3u8
 http://51.89.152.180/live/BahraHD/chunks.m3u8
 #EXTINF:0 CUID="8650" tvg-name="PESHMARGA TV" tvg-logo="https://i.postimg.cc/81wsh67y/pe-1.png" group-title="KURDISH ",PESHMARGA TV
 http://142.132.133.190:1935/live/peshmerge/index.m3u8
+#EXTINF:0 CUID="58810" tvg-name="Newcastle vs Barcelona FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3CH5HyLCoxjgH2pR7aXx2ePCcxbfZP2BizA&s" group-title="Kurdish  سپۆرت  ",Newcastle vs Barcelona
+http://45.155.226.147:8085/local/ku/KURD-NRT-Sport/mono.m3u8?md5=XwnxYb1eF5kQKDHpKZJECQ&expires=1773917837&type=a1&info=12d8121f0000688d
+#EXTINF:0 CUID="58810" tvg-name="Newcastle vs Barcelona" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3CH5HyLCoxjgH2pR7aXx2ePCcxbfZP2BizA&s" group-title="Kurdish  سپۆرت  ",Newcastle vs Barcelona
+http://45.155.226.147:8085/local/ku/KURD-NRT-Sport/mono.m3u8?md5=XwnxYb1eF5kQKDHpKZJECQ&expires=1773917837&type=a1&info=12d8121f0000688d
+#EXTINF:0 CUID="58810" tvg-name="Newcastle vs Barcelona" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3CH5HyLCoxjgH2pR7aXx2ePCcxbfZP2BizA&s" group-title="Kurdish  سپۆرت  ",Newcastle vs Barcelona
+http://45.155.226.147:8085/local/ku/KURD-NRT-Sport/mono.m3u8?md5=XwnxYb1eF5kQKDHpKZJECQ&expires=1773917837&type=a1&info=12d8121f0000688d
+#EXTINF:0 CUID="58810" tvg-name="NRT SPORT FHD" tvg-logo="https://i.postimg.cc/NgMdhQGP/NRTSPORT.png" group-title="Kurdish  سپۆرت  ",NRT SPORT HD
+http://45.155.226.147:8085/local/ku/KURD-NRT-Sport/mono.m3u8?md5=XwnxYb1eF5kQKDHpKZJECQ&expires=1773917837&type=a1&info=12d8121f0000688d
 #EXTINF:0 CUID="58810" tvg-name="NRT SPORT FHD" tvg-logo="https://i.postimg.cc/NgMdhQGP/NRTSPORT.png" group-title="Kurdish  سپۆرت  ",NRT SPORT HD
 http://45.155.226.147:8085/local/ku/KURD-NRT-Sport/mono.m3u8?md5=XwnxYb1eF5kQKDHpKZJECQ&expires=1773917837&type=a1&info=12d8121f0000688d
 #EXTINF:0 CUID="58810" tvg-name="NRT SPORT FHD" tvg-logo="https://i.postimg.cc/NgMdhQGP/NRTSPORT.png" group-title="Kurdish  سپۆرت  ",NRT SPORT FHD
@@ -376,9 +384,9 @@ http://103.163.132.13:8085/local/ku/ava-sport-h265/mono.m3u8?md5=HTNH5lYN6sxCpE9
 #EXTINF:0 CUID="58812" tvg-name="AVA SPORT" tvg-logo="https://i.postimg.cc/bqfzRHf3/AVASPORT.png" group-title="Kurdish  سپۆرت  ",AVA SPORT
 http://109.71.252.138/AVASPORT2/index.m3u8
 #EXTINF:0 CUID="58812" tvg-name="AVA SPORT" tvg-logo="https://i.postimg.cc/bqfzRHf3/AVASPORT.png" group-title="Kurdish  سپۆرت  ",AVA SPORT
-http://dksipi.com:80/live/11603091662305/yACPFfd68h/330034.ts
+http://154.6.189.161:8085/ssn/ar-s/bein-sp-2-H265-extended/mono.m3u8?md5=lH5S2kaaTm8z0SFSphRgUQ&expires=1773937865&type=a1&info=12d8121f0000688d
 #EXTINF:0 CUID="58812" tvg-name="HUB Premier 1 TV" tvg-logo="https://cablevision.com.lb/Content/uploads/Channel/1731607129.png" group-title="Kurdish  سپۆرت  ",HUB Premier 1 TV
-http://109.71.252.138/Hubsport/index.m3u8
+http://45.155.226.139:8085/local/ku/local-Duhok-Sport/mono.m3u8?md5=Mw6M6aof_m9lrf8ZsRKIrQ&expires=1773937784&type=a1&info=12d8121f0000688d
 #EXTINF:0 CUID="58814" tvg-name="ASTERA SPORT1" tvg-logo="https://i.postimg.cc/NYRPZWy8/ASTERA.png" group-title="Kurdish  سپۆرت  ",ASTERA SPORT1
 http://109.71.252.138/asterasportyusfiptv/index.m3u8?token=hnaKCXHetrygerteL5cys1
 #EXTINF:0 CUID="58873" tvg-name="ALWAN SPORT 1 4K" tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN  SPORT 4k",ALWAN SPORT 1 4K
