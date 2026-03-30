@@ -357,13 +357,13 @@ http://109.71.252.138/zaxosport/video.m3u8?token=yusfstaore....iptvfreee
 http://109.71.252.138/ldsport/video.m3u8?token=yusfstaore....iptvfreee
 #EXTM3U url-tvg="https://xtream-editor.com/load/epg/3VX069917A64305C4A5EA296F97550EE"
 #EXTINF:-1 tvg-chno="144" tvg-id="" tvg-name="Alwan Sport 1 4K" tvg-logo="https://safiafamily.com/uploads/family/alwan/Alwan_Ryazya_1.png" group-title="Alwan Network 4K",Alwan Sport 1 4K
-https://v.redd.it/smx05t0jmjee1/HLSPlaylist.m3u8
+http://109.71.252.138/Alwan1/mpegts?token=yusfstaore....iptvfreee
 #EXTINF:-1 tvg-chno="145" tvg-id="" tvg-name="Alwan Sport 2 4K" tvg-logo="https://safiafamily.com/uploads/family/alwan/Alwan_Ryazya_2.png" group-title="Alwan Network 4K",Alwan Sport 2 4K
-https://v.redd.it/smx05t0jmjee1/HLSPlaylist.m3u8
+http://109.71.252.138/Alwan2/mpegts?token=yusfstaore....iptvfreee
 #EXTINF:-1 tvg-chno="146" tvg-id="" tvg-name="Alwan Sport 3 4K" tvg-logo="https://safiafamily.com/uploads/family/alwan/Alwan_Ryazya_3.png" group-title="Alwan Network 4K",Alwan Sport 3 4K
-https://v.redd.it/smx05t0jmjee1/HLSPlaylist.m3u8
+http://109.71.252.138/Alwan3/mpegts?token=yusfstaore....iptvfreee
 #EXTINF:-1 tvg-chno="147" tvg-id="" tvg-name="Alwan Sport 4 4K" tvg-logo="https://safiafamily.com/uploads/family/alwan/Alwan_Ryazya_4.png" group-title="Alwan Network 4K",Alwan Sport 4 4K
-https://v.redd.it/smx05t0jmjee1/HLSPlaylist.m3u8
+http://109.71.252.138/Alwan4/mpegts?token=yusfstaore....iptvfreee
 #EXTINF:-1 tvg-chno="148" tvg-id="" tvg-name="Alwan Sport 5 4K" tvg-logo="https://safiafamily.com/uploads/family/alwan/Alwan_Ryazya_5.png" group-title="Alwan Network 4K",Alwan Sport 5 4K
 https://v.redd.it/smx05t0jmjee1/HLSPlaylist.m3u8
 #EXTINF:-1 tvg-chno="149" tvg-id="" tvg-name="Alwan Sport 6 4K" tvg-logo="https://safiafamily.com/uploads/family/alwan/Alwan_Ryazya_6.png" group-title="Alwan Network 4K",Alwan Sport 6 4K
@@ -376,7 +376,7 @@ https://v.redd.it/smx05t0jmjee1/HLSPlaylist.m3u8http://sportook.online/BEIN-S2/v
 https://v.redd.it/smx05t0jmjee1/HLSPlaylist.m3u8
 #EXTINF:-1 tvg-chno="153" tvg-id="" tvg-name="Alwan Sport 10 4K" tvg-logo="https://safiafamily.com/uploads/family/alwan/Alwan_Ryazya_1.png" group-title="Alwan Network 4K",Alwan Sport 10 4K
 https://v.redd.it/smx05t0jmjee1/HLSPlaylist.m3u8
-#EXTINF:0 CUID="17463" tvg-name="BEIN SPORTS 1 /720P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORTS FHD 4K ",BEIN SPORTS 1 /720P
+#EXTINF:0 CUID="17463" tvg-name="BEIN SPORTS 1  4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORTS FHD 4K ",BEIN SPORTS 1 4k
 http://sportook.online/BEIN-S1/video.m3u8
 #EXTINF:0 CUID="17464" tvg-name="BEIN SPORT 2  4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORTS FHD 4K ",BEIN SPORT 2  4k
 http://sportook.online/BEIN-S2/video.m3u8
@@ -393,3 +393,1941 @@ http://sportook.online/BEIN-S7/video.m3u8
 #EXTINF:0 CUID="17483" tvg-name="BEIN SPORTS 8 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORTS FHD 4K ",BEIN SPORTS 8 4K
 http://blue4k.net:8880//884647623798/254192480919/12351
 #EXTINF:0 CUID="17486" tvg-name="BEIN SPORTS 9 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORTS FHD 4K ",BEIN SPORTS 9 4K
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/20061/index.m3u8
+#EXTINF:0,Sky Sports News HD 50 UK
+#EXTGRP:SKY 4K
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/9314/index.m3u8
+#EXTINF:0,Sky Cinema HD DE
+#EXTGRP:SKY 4K
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/2484/index.m3u8
+#EXTINF:0,Sky Cinema Highlights HD DE
+#EXTGRP:SKY 4K
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/2485/index.m3u8
+#EXTINF:0,Sky Atlantic HD DE
+#EXTGRP:SKY 4K
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/2488/index.m3u8
+#EXTINF:0,Sky Cinema Family HD DE
+#EXTGRP:SKY 4K
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/2489/index.m3u8
+#EXTINF:0,Sky Cinema Classics HD DE
+#EXTGRP:SKY 4K
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/2490/index.m3u8
+#EXTINF:0,Sky Krimi HD DE
+#EXTGRP:SKY 4K
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/2491/index.m3u8
+#EXTINF:0,Sky Arts HD DE
+#EXTGRP:SKY 4K
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/2494/index.m3u8
+#EXTINF:0,Sky History HD UK
+#EXTGRP:SKY 4K
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/16037/index.m3u8
+#EXTINF:0,Sky One HD DE
+#EXTGRP:SKY 4K
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/19000/index.m3u8
+#EXTINF:0,Sky Crime HD DE
+#EXTGRP:SKY 4K
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/19001/index.m3u8
+#EXTINF:0,Sky Showcase HD DE
+#EXTGRP:SKY 4K
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/19003/index.m3u8
+#EXTINF:0,Sky Cinema Classics DE
+#EXTGRP:SKY 4K
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/19005/index.m3u8
+#EXTINF:0,Sky Replay HD DE
+#EXTGRP:SKY 4K
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/19006/index.m3u8
+#EXTINF:0,Sky Cinema Family FHD DE
+#EXTGRP:SKY 4K
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/19008/index.m3u8
+#EXTINF:0,Sky Atlantic FHD DE
+#EXTGRP:SKY 4K
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/19009/index.m3u8
+#EXTINF:0,Sky Cinema Highlights FHD DE
+#EXTGRP:SKY 4K
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/19013/index.m3u8
+#EXTINF:0,Sky Cinema Premieren HD
+#EXTGRP:SKY 4K
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/19014/index.m3u8
+#EXTINF:0,Sky Cinema Classics FHD DE
+#EXTGRP:SKY 4K
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/19017/index.m3u8
+#EXTINF:0,Sky Krimi FHD DE
+#EXTGRP:SKY 4K
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/19019/index.m3u8
+#EXTINF:0,Sky Nature HD DE
+#EXTGRP:SKY 4K
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/19020/index.m3u8
+#EXTINF:0,Sky Documentaries HD DE
+#EXTGRP:SKY 4K
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/19021/index.m3u8
+#EXTINF:0,Sky Cinema Uno HD IT
+#EXTGRP:SKY 4K
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/19095/index.m3u8
+#EXTINF:0,Sky Cinema Due HD IT
+#EXTGRP:SKY 4K
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/19096/index.m3u8
+#EXTINF:0,Sky Cinema Comedy HD IT
+#EXTGRP:SKY 4K
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/19097/index.m3u8
+#EXTINF:0,Sky Cinema Action HD DE
+#EXTGRP:SKY 4K
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/19098/index.m3u8
+#EXTINF:0,Sky Cinema Suspense HD IT
+#EXTGRP:SKY 4K
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/19100/index.m3u8
+#EXTINF:0,Sky Atlantic HD IT
+#EXTGRP:SKY 4K
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/19102/index.m3u8
+#EXTINF:0,Sky Sports Tennis HD 50 UK
+#EXTGRP:SKY 4K
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/6546/index.m3u8
+#EXTINF:0,Sky Sports Racing HD 50 UK
+#EXTGRP:SKY 4K
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/9335/index.m3u8
+#EXTINF:0,Sky Sports Premier League HD 50 UK
+#EXTGRP:SKY 4K
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/9334/index.m3u8
+#EXTINF:0,Sky Sports Mix HD 50 UK
+#EXTGRP:SKY 4K
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/9310/index.m3u8
+#EXTINF:0,Sky Sports Main Event HD 50 UK
+#EXTGRP:SKY 4K
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/9308/index.m3u8
+#EXTINF:0,Sky Sports Golf HD 50 UK
+#EXTGRP:SKY 4K
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/9293/index.m3u8
+#EXTINF:0,Sky Sports Football HD 50 UK
+#EXTGRP:SKY 4K
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/9289/index.m3u8
+#EXTINF:0,Sky Sports F1 HD 50 UK
+#EXTGRP:SKY 4K
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/9283/index.m3u8
+#EXTINF:0,Sky Sports Cricket HD 50 UK
+#EXTGRP:SKY 4K
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/9258/index.m3u8
+#EXTINF:0,Sky Sports+ HD UK
+#EXTGRP:SKY 4K
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/9248/index.m3u8
+#EXTINF:0,Sky Sports Action HD 50 UK
+#EXTGRP:SKY 4K
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/9155/index.m3u8
+#EXTINF:0,Sky Sport Golf HD DE
+#EXTGRP:SKY 4K
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/5043/index.m3u8
+#EXTINF:0,Sky Sport Premier League HD DE
+#EXTGRP:SKY 4K
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/5042/index.m3u8
+#EXTINF:0,Sky 1 AU
+#EXTGRP:SKY 4K
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/6122/index.m3u8
+#EXTINF:0,Sky Sport Austria 2 HD DE
+#EXTGRP:SKY 4K
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/6113/index.m3u8
+#EXTINF:0,Sky Sport Bundesliga 9 FHD DE
+#EXTGRP:SKY 4K
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/6097/index.m3u8
+#EXTINF:0,Sky Sport News HD DE
+#EXTGRP:SKY 4K
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/2477/index.m3u8
+#EXTINF:0,Sky Sport 1 FHD DE
+#EXTGRP:SKY 4K
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/2478/index.m3u8
+#EXTINF:0,Sky Sport 2 HD DE
+#EXTGRP:SKY 4K
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/2479/index.m3u8
+#EXTINF:0,Sky Sport Bundesliga 1 HD DE
+#EXTGRP:SKY 4K
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/2480/index.m3u8
+#EXTINF:0,Sky Sport Austria 1 HD DE
+#EXTGRP:SKY 4K
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/2492/index.m3u8
+#EXTINF:0,Sky Sport Bundesliga 2 HD DE
+#EXTGRP:SKY 4K
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/7234/index.m3u8
+#EXTINF:0,Sky Sport Bundesliga 3 HD DE
+#EXTGRP:SKY 4K
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/7235/index.m3u8
+#EXTINF:0,Sky Sport Bundesliga 4 HD DE
+#EXTGRP:SKY 4K
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/7236/index.m3u8
+#EXTINF:0,Sky Sport Bundesliga 5 HD DE
+#EXTGRP:SKY 4K
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/7237/index.m3u8
+#EXTINF:0,Sky Sport Bundesliga 6 HD DE
+#EXTGRP:SKY 4K
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/7238/index.m3u8
+#EXTINF:0,Sky Sport Bundesliga 7 HD DE
+#EXTGRP:SKY 4K
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/7239/index.m3u8
+#EXTINF:0,Sky Sport Bundesliga 8 HD DE
+#EXTGRP:SKY 4K
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/7240/index.m3u8
+#EXTINF:0,Sky Sport Bundesliga 9 HD DE
+#EXTGRP:SKY 4K
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/7241/index.m3u8
+#EXTINF:0,Sky Sports Premier League HD UK
+#EXTGRP:SKY 4K
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/7335/index.m3u8
+#EXTINF:0,Sky Sports Football HD UK
+#EXTGRP:SKY 4K
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/7336/index.m3u8
+#EXTINF:0,Sky Sports Main Event HD UK
+#EXTGRP:SKY 4K
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/7337/index.m3u8
+#EXTINF:0,Sky Sports Mix HD UK
+#EXTGRP:SKY 4K
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/7339/index.m3u8
+#EXTINF:0,Sky Sports Action HD UK
+#EXTGRP:SKY 4K
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/7340/index.m3u8
+#EXTINF:0,Sky Sports Racing HD UK
+#EXTGRP:SKY 4K
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/7341/index.m3u8
+#EXTINF:0,Sky Sports F1 HD UK
+#EXTGRP:SKY 4K
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/7342/index.m3u8
+#EXTINF:0,Sky Sports Cricket HD UK
+#EXTGRP:SKY 4K
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/7343/index.m3u8
+#EXTINF:0,Sky Sports Golf HD UK
+#EXTGRP:SKY 4K
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/7344/index.m3u8
+#EXTINF:0,Sky Sport F1 HD DE
+#EXTGRP:SKY 4K
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/19022/index.m3u8
+#EXTINF:0,Sky Sport F1 DE
+#EXTGRP:SKY 4K
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/19027/index.m3u8
+#EXTINF:0,Sky Sport 1 HD DE
+#EXTGRP:SKY 4K
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/19028/index.m3u8
+#EXTINF:0,Sky Sport 3 HD DE
+#EXTGRP:SKY 4K
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/19030/index.m3u8
+#EXTINF:0,Sky Sport 4 HD DE
+#EXTGRP:SKY 4K
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/19031/index.m3u8
+#EXTINF:0,Sky Sport 5 HD DE
+#EXTGRP:SKY 4K
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/19032/index.m3u8
+#EXTINF:0,Sky Sport 6 HD DE
+#EXTGRP:SKY 4K
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/19033/index.m3u8
+#EXTINF:0,Sky Sport 7 HD DE
+#EXTGRP:SKY 4K
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/19034/index.m3u8
+#EXTINF:0,Sky Sport 8 HD DE
+#EXTGRP:SKY 4K
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/19035/index.m3u8
+#EXTINF:0,Sky Sport 9 HD DE
+#EXTGRP:SKY 4K
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/19036/index.m3u8
+#EXTINF:0,Sky Sport 10 HD DE
+#EXTGRP:SKY 4K
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/19037/index.m3u8
+#EXTINF:0,Sky Sport Austria 4 HD DE
+#EXTGRP:SKY 4K
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/19038/index.m3u8
+#EXTINF:0,Sky Sport UHD DE
+#EXTGRP:SKY 4K
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/19044/index.m3u8
+#EXTINF:0,Sky Sport F1 HD IT
+#EXTGRP:SKY 4K
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/19105/index.m3u8
+#EXTINF:0,Sky Sport 24 FHD IT
+#EXTGRP:SKY 4K
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/19107/index.m3u8
+#EXTINF:0,Sky Sport Calcio HD IT
+#EXTGRP:SKY 4K
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/19113/index.m3u8
+#EXTINF:0,Sky Primafila 1 HD IT
+#EXTGRP:SKY 4K
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/19118/index.m3u8
+#EXTINF:0,Sky Primafila 2 HD IT
+#EXTGRP:SKY 4K
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/19119/index.m3u8
+#EXTINF:0,Sky Primafila 3 HD IT
+#EXTGRP:SKY 4K
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/19120/index.m3u8
+#EXTINF:0,Sky Primafila 4 HD IT
+#EXTGRP:SKY 4K
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/19121/index.m3u8
+#EXTINF:0,Sky Primafila 5 HD IT
+#EXTGRP:SKY 4K
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/19122/index.m3u8
+#EXTINF:0,Sky Primafila 6 HD IT
+#EXTGRP:SKY 4K
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/19123/index.m3u8
+#EXTINF:0,Sky Primafila 7 HD IT
+#EXTGRP:SKY 4K
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/19124/index.m3u8
+#EXTINF:0,Sky Primafila 8 HD IT
+#EXTGRP:SKY 4K
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/19125/index.m3u8
+#EXTINF:0,Sky Primafila 9 HD IT
+#EXTGRP:SKY 4K
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/19126/index.m3u8
+#EXTINF:0,Sky Sport 24 HD IT
+#EXTGRP:SKY 4K
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/19127/index.m3u8
+#EXTINF:0,Sky Sport Golf HD IT
+#EXTGRP:SKY 4K
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/19132/index.m3u8
+#EXTINF:0,Sky Sport MotoGP HD IT
+#EXTGRP:SKY 4K
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/19133/index.m3u8
+#EXTINF:0,Sky Sport NBA HD IT
+#EXTGRP:SKY 4K
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/19134/index.m3u8
+#EXTINF:0,Sky Sport Mix HD DE
+#EXTGRP:SKY 4K
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/5039/index.m3u8
+#EXTINF:0,Sky Sport F1 FHD DE
+#EXTGRP:SKY 4K
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/10079/index.m3u8
+#EXTGRP:IRAQ
+https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
+#EXTINF:0,Abadan
+#EXTGRP:IRAQ
+https://lenz.splus.ir/PLTV/88888888/224/3221227000/index.m3u8
+#EXTINF:0,Abdulmajeed Abdullah (1080p)
+#EXTGRP:IRAQ
+https://d2hng5r56zpsbw.cloudfront.net/out/v1/9c4c990f44bb4767bb46271f326dd574/index.m3u8
+#EXTINF:0,ABNsat (720p)
+#EXTGRP:IRAQ
+https://mediaserver.abnvideos.com/streams/abnsat.m3u8
+#EXTINF:0,Abu Dhabi Aloula (1080p)
+#EXTGRP:IRAQ
+https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8
+#EXTINF:0,Abu Dhabi Emirates (1080p)
+#EXTGRP:IRAQ
+https://vo-live.cdb.cdn.orange.com/Content/Channel/EmiratesChannel/HLS/index.m3u8
+#EXTINF:0,Abu Dhabi Sports 1
+#EXTGRP:IRAQ
+https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
+#EXTINF:0,Abu Dhabi Sports 2
+#EXTGRP:IRAQ
+https://tr-live-route.adm.tcon.hlit.hvds.tv/Content/Channel/AbuDhabiSportsChannel2/DASH/master.mpd
+#EXTINF:0,Access Sacramento Channel 18
+#EXTGRP:IRAQ
+https://reflect-access-sacramento.cablecast.tv/live-8/live/live.m3u8
+#EXTINF:0,Afaq TV
+#EXTGRP:IRAQ
+http://63b03f7689049.streamlock.net:1935/live/1/playlist.m3u8
+#EXTINF:0,Afghanistan International (720p)
+#EXTGRP:IRAQ
+https://hls.afintl.com/hls/stream.m3u8
+#EXTINF:0,Aghani Aghani TV (1080p) [Not 24/7]
+#EXTGRP:IRAQ
+https://streaming-a-1035.cdn.nextologies.com/6zj8y5nemi8a32vyjjbkv0oqx/77pcakd8reik3g8qdqnexlkmq/playlist.m3u8
+#EXTINF:0,Aghapy Kids (1080p)
+#EXTGRP:IRAQ
+https://5b622f07944df.streamlock.net/aghapykids.tv/aghapykids2/playlist.m3u8
+#EXTINF:0,Aghapy TV (1080p) [Not 24/7]
+#EXTGRP:IRAQ
+https://5b622f07944df.streamlock.net/aghapy.tv/aghapy.smil/playlist.m3u8
+#EXTINF:0,Ajman TV (1080p)
+#EXTGRP:IRAQ
+https://cdn1.logichost.in/ajmantv/live/playlist.m3u8
+#EXTINF:0,Ajyal TV
+#EXTGRP:IRAQ
+http://htvajyal.mada.ps:8888/ajyal/index.m3u8
+#EXTINF:0,AL24 News (1080p)
+#EXTGRP:IRAQ
+https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/playlist.m3u8
+#EXTINF:0,Al Ahad TV
+#EXTGRP:IRAQ
+http://63b03f7689049.streamlock.net:1935/live/7/playlist.m3u8
+#EXTINF:0,Al Alamiya 2
+#EXTGRP:IRAQ
+http://82.212.74.98:8000/live/7815.m3u8
+#EXTINF:0,Al Aoula International (360p)
+#EXTGRP:IRAQ
+https://cdn-globecast.akamaized.net/live/eds/al_aoula_inter/hls_snrt/al_aoula_inter.m3u8
+#EXTINF:0,Al Aoula Laâyoune (360p)
+#EXTGRP:IRAQ
+https://cdn-globecast.akamaized.net/live/eds/al_aoula_laayoune/hls_snrt/index.m3u8
+#EXTINF:0,Al Aqsa Channel (416p) [Not 24/7]
+#EXTGRP:IRAQ
+http://167.172.161.13/hls/feedspare/6udfi7v8a3eof6nlps6e9ovfrs65c7l7.m3u8
+#EXTINF:0,Al Arabiya (1080p)
+#EXTGRP:IRAQ
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+#EXTINF:0,Al Arabiya Business (1080p)
+#EXTGRP:IRAQ
+https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
+#EXTINF:0,Al Arabiya Programs (1080p)
+#EXTGRP:IRAQ
+https://d1j4r34gq3qw9y.cloudfront.net/out/v1/96804f3a14864641a21c25e8ca9afb74/index.m3u8
+#EXTINF:0,Al Araby TV 2 (1080p)
+#EXTGRP:IRAQ
+https://alarabyta.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist.m3u8
+#EXTINF:0,Al Araby TV (1080p)
+#EXTGRP:IRAQ
+https://alarabyta.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8
+#EXTINF:0,Al Ayyam TV
+#EXTGRP:IRAQ
+http://63b03f7689049.streamlock.net:1935/live/6/playlist.m3u8
+#EXTINF:0,Al Ehsaan TV (720p)
+#EXTGRP:IRAQ
+https://cdn.bmstudiopk.com/alehsaan/live/playlist.m3u8
+#EXTINF:0,Al Ekhbariya (1080p)
+#EXTGRP:IRAQ
+https://al-ekhbaria-prod-dub.shahid.net/out/v1/d443f3203b444032896e3233cb6eaa84/index.m3u8
+#EXTINF:0,Al Eshraq TV
+#EXTGRP:IRAQ
+http://63b03f7689049.streamlock.net:1935/live/19/playlist.m3u8
+#EXTINF:0,Al Etejah TV
+#EXTGRP:IRAQ
+http://63b03f7689049.streamlock.net:1935/live/33/playlist.m3u8
+#EXTINF:0,Al Ghad Plus
+#EXTGRP:IRAQ
+https://playlist.fasttvcdn.com/pl/ykvm3f2fhokwxqsurp9xcg/alghad-plus/playlist.m3u8
+#EXTINF:0,Al Ghad TV (1080p)
+#EXTGRP:IRAQ
+https://eazyvwqssi.erbvr.com/alghadtv/alghadtv.m3u8
+#EXTINF:0,Al Ghadeer TV
+#EXTGRP:IRAQ
+http://63b03f7689049.streamlock.net:1935/live/2/playlist.m3u8
+#EXTINF:0,Al Hadath TV (1080p)
+#EXTGRP:IRAQ
+https://shls-hadath-prod-dub.shahid.net/out/v1/0e1a306399c346faac4226aa0858f99b/index.m3u8
+#EXTINF:0,Al Haqiqa (576p)
+#EXTGRP:IRAQ
+https://jmc-live.ercdn.net/alhaqiqa/alhaqiqa.m3u8
+#EXTINF:0,Al Hayat TV (720p)
+#EXTGRP:IRAQ
+http://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream/playlist.m3u8
+#EXTINF:0,Al Horreya TV (1080p)
+#EXTGRP:IRAQ
+http://media.smc-host.com:1935/alhorreya.tv/mp4:alhorreya3/playlist.m3u8
+#EXTINF:0,Al Iraqia (720p)
+#EXTGRP:IRAQ
+https://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8
+#EXTINF:0,Al Iraqia News (720p)
+#EXTGRP:IRAQ
+https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8
+#EXTINF:0,Al Ittihad (552p) [Not 24/7]
+#EXTGRP:IRAQ
+http://185.105.4.151:8080/_defapp_/ittihad/index.m3u8
+#EXTINF:0,Al Janoub TV
+#EXTGRP:IRAQ
+http://63b03f7689049.streamlock.net:1935/live/18/playlist.m3u8
+#EXTINF:0,Al Jazeera (1080p)
+#EXTGRP:IRAQ
+https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8
+#EXTINF:0,Al Jazeera Documentary (1080p) [Geo-blocked]
+#EXTGRP:IRAQ
+https://live-hls-apps-ajd-fa.getaj.net/AJD/index.m3u8
+#EXTINF:0,Al Jazeera Mubasher 24 (1080p)
+#EXTGRP:IRAQ
+https://live-hls-apps-ajm24-fa.getaj.net/AJM24/index.m3u8
+#EXTINF:0,Al Jazeera Mubasher (1080p)
+#EXTGRP:IRAQ
+https://live-hls-apps-ajm-fa.getaj.net/AJM/index.m3u8
+#EXTINF:0,Al Jazeera Mubasher Broadcast 2 (1080p)
+#EXTGRP:IRAQ
+https://live-hls-apps-ajm2-fa.getaj.net/AJM2/index.m3u8
+#EXTINF:0,Al Khalij (720p) [Not 24/7]
+#EXTGRP:IRAQ
+https://mn-nl.mncdn.com/khalij/khalij/playlist.m3u8
+#EXTINF:0,Al Maali TV (1080p)
+#EXTGRP:IRAQ
+https://kali.vdopanel.com:3797/live/bashaclicklive.m3u8
+#EXTINF:0,Al Maaref (350p)
+#EXTGRP:IRAQ
+https://672a3a5c8e335.streamlock.net/AlMaaref/smil:almaareflive.smil/playlist.m3u8
+#EXTINF:0,Al Madina (720p)
+#EXTGRP:IRAQ
+https://streaming.zaytonatube.com:8081/AlMadinatv/almadina21/index.m3u8
+#EXTINF:0,Al Maghribia (360p)
+#EXTGRP:IRAQ
+https://cdn-globecast.akamaized.net/live/eds/al_maghribia_snrt/hls_snrt/index.m3u8
+#EXTINF:0,Al Mamlaka TV (1080p)
+#EXTGRP:IRAQ
+https://bcovlive-a.akamaihd.net/4109c7ba30fd4a44ad9afe917c67a8c8/eu-central-1/6415809151001/playlist.m3u8
+#EXTINF:0,Al Manar (576p) [Not 24/7]
+#EXTGRP:IRAQ
+https://edge.fastpublish.me/live/index.m3u8
+#EXTINF:0,Al Masar TV (576p)
+#EXTGRP:IRAQ
+https://starmenajo.com/hls/almasar/index.m3u8
+#EXTINF:0,Al Mashhad (1080p)
+#EXTGRP:IRAQ
+https://bcovlive-a.akamaihd.net/20c3ca22be3c4f03b30afbf3c92cfd14/ap-south-1/6313884884001/playlist.m3u8
+#EXTINF:0,Al Masirah (720p) [Not 24/7]
+#EXTGRP:IRAQ
+https://live.cdnbridge.tv/Almasirah/Almasirah_all/playlist.m3u8
+#EXTINF:0,Al Masirah Mubacher (642p) [Not 24/7]
+#EXTGRP:IRAQ
+https://live2.cdnbridge.tv/AlmasirahMubasher/Mubasher_All/playlist.m3u8
+#EXTINF:0,Al Mayadeen (576p)
+#EXTGRP:IRAQ
+https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
+#EXTINF:0,Al Najah News (720p)
+#EXTGRP:IRAQ
+https://streaming.najah.edu:8443/hls/AlNajah.m3u8
+#EXTINF:0,Al Nujaba
+#EXTGRP:IRAQ
+http://63b03f7689049.streamlock.net:1935/live/3/playlist.m3u8
+#EXTINF:0,Al Qahera News (1080p) [Not 24/7]
+#EXTGRP:IRAQ
+https://bcovlive-a.akamaihd.net/d30cbb3350af4cb7a6e05b9eb1bfd850/eu-west-1/6057955906001/playlist.m3u8
+#EXTINF:0,Al Qamar TV (1080p)
+#EXTGRP:IRAQ
+https://streamer3.premio.link/alqamar/playlist.m3u8
+#EXTINF:0,Al Quran Al Kareem TV (1080p)
+#EXTGRP:IRAQ
+https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
+#EXTINF:0,Al Rabiaa TV (1080p)
+#EXTGRP:IRAQ
+https://stream.castr.com/65045e4aba85cfe0025e4a60/live_c6c4040053cd11ee95b47153d2861736/index.fmp4.m3u8
+#EXTINF:0,Al Rafidain (720p) [Not 24/7]
+#EXTGRP:IRAQ
+https://arrafidain.tvplayer.online/arrafidaintv/source2/playlist.m3u8
+#EXTINF:0,Al Rasheed TV (1080p) [Not 24/7]
+#EXTGRP:IRAQ
+https://media1.livaat.com/static/AL-RASHEED-HD/playlist.m3u8
+#EXTINF:0,Al Rayyan (1080p)
+#EXTGRP:IRAQ
+https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/playlist_dvr.m3u8
+#EXTINF:0,Al Rayyan Al Qadeem (1080p)
+#EXTGRP:IRAQ
+https://alrayyancdn.vidgyor.com/pub-nooldraybinbdh/liveabr/playlist_dvr.m3u8
+#EXTINF:0,Al Riyadh Radio (1080p)
+#EXTGRP:IRAQ
+https://live.kwikmotion.com/sbrksariyadhradiolive/srpksariyadhradio/playlist.m3u8
+#EXTINF:0,Al Sabah (720p)
+#EXTGRP:IRAQ
+https://ffs1.gulfsat.com/Al-Sabah-TV/index.fmp4.m3u8
+#EXTINF:0,Al Saudiya (1080p) [Not 24/7]
+#EXTGRP:IRAQ
+https://saudi-tv-prod-dub-enc.edgenextcdn.net/out/v1/5ae66b453b62403199811ab78da9982a/index.m3u8
+#EXTINF:0,Al Shallal TV (1080p)
+#EXTGRP:IRAQ
+https://amg01480-alshallalfze-alshallal-ono-q0hfg.amagi.tv/playlist.m3u8
+#EXTINF:0,Al Sharqiya Min Kabla (1080p)
+#EXTGRP:IRAQ
+https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
+#EXTINF:0,Al Sunnah Al Nabawiyah TV (1080p)
+#EXTGRP:IRAQ
+https://sbc-prod-dub-enc.edgenextcdn.net/out/v1/b09bbb8d9b684763be4211b088168de7/index.m3u8
+#EXTINF:0,Al Wilayah (720p) [Not 24/7]
+#EXTGRP:IRAQ
+https://nl.livekadeh.com/hls2/alwilayah_tv.m3u8
+#EXTINF:0,Al Wousta TV (1080p)
+#EXTGRP:IRAQ
+https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
+#EXTINF:0,Al Yaum TV (1080p)
+#EXTGRP:IRAQ
+https://iko-live.akamaized.net/AlyuamTV/master.m3u8
+#EXTINF:0,Al-Aimma TV (1080p)
+#EXTGRP:IRAQ
+http://stream.alaimma.tv/hls/alaimma/h3b1rd584cpq8p60okoj01rnfigdcnia.m3u8
+#EXTINF:0,Al-Fady TV (1080p) [Not 24/7]
+#EXTGRP:IRAQ
+https://5d658d7e9f562.streamlock.net/alfadytv.tv/alfadytv.smil/playlist.m3u8
+#EXTINF:0,Al-Jawadain TV (1080p) [Not 24/7]
+#EXTGRP:IRAQ
+https://live.aljawadain.org/live/aljawadaintv/playlist.m3u8
+#EXTINF:0,Al-Naeem TV (576p)
+#EXTGRP:IRAQ
+https://nl2.livekadeh.com/hls2/alnaeem.m3u8
+#EXTINF:0,Al-Sharqiya (1080p)
+#EXTGRP:IRAQ
+https://5d94523502c2d.streamlock.net/home/mystream/playlist.m3u8
+#EXTINF:0,Al-Sharqiya News (1080p)
+#EXTGRP:IRAQ
+https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/playlist.m3u8
+#EXTINF:0,AlAlam
+#EXTGRP:IRAQ
+https://lenz.splus.ir/PLTV/88888888/224/3221226157/index.m3u8
+#EXTINF:0,Alarabiya Portrait (720p)
+#EXTGRP:IRAQ
+https://live.alarabiya.net/alarabiapublish/arabiav.smil/playlist.m3u8
+#EXTINF:0,Alawla TV (720p)
+#EXTGRP:IRAQ
+https://63b03f7689049.streamlock.net/live/1tv/playlist.m3u8
+#EXTINF:0,Alerth Alnabawi Channel (576p)
+#EXTGRP:IRAQ
+http://82.212.74.2:8000/live/7307.m3u8
+#EXTINF:0,Alfath Atfal TV (576p)
+#EXTGRP:IRAQ
+https://alfat7-q.com:5443/LiveApp/streams/434833549141598440488987.m3u8
+#EXTINF:0,Alfath Sonnah TV (576p)
+#EXTGRP:IRAQ
+https://alfat7-q.com:5443/LiveApp/streams/986613792230697141226562.m3u8
+#EXTINF:0,Alfath TV (576p)
+#EXTGRP:IRAQ
+https://alfat7-q.com:5443/LiveApp/streams/515112551489055772942045.m3u8
+#EXTINF:0,Alforat TV (1080p)
+#EXTGRP:IRAQ
+http://95.216.180.111:1935/live/10/playlist.m3u8
+#EXTINF:0,Alhaqeqa Aldawlia (1080p)
+#EXTGRP:IRAQ
+https://ghaasiflu.online/alhqeqa/index.m3u8
+#EXTINF:0,Alhayat TV (720p)
+#EXTGRP:IRAQ
+https://cdn3.wowza.com/5/OE5HREpIcEkySlNT/alhayat-live/ngrp:livestream_all/playlist.m3u8
+#EXTINF:0,Alhiwar TV (1080p) [Not 24/7]
+#EXTGRP:IRAQ
+https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
+#EXTINF:0,Alhurra (720p)
+#EXTGRP:IRAQ
+https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/master.m3u8
+#EXTINF:0,Alhurra Iraq (720p)
+#EXTGRP:IRAQ
+https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038899/MBN_Iraq_Worldsafe_HLS/master.m3u8
+#EXTINF:0,Aliman TV (240p) [Not 24/7]
+#EXTGRP:IRAQ
+https://svs.itworkscdn.net/alimanlive/imantv.smil/playlist.m3u8
+#EXTINF:0,Alistiqama TV (576p)
+#EXTGRP:IRAQ
+https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8
+#EXTINF:0,Alkarma TV Australia (1080p)
+#EXTGRP:IRAQ
+https://5a8308add0b31.streamlock.net/alkarmatv.com/alkarmaau.smil/playlist.m3u8
+#EXTINF:0,Alkarma TV Family (1080p) [Not 24/7]
+#EXTGRP:IRAQ
+https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmaNA2.smil/playlist.m3u8
+#EXTINF:0,Alkarma TV Middle East (1080p) [Not 24/7]
+#EXTGRP:IRAQ
+https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmame1.smil/playlist.m3u8
+#EXTINF:0,Alkarma TV North America & Canada (1080p) [Not 24/7]
+#EXTGRP:IRAQ
+https://5aafcc5de91f1.streamlock.net/alkarmatv.com/alkarmana1.smil/playlist.m3u8
+#EXTINF:0,Alkarma TV Praise (720p) [Not 24/7]
+#EXTGRP:IRAQ
+https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmapa.smil/playlist.m3u8
+#EXTINF:0,Alkarma TV Talmaza (Discipleship) (1080p) [Not 24/7]
+#EXTGRP:IRAQ
+https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmame2.smil/playlist.m3u8
+#EXTINF:0,Alkarma TV Youth & English (1080p) [Not 24/7]
+#EXTGRP:IRAQ
+https://5aafcc5de91f1.streamlock.net/alkarmatv.com/alkarmaus.smil/playlist.m3u8
+#EXTINF:0,Alkass Five (1080p)
+#EXTGRP:IRAQ
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass5nnha/master.m3u8
+#EXTINF:0,Alkass Four (1080p)
+#EXTGRP:IRAQ
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass4cn/master.m3u8
+#EXTINF:0,Alkass One (1080p)
+#EXTGRP:IRAQ
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1mhu/master.m3u8
+#EXTINF:0,Alkass SHOOF (1080p)
+#EXTGRP:IRAQ
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass6Shoof1/master.m3u8
+#EXTINF:0,Alkass Six (1080p)
+#EXTGRP:IRAQ
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass6buzat/master.m3u8
+#EXTINF:0,Alkass Three (1080p)
+#EXTGRP:IRAQ
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass3vak/master.m3u8
+#EXTINF:0,Alkass Two (1080p)
+#EXTGRP:IRAQ
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass2hef/master.m3u8
+#EXTINF:0,Alkhuzama Radio (1080p)
+#EXTGRP:IRAQ
+https://live.kwikmotion.com/sbrksakhuzamaradiolive/srpkhuzama/playlist.m3u8
+#EXTINF:0,Almagd TV Middle East (1080p) [Not 24/7]
+#EXTGRP:IRAQ
+https://597f64b67707a.streamlock.net/almagd.tv/almagd.smil/playlist.m3u8
+#EXTINF:0,Almagd TV North America (1080p)
+#EXTGRP:IRAQ
+https://5aafcc5de91f1.streamlock.net/almagd.tv/almagd.smil/playlist.m3u8
+#EXTINF:0,Almahriah TV (576p)
+#EXTGRP:IRAQ
+https://starmenajo.com/hls/almahriah/index.m3u8
+#EXTINF:0,Alquran (1080p)
+#EXTGRP:IRAQ
+https://ktvlive.online/stream/hls/ch1.m3u8
+#EXTINF:0,AlShoub (720p)
+#EXTGRP:IRAQ
+https://alshoobtv.rp.tactivemedia.com/alshoobtv/live/playlist.m3u8
+#EXTINF:0,Altaghier TV (1080p)
+#EXTGRP:IRAQ
+https://194788.global.ssl.fastly.net/63c63697632705047ffda2da/live_d33349a0962a11ed907dd9e556777b63/rewind-14400.m3u8
+#EXTINF:0,Althania (1080p)
+#EXTGRP:IRAQ
+https://live.kwikmotion.com/syriatv02live/syriatv02.smil/playlist.m3u8
+#EXTINF:0,ALWifak News TV (720p)
+#EXTGRP:IRAQ
+http://alwifaklive.info:1935/live/myStream/playlist.m3u8
+#EXTINF:0,Amman TV (720p)
+#EXTGRP:IRAQ
+https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8
+#EXTINF:0,Amou Yazid TV (576p)
+#EXTGRP:IRAQ
+http://mkstream.servehttp.com:1940/AmouYazid/ay1/playlist.m3u8
+#EXTINF:0,Anwar TV2 (720p)
+#EXTGRP:IRAQ
+https://cloud.odysee.live/content/f92670235a1ce2bce4cf77671cc4dcc2188baa1d/master.m3u8
+#EXTINF:0,Arabica TV (720p)
+#EXTGRP:IRAQ
+http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
+#EXTINF:0,Arryadia (360p) [Not 24/7]
+#EXTGRP:IRAQ
+https://cdn-globecast.akamaized.net/live/eds/arriadia/hls_snrt/index.m3u8
+#EXTINF:0,Asharq Discovery (1080p) [Geo-blocked]
+#EXTGRP:IRAQ
+https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
+#EXTINF:0,Asharq Documentary (1080p)
+#EXTGRP:IRAQ
+https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8
+#EXTINF:0,Asharq News (1080p)
+#EXTGRP:IRAQ
+https://asharq-prod-dub-enc.edgenextcdn.net/out/v1/3b6b4902cf8747a28619411239584002/index.m3u8
+#EXTINF:0,Asharq News Portrait (1280p)
+#EXTGRP:IRAQ
+https://bcovlive-a.akamaihd.net/ed81ac1118414d4fa893d3a83ccec9be/eu-central-1/6203311941001/playlist.m3u8
+#EXTINF:0,Asharq Radio (1080p)
+#EXTGRP:IRAQ
+https://svs.itworkscdn.net/asharqradiovlive/asharqradiov/playlist.m3u8
+#EXTINF:0,Asil TV (720p)
+#EXTGRP:IRAQ
+https://live.asil.tv/asiltv/index.m3u8
+#EXTINF:0,Assadissa (360p)
+#EXTGRP:IRAQ
+https://cdn-globecast.akamaized.net/live/eds/assadissa/hls_snrt/index.m3u8
+#EXTINF:0,Assirat TV (700p)
+#EXTGRP:IRAQ
+https://svs.itworkscdn.net/assiratvlive/assirat/playlist.m3u8
+#EXTINF:0,Atfal & Mawaheb TV (1080p)
+#EXTGRP:IRAQ
+https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8
+#EXTINF:0,Athaqafia (360p)
+#EXTGRP:IRAQ
+https://cdn-globecast.akamaized.net/live/eds/arrabiaa/hls_snrt/index.m3u8
+#EXTINF:0,ATVSat (1080p) [Not 24/7]
+#EXTGRP:IRAQ
+https://stream.atvsat.com/atvsatlive/smil:atvsatlive.smil/playlist.m3u8
+#EXTINF:0,BabyFirst
+#EXTGRP:IRAQ
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/manifest.m3u8
+#EXTINF:0,Bahrain International (720p) [Not 24/7]
+#EXTGRP:IRAQ
+https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/playlist.m3u8
+#EXTINF:0,Bahrain Sports 1 (720p) [Not 24/7]
+#EXTGRP:IRAQ
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+#EXTINF:0,Bahrain Sports 2 (720p) [Not 24/7]
+#EXTGRP:IRAQ
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
+#EXTINF:0,Bahrain TV (720p) [Not 24/7]
+#EXTGRP:IRAQ
+https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8
+#EXTINF:0,Baynounah TV (1080p)
+#EXTGRP:IRAQ
+https://vo-live.cdb.cdn.orange.com/Content/Channel/Baynounah/HLS/index.m3u8
+#EXTINF:0,Bayyinat TV (404p)
+#EXTGRP:IRAQ
+https://nl2.livekadeh.com/hls2/Bayyinat.m3u8
+#EXTINF:0,BBC Arabic (720p)
+#EXTGRP:IRAQ
+https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
+#EXTINF:0,Bedaya TV (1080p)
+#EXTGRP:IRAQ
+https://shls-live-enc.edgenextcdn.net/out/v1/97427be47b79457b9ca245e22a8db23a/index.m3u8
+#EXTINF:0,BeitolAbbas TV Channel (720p)
+#EXTGRP:IRAQ
+https://live.beitolabbas.tv/live/beitolabbastv.m3u8
+#EXTINF:0,Beladi Satellite TV (540p)
+#EXTGRP:IRAQ
+http://95.216.180.111:1935/live/68/playlist.m3u8
+#EXTINF:0,Big Time Plus (1080p)
+#EXTGRP:IRAQ
+https://big-time-plus-enc.edgenextcdn.net/out/v1/c885383fb76943c98fa223e7fd08b125/index.m3u8
+#EXTINF:0,CGTN Arabic (1080p) [Not 24/7]
+#EXTGRP:IRAQ
+https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
+#EXTINF:0,Chada TV (720p)
+#EXTGRP:IRAQ
+https://chadatv.vedge.infomaniak.com/livecast/chadatv/playlist.m3u8
+#EXTINF:0,CharityTV (1080p) [Not 24/7]
+#EXTGRP:IRAQ
+http://185.105.4.236:1935/live/ngrp:livestream_all/live.m3u8
+#EXTINF:0,CNA (Chaîne Nord Africaine) (360p) [Not 24/7]
+#EXTGRP:IRAQ
+https://live.creacast.com/cna/smil:cna.smil/playlist.m3u8
+#EXTINF:0,CNBC Arabiya (1080p)
+#EXTGRP:IRAQ
+https://cnbc-live.akamaized.net/cnbc/master.m3u8
+#EXTINF:0,Coptic TV (720p)
+#EXTGRP:IRAQ
+https://58cc65c534c67.streamlock.net/ctvchannel.tv/ctv.smil/playlist.m3u8
+#EXTINF:0,Daawah TV (720p) [Not 24/7]
+#EXTGRP:IRAQ
+https://cdg8.edge.technocdn.com/daawahtv/live/playlist.m3u8
+#EXTINF:0,Dabanga TV (1080p)
+#EXTGRP:IRAQ
+https://hls.dabangasudan.org/hls/stream.m3u8
+#EXTINF:0,Dijlah Tarab (1080p)
+#EXTGRP:IRAQ
+https://ghaasiflu.online/tarab/index.m3u8
+#EXTINF:0,Dijlah TV (1080p)
+#EXTGRP:IRAQ
+https://ghaasiflu.online/Dijlah/index.m3u8
+#EXTINF:0,Dubai Racing 2 (1080p)
+#EXTGRP:IRAQ
+https://dmithrvllta.cdn.mgmlcdn.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8
+#EXTINF:0,Dubai Racing 3 (1080p)
+#EXTGRP:IRAQ
+https://dmithrvllta.cdn.mgmlcdn.com/dubaimubasher/smil:dubaimubasher.smil/chunklist.m3u8
+#EXTINF:0,Dubai Racing (1080p)
+#EXTGRP:IRAQ
+https://dmisdracta.cdn.mgmlcdn.com/events/smil:events.stream.smil/chunklist.m3u8
+#EXTINF:0,Dubai Sports 1 (1080p)
+#EXTGRP:IRAQ
+https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
+#EXTINF:0,Dubai Sports 2 (720p)
+#EXTGRP:IRAQ
+https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
+#EXTINF:0,Dubai Sports 3 (1080p) [Not 24/7]
+#EXTGRP:IRAQ
+https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
+#EXTINF:0,Dubai TV (1080p)
+#EXTGRP:IRAQ
+https://dmieigthvllta.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist.m3u8
+#EXTINF:0,Dubai Zaman (1080p) [Not 24/7]
+#EXTGRP:IRAQ
+https://dmiffthftl.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist.m3u8
+#EXTINF:0,DW Arabic (1080p)
+#EXTGRP:IRAQ
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
+#EXTINF:0,El Radio 9090 FM (480p)
+#EXTGRP:IRAQ
+https://9090video.mobtada.com/hls/stream.m3u8
+#EXTINF:0,Elbeshara GTV (1080p) [Not 24/7]
+#EXTGRP:IRAQ
+http://media3.smc-host.com:1935/elbesharagtv.com/gtv.smil/playlist.m3u8
+#EXTINF:0,Elwatania TV (720p) [Not 24/7]
+#EXTGRP:IRAQ
+https://stream.castr.com/62c18c3f14d09a0b7e5355a5/live_1b36cfb0ba2411ee9700956e0f7084c8/index.fmp4.m3u8
+#EXTINF:0,Ère TV (1080p)
+#EXTGRP:IRAQ
+https://mn-nl.mncdn.com/awraastv/awraastv_hd.smil/playlist.m3u8
+#EXTINF:0,Fajer TV 1 (480p)
+#EXTGRP:IRAQ
+http://platform.topuphost.com:8577/live/alfajr.stream/playlist.m3u8
+#EXTINF:0,Fajer TV 2 (576p)
+#EXTGRP:IRAQ
+http://platform.topuphost.com:8577/live/alfajr2.stream/playlist.m3u8
+#EXTINF:0,Falastini TV (1080p)
+#EXTGRP:IRAQ
+https://rp.tactivemedia.com/palestiniantv_source/live/playlist.m3u8
+#EXTINF:0,Falestinona Channel (576p)
+#EXTGRP:IRAQ
+https://ffs3.gulfsat.com/Falestinona-TV/index.fmp4.m3u8
+#EXTINF:0,February Channel (1080p)
+#EXTGRP:IRAQ
+https://b01c02nl.mediatriple.net/videoonlylive/mtfknklgwrlive/broadcast_5dc818c793576.smil/playlist.m3u8
+#EXTINF:0,France 24 Arabic (1080p)
+#EXTGRP:IRAQ
+https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8
+#EXTINF:0,Fujairah TV (720p)
+#EXTGRP:IRAQ
+https://live.kwikmotion.com/fujairahlive/fujairah.smil/playlist.m3u8
+#EXTINF:0,Future TV (1080p)
+#EXTGRP:IRAQ
+https://live.kwikmotion.com/futurelive/ftv.smil/playlist.m3u8
+#EXTINF:0,FX2 Farsi
+#EXTGRP:IRAQ
+https://toonixhls.wns.live/hls/stream.m3u8
+#EXTINF:0,Grand Cinema
+#EXTGRP:IRAQ
+https://gcinemahls.wns.live/hls/stream.m3u8
+#EXTINF:0,Hadi TV Azeri and Russian (720p)
+#EXTGRP:IRAQ
+https://live.ishiacloud.com/haditv.co.uk/haditv3.m3u8
+#EXTINF:0,Hadi TV Hausa (720p)
+#EXTGRP:IRAQ
+https://live.ishiacloud.com/haditv.co.uk/haditv5.m3u8
+#EXTINF:0,Hadi TV Pashto and Persian (720p)
+#EXTGRP:IRAQ
+https://live.ishiacloud.com/haditv.co.uk/haditv6.m3u8
+#EXTINF:0,Hala London (1080p)
+#EXTGRP:IRAQ
+https://halalondon-live.ercdn.net/halalondon/halalondon.m3u8
+#EXTINF:0,Hala Ramallah (720p)
+#EXTGRP:IRAQ
+https://halaramallahtv.com:2053/HRamallah-Tv/HalaRamallah/playlist.m3u8
+#EXTINF:0,Hala TV (1080p) [Not 24/7]
+#EXTGRP:IRAQ
+https://stream.panet.com/edge/halaTV/playlist.m3u8
+#EXTINF:0,HBC
+#EXTGRP:IRAQ
+https://ffs3.gulfsat.com/hbc/index.m3u8
+#EXTINF:0,Hebron TV (432p)
+#EXTGRP:IRAQ
+https://account20.livebox.co.in/charleshls/live.m3u8
+#EXTINF:0,Helwa TV (1080p)
+#EXTGRP:IRAQ
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dzflix/helwa.m3u8
+#EXTINF:0,Holy Quran Radio Nablus (720p)
+#EXTGRP:IRAQ
+http://streaming.zaytonatube.com:8080/holyquran/holyquran/video.m3u8
+#EXTINF:0,I24 News Arabic (720p)
+#EXTGRP:IRAQ
+https://bcovlive-a.akamaihd.net/95116e8d79524d87bf3ac20ba04241e3/eu-central-1/5377161796001/playlist.m3u8
+#EXTINF:0,iFilm Arabic
+#EXTGRP:IRAQ
+https://live.presstv.ir/hls/ifilmar.m3u8
+#EXTINF:0,Imam Asr TV (720p)
+#EXTGRP:IRAQ
+https://iptv.imamasrtv.com/asrfa/playlist.m3u8
+#EXTINF:0,Imam Hussein TV 2 (1080p) [Not 24/7]
+#EXTGRP:IRAQ
+https://live.imamhossaintv.com/live/ih2.m3u8
+#EXTINF:0,iNEWS TV (1080p)
+#EXTGRP:IRAQ
+https://live.i-news.tv/hls/stream.m3u8
+#EXTINF:0,Iqraa Arabic (1080p) [Not 24/7]
+#EXTGRP:IRAQ
+https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv3/playlist.m3u8
+#EXTINF:0,Iqraa Quran (1080p)
+#EXTGRP:IRAQ
+https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv2/playlist.m3u8
+#EXTINF:0,Jawhara FM (720p) [Not 24/7]
+#EXTGRP:IRAQ
+http://streaming.toutech.net:1935/live/mp4:jawharafm.sdp/playlist.m3u8
+#EXTINF:0,JAWHARA TV (720p) [Not 24/7]
+#EXTGRP:IRAQ
+https://streaming.toutech.net/live/jtv/index.m3u8
+#EXTINF:0,Jeddah Radio (1080p)
+#EXTGRP:IRAQ
+https://live.kwikmotion.com/sbrksajeddahradiolive/srpksajeddahradio/playlist.m3u8
+#EXTINF:0,Jordan Archive (1080p)
+#EXTGRP:IRAQ
+https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Archive/playlist.m3u8
+#EXTINF:0,Jordan Comedy (1080p)
+#EXTGRP:IRAQ
+https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Comedy/playlist.m3u8
+#EXTINF:0,Jordan Drama (1080p)
+#EXTGRP:IRAQ
+https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Drama/playlist.m3u8
+#EXTINF:0,Jordan Kitchen (1080p)
+#EXTGRP:IRAQ
+https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/cooking/playlist.m3u8
+#EXTINF:0,Jordan Satellite Channel (1080p)
+#EXTGRP:IRAQ
+https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
+#EXTINF:0,Jordan Songs (1080p)
+#EXTGRP:IRAQ
+https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Song/playlist.m3u8
+#EXTINF:0,Jordan Sport (1080p) [Geo-blocked]
+#EXTGRP:IRAQ
+https://jrtv-live.ercdn.net/jordansporthd/jordansporthd.m3u8
+#EXTINF:0,Jordan Tourism (1080p)
+#EXTGRP:IRAQ
+https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Tourism/playlist.m3u8
+#EXTINF:0,Just Vogue TV
+#EXTGRP:IRAQ
+https://ip100.radyotelekomtv.com:3873/stream/play.m3u8
+#EXTINF:0,Kaif TV (576p) [Not 24/7]
+#EXTGRP:IRAQ
+http://82.212.74.2:8000/live/hls/7311.m3u8
+#EXTINF:0,Kaifa TV (576p)
+#EXTGRP:IRAQ
+http://82.212.74.2:8000/live/7311.m3u8
+#EXTINF:0,Koogi TV (1080p)
+#EXTGRP:IRAQ
+https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8
+#EXTINF:0,KTV 1 (1080p)
+#EXTGRP:IRAQ
+https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist.m3u8
+#EXTINF:0,KTV Al Qurain (1080p)
+#EXTGRP:IRAQ
+https://kwtktvaqta.cdn.mangomolo.com/ktvaq/smil:tktvaq.stream.smil/chunklist.m3u8
+#EXTINF:0,KTV Arabe (1080p)
+#EXTGRP:IRAQ
+https://kwtktvata.cdn.mangomolo.com/ktva/smil:tktva.stream.smil/chunklist.m3u8
+#EXTINF:0,KTV Ethraa (1080p)
+#EXTGRP:IRAQ
+https://kwtethta.cdn.mangomolo.com/eth/smil:eth.stream.smil/chunklist.m3u8
+#EXTINF:0,KTV News (1080p)
+#EXTGRP:IRAQ
+https://kwtkbta.cdn.mangomolo.com/kb/smil:kb.stream.smil/chunklist.m3u8
+#EXTINF:0,KTV Sport (1080p)
+#EXTGRP:IRAQ
+https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
+#EXTINF:0,KTV Sport Plus (1080p)
+#EXTGRP:IRAQ
+https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
+#EXTINF:0,Kurdistan TV (720p) [Not 24/7]
+#EXTGRP:IRAQ
+https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
+#EXTINF:0,Kurdsat News (1080p)
+#EXTGRP:IRAQ
+https://kurdsat-news.akamaized.net/hls/kurdsat-news.m3u8
+#EXTINF:0,Libya Al Wataniya (360p)
+#EXTGRP:IRAQ
+https://cdn-globecast.akamaized.net/live/eds/libya_al_watanya/hls_roku/index.m3u8
+#EXTINF:0,Libya Mostakbal (1080p)
+#EXTGRP:IRAQ
+http://41.33.221.140:1935/monitor/libyaalmustaqbal.stream/playlist.m3u8
+#EXTINF:0,Lighting Lives Blessing Nations TV Arabic (LLBN) (480p)
+#EXTGRP:IRAQ
+https://brightstar-arabic-pull-secure.akamaized.net/brightstararabic/stream.m3u8
+#EXTINF:0,Logos TV (1080p) [Not 24/7]
+#EXTGRP:IRAQ
+https://5a8308add0b31.streamlock.net/logoschannel.com/logostv.smil/playlist.m3u8
+#EXTINF:0,LoveWorld Arabic (360p)
+#EXTGRP:IRAQ
+https://go5lm6a6dawb-hls-live.5centscdn.com/lwarabic/53132d996b4263ec0d7b602292c46eaf.sdp/playlist.m3u8
+#EXTINF:0,LTV (360p)
+#EXTGRP:IRAQ
+https://p-ltv.akamaized.net/ltv/ltv.m3u8
+#EXTINF:0,M+ HD (1080p)
+#EXTGRP:IRAQ
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/m-plus/playlist.m3u8
+#EXTINF:0,Majid Al Mohandis (1080p)
+#EXTGRP:IRAQ
+https://shls-live-mood-ak.akamaized.net/out/v1/8e2419c6c7494dbba478be025af490ee/index.m3u8
+#EXTINF:0,Majid TV (1080p)
+#EXTGRP:IRAQ
+https://vo-live.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/index.m3u8
+#EXTINF:0,Makan 33 (1080p)
+#EXTGRP:IRAQ
+https://makan.media.kan.org.il/hls/live/2024680/2024680/master.m3u8
+#EXTINF:0,Makkah TV (576p)
+#EXTGRP:IRAQ
+https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
+#EXTINF:0,Marina TV (1080p)
+#EXTGRP:IRAQ
+https://ffs.gulfsat.com/Marina-TV-HD/index.m3u8
+#EXTINF:0,Marjaeyat TV Arabic (1080p)
+#EXTGRP:IRAQ
+https://livefa.marjaeyattv.com/mtv_ar/playlist.m3u8
+#EXTINF:0,MBC 1 (1080p)
+#EXTGRP:IRAQ
+https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
+#EXTINF:0,MBC 2 (480p)
+#EXTGRP:IRAQ
+https://edge66.magictvbox.com/liveApple/MBC_2/index.m3u8
+#EXTINF:0,MBC 3 KSA (1080p)
+#EXTGRP:IRAQ
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
+#EXTINF:0,MBC 3 USA (1080p)
+#EXTGRP:IRAQ
+https://mbc-3-usa-ak.akamaized.net/out/v1/8bbfec9446d84c9ea0dfa34edede6db9/index.m3u8
+#EXTINF:0,MBC 4 (1080p)
+#EXTGRP:IRAQ
+https://shls-masr-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
+#EXTINF:0,MBC Drama KSA (1080p)
+#EXTGRP:IRAQ
+https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8
+#EXTINF:0,MBC Drama USA (1080p)
+#EXTGRP:IRAQ
+https://mbcdrama-usa-ak.akamaized.net/out/v1/876f960feec24a8aba9e9d3f9023174b/index.m3u8
+#EXTINF:0,MBC Masr 2 (1080p)
+#EXTGRP:IRAQ
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
+#EXTINF:0,MBC Masr USA (1080p)
+#EXTGRP:IRAQ
+https://masr-usa-ak.akamaized.net/out/v1/5fcaf05b5cd64b3cb4a969e0470080c8/index.m3u8
+#EXTINF:0,Medi 1 TV Afrique (1080p) [Not 24/7]
+#EXTGRP:IRAQ
+https://streaming1.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8
+#EXTINF:0,Medi 1 TV Arabic (1080p) [Not 24/7]
+#EXTGRP:IRAQ
+https://streaming1.medi1tv.com/live/smil:medi1ar.smil/playlist.m3u8
+#EXTINF:0,Medi 1 TV Maghreb (1080p) [Not 24/7]
+#EXTGRP:IRAQ
+https://streaming1.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8
+#EXTINF:0,MeieTV (720p)
+#EXTGRP:IRAQ
+https://stream.meietv.de/live/meietv.m3u8
+#EXTINF:0,Mekameleen TV (1080p)
+#EXTGRP:IRAQ
+https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
+#EXTINF:0,Melody FM Jordan (720p) [Not 24/7]
+#EXTGRP:IRAQ
+https://cdn3.wowza.com/1/OVRrOWxXUEswS2Yv/eGVxSWZy/hls/live/playlist.m3u8
+#EXTINF:0,Miracle Channel (576p)
+#EXTGRP:IRAQ
+https://miracle.stream.boxigy.com/hls/miracle1.m3u8
+#EXTINF:0,Miracle TV (576p)
+#EXTGRP:IRAQ
+https://live.miraclechannel.com/hls/miracle1.m3u8
+#EXTINF:0,Mohammed Abdo (1080p)
+#EXTGRP:IRAQ
+https://d2ow8h651gs7dx.cloudfront.net/out/v1/371fb663da604e659a2fb99bf89d92d4/index.m3u8
+#EXTINF:0,Mosaïque FM (480p) [Not 24/7]
+#EXTGRP:IRAQ
+https://webcam.mosaiquefm.net:1936/mosatv/studio/playlist.m3u8
+#EXTINF:0,MTA1 World (720p)
+#EXTGRP:IRAQ
+https://chlivemta1.akamaized.net/hls/live/2008145/mta1/playlist.m3u8
+#EXTINF:0,MTA2 Europe (720p)
+#EXTGRP:IRAQ
+https://chlivemta1.akamaized.net/hls/live/2008145/mta2/playlist.m3u8
+#EXTINF:0,MTA3 Al-Arabia (1080p)
+#EXTGRP:IRAQ
+https://chlivemta1.akamaized.net/hls/live/2010556/mta3alarabia/playlist.m3u8
+#EXTINF:0,MTA6 Asia (1080p)
+#EXTGRP:IRAQ
+https://livemtaasia.akamaized.net/hls/live/2039224/mta6asia/playlist.m3u8
+#EXTINF:0,MTA7 Asia (1080p)
+#EXTGRP:IRAQ
+https://livemtaasia.akamaized.net/hls/live/2039224/mtaasia2/playlist.m3u8
+#EXTINF:0,MTV (1080p)
+#EXTGRP:IRAQ
+https://hms.pfs.gdn/v1/broadcast/mtv/playlist.m3u8
+#EXTINF:0,MusawaChannel (1080p) [Not 24/7]
+#EXTGRP:IRAQ
+https://pbc.furrera.ps/musawahd/index.m3u8
+#EXTINF:0,Nabaa TV (720p) [Not 24/7]
+#EXTGRP:IRAQ
+http://31.14.40.237:1935/live/Nabaa/playlist.m3u8
+#EXTINF:0,Nablus TV (720p) [Not 24/7]
+#EXTGRP:IRAQ
+http://htvmada.mada.ps:8888/nabluslive/index.m3u8
+#EXTINF:0,National Geographic Abu Dhabi (1080p) [Geo-blocked]
+#EXTGRP:IRAQ
+https://vo-live.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/HLS/index.m3u8
+#EXTINF:0,NBN (1080p)
+#EXTGRP:IRAQ
+http://5.9.119.146:8883/nbn/index.m3u8
+#EXTINF:0,Nidae AlIslam Radio (1080p)
+#EXTGRP:IRAQ
+https://live.kwikmotion.com/sbrksanedaradiolive/srpksanedaradio/playlist.m3u8
+#EXTINF:0,NogoumFMTV (672p) [Not 24/7]
+#EXTGRP:IRAQ
+https://nogoumtv.nrpstream.com/hls/stream.m3u8
+#EXTINF:0,Noor Dubai (1080p)
+#EXTGRP:IRAQ
+https://dmiffthftl.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist.m3u8
+#EXTINF:0,Nour Al Koddas (406p) [Not 24/7]
+#EXTGRP:IRAQ
+https://svs.itworkscdn.net/nour1satlive/livestream/playlist.m3u8
+#EXTINF:0,Nour Al Sharq (576p)
+#EXTGRP:IRAQ
+https://svs.itworkscdn.net/nour8satlive/livestream/playlist.m3u8
+#EXTINF:0,Nour El Shabeb
+#EXTGRP:IRAQ
+https://svs.itworkscdn.net/nour3satlive/livestream/playlist.m3u8
+#EXTINF:0,Nour Mariam (576p)
+#EXTGRP:IRAQ
+https://svs.itworkscdn.net/nour9satlive/livestream/playlist.m3u8
+#EXTINF:0,NourSAT (576p)
+#EXTGRP:IRAQ
+https://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8
+#EXTINF:0,NUBAR TV (1080p)
+#EXTGRP:IRAQ
+http://stream.nubar.tv:1935/private/NUBARtv/playlist.m3u8
+#EXTINF:0,Oman Althakafia (1080p)
+#EXTGRP:IRAQ
+https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist.m3u8
+#EXTINF:0,Oman Mubashir (1080p)
+#EXTGRP:IRAQ
+https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist.m3u8
+#EXTINF:0,Oman Sports TV (1080p) [Not 24/7]
+#EXTGRP:IRAQ
+https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
+#EXTINF:0,Oman TV (1080p)
+#EXTGRP:IRAQ
+https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist.m3u8
+#EXTINF:0,One TV (720p)
+#EXTGRP:IRAQ
+https://hms.pfs.gdn/v1/broadcast/one/playlist.m3u8
+#EXTINF:0,OneFM (720p) [Not 24/7]
+#EXTGRP:IRAQ
+https://hms.pfs.gdn/v1/broadcast/onefm/playlist.m3u8
+#EXTINF:0,Palestine Edu (1080p)
+#EXTGRP:IRAQ
+https://pbc.furrera.ps/PalestineEDU/index.m3u8
+#EXTINF:0,Palestine Mubasher (1080p)
+#EXTGRP:IRAQ
+https://pbc.furrera.ps/palestinelivehd/index.m3u8
+#EXTINF:0,Palestine Satellite Channel (1080p)
+#EXTGRP:IRAQ
+https://pbc.furrera.ps/palestinehd/index.m3u8
+#EXTINF:0,Palestine Today (480p) [Geo-blocked]
+#EXTGRP:IRAQ
+https://live.paltodaytv.com/paltv/live/playlist.m3u8
+#EXTINF:0,Panorama FM (1080p)
+#EXTGRP:IRAQ
+https://d6izdil55uftn.cloudfront.net/out/v1/0a06d1d6377c47edbd48721ed724bd08/index.m3u8
+#EXTINF:0,PNC Drama (1080p)
+#EXTGRP:IRAQ
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pnc-drama/playlist.m3u8
+#EXTINF:0,Pulse95 Radio (1080p)
+#EXTGRP:IRAQ
+https://svs.itworkscdn.net/pulse95live/pulse96vision/playlist.m3u8
+#EXTINF:0,Qaf TV (1080p)
+#EXTGRP:IRAQ
+https://mn-nl.mncdn.com/qaf/live/playlist.m3u8
+#EXTINF:0,Qatar Television 2 (720p)
+#EXTGRP:IRAQ
+https://qatartv.akamaized.net/hls/live/2026574/qtv2/master.m3u8
+#EXTINF:0,Qatar Television (720p)
+#EXTGRP:IRAQ
+https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8
+#EXTINF:0,Quran Radio (1080p)
+#EXTGRP:IRAQ
+https://live.kwikmotion.com/sbrksaquranradiolive/srpksaquranradio/playlist.m3u8
+#EXTINF:0,Radio Albalad TV (720p)
+#EXTGRP:IRAQ
+http://streaming.zaytonatube.com:8080/radioalbalad/radioalbalad/playlist.m3u8
+#EXTINF:0,Radio Fann Jordan Studio (1080p) [Not 24/7]
+#EXTGRP:IRAQ
+http://45.63.116.205/hls2/stream1.m3u8
+#EXTINF:0,Radio Yaqeen Jordan City View (1080p) [Not 24/7]
+#EXTGRP:IRAQ
+http://45.63.116.205/hls4/stream1.m3u8
+#EXTINF:0,Rajeen TV (1080p) [Not 24/7]
+#EXTGRP:IRAQ
+https://mn-nl.mncdn.com/palabroad/live/playlist.m3u8
+#EXTINF:0,RASD TV (720p)
+#EXTGRP:IRAQ
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=12830
+#EXTINF:0,Rashid AlMajed (1080p)
+#EXTGRP:IRAQ
+https://dphwv2ufgnfsq.cloudfront.net/out/v1/59cd80dfe93a479eb8b4d79bc6f225ca/index.m3u8
+#EXTINF:0,Raya 1 (1080p)
+#EXTGRP:IRAQ
+https://htvmada.mada.ps:4443/raya/index.m3u8
+#EXTINF:0,Rotana Aflam+ HD (1080p)
+#EXTGRP:IRAQ
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/rotana-aflam-plus/playlist.m3u8
+#EXTINF:0,Rotana Cinema KSA (1080p)
+#EXTGRP:IRAQ
+https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/playlist.m3u8
+#EXTINF:0,Rotana Classic (1080p)
+#EXTGRP:IRAQ
+https://bcovlive-a.akamaihd.net/0debf5648e584e5fb795c3611c5c0252/eu-central-1/6057955906001/playlist.m3u8
+#EXTINF:0,Rotana FM KSA (720p)
+#EXTGRP:IRAQ
+rtmp://live.restream.io/pull/play_320121_94512612fd0e084bd284
+#EXTINF:0,Rotana Radio Jordan Studio (1080p) [Not 24/7]
+#EXTGRP:IRAQ
+http://45.63.116.205/hls/stream1.m3u8
+#EXTINF:0,Rotana Tarab Jordan City View (720p) [Not 24/7]
+#EXTGRP:IRAQ
+http://45.63.116.205/hls3/stream1.m3u8
+#EXTINF:0,Roya Comedy (1080p)
+#EXTGRP:IRAQ
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-comedy/playlist.m3u8
+#EXTINF:0,Roya Drama (1080p)
+#EXTGRP:IRAQ
+https://playlist.fasttvcdn.com/pl/a2le4pbpa6rpzv147haf4w/drama/playlist.m3u8
+#EXTINF:0,Roya Kids Originals (1080p)
+#EXTGRP:IRAQ
+https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids-originals/playlist.m3u8
+#EXTINF:0,Roya Kitchen (1080p)
+#EXTGRP:IRAQ
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-kitchen/playlist.m3u8
+#EXTINF:0,Roya TV (1080p)
+#EXTGRP:IRAQ
+https://roya.daioncdn.net/royatv/royatv.m3u8?app=8c1e143a-39cf-40b4-acb2-e78faa1f322d
+#EXTINF:0,RT Arabic (1080p) [Geo-blocked]
+#EXTGRP:IRAQ
+https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
+#EXTINF:0,Sada-E-Haq TV (720p)
+#EXTGRP:IRAQ
+https://live.relentlessinnovations.net:1936/sadaehaq/sadaehaq/playlist.m3u8
+#EXTINF:0,Safeer TV (1080p)
+#EXTGRP:IRAQ
+https://cdn3.wowza.com/1/YStGZlJRdktzZkdK/VXROZWNW/hls/live/playlist.m3u8
+#EXTINF:0,Sahara 24 (720p)
+#EXTGRP:IRAQ
+https://live.saharamedias.net/sahara24-live/index.m3u8
+#EXTINF:0,Salam TV (1080p)
+#EXTGRP:IRAQ
+https://amsart-live.ercdn.net/salamtv/salamtv.m3u8
+#EXTINF:0,Sama Dubai (1080p)
+#EXTGRP:IRAQ
+https://dmieigthvllta.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/chunklist.m3u8
+#EXTINF:0,Sat 7 Arabic (240p)
+#EXTGRP:IRAQ
+https://svs.itworkscdn.net/sat7arabiclive/sat7arabic.smil/playlist_dvr.m3u8
+#EXTINF:0,Sat 7 Kids (1080p)
+#EXTGRP:IRAQ
+https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8
+#EXTINF:0,Saudi Thaqafiya TV (1080p)
+#EXTGRP:IRAQ
+https://thaqafeyyah-ak.akamaized.net/out/v1/f6851f68ada94f82ae6b64a441eb5ab1/index.m3u8
+#EXTINF:0,Saudia Radio (1080p)
+#EXTGRP:IRAQ
+https://live.kwikmotion.com/sbrksasaudiaradiolive/srpksasaudiaradio/playlist.m3u8
+#EXTINF:0,SBC (1080p) [Not 24/7]
+#EXTGRP:IRAQ
+https://sbc-prod-dub-ak.akamaized.net/out/v1/2eb1ad0f29984a339bc0fce4ce94dcbb/index.m3u8
+#EXTINF:0,Senses TV (1080p)
+#EXTGRP:IRAQ
+https://sensestv.com:4433/hls/sensesonline/index.m3u8
+#EXTINF:0,Shabab FM (720p) [Not 24/7]
+#EXTGRP:IRAQ
+https://streaming.zaytonatube.com:8081/ShababFM/shabab/index.m3u8
+#EXTINF:0,Sharjah 2 (1080p)
+#EXTGRP:IRAQ
+https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8
+#EXTINF:0,Sharjah Radio (1080p)
+#EXTGRP:IRAQ
+https://svs.itworkscdn.net/smcradiolive/smcradiolive/playlist.m3u8
+#EXTINF:0,Sharjah Radio Quran (1080p)
+#EXTGRP:IRAQ
+https://live.kwikmotion.com/smcquranlive/quranradiolive/playlist.m3u8
+#EXTINF:0,Sharjah Sports TV (1080p)
+#EXTGRP:IRAQ
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+#EXTINF:0,Sharjah TV (1080p)
+#EXTGRP:IRAQ
+https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
+#EXTINF:0,Sky News Arabia (1080p) [Not 24/7]
+#EXTGRP:IRAQ
+https://stream.skynewsarabia.com/ott/ott.m3u8
+#EXTINF:0,Sky News Arabia (Portrait) (1280p) [Not 24/7]
+#EXTGRP:IRAQ
+https://stream.skynewsarabia.com/vertical/vertical.m3u8
+#EXTINF:0,Spacetoon (1080p)
+#EXTGRP:IRAQ
+https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
+#EXTINF:0,SPI LEBANON
+#EXTGRP:IRAQ
+http://stream.spilebanon.com:1935/spi/myStream/playlist.m3u8
+#EXTINF:0,SSC Action Waleed (1080p) [Not 24/7]
+#EXTGRP:IRAQ
+https://shls-live-event2-prod-dub.shahid.net/out/v1/0456ede1a39145d98b3d8c8062ddc998/index.m3u8
+#EXTINF:0,Suboro TV (1080p)
+#EXTGRP:IRAQ
+https://suborotv.hibridcdn.net/suborotv/suborotv_abr/playlist.m3u8
+#EXTINF:0,Sudan TV (480p)
+#EXTGRP:IRAQ
+https://tgn.bozztv.com/trn03/gin-sudantv/index.m3u8
+#EXTINF:0,Syria TV (1080p)
+#EXTGRP:IRAQ
+https://live.kwikmotion.com/syriatvlive/syriatv.smil/playlist_dvr.m3u8
+#EXTINF:0,Takbeer TV (1080p)
+#EXTGRP:IRAQ
+https://ap02.iqplay.tv:8082/iqb8002/t5kb86/playlist.m3u8
+#EXTINF:0,Tamazight (360p)
+#EXTGRP:IRAQ
+https://cdn-globecast.akamaized.net/live/eds/tamazight_tv8_snrt/hls_snrt/index.m3u8
+#EXTINF:0,Tanasuh TV (1080p)
+#EXTGRP:IRAQ
+https://tip.stream.tanasuh.tv:4434/live/smil:tanasuhtv.smil/playlist.m3u8
+#EXTINF:0,Tarab (1080p)
+#EXTGRP:IRAQ
+https://shls-live-enc.edgenextcdn.net/out/v1/90143f040feb40589d18c57863d9e829/index.m3u8
+#EXTINF:0,Tele Liban (720p) [Not 24/7]
+#EXTGRP:IRAQ
+https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8
+#EXTINF:0,Tele Tchad (1080p)
+#EXTGRP:IRAQ
+https://strhlslb01.streamakaci.tv/str_tchad_tchad/str_tchad_multi/playlist.m3u8
+#EXTINF:0,The Kingdom Sat (720p)
+#EXTGRP:IRAQ
+https://bcovlive-a.akamaihd.net/0e524e1838ed411dad0a674d18e07914/eu-central-1/6415808954001/playlist_dvr.m3u8
+#EXTINF:0,Thikrayat TV (1080p)
+#EXTGRP:IRAQ
+https://al-ekhbaria-prod-dub.shahid.net/out/v1/ef87956651694f4ba2ccc16e852dbb95/index.m3u8
+#EXTINF:0,TRT Arabi (1080p)
+#EXTGRP:IRAQ
+http://185.234.111.229:8000/play/a002
+#EXTINF:0,Turksat Tanitim
+#EXTGRP:IRAQ
+http://185.234.111.229:8000/play/a01d
+#EXTINF:0,TV2 (480p)
+#EXTGRP:IRAQ
+https://tgn.bozztv.com/dvrfl05/gin-canalalgerie/tracks-v1a1/mono.m3u8
+#EXTINF:0,TV6 (1080p)
+#EXTGRP:IRAQ
+https://tgn.bozztv.com/dvrfl05/ga-algeria6/index.m3u8
+#EXTINF:0,UTV (1080p)
+#EXTGRP:IRAQ
+https://mn-nl.mncdn.com/utviraqi2/64c80359/index.m3u8
+#EXTINF:0,Voice of Lebanon (1080p)
+#EXTGRP:IRAQ
+https://svs.itworkscdn.net/vdltvlive/vdltv.smil/playlist.m3u8
+#EXTINF:0,Wanasah (1080p)
+#EXTGRP:IRAQ
+https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
+#EXTINF:0,Wasat TV (1080p)
+#EXTGRP:IRAQ
+https://alwasattv.hibridcdn.net/alwasattv/alwasat_abr/playlist.m3u8
+#EXTINF:0,Watan TV (1080p)
+#EXTGRP:IRAQ
+https://rp.tactivemedia.com/watantv_source/live/playlist.m3u8
+#EXTINF:0,Watar Radio (1080p)
+#EXTGRP:IRAQ
+https://svs.itworkscdn.net/smcwatarlive/smcwatar/playlist.m3u8
+#EXTINF:0,Watar TV (720p) [Not 24/7]
+#EXTGRP:IRAQ
+http://htvint.mada.ps:8889/orient/index.m3u8
+#EXTINF:0,Weyyak Action (1080p) [Geo-blocked]
+#EXTGRP:IRAQ
+https://weyyak-live.akamaized.net/weyyak_action/index.m3u8
+#EXTINF:0,Weyyak Drama (720p) [Geo-blocked]
+#EXTGRP:IRAQ
+https://weyyak-live.akamaized.net/weyyak_drama/index.m3u8
+#EXTINF:0,Weyyak Mix (720p) [Geo-blocked]
+#EXTGRP:IRAQ
+https://weyyak-live.akamaized.net/weyyak_mix/index.m3u8
+#EXTINF:0,Weyyak Nawaem (720p) [Geo-blocked]
+#EXTGRP:IRAQ
+https://weyyak-live.akamaized.net/weyyak_nawaem/index.m3u8
+#EXTINF:0,Yas TV (1080p)
+#EXTGRP:IRAQ
+https://vo-live.cdb.cdn.orange.com/Content/Channel/YASSportsChannel/HLS/index.m3u8
+#EXTINF:0,Yemen Shabab Channel (1080p)
+#EXTGRP:IRAQ
+https://starmenajo.com/hls/yemenshabab/index.m3u8
+#EXTINF:0,Yemen Today TV (480p)
+#EXTGRP:IRAQ
+https://video.yementdy.tv/hls/yementoday.m3u8
+#EXTINF:0,Zagros (720p) [Not 24/7]
+#EXTGRP:IRAQ
+https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
+#EXTINF:0,الفاتحة
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/001.mp3
+#EXTINF:0,البقرة
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/002.mp3
+#EXTINF:0,ال عمران
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/003.mp3
+#EXTINF:0,النساء
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/004.mp3
+#EXTINF:0,المائدة
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/005.mp3
+#EXTINF:0,الأنعام
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/006.mp3
+#EXTINF:0,الأعراف
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/007.mp3
+#EXTINF:0,الأنفال
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/008.mp3
+#EXTINF:0,التوبة
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/009.mp3
+#EXTINF:0,يونس
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/010.mp3
+#EXTINF:0,هود
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/011.mp3
+#EXTINF:0,يوسف
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/012.mp3
+#EXTINF:0,الرعد
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/013.mp3
+#EXTINF:0,إبراهيم
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/014.mp3
+#EXTINF:0,الحجر
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/015.mp3
+#EXTINF:0,النحل
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/016.mp3
+#EXTINF:0,الإسراء
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/017.mp3
+#EXTINF:0,الكهف
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/018.mp3
+#EXTINF:0,مريم
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/019.mp3
+#EXTINF:0,طه
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/020.mp3
+#EXTINF:0,الأنبياء
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/021.mp3
+#EXTINF:0,الحج
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/022.mp3
+#EXTINF:0,المؤمنون
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/023.mp3
+#EXTINF:0,النور
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/024.mp3
+#EXTINF:0,الفرقان
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/025.mp3
+#EXTINF:0,الشعراء
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/026.mp3
+#EXTINF:0,النمل
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/027.mp3
+#EXTINF:0,القصص
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/028.mp3
+#EXTINF:0,العنكبوت
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/029.mp3
+#EXTINF:0,الروم
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/030.mp3
+#EXTINF:0,لقمان
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/031.mp3
+#EXTINF:0,السجدة
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/032.mp3
+#EXTINF:0,الأحزاب
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/033.mp3
+#EXTINF:0,سبأ
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/034.mp3
+#EXTINF:0,فاطر
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/035.mp3
+#EXTINF:0,يس
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/036.mp3
+#EXTINF:0,الصافات
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/037.mp3
+#EXTINF:0,ص
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/038.mp3
+#EXTINF:0,الزمر
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/039.mp3
+#EXTINF:0,غافر
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/040.mp3
+#EXTINF:0,فصلت
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/041.mp3
+#EXTINF:0,الشورى
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/042.mp3
+#EXTINF:0,الزخرف
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/043.mp3
+#EXTINF:0,الدخان
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/044.mp3
+#EXTINF:0,الجاثية
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/045.mp3
+#EXTINF:0,الأحقاف
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/046.mp3
+#EXTINF:0,محمد
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/047.mp3
+#EXTINF:0,الفتح
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/048.mp3
+#EXTINF:0,الحجرات
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/049.mp3
+#EXTINF:0,ق
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/050.mp3
+#EXTINF:0,الذاريات
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/051.mp3
+#EXTINF:0,الطور
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/052.mp3
+#EXTINF:0,النجم
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/053.mp3
+#EXTINF:0,القمر
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/054.mp3
+#EXTINF:0,الرحمن
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/055.mp3
+#EXTINF:0,الواقعة
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/056.mp3
+#EXTINF:0,الحديد
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/057.mp3
+#EXTINF:0,المجادلة
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/058.mp3
+#EXTINF:0,الحشر
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/059.mp3
+#EXTINF:0,الممتحنة
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/060.mp3
+#EXTINF:0,الصف
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/061.mp3
+#EXTINF:0,الجمعة
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/062.mp3
+#EXTINF:0,المنافقون
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/063.mp3
+#EXTINF:0,التغابن
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/064.mp3
+#EXTINF:0,الطلاق
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/065.mp3
+#EXTINF:0,التحريم
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/066.mp3
+#EXTINF:0,الملك
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/067.mp3
+#EXTINF:0,القلم
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/068.mp3
+#EXTINF:0,الحاقة
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/069.mp3
+#EXTINF:0,المعارج
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/070.mp3
+#EXTINF:0,نوح
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/071.mp3
+#EXTINF:0,الجن
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/072.mp3
+#EXTINF:0,الزمل
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/073.mp3
+#EXTINF:0,المدثر
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/074.mp3
+#EXTINF:0,القيامة
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/075.mp3
+#EXTINF:0,الإنسان
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/076.mp3
+#EXTINF:0,المرسلات
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/077.mp3
+#EXTINF:0,النبأ
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/078.mp3
+#EXTINF:0,النازعات
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/079.mp3
+#EXTINF:0,عبسى
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/080.mp3
+#EXTINF:0,التكوير
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/081.mp3
+#EXTINF:0,الإنفطار
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/082.mp3
+#EXTINF:0,المطففين
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/083.mp3
+#EXTINF:0,الانشقاق
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/084.mp3
+#EXTINF:0,البروج
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/085.mp3
+#EXTINF:0,الطارق
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/086.mp3
+#EXTINF:0,الأعلى
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/087.mp3
+#EXTINF:0,الغاشية
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/088.mp3
+#EXTINF:0,الفجر
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/089.mp3
+#EXTINF:0,البلد
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/090.mp3
+#EXTINF:0,الشمس
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/091.mp3
+#EXTINF:0,الليل
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/092.mp3
+#EXTINF:0,الضحى
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/093.mp3
+#EXTINF:0,الشرح
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/094.mp3
+#EXTINF:0,التين
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/095.mp3
+#EXTINF:0,العلق
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/096.mp3
+#EXTINF:0,القدر
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/097.mp3
+#EXTINF:0,البينة
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/098.mp3
+#EXTINF:0,الزلزلة
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/099.mp3
+#EXTINF:0,العاديات
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/100.mp3
+#EXTINF:0,القارعة
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/101.mp3
+#EXTINF:0,التكاثر
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/102.mp3
+#EXTINF:0,العصر
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/103.mp3
+#EXTINF:0,الهمزة
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/104.mp3
+#EXTINF:0,الفيل
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/105.mp3
+#EXTINF:0,قريش
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/106.mp3
+#EXTINF:0,الماعون
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/107.mp3
+#EXTINF:0,الكوثر
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/108.mp3
+#EXTINF:0,الكافرون
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/109.mp3
+#EXTINF:0,النصر
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/110.mp3
+#EXTINF:0,المسد
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/111.mp3
+#EXTINF:0,الإخلاص
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/112.mp3
+#EXTINF:0,الفلق
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/113.mp3
+#EXTINF:0,الناس
+#EXTGRP:پێشەوا قادر
+https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/114.mp3
+#EXTINF:0,الفاتحة
+#EXTGRP:رعد الكردي
+http://server6.mp3quran.net/kurdi/001.mp3
+#EXTINF:0,البقرة
+#EXTGRP:رعد الكردي
+http://server6.mp3quran.net/kurdi/002.mp3
+#EXTINF:0,ال عمران
+#EXTGRP:رعد الكردي
+http://server6.mp3quran.net/kurdi/003.mp3
+#EXTINF:0,النساء
+#EXTGRP:رعد الكردي
+http://server6.mp3quran.net/kurdi/004.mp3
+#EXTINF:0,المائدة
+#EXTGRP:رعد الكردي
+http://server6.mp3quran.net/kurdi/005.mp3
+#EXTINF:0,الأنعام
+#EXTGRP:رعد الكردي
+http://server6.mp3quran.net/kurdi/006.mp3
+#EXTINF:0,الأعراف
+#EXTGRP:رعد الكردي
+http://server6.mp3quran.net/kurdi/007.mp3
+#EXTINF:0,الأنفال
+#EXTGRP:رعد الكردي
+http://server6.mp3quran.net/kurdi/008.mp3
+#EXTINF:0,التوبة
+#EXTGRP:رعد الكردي
+http://server6.mp3quran.net/kurdi/009.mp3
+#EXTINF:0,يونس
+#EXTGRP:رعد الكردي
+http://server6.mp3quran.net/kurdi/010.mp3
+#EXTINF:0,هود
+#EXTGRP:رعد الكردي
+http://server6.mp3quran.net/kurdi/011.mp3
+#EXTINF:0,يوسف
+#EXTGRP:رعد الكردي
+http://server6.mp3quran.net/kurdi/012.mp3
+#EXTINF:0,الرعد
+#EXTGRP:رعد الكردي
+http://server6.mp3quran.net/kurdi/013.mp3
+#EXTINF:0,إبراهيم
+#EXTGRP:رعد الكردي
+http://server6.mp3quran.net/kurdi/014.mp3
+#EXTINF:0,الحجر
+#EXTGRP:رعد الكردي
+http://server6.mp3quran.net/kurdi/015.mp3
+#EXTINF:0,النحل
+#EXTGRP:رعد الكردي
+http://server6.mp3quran.net/kurdi/016.mp3
+#EXTINF:0,الإسراء
+#EXTGRP:رعد الكردي
+http://server6.mp3quran.net/kurdi/017.mp3
+#EXTINF:0,الكهف
+#EXTGRP:رعد الكردي
+http://server6.mp3quran.net/kurdi/018.mp3
+#EXTINF:0,مريم
+#EXTGRP:رعد الكردي
+http://server6.mp3quran.net/kurdi/019.mp3
+#EXTINF:0,طه
+#EXTGRP:رعد الكردي
+http://server6.mp3quran.net/kurdi/020.mp3
+#EXTINF:0,الأنبياء
+#EXTGRP:رعد الكردي
+http://server6.mp3quran.net/kurdi/021.mp3
+#EXTINF:0,الحج
+#EXTGRP:رعد الكردي
+http://server6.mp3quran.net/kurdi/022.mp3
+#EXTINF:0,المؤمنون
+#EXTGRP:رعد الكردي
+http://server6.mp3quran.net/kurdi/023.mp3
+#EXTINF:0,النور
+#EXTGRP:رعد الكردي
+http://server6.mp3quran.net/kurdi/024.mp3
+#EXTINF:0,الفرقان
+#EXTGRP:رعد الكردي
+http://server6.mp3quran.net/kurdi/025.mp3
+#EXTINF:0,الشعراء
+#EXTGRP:رعد الكردي
+http://server6.mp3quran.net/kurdi/026.mp3
+#EXTINF:0,النمل
+#EXTGRP:رعد الكردي
+http://server6.mp3quran.net/kurdi/027.mp3
+#EXTINF:0,القصص
+#EXTGRP:رعد الكردي
+http://server6.mp3quran.net/kurdi/028.mp3
+#EXTINF:0,العنكبوت
+#EXTGRP:رعد الكردي
+http://server6.mp3quran.net/kurdi/029.mp3
+#EXTINF:0,الروم
+#EXTGRP:رعد الكردي
+http://server6.mp3quran.net/kurdi/030.mp3
+#EXTINF:0,لقمان
+#EXTGRP:رعد الكردي
+http://server6.mp3quran.net/kurdi/031.mp3
+#EXTINF:0,السجدة
+#EXTGRP:رعد الكردي
+http://server6.mp3quran.net/kurdi/032.mp3
+#EXTINF:0,الأحزاب
+#EXTGRP:رعد الكردي
+http://server6.mp3quran.net/kurdi/033.mp3
+#EXTINF:0,سبأ
+#EXTGRP:رعد الكردي
+http://server6.mp3quran.net/kurdi/034.mp3
+#EXTINF:0,فاطر
+#EXTGRP:رعد الكردي
+http://server6.mp3quran.net/kurdi/035.mp3
+#EXTINF:0,يس
+#EXTGRP:رعد الكردي
+http://server6.mp3quran.net/kurdi/036.mp3
+#EXTINF:0,الصافات
+#EXTGRP:رعد الكردي
+http://server6.mp3quran.net/kurdi/037.mp3
+#EXTINF:0,ص
+#EXTGRP:رعد الكردي
+http://server6.mp3quran.net/kurdi/038.mp3
+#EXTINF:0,الزمر
+#EXTGRP:رعد الكردي
+http://server6.mp3quran.net/kurdi/039.mp3
+#EXTINF:0,غافر
+#EXTGRP:رعد الكردي
+http://server6.mp3quran.net/kurdi/040.mp3
+#EXTINF:0,فصلت
+#EXTGRP:رعد الكردي
+http://server6.mp3quran.net/kurdi/041.mp3
+#EXTINF:0,الشورى
+#EXTGRP:رعد الكردي
+http://server6.mp3quran.net/kurdi/042.mp3
+#EXTINF:0,الزخرف
+#EXTGRP:رعد الكردي
+http://server6.mp3quran.net/kurdi/043.mp3
+#EXTINF:0,الدخان
+#EXTGRP:رعد الكردي
+http://server6.mp3quran.net/kurdi/044.mp3
+#EXTINF:0,الجاثية
+#EXTGRP:رعد الكردي
+http://server6.mp3quran.net/kurdi/045.mp3
+#EXTINF:0,الأحقاف
+#EXTGRP:رعد الكردي
+http://server6.mp3quran.net/kurdi/046.mp3
+#EXTINF:0,محمد
+#EXTGRP:رعد الكردي
+http://server6.mp3quran.net/kurdi/047.mp3
+#EXTINF:0,الفتح
+#EXTGRP:رعد الكردي
+http://server6.mp3quran.net/kurdi/048.mp3
+#EXTINF:0,الحجرات
+#EXTGRP:رعد الكردي
+http://server6.mp3quran.net/kurdi/049.mp3
+#EXTINF:0,ق
+#EXTGRP:رعد الكردي
+http://server6.mp3quran.net/kurdi/050.mp3
+#EXTINF:0,الذاريات
+#EXTGRP:رعد الكردي
+http://server6.mp3quran.net/kurdi/051.mp3
+#EXTINF:0,الطور
+#EXTGRP:رعد الكردي
+http://server6.mp3quran.net/kurdi/052.mp3
+#EXTINF:0,النجم
+#EXTGRP:رعد الكردي
+http://server6.mp3quran.net/kurdi/053.mp3
+#EXTINF:0,القمر
+#EXTGRP:رعد الكردي
+http://server6.mp3quran.net/kurdi/054.mp3
+#EXTINF:0,الزلزلة
+#EXTGRP:رعد الكردي
+http://server6.mp3quran.net/kurdi/099.mp3
+#EXTINF:0,العاديات
+#EXTGRP:رعد الكردي
+http://server6.mp3quran.net/kurdi/100.mp3
+#EXTINF:0,القارعة
+#EXTGRP:رعد الكردي
+http://server6.mp3quran.net/kurdi/101.mp3
+#EXTINF:0,التكاثر
+#EXTGRP:رعد الكردي
+http://server6.mp3quran.net/kurdi/102.mp3
+#EXTINF:0,العصر
+#EXTGRP:رعد الكردي
+http://server6.mp3quran.net/kurdi/103.mp3
+#EXTINF:0,الهمزة
+#EXTGRP:رعد الكردي
+http://server6.mp3quran.net/kurdi/104.mp3
+#EXTINF:0,الفيل
+#EXTGRP:رعد الكردي
+http://server6.mp3quran.net/kurdi/105.mp3
+#EXTINF:0,قريش
+#EXTGRP:رعد الكردي
+http://server6.mp3quran.net/kurdi/106.mp3
+#EXTINF:0,الماعون
+#EXTGRP:رعد الكردي
+http://server6.mp3quran.net/kurdi/107.mp3
+#EXTINF:0,الكوثر
+#EXTGRP:رعد الكردي
+http://server6.mp3quran.net/kurdi/108.mp3
+#EXTINF:0,الكافرون
+#EXTGRP:رعد الكردي
+http://server6.mp3quran.net/kurdi/109.mp3
+#EXTINF:0,النصر
+#EXTGRP:رعد الكردي
+http://server6.mp3quran.net/kurdi/110.mp3
+#EXTINF:0,المسد
+#EXTGRP:رعد الكردي
+http://server6.mp3quran.net/kurdi/111.mp3
+#EXTINF:0,الإخلاص
+#EXTGRP:رعد الكردي
+http://server6.mp3quran.net/kurdi/112.mp3
+#EXTINF:0,الفلق
+#EXTGRP:رعد الكردي
+http://server6.mp3quran.net/kurdi/113.mp3
+#EXTINF:0,الناس
+#EXTGRP:رعد الكردي
+http://server6.mp3quran.net/kurdi/114.mp3
