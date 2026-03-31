@@ -67,6 +67,12 @@ https://live.channel8.com/Channel8-Kurdish/index.m3u8
 https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD.m3u8
 #EXTINF:0 CUID="8519" tvg-name="KURDSAT NEWS" tvg-logo="https://i.postimg.cc/Qs6v4tt4/kurdstan.png" group-title="(B)  KURDISH ",KURDSAT NEWS
 https://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS.m3u8
+#EXTINF:0 CUID="8519" tvg-name="پەروەردەیی سلێمانی " tvg-logo="https://mixmedia.tv/wp-content/uploads/2022/08/parwerda.png" group-title="(B)  KURDISH ",پەروەردەیی سلێمانی
+http://109.71.252.138/Parwadratv/index.m3u8
+#EXTINF:0 CUID="8519" tvg-name="پەروەردەیی هەولێر" tvg-logo="https://mixmedia.tv/wp-content/uploads/2022/08/parwerda.png" group-title="(B)  KURDISH ",پەروەردەیی هەولێر
+http://109.71.252.138/parwdrdahawler/index.m3u8
+#EXTINF:0 CUID="8519" tvg-name="پەروەردا دهوک " tvg-logo="https://mixmedia.tv/wp-content/uploads/2022/08/parwerda.png" group-title="(B)  KURDISH ",پەروەردا دهوک 
+http://109.71.252.138/parwadradohpktv/index.m3u8
 #EXTINF:0 CUID="8520" tvg-name="Soran Entertainment" tvg-logo="https://i.postimg.cc/Y9Tw96J5/Pics-Art-25-08-01-16-59-38-543.png" group-title="(B)  KURDISH ",Soran Entertainment
 http://avrstream.com:1935/live/SoranEntertainment/playlist.m3u8
 #EXTINF:0 CUID="8521" tvg-name="GALI KURDISTAN" tvg-logo="https://i.postimg.cc/SmhvBS3N/GK.png" group-title="(B)  KURDISH ",GALI KURDISTAN
