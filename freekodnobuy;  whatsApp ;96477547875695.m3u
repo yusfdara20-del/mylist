@@ -359,8 +359,18 @@ http://109.71.252.138/AsteraSport/video.m3u8?token=yusfstaore....iptvfreee
 http://109.71.252.138/Duhoksport/video.m3u8?token=yusfstaore....iptvfreee
 #EXTINF:-1 tvg-chno="792" tvg-id="" tvg-name="Zaxo Sport" tvg-logo="https://safiafamily.com/uploads/family/kurdish_sport/ZAXO_Sport.png" group-title="(B)  KURDISH Sports",Zaxo Sport
 http://109.71.252.138/zaxosport/video.m3u8?token=yusfstaore....iptvfreee
+#EXTINF:-1 tvg-chno="723" tvg-id="" tvg-name="AVA Sport hd" tvg-logo="https://safiafamily.com/uploads/family/kurdish_sport/AVA_Sport.png" group-title="(B)  KURDISH Sports",AVA Sport hd
+http://dksip.com:80/live/1037839/151599926553/330034.ts
+#EXTINF:-1 tvg-chno="726" tvg-id="" tvg-name="NRT Sport hd" tvg-logo="https://safiafamily.com/uploads/family/kurdish_sport/NRT_SPORT.png" group-title="(B)  KURDISH Sports",NRT Sport hd
+http://dksip.com:80/live/1037839/151599926553/168667.ts
+#EXTINF:-1 tvg-chno="726" tvg-id="" tvg-name="ASTERA SPORT1 hd" tvg-logo="https://i.postimg.cc/NYRPZWy8/ASTERA.png" group-title="(B)  KURDISH Sports",ASTERA SPORT1 hd
+http://dksip.com:80/live/1037839/151599926553/168663.ts
+#EXTINF:-1 tvg-chno="728" tvg-id="" tvg-name="Duhok Sport HD" tvg-logo="http://safiafamily.com/uploads/family/kurdish/Duhok_Sport_HD.png" group-title="(B)  KURDISH Sports",Duhok Sport HD
+http://dksip.com:80/live/1037839/151599926553/168665.ts
+#EXTINF:-1 tvg-chno="792" tvg-id="" tvg-name="Zaxo Sport hd" tvg-logo="https://safiafamily.com/uploads/family/kurdish_sport/ZAXO_Sport.png" group-title="(B)  KURDISH Sports",Zaxo Sport hd
+http://dksip.com:80/live/1037839/151599926553/388249.ts
 #EXTINF:-1 tvg-chno="792" tvg-id="" tvg-name="ld sport" tvg-logo="https://yt3.googleusercontent.com/IM2u90WWK9AQs71E0wqR71eSfn4cQt1eauVOYu1DQwUe9pg0iH-jaSMkmLrlYmMZ_GXOXZUybg=s900-c-k-c0x00ffffff-no-rj" group-title="(B)  KURDISH Sports",ld sport
-http://109.71.252.138/ldsport/video.m3u8?token=yusfstaore....iptvfreee
+http://dksip.com:80/live/1037839/151599926553/168666.ts
 #EXTM3U url-tvg="https://xtream-editor.com/load/epg/3VX069917A64305C4A5EA296F97550EE"
 #EXTINF:-1 tvg-chno="144" tvg-id="" tvg-name="Alwan Sport 1 4K" tvg-logo="https://safiafamily.com/uploads/family/alwan/Alwan_Ryazya_1.png" group-title="Alwan Network 4K",Alwan Sport 1 4K
 http://dksip.com:80/live/1037839/151599926553/514802.ts
