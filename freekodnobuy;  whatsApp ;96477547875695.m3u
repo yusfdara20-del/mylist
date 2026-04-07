@@ -350,9 +350,9 @@ http://51.89.152.180/live/BahraHD/chunks.m3u8
 #EXTINF:0 CUID="8650" tvg-name="PESHMARGA TV" tvg-logo="https://i.postimg.cc/81wsh67y/pe-1.png" group-title="(B)  KURDISH ",PESHMARGA TV
 http://142.132.133.190:1935/live/peshmerge/index.m3u8
 #EXTINF:-1 tvg-chno="723" tvg-id="" tvg-name="AVA Sport 4K" tvg-logo="https://safiafamily.com/uploads/family/kurdish_sport/AVA_Sport.png" group-title="(B)  KURDISH Sports",AVA Sport 4K
-http://109.71.252.138/avasport12/index.m3u8
+http://t1-localchannels.zinatv.app/ku/ava-sport-h265/mono.m3u8?md5=paikbdP9onaSVFdDEX82xQ&expires=1775671982&type=a1&info=30c635197677
 #EXTINF:-1 tvg-chno="726" tvg-id="" tvg-name="NRT Sport 4K" tvg-logo="https://safiafamily.com/uploads/family/kurdish_sport/NRT_SPORT.png" group-title="(B)  KURDISH Sports",NRT Sport 4K
-http://109.71.252.138/nrtsport1212/index.m3u8
+http://t1-localchannels.zinatv.app/ku/KURD-NRT-Sport/mono.m3u8?md5=ja1xZnMyr_HKPhJbdhfEyQ&expires=1775670172&type=a1&info=30c635197677
 #EXTINF:-1 tvg-chno="726" tvg-id="" tvg-name="ASTERA SPORT1" tvg-logo="https://i.postimg.cc/NYRPZWy8/ASTERA.png" group-title="(B)  KURDISH Sports",ASTERA SPORT1
 http://109.71.252.138/AsteraSport/video.m3u8?token=yusfstaore....iptvfreee
 #EXTINF:-1 tvg-chno="728" tvg-id="" tvg-name="Duhok Sport HD" tvg-logo="http://safiafamily.com/uploads/family/kurdish/Duhok_Sport_HD.png" group-title="(B)  KURDISH Sports",Duhok Sport HD
@@ -361,9 +361,9 @@ http://109.71.252.138/Duhoksport/video.m3u8?token=yusfstaore....iptvfreee
 http://109.71.252.138/zaxosport/video.m3u8?token=yusfstaore....iptvfreee
 #EXTM3U url-tvg="https://xtream-editor.com/load/epg/3VX069917A64305C4A5EA296F97550EE"
 #EXTINF:-1 tvg-chno="144" tvg-id="" tvg-name="Alwan Sport 1 4K" tvg-logo="https://safiafamily.com/uploads/family/alwan/Alwan_Ryazya_1.png" group-title="Alwan Network 4K",Alwan Sport 1 4K
-http://103.163.132.44:80/320067270087/153128989830/550424?token=yaccUcz.aXbcfc.X.dybXXa.ydzyfHzccz.X.y.IQ.ts.4ba96073326343807fdf46be7c73df236fe6281c32561dc10867eac61c6d8fc3...Ymx1ZTRrLm5ldDo4ODgw
+http://t1-ssn.zinatv.app/ar-s/bein-sp-1-H265-extended/mono.m3u8?md5=CLqImh_36zF8uLutZeM-sQ&expires=1775672009&type=a1&info=30c635197677
 #EXTINF:-1 tvg-chno="145" tvg-id="" tvg-name="Alwan Sport 2 4K" tvg-logo="https://safiafamily.com/uploads/family/alwan/Alwan_Ryazya_2.png" group-title="Alwan Network 4K",Alwan Sport 2 4K
-http://103.163.132.44:80/320067270087/153128989830/550425?token=yaccUcz.aXbcfc.X.dybXXa.ydzyfHzccz.X.y.IQ.ts.4ba96073326343807fdf46be7c73df236fe6281c32561dc10867eac61c6d8fc3...Ymx1ZTRrLm5ldDo4ODgw
+http://t1-ssn.zinatv.app/ar-s/bein-sp-2-H265-extended/mono.m3u8?md5=oqye8bE7w-XbjpFJgqqvbQ&expires=1775672011&type=a1&info=30c635197677
 #EXTINF:-1 tvg-chno="146" tvg-id="" tvg-name="Alwan Sport 3 4K" tvg-logo="https://safiafamily.com/uploads/family/alwan/Alwan_Ryazya_3.png" group-title="Alwan Network 4K",Alwan Sport 3 4K
 http://103.163.132.44:80/320067270087/153128989830/550426?token=yaccUcz.aXbcfc.X.dybXXa.ydzyfHzccz.X.y.IQ.ts.4ba96073326343807fdf46be7c73df236fe6281c32561dc10867eac61c6d8fc3...Ymx1ZTRrLm5ldDo4ODgw
 #EXTINF:-1 tvg-chno="147" tvg-id="" tvg-name="Alwan Sport 4 4K" tvg-logo="https://safiafamily.com/uploads/family/alwan/Alwan_Ryazya_4.png" group-title="Alwan Network 4K",Alwan Sport 4 4K
