@@ -92,9 +92,9 @@ http://ravandtv.badinan.xyz:1935/live/RAVAND-HD/HawezHD.m3u8
 #EXTINF:0 CUID="8529" tvg-name="LIKE MOVIES HD" tvg-logo="https://i.postimg.cc/L4N2GGFG/Pics-Art-02-11-02-22-19.png" group-title="(B)  KURDISH ",LIKE MOVIES HD
 http://blue4k.net:8880//884647623798/WaxzPSSzyY/567207
 #EXTINF:0 CUID="8530" tvg-name="NEW LINE 1" tvg-logo="https://i.postimg.cc/RChphrjs/new1.png" group-title="(B)  KURDISH ",NEW LINE 1
-http://109.71.252.138/Newline1/video.m3u8?token=yusfstaore@asdasdfadaaafffs
+http://109.71.252.138/Newline1/index.m3u8
 #EXTINF:0 CUID="8531" tvg-name="NEW LINE 2" tvg-logo="https://i.postimg.cc/pWq1PV15/new2.png" group-title="(B)  KURDISH ",NEW LINE 2
-http://109.71.252.138/Newline2/video.m3u8?token=yusfstaore@asdasdfadaaafffs
+http://109.71.252.138/Newline2/index.m3u8
 #EXTINF:0 CUID="8530" tvg-name="Newline Movies" tvg-logo="https://i.postimg.cc/xfcFTVrs/MOVIE.png" group-title="(B)  KURDISH ",Newline Movies
 http://109.71.252.138/Newlinemovies/video.m3u8?token=yusfstaore@asdasdfadaaafffs
 #EXTINF:0 CUID="8531" tvg-name="Newline Drama" tvg-logo="https://i.postimg.cc/Jm475Wtd/newdrama.png" group-title="(B)  KURDISH ",Newline Drama
